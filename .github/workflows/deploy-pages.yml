@@ -4,6 +4,12 @@ on:
   push:
     branches: [master]
   workflow_dispatch:
+  # Data refreshes commit with GITHUB_TOKEN, which never triggers a push event,
+  # so redeploy whenever one of them finishes on master.
+  workflow_run:
+    workflows: ["Investopedia Express data pipeline", "Investopedia Express transcripts"]
+    types: [completed]
+    branches: [master]
 
 permissions:
   contents: read
@@ -16,6 +22,7 @@ concurrency:
 
 jobs:
   deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
