@@ -1,0 +1,124 @@
+
+=== stage: fetch_feed ===
+Fetched 317 episodes (2020-08-26 → 2026-09-08); 0 carry a transcript tag
+=== fetch_feed: ok in 0.7s
+
+=== stage: fetch_transcripts ===
+transcripts on disk: 317
+=== fetch_transcripts: ok in 0.0s
+
+=== stage: extract ===
+episodes: 317 with transcript: 317 with mentions: 314 companies: 417 mentions: 4812
+top: AAPL=176, AMZN=159, GOOGL=141, MSFT=139, NVDA=134, TSLA=130, META=128, JPM=84, GS=82, CME=70, NFLX=65, BAC=63, BRK-B=62, WMT=54, BLK=50, GME=49, SCHW=48, CMCSA=44, NWSA=43, AMD=43, KO=42, INTC=40, DIS=40, FDS=39, AMC=38
+=== extract: ok in 6.4s
+
+=== stage: fetch_prices ===
+$ATVI: possibly delisted; no timezone found
+
+1 Failed download:
+['ATVI']: possibly delisted; no timezone found
+$DIDI: possibly delisted; no timezone found
+$CMA: possibly delisted; no timezone found
+$CS: possibly delisted; no timezone found
+
+3 Failed downloads:
+['DIDI', 'CMA', 'CS']: possibly delisted; no timezone found
+$FSR: possibly delisted; no timezone found
+$FRC: possibly delisted; no timezone found
+$FL: possibly delisted; no timezone found
+
+3 Failed downloads:
+['FSR', 'FRC', 'FL']: possibly delisted; no timezone found
+$JNPR: possibly delisted; no timezone found
+$K: possibly delisted; no timezone found
+$JWN: possibly delisted; no timezone found
+
+3 Failed downloads:
+['JNPR', 'K', 'JWN']: possibly delisted; no timezone found
+$MRO: possibly delisted; no timezone found
+$PACW: possibly delisted; no timezone found
+$NKLA: possibly delisted; no timezone found
+
+3 Failed downloads:
+['MRO', 'PACW', 'NKLA']: possibly delisted; no timezone found
+$RDFN: possibly delisted; no timezone found
+$RIDE: possibly delisted; no timezone found
+
+2 Failed downloads:
+['RDFN', 'RIDE']: possibly delisted; no timezone found
+$SIVB: possibly delisted; no timezone found
+
+1 Failed download:
+['SIVB']: possibly delisted; no timezone found
+$VSCO: possibly delisted; no timezone found
+$WBA: possibly delisted; no timezone found
+$TWTR: possibly delisted; no timezone found
+
+3 Failed downloads:
+['VSCO', 'WBA', 'TWTR']: possibly delisted; no timezone found
+$WE: possibly delisted; no timezone found
+$X: possibly delisted; no timezone found
+
+2 Failed downloads:
+['WE', 'X']: possibly delisted; no timezone found
+$ATVI: possibly delisted; no timezone found
+$ATVI: possibly delisted; no timezone found
+$CMA: possibly delisted; no timezone found
+$CMA: possibly delisted; no timezone found
+$CS: possibly delisted; no timezone found
+$CS: possibly delisted; no timezone found
+$DIDI: possibly delisted; no timezone found
+$DIDI: possibly delisted; no timezone found
+$FL: possibly delisted; no timezone found
+$FL: possibly delisted; no timezone found
+$FRC: possibly delisted; no timezone found
+$FRC: possibly delisted; no timezone found
+$FSR: possibly delisted; no timezone found
+$FSR: possibly delisted; no timezone found
+$JNPR: possibly delisted; no timezone found
+$JNPR: possibly delisted; no timezone found
+$JWN: possibly delisted; no timezone found
+$JWN: possibly delisted; no timezone found
+$K: possibly delisted; no timezone found
+$K: possibly delisted; no timezone found
+$MRO: possibly delisted; no timezone found
+$MRO: possibly delisted; no timezone found
+$NKLA: possibly delisted; no timezone found
+$NKLA: possibly delisted; no timezone found
+$PACW: possibly delisted; no timezone found
+$PACW: possibly delisted; no timezone found
+$RDFN: possibly delisted; no timezone found
+$RDFN: possibly delisted; no timezone found
+$RIDE: possibly delisted; no timezone found
+$RIDE: possibly delisted; no timezone found
+$SIVB: possibly delisted; no timezone found
+$SIVB: possibly delisted; no timezone found
+$TWTR: possibly delisted; no timezone found
+$TWTR: possibly delisted; no timezone found
+$VSCO: possibly delisted; no timezone found
+$VSCO: possibly delisted; no timezone found
+$WBA: possibly delisted; no timezone found
+$WBA: possibly delisted; no timezone found
+$WE: possibly delisted; no timezone found
+$WE: possibly delisted; no timezone found
+$X: possibly delisted; no timezone found
+$X: possibly delisted; no timezone found
+Fetching prices for 419 symbols since 2020-06-01
+prices: yahoo=398 stooq=0 missing=21 ['ATVI', 'CMA', 'CS', 'DIDI', 'FL', 'FRC', 'FSR', 'JNPR', 'JWN', 'K', 'MRO', 'NKLA', 'PACW', 'RDFN', 'RIDE', 'SIVB', 'TWTR', 'VSCO', 'WBA', 'WE', 'X']
+=== fetch_prices: ok in 163.3s
+
+=== stage: fetch_logos ===
+logos: colour 383 mono 378 of 418
+=== fetch_logos: ok in 89.8s
+
+=== stage: build_index ===
+app.json: 317 episodes, 417 companies, 2 benchmarks
+=== build_index: ok in 1.5s
+
+Summary:
+  fetch_feed         ok
+  fetch_transcripts  ok
+  extract            ok
+  fetch_prices       ok
+  fetch_logos        ok
+  build_index        ok

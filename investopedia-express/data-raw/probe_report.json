@@ -1,0 +1,541 @@
+{
+ "pages": [
+  {
+   "url": "https://rephonic.com/podcasts/the-investopedia-express",
+   "final_url": "https://rephonic.com/podcasts/the-investopedia-express",
+   "status": 200,
+   "length": 205511,
+   "transcript_word_count": 3,
+   "transcript_context": "this information to decide if a show is worth pitching or not.</p></div><div class=\"Questions__Item-sc-v35hjq-3 iPqrkY\"><h3 class=\"Questions__Title-sc-v35hjq-2 crjEEl\">How do I access podcast episode transcripts for this podcast?</h3><p>Rephonic provides full transcripts for episodes of <!-- -->this podcast<!-- -->. Search within each transcript for your keywords, whether they be topics, brands or people, and figure out if it&#x27;s worth pitching as a guest or sponsor. You can even set-up alert",
+   "text_length": 76641,
+   "links": [
+    "https://rephonic.com/podcasts/the-investopedia-express",
+    "https://img.rephonic.com/artwork/the-investopedia-express.jpg?width=600&amp;height=600&amp;quality=95",
+    "/search/publishers/Investopedia",
+    "/podcasts/the-investopedia-express#reviews",
+    "https://feeds.megaphone.fm/investopediaexpress",
+    "/podcasts/the-investopedia-express#guests",
+    "/podcasts/the-investopedia-express#hosts",
+    "/podcasts/the-investopedia-express#charts",
+    "/podcasts/the-investopedia-express#talking-points",
+    "/episodes/a7xye-the-investopedia-express-with-caleb-silver-t",
+    "/episodes/mfg6d-the-investopedia-express-with-caleb-silver-t",
+    "/episodes/u9qmz-the-investopedia-express-with-caleb-silver-w",
+    "/episodes/f5my2-the-investopedia-express-with-caleb-silver-i",
+    "/episodes/5zz1m-the-investopedia-express-with-caleb-silver-t",
+    "/episodes/okpd8-the-investopedia-express-with-caleb-silver-g",
+    "/episodes/9bc59-the-investopedia-express-with-caleb-silver-t",
+    "/episodes/t0em7-the-investopedia-express-with-caleb-silver-c",
+    "https://rephonic.com/podcasts/the-investopedia-express#podcast",
+    "https://img.rephonic.com/artwork/the-investopedia-express.jpg?width=600&height=600&quality=95",
+    "https://Investopedia.com/podcast",
+    "https://img.rephonic.com/artwork/the-investopedia-express.jpg?width=600\\u0026height=600\\u0026quality=95",
+    "https://img.rephonic.com/artwork/the-investopedia-express.jpg?width=70\\u0026height=70\\u0026quality=95"
+   ],
+   "file": "data-raw/probe/page00.html"
+  },
+  {
+   "url": "https://podscripts.co/search?q=investopedia+express",
+   "final_url": "https://podscripts.co/search?q=investopedia+express",
+   "status": 404,
+   "length": 224672,
+   "transcript_word_count": 17,
+   "transcript_context": "ing:30px 0 20px}.list-single-header-inside .list-single-header-item h2{font-size:16px;padding:25px 0 10px}.pod_timestamp_indicator{color:#656565;display:block;font-weight:600;padding:0 0 5px}.podcast-transcript .single-sentence{padding:0 0 20px;transition:all .5s}.podcast-transcript .single-sentence .pod_text{position:relative}.podcast-transcript .single-sentence .waldo-display-unit{padding-bottom:10px}.podcast-transcript .seek_pod_segment .pod-comment-area{position:relative;transition:all .5s e",
+   "text_length": 61236,
+   "links": [],
+   "file": "data-raw/probe/page02.html"
+  },
+  {
+   "url": "https://podcasts.musixmatch.com/search?q=investopedia%20express",
+   "final_url": "https://podcasts.musixmatch.com/search?q=investopedia%20express",
+   "status": 200,
+   "length": 24402,
+   "transcript_word_count": 5,
+   "transcript_context": "ebsite\" property=\"og:type\" data-next-head=\"\"/><meta content=\"summary\" name=\"twitter:card\" data-next-head=\"\"/><title data-next-head=\"\">Musixmatch Podcasts. Search through thousands of curated episodes transcriptions</title><meta content=\"Musixmatch Podcasts. Search through thousands of curated episodes transcriptions\" name=\"title\" data-next-head=\"\"/><meta content=\"Musixmatch Podcasts. Search through thousands of curated episodes transcriptions\" property=\"og:title\" data-next-head=\"\"/><meta content",
+   "text_length": 20019,
+   "links": [],
+   "file": "data-raw/probe/page03.html"
+  },
+  {
+   "url": "https://www.podchaser.com/podcasts/the-investopedia-express-with-1416947",
+   "final_url": "https://www.podchaser.com/podcasts/the-investopedia-express-with-1416947",
+   "status": 200,
+   "length": 328123,
+   "transcript_word_count": 0,
+   "transcript_context": null,
+   "text_length": 230614,
+   "links": [
+    "https://www.podchaser.com/podcasts/the-investopedia-express-with-1416947",
+    "/podcasts/the-investopedia-express-with-1416947",
+    "/podcasts/the-investopedia-express-with-1416947/insights",
+    "/podcasts/the-investopedia-express-with-1416947/episodes/recent",
+    "/podcasts/the-investopedia-express-with-1416947/similar",
+    "/podcasts/the-investopedia-express-with-1416947/lists",
+    "/podcasts/the-investopedia-express-with-1416947/episodes/what-might-topple-the-private-308376370",
+    "/podcasts/the-investopedia-express-with-1416947/insights#podcast-contacts",
+    "https://feeds.megaphone.fm/investopediaexpress"
+   ],
+   "file": "data-raw/probe/page04.html"
+  },
+  {
+   "url": "https://www.investopedia.com/podcast",
+   "final_url": "https://www.investopedia.com/podcast",
+   "status": null,
+   "length": 315,
+   "transcript_word_count": 0,
+   "transcript_context": null,
+   "text_length": 315,
+   "links": [],
+   "file": "data-raw/probe/page05.html"
+  },
+  {
+   "url": "https://www.investopedia.com/search?q=investopedia%20express",
+   "final_url": "https://www.investopedia.com/search?q=investopedia%20express",
+   "status": 200,
+   "length": 569806,
+   "transcript_word_count": 0,
+   "transcript_context": null,
+   "text_length": 426725,
+   "links": [
+    "https://www.investopedia.com/simulator/?inv_to_sim=global_nav",
+    "/authentication/login?regSource=aupcfo&relativeRedirectUrl=%2Fsearch%3Fq%3Dinvestopedia%2520express",
+    "https://www.investopedia.com/news-4427706",
+    "https://www.investopedia.com/markets-news-4427704",
+    "https://www.investopedia.com/company-news-4427705",
+    "https://www.investopedia.com/earnings-reports-5218419",
+    "https://www.investopedia.com/certificates-deposit-news-7111770",
+    "https://www.investopedia.com/mortgage-rates-5184598",
+    "https://www.investopedia.com/economic-news-5218422",
+    "https://www.investopedia.com/political-news-4689737",
+    "https://www.investopedia.com/cryptocurrency-news-5114163",
+    "https://www.investopedia.com/live-markets-news-11713202",
+    "https://www.investopedia.com/personal-finance-news-5114159",
+    "https://www.investopedia.com/investing-4427685",
+    "https://www.investopedia.com/stocks-4427785",
+    "https://www.investopedia.com/cryptocurrency-4427699",
+    "https://www.investopedia.com/bonds-4689778",
+    "https://www.investopedia.com/etfs-4427784",
+    "https://www.investopedia.com/options-and-derivatives-trading-4689663",
+    "https://www.investopedia.com/commodities-4427780",
+    "https://www.investopedia.com/trading-4427765",
+    "https://www.investopedia.com/financial-technology-and-automated-investing-4689759",
+    "https://www.investopedia.com/brokers-4689772",
+    "https://www.investopedia.com/fundamental-analysis-4689757",
+    "https://www.investopedia.com/simulator/portfolio",
+    "https://www.investopedia.com/simulator/trade/stocks",
+    "https://www.investopedia.com/simulator/research",
+    "https://www.investopedia.com/simulator/games/my-games",
+    "https://www.investopedia.com/simulator/games",
+    "https://www.investopedia.com/banking-4427754",
+    "https://www.investopedia.com/savings-accounts-4689728",
+    "https://www.investopedia.com/certificate-of-deposits-4689733",
+    "https://www.investopedia.com/money-market-account-4689730",
+    "https://www.investopedia.com/checking-accounts-4689732",
+    "https://www.investopedia.com/personal-finance-4427760",
+    "https://www.investopedia.com/homeownership-is-the-top-obstacle-to-the-american-dream-for-many-11797756",
+    "https://www.investopedia.com/retirement-planning-4689695",
+    "https://www.investopedia.com/student-loans-4689727",
+    "https://www.investopedia.com/personal-loans-4689729",
+    "https://www.investopedia.com/budgeting-and-savings-4427755",
+    "https://www.investopedia.com/mortgage-4689703",
+    "https://www.investopedia.com/credit-and-debt-4689724",
+    "https://www.investopedia.com/taxes-4427724",
+    "https://www.investopedia.com/insurance-4427716",
+    "https://www.investopedia.com/financial-literacy-resource-center-7151950",
+    "https://www.investopedia.com/economy-4689801",
+    "https://www.investopedia.com/government-and-policy-4689793",
+    "https://www.investopedia.com/monetary-policy-4689792",
+    "https://www.investopedia.com/fiscal-policy-4689796",
+    "https://www.investopedia.com/economics-4689800",
+    "https://www.investopedia.com/financial-product-reviews-7110783",
+    "https://www.investopedia.com/best-online-brokers-4587872",
+    "https://www.investopedia.com/best-crypto-exchanges-5071855",
+    "https://www.investopedia.com/high-yield-savings-accounts-4770633",
+    "https://www.investopedia.com/best-cd-rates-4770214",
+    "https://www.investopedia.com/the-best-life-insurance-companies-8763666",
+    "https://www.investopedia.com/mortgage-rates-5094943",
+    "https://www.investopedia.com/the-best-robo-advisors-8764849",
+    "https://www.investopedia.com/the-best-personal-loans-8761582",
+    "https://www.investopedia.com/the-best-debt-relief-companies-8763179"
+   ],
+   "file": "data-raw/probe/page06.html"
+  },
+  {
+   "url": "https://podcasts.apple.com/us/podcast/the-investopedia-express-with-caleb-silver/id1529322197",
+   "final_url": "https://podcasts.apple.com/us/podcast/the-investopedia-express-with-caleb-silver/id1529322197",
+   "status": 200,
+   "length": 535176,
+   "transcript_word_count": 0,
+   "transcript_context": null,
+   "text_length": 328365,
+   "links": [
+    "https://podcasts.apple.com/us/podcast/the-investopedia-express-with-caleb-silver/id1529322197",
+    "https://podcasts.apple.com/api/oembed?url=https%3A%2F%2Fpodcasts.apple.com%2Fus%2Fpodcast%2Fthe-investopedia-express-with-caleb-silver%2Fid1529322197",
+    "https://podcasts.apple.com/us/podcast/welcome-to-the-investopedia-express-with-caleb-silver/id1529322197?i=1000489215369",
+    "https://Investopedia.com/podcast",
+    "https://feeds.megaphone.fm/investopediaexpress"
+   ],
+   "file": "data-raw/probe/page07.html"
+  },
+  {
+   "url": "https://open.spotify.com/show/1TwnoxxgCIGK8mF7szI6j9",
+   "final_url": "https://open.spotify.com/show/1TwnoxxgCIGK8mF7szI6j9",
+   "status": 200,
+   "length": 162861,
+   "transcript_word_count": 0,
+   "transcript_context": null,
+   "text_length": 158503,
+   "links": [],
+   "file": "data-raw/probe/page08.html"
+  },
+  {
+   "url": "https://app.podscribe.ai/series?query=investopedia",
+   "final_url": "https://app.podscribe.com/series?query=investopedia",
+   "status": 200,
+   "length": 19102,
+   "transcript_word_count": 1,
+   "transcript_context": "-->\n    <meta name=\"google-site-verification\" content=\"xgBlG2zcOT228Q0zpIzK1wBpHKt70RhNBJYtOS_rWOo\" />\n\n    <meta name=\"theme-color\" content=\"#000000\" />\n    <meta name=\"description\" content=\"Podcast transcriptions, advertisers, and listener metrics - Podscribe\" />\n    <link rel=\"canonical\" href=\"https://app.podscribe.com\" />\n\n    <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\" />\n    <link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css?family=Roboto:300,400,500\" />\n    <link",
+   "text_length": 3340,
+   "links": [],
+   "file": "data-raw/probe/page09.html"
+  },
+  {
+   "url": "https://app.podscribe.ai/api/series/search?q=investopedia",
+   "final_url": "https://app.podscribe.com/api/series/search?q=investopedia",
+   "status": 404,
+   "length": 156,
+   "transcript_word_count": 0,
+   "transcript_context": null,
+   "text_length": 35,
+   "links": [],
+   "file": "data-raw/probe/page10.html"
+  },
+  {
+   "url": "https://steno.ai/search?q=investopedia%20express",
+   "final_url": "https://www.steno.ai/search?q=investopedia%20express",
+   "status": 404,
+   "length": 58436,
+   "transcript_word_count": 0,
+   "transcript_context": null,
+   "text_length": 19794,
+   "links": [],
+   "file": "data-raw/probe/page11.html"
+  },
+  {
+   "url": "https://www.listennotes.com/podcasts/the-investopedia-express-with-caleb-silver-R0tNVmrUcBC/",
+   "final_url": "https://www.listennotes.com/podcasts/the-investopedia-express-with-caleb-silver-R0tNVmrUcBC/",
+   "status": 403,
+   "length": 726501,
+   "transcript_word_count": 0,
+   "transcript_context": null,
+   "text_length": 424915,
+   "links": [],
+   "file": "data-raw/probe/page12.html"
+  },
+  {
+   "url": "https://podtail.com/en/podcast/the-investopedia-express/",
+   "final_url": "https://podtail.com/en/podcast/the-investopedia-express/",
+   "status": 200,
+   "length": 151309,
+   "transcript_word_count": 0,
+   "transcript_context": null,
+   "text_length": 22535,
+   "links": [
+    "https://podtail.com/podcast/the-investopedia-express/",
+    "https://podtail.se/podcast/the-investopedia-express/",
+    "https://podtail.com/en/podcast/the-investopedia-express/",
+    "https://podtail.com/no/podcast/the-investopedia-express/",
+    "https://podtail.com/fr/podcast/the-investopedia-express/",
+    "https://podtail.com/fi/podcast/the-investopedia-express/",
+    "https://podtail.com/es/podcast/the-investopedia-express/",
+    "https://podtail.com/de/podcast/the-investopedia-express/",
+    "https://podtail.com/da/podcast/the-investopedia-express/",
+    "https://podtail.com/pt-PT/podcast/the-investopedia-express/",
+    "https://podtail.com/pt-BR/podcast/the-investopedia-express/",
+    "https://podtail.com/ru/podcast/the-investopedia-express/",
+    "https://podtail.com/tr/podcast/the-investopedia-express/",
+    "https://podtail.com/ja/podcast/the-investopedia-express/",
+    "https://podtail.nl/podcast/the-investopedia-express/",
+    "https://podtail.com/it/podcast/the-investopedia-express/",
+    "/en/podcast/the-investopedia-express/",
+    "https://podcasts.apple.com/us/podcast/the-investopedia-express/id1529322197?uo=4&itsct=podtail_podcasts&itscg=30200&ls=1&at=1001l39ag&ct=podtail-profile",
+    "/en/podcast/the-investopedia-express/related/",
+    "/en/podcast/the-investopedia-express/subscribers/",
+    "https://Investopedia.com/podcast",
+    "/en/podcast/the-investopedia-express/why-credit-card-rewards-keep-shrinking/",
+    "https://podtail.com/en/podcast/the-investopedia-express/why-credit-card-rewards-keep-shrinking/",
+    "/en/podcast/the-investopedia-express/is-the-stock-market-too-big-to-fail/",
+    "https://podtail.com/en/podcast/the-investopedia-express/is-the-stock-market-too-big-to-fail/",
+    "/en/podcast/the-investopedia-express/breaking-investing-rules-with-the-ultimate-fool/",
+    "https://podtail.com/en/podcast/the-investopedia-express/breaking-investing-rules-with-the-ultimate-fool/",
+    "/en/podcast/the-investopedia-express/guacamole-money-and-markets/",
+    "https://podtail.com/en/podcast/the-investopedia-express/guacamole-money-and-markets/",
+    "/en/podcast/the-investopedia-express/bull-market-health-check/",
+    "https://podtail.com/en/podcast/the-investopedia-express/bull-market-health-check/",
+    "/en/podcast/the-investopedia-express/empire-of-trillions/",
+    "https://podtail.com/en/podcast/the-investopedia-express/empire-of-trillions/",
+    "/en/podcast/the-investopedia-express/the-harder-they-fall/",
+    "https://podtail.com/en/podcast/the-investopedia-express/the-harder-they-fall/",
+    "/en/podcast/the-investopedia-express/the-future-of-the-american-economy/",
+    "https://podtail.com/en/podcast/the-investopedia-express/the-future-of-the-american-economy/",
+    "/en/podcast/the-investopedia-express/the-risk-v-reward-paradox/",
+    "https://podtail.com/en/podcast/the-investopedia-express/the-risk-v-reward-paradox/",
+    "/en/podcast/the-investopedia-express/getting-future-rich-with-mrs-dow-jones/",
+    "https://podtail.com/en/podcast/the-investopedia-express/getting-future-rich-with-mrs-dow-jones/",
+    "/en/podcast/the-investopedia-express/the-convergence-of-public-and-private-markets/",
+    "https://podtail.com/en/podcast/the-investopedia-express/the-convergence-of-public-and-private-markets/",
+    "/en/podcast/the-investopedia-express/crypto-s-next-chapter/",
+    "https://podtail.com/en/podcast/the-investopedia-express/crypto-s-next-chapter/",
+    "/en/podcast/the-investopedia-express/apple-faces-the-ai-future/",
+    "https://podtail.com/en/podcast/the-investopedia-express/apple-faces-the-ai-future/",
+    "/en/podcast/the-investopedia-express/all-time-high-wire-act/",
+    "https://podtail.com/en/podcast/the-investopedia-express/all-time-high-wire-act/",
+    "/en/podcast/the-investopedia-express/the-rewiring-of-the-stock-market/",
+    "https://podtail.com/en/podcast/the-investopedia-express/the-rewiring-of-the-stock-market/",
+    "/en/podcast/the-investopedia-express/crude-outlook-for-the-future-of-oil/",
+    "https://podtail.com/en/podcast/the-investopedia-express/crude-outlook-for-the-future-of-oil/",
+    "/en/podcast/the-investopedia-express/stock-market-correction-therapy/",
+    "https://podtail.com/en/podcast/the-investopedia-express/stock-market-correction-therapy/",
+    "/en/podcast/the-investopedia-express/rising-oil-s-ripple-effects/",
+    "https://podtail.com/en/podcast/the-investopedia-express/rising-oil-s-ripple-effects/",
+    "/en/podcast/the-investopedia-express/behind-the-bitcoin-breakdown/",
+    "https://podtail.com/en/podcast/the-investopedia-express/behind-the-bitcoin-breakdown/",
+    "/en/podcast/the-investopedia-express/wealth-management-in-the-age-of-ai/"
+   ],
+   "file": "data-raw/probe/page13.html"
+  },
+  {
+   "url": "https://www.podbean.com/podcast-detail/fmryq-e2ce0/The-Investopedia-Express-with-Caleb-Silver-Podcast",
+   "final_url": "https://ms.podbean.com/podcast-detail/fmryq-e2ce0/The-Investopedia-Express-with-Caleb-Silver-Podcast",
+   "status": 403,
+   "length": 5955,
+   "transcript_word_count": 0,
+   "transcript_context": null,
+   "text_length": 4059,
+   "links": [],
+   "file": "data-raw/probe/page14.html"
+  }
+ ],
+ "sitemaps": {
+  "https://podscripts.co/sitemap.xml": {
+   "status": 404,
+   "matches": []
+  }
+ },
+ "youtube": {
+  "count": 30,
+  "items": [
+   {
+    "title": "The Real Reason Stocks Keep Going Up (ft. Caleb Silver from Investopedia)",
+    "duration": 1900,
+    "channel": "WOLF Financial",
+    "url": "https://www.youtube.com/watch?v=ACVAkZb6Qts",
+    "id": "ACVAkZb6Qts"
+   },
+   {
+    "title": "How to Express Yourself with Caleb Silver",
+    "duration": 1427,
+    "channel": "LifeBlood",
+    "url": "https://www.youtube.com/watch?v=mfiwZ9HKXqw",
+    "id": "mfiwZ9HKXqw"
+   },
+   {
+    "title": "goRIA with Caleb Silver, Investopedia",
+    "duration": 263,
+    "channel": "Sovereign Financial Group, Inc.",
+    "url": "https://www.youtube.com/watch?v=0vsZGBZ2LFE",
+    "id": "0vsZGBZ2LFE"
+   },
+   {
+    "title": "Maximizing Impact with Caleb Silver",
+    "duration": 1273,
+    "channel": "george grombacher",
+    "url": "https://www.youtube.com/watch?v=Z7EUJZlbMhc",
+    "id": "Z7EUJZlbMhc"
+   },
+   {
+    "title": "Caleb Silver | FPA #nexgen Guest | Investing, Marketing, Future of the Profession",
+    "duration": 1853,
+    "channel": "Colin Overweg",
+    "url": "https://www.youtube.com/watch?v=fXkv3ntbz_s",
+    "id": "fXkv3ntbz_s"
+   },
+   {
+    "title": "An Inside Look At Investopedia with Caleb Silver | The Long Term Investor",
+    "duration": 2085,
+    "channel": "Peter Lazaroff",
+    "url": "https://www.youtube.com/watch?v=O7crTvOaUmQ",
+    "id": "O7crTvOaUmQ"
+   },
+   {
+    "title": "Why Americans Are Losing Trust in the Stock Market w/ Caleb Silver",
+    "duration": 2208,
+    "channel": "Rich Habits Podcast",
+    "url": "https://www.youtube.com/watch?v=UyNRQLRMFtA",
+    "id": "UyNRQLRMFtA"
+   },
+   {
+    "title": "An Inside Look At Investopedia with Caleb Silver (EP.25)",
+    "duration": 2035,
+    "channel": "Peter Lazaroff",
+    "url": "https://www.youtube.com/watch?v=lrvtZ9FbrVE",
+    "id": "lrvtZ9FbrVE"
+   },
+   {
+    "title": "Caleb Silver - Investopedia",
+    "duration": 1964,
+    "channel": "Shares for Beginners Podcast",
+    "url": "https://www.youtube.com/watch?v=H8KugWp-Rs8",
+    "id": "H8KugWp-Rs8"
+   },
+   {
+    "title": "Dex McBean feature on Investopedia Express w/ Caleb Silver 100th Episode",
+    "duration": 129,
+    "channel": "Dex McBean",
+    "url": "https://www.youtube.com/watch?v=r0CCz9lvuok",
+    "id": "r0CCz9lvuok"
+   },
+   {
+    "title": "Caleb Silver - Investopedia",
+    "duration": 2065,
+    "channel": "Shares for Beginners Podcast",
+    "url": "https://www.youtube.com/watch?v=tDKa569_LM0",
+    "id": "tDKa569_LM0"
+   },
+   {
+    "title": "“That’s What the Money’s For”—The Truth About Wealth, According to Investopedia Editor in Chief",
+    "duration": 4838,
+    "channel": "Suite Success Podcast",
+    "url": "https://www.youtube.com/watch?v=JotexwVOXtw",
+    "id": "JotexwVOXtw"
+   },
+   {
+    "title": "Steve Eisman Breaks Down the Volatile New Economy | The Investopedia Express",
+    "duration": 1260,
+    "channel": "Investopedia",
+    "url": "https://www.youtube.com/watch?v=0XiQ8sklzZ4",
+    "id": "0XiQ8sklzZ4"
+   },
+   {
+    "title": "Wealthy Behavior Podcast: Get Smart, Stay Smart with Caleb Silver",
+    "duration": 1878,
+    "channel": "Heritage Financial",
+    "url": "https://www.youtube.com/watch?v=Fzvub6poHTY",
+    "id": "Fzvub6poHTY"
+   },
+   {
+    "title": "Ray Dalio’s Guide to All-Weather Investing in Uncertain Times | The Investopedia Express",
+    "duration": 2312,
+    "channel": "Investopedia",
+    "url": "https://www.youtube.com/watch?v=dJ7ro6bAW6M",
+    "id": "dJ7ro6bAW6M"
+   },
+   {
+    "title": "The Investopedia Express: What the Non-Consensus View is Telling us About Capital Markets Today",
+    "duration": 1348,
+    "channel": "Bianco Research",
+    "url": "https://www.youtube.com/watch?v=ZxqQJ9Gn4H0",
+    "id": "ZxqQJ9Gn4H0"
+   },
+   {
+    "title": "investopedia express podcast",
+    "duration": 198,
+    "channel": "My Makeup Reviews",
+    "url": "https://www.youtube.com/watch?v=q9kD9ILXcy4",
+    "id": "q9kD9ILXcy4"
+   },
+   {
+    "title": "David Booth Explains How Markets Really Work | The Investopedia Express",
+    "duration": 669,
+    "channel": "Investopedia",
+    "url": "https://www.youtube.com/watch?v=MYHFmw4Qm2o",
+    "id": "MYHFmw4Qm2o"
+   },
+   {
+    "title": "Investopedia: Ep 3 - Budgets & Payments Plans Basics Explained",
+    "duration": 917,
+    "channel": "Nik Wadhwa",
+    "url": "https://www.youtube.com/watch?v=De7WtgTUWQc",
+    "id": "De7WtgTUWQc"
+   },
+   {
+    "title": "Caleb Silver, Investopedia: O pasteh finančnih trgov",
+    "duration": 2770,
+    "channel": "Marja Milic",
+    "url": "https://www.youtube.com/watch?v=pVdpeDIGZZI",
+    "id": "pVdpeDIGZZI"
+   },
+   {
+    "title": "How to Invest for Retirement in an Uncertain Market",
+    "duration": 1041,
+    "channel": "Stay Wealthy Podcast",
+    "url": "https://www.youtube.com/watch?v=Nc-yQip4c0k",
+    "id": "Nc-yQip4c0k"
+   },
+   {
+    "title": "The Next Recession Will Be Caused by the Stock Market | The Compound and Friends #16",
+    "duration": 2411,
+    "channel": "The Compound",
+    "url": "https://www.youtube.com/watch?v=BXGrcdu7PUA",
+    "id": "BXGrcdu7PUA"
+   },
+   {
+    "title": "The Groundbreaking Journey of David Booth and Big Data in Investing",
+    "duration": 155,
+    "channel": "Big Data News Highlights",
+    "url": "https://www.youtube.com/watch?v=Gp9i40RZnZo",
+    "id": "Gp9i40RZnZo"
+   },
+   {
+    "title": "Anxiety Index: Investors Are The Most Bullish Right Now",
+    "duration": 543,
+    "channel": "Schwab Network",
+    "url": "https://www.youtube.com/watch?v=LCUjToZfGAI",
+    "id": "LCUjToZfGAI"
+   },
+   {
+    "title": "The Morning Show for October 15 - Featuring Caleb Silver",
+    "duration": 5017,
+    "channel": "StockMarketTV",
+    "url": "https://www.youtube.com/watch?v=J5TzxA3Zhr0",
+    "id": "J5TzxA3Zhr0"
+   },
+   {
+    "title": "Financial Lessons from History: Insights from Economic Crises",
+    "duration": 3428,
+    "channel": "Inspired Money",
+    "url": "https://www.youtube.com/watch?v=jpjUNjf3OkY",
+    "id": "jpjUNjf3OkY"
+   },
+   {
+    "title": "Watch This To Understand NFTs And Marketing",
+    "duration": 868,
+    "channel": "GaryVee",
+    "url": "https://www.youtube.com/watch?v=N2BuGDFZJmM",
+    "id": "N2BuGDFZJmM"
+   },
+   {
+    "title": "O pasteh finančnih trgov z urednikom Investopedie",
+    "duration": 2770,
+    "channel": "Marja Milic",
+    "url": "https://www.youtube.com/watch?v=YedaeXBHgDs",
+    "id": "YedaeXBHgDs"
+   },
+   {
+    "title": "Earnings still need to justify market uptick: Pro",
+    "duration": 303,
+    "channel": "CNBC Television",
+    "url": "https://www.youtube.com/watch?v=8cMrniteuXs",
+    "id": "8cMrniteuXs"
+   },
+   {
+    "title": "🚨Falling markets and the Fed's rate hike🚨 Bitcoin is on the verge of falling. Binans Work!",
+    "duration": 891,
+    "channel": "Andrey Dzyuba",
+    "url": "https://www.youtube.com/watch?v=NJYzHOBwWAk",
+    "id": "NJYzHOBwWAk"
+   }
+  ],
+  "stderr": ""
+ }
+}

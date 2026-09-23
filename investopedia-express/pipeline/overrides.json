@@ -1,0 +1,5 @@
+{
+  "_doc": "Manual fixes applied by extract.py. add: {episode id: [tickers]} forces a mention; drop: {episode id or \"*\": [tickers]} removes one.",
+  "add": {},
+  "drop": {"*": []}
+}

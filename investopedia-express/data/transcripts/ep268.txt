@@ -1,0 +1,800 @@
+On the Express this week, shake, rattle, and roll.
+Volatility is back just in time for October.
+The bull market celebrates a birthday.
+What's behind the debasement trade that everyone's talking about?
+Barry Ritholtz, the OG blog father,
+drops in for a few good minutes to talk about his book.
+Why we should care about the bankruptcy
+of an auto parts company, the Investopedia indicator,
+and what to watch this week.
+Microphone check 1-2, what is this?
+It's the Investopedia Express.
+and it's time for business.
+Welcome back and welcome aboard.
+Happy Monday.
+It is a holiday here in the US.
+It is Indigenous Peoples Day
+and Italian American Heritage Day,
+but the stock market is open
+and it is bouncing back after some tough losses last Friday.
+Boy, we haven't seen a screen of red like we did last Friday
+in a very long time.
+And for a minute there,
+it looked like things were starting to fall apart.
+It was the worst day last week to end the week
+since so-called liberation day on April 2nd on the heels of the president announcing new tariffs
+against China. 100% increase in tariffs above and beyond the 30% that are already in place wide.
+It's all about those rare earths. China not wanting or adding a tax onto those rare earth
+minerals and pretty much a lot of the other products they export to every single country.
+Import export taxes that it does business with. The president responding with 100% tariffs he said
+We're going to place on November 1st and that rattled the markets.
+You see there that sea of red.
+Wow, that really sent some of the biggest stocks out for a spin-off and it gave us a clear
+signal that for the moment there, for just a hot minute, risk was off.
+That's right.
+There goes your little Pac-Man there, but you know what?
+Stocks are bouncing back today because cooler heads have prevailed, at least for the moment,
+and that's sort of been the pattern with this tariff negotiations, the on-off.
+Is it going to happen?
+Is it not going to happen?
+Are we going to negotiate?
+At the end of the day, markets have trudged higher,
+but we did have a little volatility,
+and it's just in time for October.
+We saw some of the biggest stocks in the market
+take a big hit last week, especially the semiconductor stocks.
+They're right in the middle of this battle
+between rare earths coming out of China
+and semiconductor exports coming out of the US.
+China needs our semis.
+We need their rare earth materials,
+minerals to make those semiconductors,
+and that's where we are.
+But as Jimmy Cliff likes to say,
+the harder they come, the harder they fall.
+Big stocks taking big hits last week,
+week and the Nasdaq dropping 3.5% but bouncing back a little bit this week and you know when
+Jimmy Cliff is saying and he's talking about the biggest stocks in the market, the invidious of
+the world, the Microsoft's and the others that are right in the middle of the AI build out and the
+biggest stocks in the market that you all own and love the most according to our sentiment survey,
+those took a hit. But it did interrupt a 33-day streak of really low volatility in the stock
+market. I mean the volatility in the stock market has been gone for quite a while right now.
+We've been getting it with Liberation Day, but that was the first day in about 33 days where we've seen a 1% move
+Outside of the normal trading range of the S&P 500 tells you how quiet things have been 33 days in a row according to our buddies
+Ryan Carson and Sony of our Ryan Dietrich and so in this at Carson group there
+We hadn't had volatility and it's back. But is it back just in time for October?
+Is this just October being October? Is this just tariff turmoil? Hey, don't forget October has brought some historically
+scary days to the stock markets.
+The scariest day, scariest month in the stock market,
+and I'll take you back in history to the panic of 1907,
+back in October, 1907, huge run on the banks.
+Everybody was concerned that their money in the banks
+was not guaranteed, and it wasn't at that time,
+huge bank run, Dow Jones Industrial's wasn't that many
+stocks at the time, fell 50%, this led to the creation
+of the Federal Reserve in 1913,
+the Federal Reserve Act in 1914,
+but it also kicked off a couple of years
+of pretty intense selling pressure
+and a pretty rough time for the economy,
+but that was nothing compared to what happened in 1929.
+How about that?
+You had Black Monday, you had Black Tuesday,
+you had Black Thursday,
+you had pretty much several years of pain.
+After a huge collapse in margin debt,
+Dow Jones fell 25% in just a few days.
+Back then it was a very big deal, 1929.
+It fell 89% from 1929 to 1932
+and was part of a huge depression
+that lasted for the better part of a decade.
+So another scary event in the month of October.
+And then you got to go over to 1987,
+Monday, Black Monday, 1987.
+This was sort of the beginning of program trading.
+There was a lot of concerns about overvaluation
+and speculation and irrational exuberance in the market.
+Dow Jones fell 22.6% one day.
+Biggest one day decline
+for the Dow Jones Industrials in history until this day.
+And that prompted reforms in market circuit breakers.
+And now the market has certain circuit breakers
+If you go down to the stock exchange over the NASDAQ,
+when the market falls a certain percentage,
+they put in what they call circuit breakers,
+that trigger circuit breakers.
+It allows the flow of sell orders to come through, right?
+In an orderly basis, wasn't happening back then.
+We were just moving to decimalization,
+but that really caused some major reforms
+in the stock market.
+And now there's a little bit more control
+when we have a sell-off,
+but we haven't had one of those in a very long time,
+maybe since April, but still not of that magnitude.
+And we haven't seen circuit breakers
+really in the stock market, kind of since the pandemic,
+but October can be a pretty rough month.
+But hey, let's not talk about that.
+Let's talk about the bull market
+celebrating its third birthday on October 12th.
+Happy birthday.
+Three years, October 12th.
+That's when the market actually recovering
+from a 25% decline.
+And again, with our friends at Carson Research,
+who do such a great job with the charts here,
+bull markets that make it to their third birthday
+usually do pretty well after that.
+There's only been about six of them
+in the past 50 years that have made it that far,
+and they do pretty well.
+Let me give you some historical context
+from our good friend Sam Stovall over at CFRA Research.
+Since World War II, the April markets
+that reached the third birthday
+lasted nearly six and a half years on average,
+with 213% gains.
+Not saying it's gonna happen this time,
+but the current bull market is up 89%
+through its October 18th,
+and that's suggested maybe, maybe it has some room to grow.
+Now there are some headwinds, of course,
+and there always are headwinds.
+Volt, this is the highest 12 month PE ratio right now
+for the S&P 500 since World War II,
+according to Sam Stoffel.
+And plus we have elections coming to midterm elections.
+And those always give us a little rocky road
+in the market, so to speak.
+But usually after midterm elections, according to CFRA,
+market's pretty resilient, rises around 6.5%.
+Now don't go investing, I should say,
+around elections and midterm elections.
+Just know historically we get some volatility
+as we go into midterms and we'll probably get some volatility
+if this bull market goes on to its fourth birthday
+because there's so much going on out there in the world.
+But that is the historical context we are in.
+Happy birthday bull, happy third birthday.
+We hope you make it to four, five, six years old.
+All right, let's get some wisdom
+from the original blog father, a guy that I have learned
+and so many investors have learned so much from
+over the past few years.
+Let's bring in Barry Ritholz in the drop-in.
+Hey guys.
+I do the drop-in there are no skate parks near me so. Well that's a that's a tragedy we're gonna
+have to fix that we're gonna make the Rithold skate park one day out there on Long Island.
+Thanks so much for joining the express barrier again I've learned so much from you I consider
+you a friend and you've taught so many of us so much over the past few decades being the original
+blogger the original blog father who was out there with the big picture blog over I don't
+know 30 years ago one of the first people outside of business journalists like me and my friends
+to actually start writing about the markets and interpreting and welcome to the show, my friend.
+Well, thank you so much for having me, Caleb. I'm thrilled to be here.
+You are out with this terrific new book that I'm just taking apart, How Not to Invest. You don't
+see books with a title like this very often. You got this going, you got the Masters in Business,
+tremendous podcast on Bloomberg, the big picture still, you know, you've been putting some work
+into that. But why'd you write this terrific book? How Not to Invest? Why'd you title it
+this way. I really didn't want to write another book. I had people kind of saying, hey, it's
+been a couple of years since bailout nation. How about another book? And, and the honest
+answer was just simply, Hey, there have been tens of thousands of books telling people how to invest.
+And, uh, everybody is still a pretty mediocre investor. Why do we need yet another one?
+And over a holiday break, I started just putting things on ideas on all these three by five cards and posting them on my giant bulletin board.
+Normally, I'm very digital, but I don't know, it just felt like this was the thing to do manually.
+And it became pretty clear pretty soon,
+gee, I spend a lot of time debunking investing nonsense.
+Can we curse on the show?
+Debunking a lot of BS.
+And I started organizing them on the board
+and pretty soon it was clear,
+three broad categories of things that I do wrong
+and every other investor does wrong.
+And hey, maybe there is a lesson to be had
+instead of telling people what to do, tell them what not to do.
+Avoid the bad ideas, steer clear of the misleading numbers,
+and then most importantly of all,
+don't engage in the behaviors that destroy wealth.
+And so when I pitched the idea to the publisher that was kind
+of haranguing me to write another book,
+well first debunking investing bullshit didn't fly.
+They're like, oh no, no, they're proper British editors,
+so that was no good.
+the second idea, how not to invest. Hey, you know, it's kind of fundamental, don't use
+a negative in a title. And I'm like, why not? Well, people think it's bad. Well, it is
+bad. You want to avoid the bad. So we ended up with this title, I kind of came up with
+the idea for the cover by putting, tell you what, let's put how to invest in bright letters
+and kind of hide not in a different typeface off to the side, but have the same color for
+not be a stock line crashing. And they took that idea and turned it into this beautiful
+cover and I'm I couldn't be happier working with our house. They've been a blast.
+Yeah, they publish some great books, including our friends, Heather and Doug have a book
+with them. We know so many good authors with them. But a lot of folks who might not know
+you from what your actual day job is, you founded a wealth management firm, an RIA,
+a very successful one, a full disclosure client.
+And nobody would think that somebody who's in the business like you, who folks like you
+kind of are known for talking in their book, don't do that.
+You're telling people what not to do.
+And you've been telling people what it is, like it is, like it really is, since you really
+began this journey.
+And there's a through line from your original blog, the big picture, I think it was called
+out there on GeoCities way back in the day, all the way through thousands of those into
+bailout nation into how not to invest,
+even into what you do in master's in business
+where you're explaining how things really work.
+Why did you choose that track?
+Why did it appeal to you?
+I had no choice.
+I have no, I have very little internal filter.
+And if something is really annoying me, I talk about it.
+So in GeoCities, I was kind of back in 1998, 99,
+I was kind of gassed about all the negativity
+really ever since Greenspan's 1996 irrational exuberant speech.
+Hey, when was the last time a Federal Reserve chair pulled the top in the markets?
+Markets tend to go further and longer than anyone expects.
+Fair value is just this moment that we pass on the way up and
+on the way down, but you're only there for an instant.
+Most of the time, markets are either cheap or overvalued.
+And so I started writing about that speech.
+the blog moved over to TypePad in 03 and then WordPress in 08.
+And then really the predecessor to the podcast
+began in 2010, 2011.
+I had folks like Felix Zuloff and Ned Davis come on
+and talk about what they did.
+And I had been writing in the Washington Post
+when Bloomberg solicited me to write a column
+and offered me a TV show.
+I'm like, instead of a TV show,
+why don't we just have an adult long-form conversation
+with intelligent, accomplished people
+and find out who they are and how they got that way.
+That's much more interesting to me
+than what was ISM today, why should I care?
+Is this really significant?
+And so that was the birth of the podcast back in 2013.
+And it's really, I don't know, I wouldn't be,
+I don't have a great memory,
+so I wouldn't be able to keep all the BS straight.
+I just found it easier to say, here's my philosophy.
+Here are people that I think are steering you wrong,
+and here's the way to navigate that.
+And as you know, the ideas in the book
+are how we manage the firm.
+It's how we do things.
+It's been, we spend a lot of time managing behavior,
+teaching people what matters.
+I wanna say half these chapters in the book
+all began with a question from a client or an investor,
+Hey, I know you've said XYZ, but this guy is saying this.
+Why should I not pay attention to this?
+And what started out as a simple blog post
+would eventually become a podcast,
+and that eventually became a full chapter of the highlights.
+And here's why you don't want to pay too much attention
+to most forecasters.
+And here's Philip Tetlock, and his books explain
+why the average expert forecaster is no better than anybody
+else and here's ways to make better forecasts by understanding what is and isn't predictable
+and little things like that. It's so funny and innocent little question turns into a whole
+throughput.
+Yeah, and that is the beauty of investing because we're always continuing to learn and the book's
+broken up into four parts basically. Bad ideas, which includes bad advice, prediction ink you
+like to call it and prediction ink is what we're all surrounded by. If we work in finance
+where we work on Wall Street, we work in business media,
+guilty as charged here.
+The media, of course, talking about the majority
+of what we say, you say, is irrelevant to our portfolios,
+and it actually is part two, bad numbers,
+which is what are you actually paying attention to?
+What numbers are you paying attention to?
+Three, bad behavior, which is what you just talked about,
+our animal spirits getting the best of us.
+And then part four, which is good advice,
+which you actually should be paying attention to.
+So I love the breakup there.
+When you talk about good advice,
+What are you talking about? Who should we be listening to?
+Why should we be listening to them or reading or or watching?
+Ironically, the good advice is the shortest section of the book.
+It's maybe 10% of the book.
+So let's talk about who we should be paying attention to who you
+should be listening to.
+And a lot of this today is so relevant, because people literally
+pay attention to nonsense they see on social media, it doesn't
+matter if it's LinkedIn or X or Blue Sky or Instagram or perhaps worst of all, TikTok.
+There's this wonderful Twitter thread called TikTok investors, a wonderful account, and
+he highlights the worst advice given on TikTok.
+So that became a chapter in the book.
+When I was researching that, the advice given about not just investing but anything financial,
+taxes, it turns out the TikTok tax advice was so terrible that the IRS had to put out
+a 42-point memorandum saying, here are 42 items we found on TikTok telling you, here's some
+tax advice.
+Not only are these wrong, some of them will lead to fines.
+Some of them will lead to penalties, and some of them will literally lead to jail time.
+Get your tax advice from an accountant, not from TikTok.
+So that's just an example of how egregious some of the terrible, terrible advice out
+there has been.
+And so the counter to that is, don't take candy from strangers.
+Understand, my mom told me that many, many years ago, and it's amazing, you have to go
+back to principles that your parents gave you. If you're going to pay attention to someone
+on TV and print, on radio, on social media, well, at the very least, you have to know who
+are they. What's their track record? Are they more right than wrong? Do they have a process
+or did they just get lucky once? Do they have a good temperament, meaning every 5%
+back. Do they run around with their hair on fire or they sort of have the right sort of
+calming influence to not stimulate you to do something bad? And have they been around long
+enough? Have they seen a few cycles? Do they know how the movie ends? Those sort of questions are
+how you put together what I call an all-star team. You don't even have to hire them. You just have
+have to follow their sub stacks or their websites
+or their podcasts when you put a team together.
+I put a list of a dozen or so folks that are my 18 all stars
+plus all the people in my firm I think are really all stars.
+And it's different for every person.
+Find somebody who's done this for a while,
+who's got a good track record, who
+doesn't inflame your passions, be it FOMO or panic,
+And have seen how this plays out over the fullness of time.
+I made that one list of 12.
+There are probably a few hundred people
+that could be in my top 10 list.
+You could do all sorts of variations.
+But of the tens of thousands of people who tweet, blog, podcast,
+write, whatever, most of them aren't worthy of your time.
+And that's just an unfortunate truth about Sturgeon's law.
+He said it about writing, but it's true about everything.
+90% of most products are crap.
+The best of the best, the top 10% is where you wanna focus.
+And it's true whether you're buying a SPAC or an ETF
+or a hedge fund or signing up for someone's substaff.
+Absolutely, happy to say we've had a lot of those experts
+on the Investopedia Express,
+probably because I've been following you for years
+and I read who you read and then I teach people
+about that and then that's how hopefully this education cycle goes on because that's what
+we're trying to do. Get smarter about the markets. Talking about people who've had a
+track record and investing through cycles and knowing the cycles. I love this chart
+that comes from your firm, from our buddy Michael Batnick, Reasons to Sell. And there
+have been nothing but reasons to sell throughout investing history. I love this chart because
+he keeps adding to it. He gets uglier and uglier because there's more and more reasons
+to sell. Yet there's this relentless bid, and I've talked to Josh Brown, the CEO of
+Ritholz and a friend of ours as well, a good friend of mine and obviously your partner
+there about this relentless bid. The fact that we just keep buying every couple of weeks.
+We just keep putting money into our 401Ks, our Roth IRAs, our IRAs, because that's what
+we were told to do. And actually, it's proven to be the right thing to do. So do you
+think that this is just this force of nature that just continues forever, Barry? What
+eventually might make it stop, if anything, or we just condition to do this now, just like we're
+conditioned to pay our utility bill. Nothing lasts forever. Even the sun is going to burn out in
+five or six billion years, but just think of the compounding between now and then. But every bull
+market ends, every cycle turns, every economic expansion ends with a recession, every bull
+market ends with a bear market. And you know, I love to humans are just, we are so stuck in the
+here and now, we sometimes have a hard time pulling ourselves out of the moment and looking at the
+fullness of history. Batnik has another chart, a similar always a reason to sell, but it goes back
+to like 1926. And there have been world wars and, you know, the fear of nuclear Armageddon, and
+On and on, there's always a reason to sell.
+Look, the World War II ended, and then from 1946 to 1966,
+you had an amazing 20-year run.
+That ended for a variety of reasons.
+And from 1966 to 1982, market went up and down,
+and up and down, and made no forward progress.
+The Dow was just about 1,066.
+It was just about 1,082.
+And in inflation, you lost 75% of your value
+over that 16 year period.
+And then from 82 to 2000, you're up 1000%.
+It's just a huge run.
+And then again, the wheel turns 2000 to 2013,
+up, down, up, down.
+You have the financial crisis in 08, 09,
+just like the nifty 50 crash in 73, 74.
+And then when we finally get over all those previous highs
+of that trading range from 2000 to 2013,
+we're off to a new bull market.
+So here we are 12 years later in a market that can end in 2032,
+it can end tomorrow.
+Nobody really knows when it comes to an end.
+The real wild card to me is, I have no idea
+what the 34% crash during the pandemic.
+And then the biggest fiscal stimulus since 1946,
+at least as a percentage of GDP,
+CARES Act one under Trump one was 10% of GDP, huge number.
+Another big chunk of CARES Act two under Trump one,
+Biden CARES Act three, and then the infrastructure bill.
+And now Trump two, we have another giant tax cut.
+I can't tell you when this bull market's gonna end.
+I suspect it's not tomorrow,
+But it's somewhere out there three years, five years, seven years.
+And so you end up with a situation that all bull markets run further, higher and longer
+than anyone expects.
+And that's what we learn every cycle.
+Go back to the 1996 irrational exuberant speech and go back to the early sixties and
+see how people were investing.
+those bull markets just continue to go year after year and they end much later than we have any
+reasonable expectation to to see. Yeah and the bear markets seem to be shorter and shorter at
+least that's what we've experienced over the last couple decades probably because of the fiscal
+stimulus government helicopters money everywhere and when you got money pouring in from the skies
+from the government hey it's easy to see why markets can recover so quickly all right if you
+If you were 35 though, right now, kind of knowing what you know, would you be investing
+the same way that you invest today?
+I mean, you're a little older than 35 right now, just a minute, older or two.
+But if you were a 35-year-old, we have a lot of younger folks who listen to the Express,
+how would you invest?
+Would you be an index investor, an ETF investor?
+So go back 25, 30 years.
+Yes, I would be an index investor.
+I would be more fastidious about dollar cost averaging every month, which I, you
+was less discipline with in my 20s and 30s and even early 40s.
+It took to the mid 40s before I'm like, hey, I'm not around forever.
+I better start saving for retirement.
+And then something I really started doing in my 40s and 50s,
+I wish I would have started doing earlier, which was I have a lot of friends
+that have done startups.
+I have a lot of friends that have come up with great ideas.
+And really, I'm not a venture capitalist.
+I'm not an angel investor.
+My approach to startups is, hey, how big of a vote of confidence
+do you want to put into this person?
+How much do you think that I don't care what they're doing?
+I just think that they're, I love the way they think.
+I love the way they approach the world.
+And I think that'll be successful.
+So I want to throw money at these people.
+To be fair, in my 20s and 30s, I didn't have a lot of money to throw at people.
+Today there are folks like Eric Golden at Canopy and the folks at Altruist.
+And there's a dozen small startups where I love what these people are doing.
+I love how they think.
+I want to participate in whatever they're doing, whether it's this or something else.
+So let me write a check.
+And so I wish I would have been more aware of the value of that.
+My friend Howard Lindsen taught me that it doesn't matter how big the check is, you don't
+have to put a million dollars into a startup.
+If you give someone $25,000 or $10,000, it's the money, yes, but it's also, hey, man, this
+is a vote of confidence.
+I really think that you're onto something.
+And if it's not this, it's something else, here's a check, go do your thing.
+And so I wish I would have been more aware of the power of that, not so much that, hey,
+there's money to be made, but you need to let the people around you who you were so
+impressed and hammered and just taken by their thoughtfulness, their philosophy.
+You just want to give them a vote of confidence.
+Regardless, I had somebody and I won't name drop,
+but somebody who's really well known said to me,
+hey, 12 years ago, you were really encouraging
+about this project when a lot of people were negative
+and you said, hey, you're onto something,
+keep plowing away, it's gonna be a rough go,
+but you'll make it.
+You just, like I was shocked this person said this to me
+and I wish I would have done more of that.
+I didn't know how important and influential
+Just those attaboys are, it doesn't matter who the person is
+or what the area is, when you recognize talent,
+when you recognize insight,
+don't be stingy with your compliments.
+Yeah, well, shout out to Howard Lindzen,
+who one of the smarter investors we know,
+but Howard has taught all of us,
+follow the pilot fish, right?
+You may not get to the shark,
+but follow the pilot fish who are following the big carts
+and you will wind up in the right places.
+And I think you may have not had the money to invest
+in people's businesses,
+but you have made a great investment in people.
+And you can see your disciples literally
+throughout financial media,
+throughout wealth management and other places.
+So don't sell yourself short on that.
+All right, let's get you out of here
+on a couple of quick lightning round questions
+that I'm dying to know.
+I gotta know what you're reading right now, Barry.
+What's on the Kindle?
+What's on the iPad?
+What's on your Libby app?
+What are you reading right at this moment?
+Two books I'm reading right now.
+One is Braightneck by Dan Wang, which
+is about the rise of China and how China
+is a country of engineers.
+The US is a country of lawyers.
+They're building things.
+We're stopping things.
+There are lessons that each country can learn from the other.
+And then the other book is the reissue of The Winner's
+Curse by Dick Thaler, which he revisited with a colleague,
+Alex, some journalist on his last name.
+And they see how, this is the 25, 30 years ago,
+they see how their original, his original theses,
+what he calls anomalies held up.
+And it's really a fascinating behavioral finance book.
+Right, putting those on the next,
+on my next list, my wish list for books.
+Best finance book overall.
+You've written a couple of tremendous ones,
+including how not to invest, but,
+and so what's your favorite finance book?
+Could be novel, could be historical fiction.
+Well, so thinking fast and slow is so seminal to me.
+And the one before that was the original market wizards, which is all about risk management and
+behavior management, non-investing. And then the idea of money ball, the idea that you can look at
+a field and recognize where everybody is missing the through line is just fascinating. And we've
+We've seen Money Bowl time and time again.
+We've seen it in the big short.
+We've seen it in the response to the pandemic, and we've seen it in AI.
+So many people just missed the picture because it's such an anathema to the previous experience.
+Yeah, Michael Lewis so good at finding that story and turning it into something amazing.
+So on the heels of that, a lot of those turned into incredible movies.
+What is your favorite money movie?
+the big short. So the big short is certainly up there- and then while everybody was focused-
+well everybody was focused the book the big short money bowl is even better than the big short.
+But while everybody was focused on things like the big short there was a movie that came
+out right after the financial crisis and I'm drawing a blank on the name right now.
+Give me 10 seconds to find it. Margin Cole, thank you so much. I love Margin Cole. I
+think it's kind of underrated. And then of course, you know, The Wolf of Wall Street
+is just a spectacular film on a mediocre book, but you know, Martin Scorsese and Leonardo DiCaprio
+tough to beat that film.
+Yeah, tough.
+All right, let's go down this last one.
+If you were going into college or coming out of college,
+or going to major in something in college today,
+if you were going to college at all, what would you study?
+Well, I would definitely go to college.
+I'm not a big fan of the skip college movement.
+There's a handful of outliers that that works for,
+but for 99% of the public,
+you're better off going to college.
+It's an opportunity to learn everything.
+What I've learned in 30 years in finance is you have to be as broad as you are deep and
+you can't just be hyper focused in finance.
+Most of the really insightful, interesting wisdom you pick up often isn't from finance,
+but it's from adjacent fields.
+So I would do a combination of some form of behavioral economics or psychology with philosophy
+like a concentration. And if you want to study business, if you want to get an economics degree
+or an MBA fine, but recognize that all the great advances and insights come from outside of that
+narrow area. Yeah, great point. Great point. We have a question here from Kojo. What would your
+book recommendation be for a beginner investor? Great question. What do you got for him, Barry?
+I mean, there are some classics everybody should read. I really like Bull by Maggie Mehar,
+the history of the bull market from 82 to 2000. It just shows you so much about how cycles develop,
+how they extend, what happens with behavior and psychology and investor. Like the 82 to 2000 era
+was just such a classic. And then the crash at the end, that's a great one. You know, everybody
+likes reminiscence of a stock operator and I'm a fan of that but it wouldn't be
+the first book I suggest and um and then where are the customers yachts or just
+another one of these hilarious books that again they describe the entirety of
+investing and not just here's how to asset allocate here's how to rebalance
+the portfolio it's much fuller than that yeah so many good choices there random
+walk down Wall Street. We have a great list on Investopedia. And folks, if you're following
+Barry Rittles at Rittles, you'll probably see all his recommendations for many, many
+years of making us smarter about investing, making us smarter about finance and also how
+to operate like a good human being in this, in this world that we all operate in Barry
+Rittles, the founder of Rittles Wealth Management, the author of this tremendous new book,
+How Not to Invest, plus a couple other books, and also the host of Masters in Business
+I'm Bloomberg, so good to see you.
+Thanks for joining the Express, my friend.
+Oh, thank you so much for having me.
+Always a pleasure, Caleb.
+All right, so good.
+Let's get to a little money in motion because there's a lot going on out there that we're
+starting to pay attention to, giving us some signals.
+Let's do a little money in motion.
+We're starting to hear an old term make some new headlines, and it's called the debasement
+trade.
+And this has been around for a long time, but this is starting to bubble to the top
+of the headlines across the Wall Street Journal, The Guardian, and other places.
+But you're starting to see this as gold rises to record highs, while other assets like oil
+are not necessarily heading in the other direction.
+This flock to gold, keeping it at record highs, has got people talking about the debasement
+trade.
+Let's get to what the actual word means, debasement.
+Debasement according to our friends at Merriam-Webster, this is the action reducing the quality or
+value of something.
+So when you think about debasement and the debasement trade happening right now, we're
+actually talking about this flock to safety assets like gold in particular and this classic example
+that Bank of America securities and the research team pointed out there 15 barrels of oil. I think
+we have a chart for this 15 barrels of oil bought one ounce of gold back in June of 2022. You got
+to look at the gold versus oil ratio to see the classic example of debasement trade. Now it
+literally takes 61 barrels of oil to buy one ounce of gold.
+Now, as Warren Buffett says, hey, gold's a good safe haven asset,
+but if you buy an ounce of gold today,
+it's still an ounce of gold at the end of the day.
+Now, the price can go up, but it doesn't compound over time.
+But when you see this concern about global economy,
+when you can see the concern about inflation
+and the stock market meanwhile bubbling over to record highs
+over here, but on the other side of the seesaw,
+Investors, including the Federal Reserve and central banks
+around the world flocking to gold,
+this tells you that there is a debasement trade going on
+and people are concerned about what's going to happen next.
+And that's something we need to pay attention to
+as we look towards the end of the year.
+Let's look down the tracks just to this week
+because even though today might be a holiday
+except for the stock market,
+there is a lot happening down the tracks.
+Let's look at what to expect this week.
+We are in the teeth, I should say, of earnings season,
+getting into it real hot and heavy here this week
+and going on for the next few weeks
+and earnings expectations are pretty sky high.
+According to Faxet, our buddies over at Faxet,
+earnings growth for the quarter is expected to be about 8%.
+That would be the ninth consecutive,
+quarter over quarter consecutive earnings growth.
+It just tells you what investors are counting on, right?
+That's what we're here for.
+We are betting on earnings growth,
+we are investing in earnings growth and some dividends
+And dividends have been on the rise too,
+according to S&P Global Insights.
+We're starting to get some dividend paybacks as well.
+They decreased for a little while there
+over the past couple of years,
+but they are back on the rise.
+But earnings growth is expected to be solved.
+The strongest sectors should be IT,
+then financials, even with interest rates heading lower
+than at interest margins for some of these banks.
+And the fact that there's a lot more activity,
+more IPOs, more mergers and acquisitions,
+more investing, more assets to invest in,
+good for financials,
+they should have a pretty strong wind
+with their back when it comes to earnings.
+And then materials, utilities and industrials.
+If we are indeed gonna keep growing
+and we don't end up ruining this growth,
+this progress with trade wars,
+well, we could see a good rally
+and a good earnings growth in materials,
+utilities and industrials.
+And if you look at the stock market,
+we've seen some pretty good strength
+across all of those sectors.
+All right, let's get into what else is happening this week
+because it's a busy one.
+Again, stock markets open today,
+Bond markets close, always rare when that happens,
+but usually you get some pretty thin trading
+in the stock market.
+We've got the Oracle AI World Conference beginning this week.
+They're gonna be talking all about AI.
+We do have some earnings from Fast and All.
+Tuesday we get the NFIB Small Business Optimism Index.
+Small businesses like consumers,
+not feeling that optimistic lately.
+A lot of concern over tariffs,
+a lot of concern over those small packages from China
+or from around the world that they're getting
+that really make up the essence of their small business,
+a lot of order flow there.
+Salesforce, the Dreamforce conference begins this week,
+and then big bank earnings begin on Tuesday,
+which AP Morgan, among others, Goldman Sachs,
+BlackRock, Citigroup, Wells Fargo reporting on Tuesday.
+Wednesday, we get the Federal Reserve,
+Beige Book, which is actually read.
+That's sort of the Fed's latest roundup
+of economic activity around the country.
+The Empire State Manufacturing Survey for October
+comes out, earnings from ASML, Bank of America,
+Morgan Stanley Abbott Labs, United Airlines,
+and others Thursday, Home Builder Confidence.
+not so confident lately, but as rates come down,
+you're gonna see a lot more activity in the housing market.
+Maybe that wakes things up a little bit
+and plenty more earnings in store on Thursday as well.
+And then Friday, hey, we're missing some economic reports
+and we're probably not gonna get them.
+But on Friday, we should be getting industrial production
+and capacity utilization.
+We might not earnings from American Express
+among other companies.
+So a busy week for earnings,
+earnings expectations are sky high.
+Here we go off to the races,
+pay attention to Investopedia
+and our news team, we are following the earnings
+that matter the most and breaking down the stories
+that matter the most to you within those earnings.
+All right, let's get to our indicator of the week.
+And this one comes from a very strange sector.
+This comes from the automotive supply sector
+and a company called First Brands.
+Now you may not have heard of First Brands
+but you've probably heard of a lot of the portfolio companies
+within First Brands, companies that sell windshield wiper
+blades, companies that sell headlights, companies that sell
+different auto supply parts that you might find in your AutoZone,
+for example, or your Midas. This company has accumulated all of
+these assets as a conglomerate kind of like the Berkshire
+Hathaway of the auto parts industry. But this company filed
+for bankruptcy back in September and nothing crazy
+about an auto parts supplier filing for bankruptcy. But when
+you get into the weeds on this and the Wall Street Journal
+and others have done a great job breaking this down. I saw
+a good story in the gardening on this.
+It's more than just the fact that this company
+filed for bankruptcy.
+It's the fact that it had such steep losses,
+liabilities between $10 billion and $50 billion on its book,
+but assets only between 1 billion and 10 billion,
+but this company was doing a lot of what we call
+opaque off balance sheet financing.
+In other words, it was borrowing heavily
+according to the journal using private debt
+or what we call shadow banking.
+When you hear the word shadow banking,
+You should immediately put up your guard,
+disguise debt and they disguise that debt
+by borrowing against invoices.
+This is known as factoring.
+Again, not crazy in the auto parts supply
+or any industrial supply industry
+to do what we call factoring,
+but the borrowing and the leverage was so high
+that when the company eventually got too over leverage
+and business wasn't that great,
+it had to file for bankruptcy,
+turn the company basically into a finance company.
+So it was selling auto parts
+and running all these nice companies,
+these small, medium sized enterprises,
+And all of a sudden it turned itself into a finance company,
+started factoring its invoices.
+And when the bottom dropped, so did the entire company.
+So this could be one of those canary in the coal mine type
+stories.
+What other companies are out there using shadow banking,
+using this type of factoring in the middle of a boom right now?
+And as Jim Chanos, the great legendary hedge fund manager,
+pointed out back in the day, he's
+the one who pointed out Enron before Enron became
+the Enron collapse.
+He says, complex financial systems often appear
+at the end of economic booms.
+As long as everything works, nobody's asking questions,
+but people are gonna start asking questions
+about companies like fast brands.
+All right, let's go out with some good news
+and a shout out to those Nobel Prize winners.
+We got the Nobel Prize in Economics awarded earlier today
+out in Switzerland right now.
+And make shout out to Joel Moicher, Philip Agnion
+And Peter Howick, they've received the Sphergy's Ricksbank
+Prize in Economic Sciences in memory of Alfred Nobel
+for this year.
+This is about their work in explaining
+how innovation and what economists
+call creative destruction drives economic growth.
+So the Nobel organization said these three economists
+had helped deepen the understanding of the drivers
+of the pickup in economic growth over the past two centuries
+to levels that are high and relatively stable
+by historical standards.
+Congrats to you three on winning the Nobel Prize
+in economics, that's a pretty big deal.
+And thanks to all of you for joining us
+from around the world.
+Thanks to Barry Ritholz of Ritholz Wealth Management.
+The big picture, how not to invest.
+We'll link to the book in the show notes.
+Thank you for joining.
+Hey, Supervisor Dan, thank you.
+Yeah, Barry's a great interview.
+And if you're not listening to Masters in Business
+and you like that type of stuff,
+he is a tremendous interviewer, such a great host.
+He's just as candid and fun as he is to talk to here.
+Thank you, Kojo, very insightful of you to point that out.
+We appreciate you.
+Thank you, Wall Street Stocks, very cool.
+Thank you for joining us today.
+Thanks to all y'all for tuning in.
+We know it's a federal holiday here in the United States,
+but a lot of us are getting that work done.
+We're on the grind and the Invest in PD Express.
+We'll be back with you next Monday, live at 10 a.m.,
+but it is on demand on your favorite podcast network.
+So if you missed the full live show, you know where to find us.
+We'll put links to Barry's book and all the good stuff
+we cited in the show notes when this goes up in just a little
+bit.
+And whatever you're doing, keep it safe.
+And we will talk again a little further on down the line.

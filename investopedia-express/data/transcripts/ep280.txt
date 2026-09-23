@@ -1,0 +1,471 @@
+Welcome to the Investopedia Express conversation series. This is our space to speak to some
+of the most influential investors, entrepreneurs, executives, and thought leaders in the world
+of investing. In 2014, Walter and Jeffrey Cruttenden launched an innovative app called
+Acorns that allowed users the ability to access financial services, including personal banking,
+investments, IRAs, and stock trading and bonds for just a $1 subscription fee. Soon after,
+Acorns evolved to allow users, especially kids, to invest their spare change into the
+stock market. Under the leadership of chairman and CEO Noah Kerner, Acorns has evolved into
+a holistic and financial wellness app with multiple life stage products serving the
+needs of kids, teens, adults and parents. To date, Acorns has served over 15.5 million
+people worldwide and helped customers save and invest over $26 billion, much of it from
+spare change and small amounts. As long-term investors know, small amounts can compound
+and grow into mighty trees of wealth. We're delighted to welcome New York City's very
+We owe Noah Kerner to the Investipede Express.
+Thanks for being here.
+Thanks for having me.
+We are big admirers of your platform, as you know.
+And you've had a really busy year,
+had a busy 11 or so years, but a busy year.
+You launched the money manager, you launched,
+you bought Early Bird, you hired a new CMO,
+you doubled your subscriptions on Acorns Gold.
+Let's talk about some of these recent milestones,
+especially money manager, because I think it speaks
+to where your platform is headed.
+Thanks for the intro.
+It's a high bar also to be here.
+I met Jeff in 2014, and we joined up right away
+to build the company.
+And it was immediately, for me, compelling
+to work on the wealth inequality problem.
+That's really what we're working on.
+And it's actually $28 billion all the time.
+All right, the number's growing.
+So it's growing fast.
+Money manager has been long in the making.
+And what it really is is the culmination
+and the kind of systemizing of all the products
+that we've built over time.
+I look at consumer financial services as one big dropdown menu of options.
+So when you go to most, pretty much every financial services or fintech company, you
+just get all these options.
+And it's like, well, what the hell am I supposed to do?
+And is this oriented around my best interests?
+Like, why are these products here?
+Why should I use them?
+When should I?
+All those things.
+Consumers have, and this is how we decided to build this thing, they have the major
+questions are what products do I need?
+at a really basic level, the data around emergency savings in America, which is, you know, there's
+all these data points. Like, 69% of Americans don't have $1,000 in emergency savings. Well,
+the first problem is Americans don't know they need emergency savings. And the other
+one is, there aren't actually emergency savings products. So, there's problems before the
+data. So then, after what product should I have, well, what should I put where and
+when? Investing, retiring kids. People have no idea. And then, how much should I put
+in what, over what period of time.
+It's really just totally overwhelming.
+Yeah, and the questions, as you say, are simple.
+We get them at Investopedia all the time.
+People understand the concepts, basically,
+but then the now what do I do
+is often where people get caught up
+and Acorns have done a nice job
+of helping people figure that out.
+Early bird acquisition as well this year.
+Tell us about that.
+We've been down the family path since 2020.
+We decided we were gonna not just serve individuals,
+but the whole family system.
+And the vision was ultimately that Acorns would be a financial wellness for the whole
+family product.
+So we made actually five acquisitions in the last two years to deliver on the vision of
+that and accelerate it.
+And we already had our investing product for kids, but the early bird guys were working
+on this problem.
+They're passionate entrepreneurs.
+We like to have passionate entrepreneurs in the family.
+And so we brought them in to lead Acorns early in the U.S., which is our kids app.
+So six to 18 year olds can use Acorns early,
+start learning about money at six, seven,
+get more engaged, get more involved,
+grow up and ultimately graduate to Acorns, the adult app.
+So Acorns was founded with this mission
+of making it easy for people to access the markets,
+to invest and to save and to simplify it,
+but also do it with small amounts.
+It's a mission oriented company.
+We totally respect that at Investopedia.
+That's why we're still here 26 years later.
+That's why probably you're still here,
+but it's such a competitive market,
+especially when it comes to online financial services and fintech and helping people invest
+for the long term. How do you stick to your mission without getting lured into trading
+and crypto and predictive markets and where this whole industry seems to be going?
+We put the customers. Our mission is, with benevolence and courage, we look after the
+financial best interests of the up-and-coming. Sometimes people get confused with up-and-coming.
+It's not an age-based thing. It's like where you are in life. There's always somewhere
+else to rise up. Look after the financial best interests, period. We put the customer first.
+There's no decisions that get made at Acorns that aren't about the best interest of the customers.
+What is the best interest of the customers from an investing perspective?
+It's to be diversified to make sure 90% of your money is in ETFs, passive, all that.
+Sure, with 10%, it's fine to take some risks. But the problem is, the rest of the industry
+is presenting the 10% as the whole.
+And I think that's where people get into real problems.
+And maybe that's why also because of a great service,
+but also why you've been able to persevere
+because you're not trying to get into that lane.
+And in that lane, a lot of people get wiped out
+and a lot of companies get wiped out.
+But you have backers, venture capital backers,
+corporate backers, celebrity backers,
+who you brought on who believe in your service as well.
+You got to make money at some point.
+And I think that's through the subscription service,
+but is that enough to sustain you on a growth basis
+going forward to be the acorns you want to be?
+We're a subscription service. It's $3 a month, $6 a month, or $12 a month. $12 a month is
+the family plan. We consider that our premium tier. It's growing really quickly, I think,
+because we've delivered a lot of value there. Absolutely. I think we're a healthy company,
+and subscription is great from a recurring revenue perspective. Our attention rate is
+really good. It's really about, how do we get 100 million everyday Americans using acorns?
+I think we've made a product that's useful for 100 million everyday Americans.
+There's no issue with the business model.
+It's just how do we get as many people as possible.
+Right. It's a scale thing.
+But what you're doing, a lot of what you're doing is doing the basic financial planning
+for families, answering those questions, helping point them to the right products and services
+at a pretty cheap subscription rate.
+That's very useful, especially for those that aren't working with a financial planner
+or a wealth advisor.
+And a lot of people don't do that until they have a complicated financial life or
+they have a lot of money.
+So do you think that ultimately you will supplant
+a lot of that industry?
+You're trying to get deeper into that industry
+or just trying to give people that foundation
+so that they're ready if they need to take that next step?
+We just rolled out Ask Acorns.
+Ask Acorns is our sort of answer to AI advice, right?
+And it's moving very quickly.
+But we imagine a world where AI advice
+is complemented by human advice.
+And I'd love Acorns to be a place
+where we're providing instant artificial value
+immediately for someone who wants answers now,
+but then when you want your hand held more,
+then we're gonna provide human advice.
+And so ultimately it's up to you and your needs.
+By the way, back to the customer at the center,
+the way we're approaching our AI advisor
+is from an empathy perspective first.
+So putting the customer's emotions,
+basically like I tell the whole company,
+we're in the business of managing emotions,
+which is a very different.
+That is what great financial planners do as well.
+Exactly.
+So it's really about dealing with the customer's feelings
+and whether it's, are you panicked?
+Are you anxious?
+Do you feel hope?
+How do we meet you right there?
+Yeah, that's important, and I think that's where
+a lot of people come in to a financial conversation.
+It's emotional, and we know with families,
+it gets super emotional and gets really complicated sometimes.
+So you got to one of my next questions,
+which was how are you gonna use AI?
+You have millions of users.
+That means millions of data points,
+or billions of data points in some cases,
+about the decisions that they're making.
+So how do you take empathy first
+when you were trying to build an AI agent
+to help answer their questions,
+take them ultimately to the answer that they need
+that's personal to them with their data
+in a respectful way.
+It's just instant advice
+and trying to be as valuable as possible,
+as quickly as possible.
+Again, back to, you know, there's an interesting thing
+as I think the industry gets into financial advice
+via AI, you have to maintain total objectivity.
+And so what the AI is gonna tell you
+is the exact right thing to, hopefully,
+and I think in almost all cases,
+the exact right thing to do.
+So should you use this product or that product?
+What's the best thing?
+In an interesting twist in that sense,
+we've constructed the product
+to be the best thing for consumers.
+So we have this nice kind of alignment
+that gets thrown around a lot.
+We have this nice alignment between AI
+and truly the best recommendations
+and what the Acorns product actually serves up.
+So it's gonna work in tandem with our,
+For instance, money manager.
+Money manager does the work for you.
+AI is gonna provide the advice alongside money manager.
+It's gonna provide you a plan, updates,
+that kind of thing, that's how it'll work.
+Good use of AI, especially,
+it gets you to the right place.
+You just came out at Acorns with your 2025
+Money Matters report.
+Interesting findings there,
+but you're really getting into the psyches,
+hopes, and dreams of American families,
+especially younger people as it relates to
+being able to retire, being able to afford a home.
+What were some of the key things
+that stood out to you in the survey?
+The main thing that stood out to me is the paradox of people thinking that they're going
+to have to rely completely on themselves.
+So 72% of young people said they think they're going to have to rely completely on themselves
+in retirement, and that's because they don't believe social security will be there, the
+national debt's not going to get paid down, et cetera.
+But then there was this sort of contrasting sense of optimism, right?
+Like two-thirds of the people we surveyed said they thought that they would own a home
+one day.
+Two-thirds said that they thought they would actually retire by retirement age.
+So there's this sort of interesting contrast and paradox there, and I'd like to believe
+that that's because people are actually taking action and focusing on becoming more self-reliant
+because of all the tools and products like acorns.
+But I found that to be the most interesting piece of the study.
+More than half don't think Social Security is going to be around to help them, which
+means they got to fill the gap somewhere.
+Every year, we put a price tag on the so-called American dream, Noah, because that's one
+of the top things people actually search on Investopedia.
+What is this American dream you keep talking about?
+There's no way I'm going to get to it because I'll never be able to afford a home.
+Everything's getting more expensive.
+So, I think people have been searching for that.
+We decided every year we're going to actually price it out in real dollars.
+What does it cost in 2024, 2025?
+The most recent price tag, $5.1 million.
+That is to have a retirement account.
+By the time you're ready to retire at $65 million, about $1.6 million, be able to afford
+a home because in our surveys, people want to do those things.
+Five million is a lot to some people.
+That's a big number when you consider the fact
+that most of us, if we work our whole adult life,
+25 to 65, and make the median income of 80,000
+and it rises with inflation,
+we'll only get to about three, 2.8, 2.9 million.
+That gap, Noah, is where investing comes in, right?
+The ability to reach your dreams.
+And if people want these basic things
+that they're not needs, they're wants,
+they kind of find a way to grow their money.
+$3, $4, $5 a day starting with your kids at birth,
+You just have to do that.
+And then 18, 19 years old, you have
+to start with small amounts of money every day
+and be consistent over time, which is obviously,
+sorry to keep plugging it, but we're here for this,
+what Acorns automates for you.
+If you start with $5 a day for your kid,
+assuming some sort of historical compound rate,
+S&P compound rate, if you start at birth, $5 a day,
+you're over $4 million by retirement.
+So that's the change.
+And back to the people thinking that there
+isn't going to be a safety net.
+That sucks, but it's also useful
+for getting people to act urgently now.
+Yeah, and we don't put that number out to scare people.
+We just say, put a marker on what these things might cost
+if you want them in your life.
+And then the great thing about financial planning
+and Acorns does a nice job of this as well
+is work back from the number.
+Figure out what it's going to take to get there.
+And investing is one of the most consistent
+and fastest ways to get there.
+And you're right, whenever I talk to high school kids,
+I always show them the Caleb chart.
+If my parents put 10 grand in just the Dow Jones Industrials a day, I was born 55 years
+ago, that would be worth about $180,000 today alone.
+And that's just time, the magic of time.
+And that's what people need to learn a lot of.
+So let's talk about the industry as a whole.
+We talked about how Acorns has been able to stick to its mission and not veer into
+trading.
+And there is this propensity, as you say, that 10% of the industry really wants you
+to do that, whether that's some of the online brokers that came out with free trading or
+now these big mergers or these investments with ICE, the founder, the owner of the New
+York Stock Exchange investing $2 billion in the Poly market. We have CME taking a position
+with FanDuel. This conversion set I'm seeing, and you're probably seeing it as an entrepreneur
+as well, of trading, crypto, DeFi, predictive markets, options. Where is this going? Where
+could this lead?
+Well, it's ironic, because we're not speculators at Acorns.
+We're diversifiers. That's what we say.
+So I have no idea where it's going.
+But what I will say is, back to the way we construct portfolios and the way we think,
+it's fine to go play with 10% of your money.
+90% should be in indexing and ETFs and we do that automatically.
+But I think the problem is that the industry would have a lot of people who may not know
+better believe that actually you can put 100% of your money into these things.
+And people love a get-rich-quick scheme.
+And the reality is the only way to get rich is to get rich slow.
+So we're slow and steady wins the race.
+That's our thing.
+10%, go have fun, party on the weekends.
+Weekdays are for acorns.
+I agree with you.
+And it is that time thing, the magic of compound,
+the eighth wonder of the world, as Einstein called it.
+But that's hard for people, especially in a world
+in a social media world where the whip, the drip,
+the instant wealth, the betting, the gambling
+is right in your face, front and center.
+The actual road to wealth takes time
+is what you actually need to be doing.
+We try that here at Investipede.
+I know education is core to the mission at Acorns.
+How do you keep that education up to date?
+Because things change even though
+the principles of investing don't.
+Learning is part and parcel of the product experience.
+So we think about our product as delivering
+two pieces of value.
+the products you need and the education you need.
+And then the real reason we created Acorns Early
+is to get this next generation of kids
+as smart as possible beginning at six, seven, eight, nine, 10.
+By the way, from our report, 40% of parents said
+they think that kids should be learning money
+as early as five to eight years old.
+And I agree.
+And I don't know why math is taught without money.
+Like why do we-
+What was the last time you used pre-calc?
+Well, I tell you what I did do.
+I graduated from college and was like,
+I have to pay taxes, which is, I think,
+what happens to most people, which is crazy.
+So yeah, I learned algebra,
+and then I didn't know I had to pay taxes.
+Let's talk about now the future for Acorns.
+You've been able to build a very nice customer base.
+You have a nice subscription model.
+You got celebrity backers, JLo,
+and other athletes and celebrities
+who are very involved with your company,
+and some of the biggest finance companies in the world
+who support what you're doing, which is great.
+Where do you see Acorns in five years?
+Continuing on the family product offering,
+we wanna serve the whole family, kids, couples, parents,
+all the connective tissue in between
+and the life stages in between.
+So that's gonna take a lot more work from us
+and our team is heads down focused on that.
+Money manager, making money manager a place
+where you can save for an emergency,
+you can save for retirement, you can have cash to spend,
+you can pay down your debts,
+we're even gonna have 1% allocated to giving.
+Full account aggregation so you can see
+your total profile even if it's not inside Acorn.
+So really delivering on Money Manager
+and our Ask Acorns AI advisor.
+So we think that's gonna be a really important
+part of our product.
+By the way, it's currently deflecting 91%
+of customer support requests, which is huge, 91%.
+It's not.
+Why do you think that's happening?
+Because it's actually giving the better answer
+that people are seeking because of exactly the data
+that they're gathering from those questions.
+What makes it better?
+Yeah, I mean, most of the questions
+are actually pretty easy to solve.
+So I think it's just the capability to immediately
+solve those problems without you having to fish around.
+And then for higher order stuff,
+9% of people you wanna get on the phone
+or chat live with somebody, then we're gonna do that.
+But I think it's mostly because things are pretty simple.
+And by the way, on the flip side,
+our stuff is getting pretty complex
+to be able to serve more complex needs.
+And in those investment portfolios,
+you say they're mostly based on exchange traded funds,
+ETS, which is a great way to diversify.
+Are you selecting those from the broad-based money managers
+out there?
+Do you have deals with some of the big issuers
+to offer their products?
+Or is it whatever the user wants?
+It's based on what's best for the customer.
+Yeah.
+Now as to the future as well, you've
+been a private company for many years now.
+Is an IPO something that you would like to do as a company?
+Is that necessary today?
+There's less public companies than there used to be.
+And a lot of companies are making that decision not to,
+because it's complicated.
+And you've done well without it.
+Is it important to you?
+Our strategy is to go public.
+I mean, you know, that's our strategy.
+We're a good private company.
+It's good to be a private company,
+but I also think giving access to everybody in America
+to own a little piece of acorns
+and our customers to own a little piece of acorns,
+I think that would be a nice story
+and a nice outcome too, so.
+Let's talk about you for a quick sec.
+Native New Yorker, just like me,
+born and raised right here on this island,
+DJ, grew up on the Lower East Side,
+but also a serial entrepreneur.
+You're obviously fascinated with solving problems.
+If you were your 22-year-old self right now,
+kicking around the East Village,
+maybe on the skateboard like me.
+What would you think about going into career-wise
+and what would you want to make sure you learned
+before you took that next step?
+We actually did an exercise where we wrote a,
+we had an offsite and we were asked to write a poem
+to our 18-year-old self and sit down and imagine ourselves
+next to our 18-year-old self on the couch.
+And I wrote that the poem was called Unfinished Work.
+And the message was that you'll always be unfinished work.
+So the outcome focus, the obsession with success,
+like let it go, just ride the process.
+and that's what I would say.
+I mean, I would tell myself,
+I started three companies in my 20s.
+They were in the creative industries.
+I was a hip hop DJ as a kid
+and worked with different artists,
+but in my 20s I started three creative agencies
+and it was a lot of fun.
+It was what I was passionate about.
+But I hit an inflection point
+where I felt like I wasn't working on things
+that at the societal level I felt like were impactful
+in the sense that I wanted them to be.
+So I didn't get down to that business fully
+until I was like 31-ish.
+I wish I started at 22.
+The other thing I wish I started at 22 was investing.
+My parents were anxious about the markets
+and I was super conservative in my 20s.
+So if having a CD for me was like a big
+and then muni bonds by my late 20s,
+this is like diving in.
+So I lost a decade of compounding.
+So this is for me is partly like trying to help people
+avoid the ridiculous decision I made and the lost decade
+because that's an important decade.
+Absolutely, time is everything.
+And the earlier you start, the better.
+All good lessons that I know you're imparting onto your users
+and throughout the company.
+We wish you continued success.
+We're gonna have our eyes on you
+because we love what you're doing over there at Acorns.
+Noah Kerner, the chairman and CEO of Acorns.
+Thanks so much for joining the Express.
+Thanks for having me.

@@ -1,0 +1,659 @@
+It ain't cool being no jive turkey, so close to Thanksgiving.
+Yeah!
+Sometimes we just feel like, quitting, we still might.
+Why do we stand and fight? Trying to get it right.
+Sometimes it's hard enough, dealing with real life.
+We want to get off these tracks and fade like the final frame.
+Put up the house lights, walk into daylight, exposing our stage fright.
+But then we remember that November's November.
+Stocks rally into winter, like Dave and Sess dropping that Sprinter like the New York Knicks,
+on the fast break like a real Louis V, not one of those figs.
+Tis the season for gains now that the Fed looks done,
+and prices are stable.
+Is that deflate shun?
+Not if you like your filet mignon medium-rare
+off the grill with a tight Malbec.
+Throw me a beat.
+Microphone check, one, two, two, one.
+We gotta keep it fresh.
+It's the Thanksgiving edition of the Investopedia Express.
+Welcome back and welcome aboard.
+And so grateful to have you with us as always.
+And this train is going express
+as the major stock market indexes capped off the third straight week of gains as Treasury
+yields and the dollar kept on sliding.
+Cooling inflation has brought the temperature way down on the safety trade, and stocks,
+especially tech stocks, are back in the driver's seat.
+The NASDAQ added 2.4% last week and is up close to 12% in just the past three weeks.
+The S&P 500 rose 2.2% last week, it's up nearly 10% since the end of October, and
+the Dow climbed 1.9%, posting a 7.8% rise since this rally began.
+That 10% rally for the S&P 500, by the way, the best three-week stretch for the index
+since June of 2020 amid the crazy COVID rally of that spring.
+That seems like a long time ago.
+And investors, especially big institutional investors, are warming up to the notion that
+the U.S. economy might just settle into a soft landing after those 11-inch trade hikes
+and a trip up and down inflation mountain.
+According to B of A's latest Global Fund Manager survey, 67% of portfolio managers
+Fund managers believe that a soft landing for the economy, meaning no recession and
+a stabilization of prices, is the base case for next year.
+82% expect lower inflation, lower interest rates, lower bond yields, and a weaker dollar.
+That's the recipe for solid stock market returns, and two-thirds of those fund managers
+are expecting that to happen as well, with price targets at around $4,800 for the S&P
+500.
+It's sitting at around $4,500 right now, so that would be some serious upside.
+And that leads us straight into our big three, for the week.
+1. As sentiment improves, money flows follow. And if you follow the money, you'll see that
+more than $23 billion flowed into stocks last week. It doesn't sound like a lot, but it's
+actually the second biggest weekly inflow into equities this year. Most of that went
+into large-cap U.S. stocks, which experienced their biggest inflows since February of 2022.
+Money came out of U.S. Treasuries on a net weekly basis for the first time since last
+February, and financial stocks saw their first weekly inflows since July. Materials, by
+by the way, have seen inflows for the past five weeks.
+Those do not sound like defensive or recessionary trades
+and there's still more than five and a half trillion dollars
+sitting in money market funds, searching for higher ground.
+5% is fine, but not if stocks are having more fun.
+Number two, this sentiment shift is largely predicated
+on investors' expectations of the Fed's next moves
+and the Fed's next moves, as Jerome Powell keeps reminding us.
+Looking ahead, we will continue to take
+a data-dependent approach in determining the extent
+additional policy firming that may be appropriate. Data dependent, yeah we know. And the data is
+really about inflation and the labor market, the Fed's dual mandates. The Fed wants inflation closer
+to 2% and as of the latest CPI reading last week, it sits at about 3.2% right now. But it's
+accelerating at a much slower rate. The labor market is also cooling as only 150,000 jobs were
+added last month and the unemployment rate is at 3.8% right in the Fed's sweet spot of what it
+considers to be full employment. The thing is, inflation may not come down to 2% for a while.
+Consumers' expectations for inflation are 3.2% for the next 5 to 10 years, according to the
+Fed's latest survey, right where we are right now. Blame higher food prices, especially for meat,
+sugar, coffee, and bakery products, and blame shelter prices. Those continue to get more
+expensive month after month, but we may be coming to terms that those elevated prices
+are the new normal. And most investors don't think the Fed's going to hike rates again
+anytime soon to do anything about it. The Fed meets next on interest rates December 12 and 13,
+and right now the CME's FedWatch tool overwhelmingly indicates that the Fed will pause at that meeting,
+pause again at the January 31 meeting, pause again in March, and then cut rates by 25 basis points on
+May 1. After that, investors expect a series of rate cuts through November of 2025 that eventually
+bring the Fed funds rate to 3.8% two years from now. And number three, expectations for those
+lower interest rates have put the charge back into tech stocks in a big way. Last week, the S&P
+technology sector, the biggest sector in the S&P 500, accounted for 29% of its total market weight
+value, made a new all-time high. 26% of tech sector stocks hit a 52-week high. It's not just the
+Magnificent Seven anymore, but they do carry a lot of weight. XLK, the ETF that represents the
+the S&P 500 tech sector is up 47% in 2023 alone and in the past 10 years it's up 513%.
+Compare that to the S&P 500 which is up a little over 200% in the past 10 years and
+you can see where the muscle is in this stock market.
+That's a 20% annualized return for the tech sector versus 12% for the overall market.
+As long-term investors we have to ask ourselves if we think this trend is going to continue
+for the next decade.
+Will AI, Web 3, robotics, quantum computing, and whatever else is looming on the technology
+horizon power another 10 years of 20% plus annual returns?
+It's unknowable, but it's tough to bet against tech, especially when interest rates are expected
+to head lower over the next few years.
+Lower rates are the spinach to tech's Popeye.
+Let's get set up for the week ahead, and it'll be a shortened trading week due to the
+Thanksgiving holiday here in the US, but we will have a healthy serving of corporate
+earnings to digest from widely held companies, including Nvidia, Lowe's, Best Buy, Deere,
+and Analog Devices, just to name a few.
+This week also kicks off the official start to the holiday shopping season, but as we
+know, that really started a few weeks ago with Amazon's double-prime day and pre-season
+sales from Walmart and Target.
+Spending on holiday shopping is expected to climb about 3.4% this year from 2022, according
+to the National Retail Federation.
+That boils down to about $900 per person.
+like Target and Walmart have already warned of slowing sales and price-sensitive consumers.
+And with credit card debt at a record high and delinquencies on the rise, holiday sales
+could come in lower than expected. But I wouldn't bet on that. Betting against the American
+consumer is never a good idea. We know how to spend.
+The economic calendar will be light with a couple of purchasing manager index flash
+reports and the release of the minutes from the Fed and ECB's latest meetings on interest
+rates. They all pressed the pause button on rate hikes the last time these central
+banks met, and odds are they'll do it again in December.
+But we know it's all data-dependent.
+The past couple of years have warped many of our perceptions about retirement and the reasons
+why we save and invest.
+The pandemic made many of us value experiences more and rediscover who we want to be, where
+we want to be, and how we plan to get there.
+Our notions about what wealth means and what retirement looks like have also been evolving.
+I'm fascinated by these ideas, and I believe they will be the foundations on which we
+pursue our financial goals, how we interact with the financial services industry, and the
+future of financial advice.
+I recently spent time with three of the best and most influential financial advisors and
+planners in the industry today.
+Jamie Hopkins, who now runs the private wealth management business at Bryn Mawr Trust, Peter
+Lazaroff, the chief investment officer at PlanCorp, and Doug Bonaparth of Bonafide Wealth.
+They've all been on the Express before, and they are among the top 10 of the Investopedia
+100, Investopedia's list of the most influential financial advisors in the country.
+Jamie Hopkins here, Senior Vice President of Private Wealth Management at Bryn Mawr Trust.
+Yeah, one of the things we got wrong about this as an industry, as a profession, is that
+we approach retirement very binary, very black and white.
+That if you didn't hit that magic number of a million dollars or two million dollars,
+whatever it was in your mind, you somehow failed.
+And I'm not going to call out the specific technology in our space, but you can envision
+it in your head, where it all talks about success or failure for retirement.
+And retirement is not going to be success or failure.
+It's not binary.
+It's not if you had to spend 50 less dollars a month,
+you somehow failed retirement.
+That's not how Americans live.
+It's not how we operate.
+The reality is we adapt.
+We change.
+We modify things.
+And what we have to do a better job on as an industry,
+as a profession, is actually getting people
+to the point where we think about retirement
+as just a change in life that we're going to adapt to it
+and helping people prepare for that,
+both from a mindset and from a financial aspect.
+think we've done a really poor job on.
+We help people save for retirement.
+We don't help people learn how to spend.
+And we really don't help people learn that like retirement's going to be adaptive.
+And what I mean by that is, you know, you're going to spend less money year
+two than maybe year three, and that's okay.
+It's not a 4% of your portfolio adjusted for inflation every year.
+Nobody spends like that, but that's how we show everything.
+So we're at a financial planning conference.
+The FPA is annual conference.
+A lot of financial planners here, a lot of coaches, a lot of people
+tied to the industry and a lot of what they're thinking about and talking about is how are
+they going to help their clients with these challenges, but also how is this business of
+financial planning going to evolve over the next decade given all the technology and given on the
+fact that either a lot of people don't believe that they can ever retire and plan for it or
+the resources are there and they'll figure it out themselves.
+Yeah, and I'll tell a little bit of a story here real quick kind of example of where I think this
+is moving. So five years ago when I joined Carson, people were like, oh, well, he'll
+probably roll out a retirement income software or something upfront. And because I spent so
+much time in that space and I didn't. And one of the reasons was I found everything to
+be wholly unimpressive. I didn't love it. I don't think it told a good story. I don't
+think it modeled things. Well, it was way too static and it kind of told the same thing
+that you're going to fail if you don't do X, Y, or Z. And I hate that approach. I
+I actually think that for a lot of people,
+it causes a lot of stress.
+When you show those stress tests of portfolios
+and them running out of money in 20% of scenarios,
+I actually think that's a terrible way
+to communicate a plan and planning to somebody.
+So we're starting to see technology develop.
+What we're going to have, I mean,
+look, that was a limitation of tech.
+It was a limitation of the offerings.
+That is starting to change.
+You have, I mean, I can see the tech village from here.
+You've got places like Income Lab, which is a lot better.
+We've got Morningstar, which has added more features
+than it did before.
+But what we're going to see is technology
+like the income labs of the world that actually
+can show adaptive-based spending that is not
+binary success and failure.
+And that's going to be really important.
+I also think the other dynamic that
+is occurring out there in our space
+is kind of two things at once, is we're not
+going to have enough financial planners and advisors
+to serve the market as it's served today.
+So we got to see firms and people adapt technology
+and serve more clients than they ever had before,
+or they're just going to end up underserved.
+And that's one of the big things that, you know,
+I think at CFP and FPA,
+I wants to talk about how do we grow this profession,
+get it bigger?
+Fundamentally, it's not going to grow.
+I have no belief it's going to grow.
+It's going to be smaller in 10 years than it is today.
+Doesn't mean the dollars and number of people
+we serve will be,
+but the number of professionals in this business
+is going to shrink over the next decade.
+And so how do we leverage technology and AI
+and other solutions to be able to serve more people
+efficiently with less workers in the profession.
+In this industry, a lot of people
+are talking about peak 65, 2024 being the year
+that the most Americans turn 65, the traditional retirement age.
+A couple of things.
+A lot of people are working way beyond 65.
+We're actually living a lot longer than we used to live.
+So that period of not earning that regular income
+is extending, and everything costs more,
+whether it's health insurance premiums or just inflation
+in general.
+So when you look at an event like a peak 65
+and then you look at the industry as it is today,
+what does the future hold?
+Yeah, so I don't worry a lot about that date.
+So the interesting thing is that date's kind of meaningless
+to me in the sense that the problems with retirement
+don't occur at 65.
+Most of our financial problems with retirement
+occur at 80, 85, 87.
+The real problem is 20 years away.
+Now, the planning work needs to be done today,
+but the reason that that's a problem is inflation
+isn't really a today problem.
+I know that sounds weird because people
+feel the burden of inflation daily
+when they have to go buy new things.
+Inflation is a 30-year problem.
+With high inflation in the last couple of years,
+we have permanently increased the cost
+for retirees of retirement, even if they're retiring next year,
+even if they're retiring yesterday.
+That is a big challenge.
+But it's not today.
+The impact of that is 25 years from today on a portfolio
+that those people start running out of money.
+The impact is they don't have long-term care plans in place.
+I don't think we have a retirement crisis in this country,
+but I do think we have a long-term care crisis.
+I think individuals have retirement crises,
+because they just don't have enough money
+to live a comfortable life.
+But I think as a country, we adapt to retirement.
+I think people find ways to work more.
+We cut back expenditures.
+There's a lot of things people can do to get by.
+It doesn't mean they're living their best retirement.
+But I worry a lot about the long-term care crisis
+that's coming.
+We don't have enough people that can actually
+take care of these.
+Families got smaller.
+Care got too expensive.
+not enough facilities are being built.
+We don't have enough healthcare professionals in that space.
+That is a problem that I just don't see a good solution for.
+The government hasn't stepped into it
+and the private industry has basically said
+they can't figure out how to make it affordable
+to actually deal with the issue.
+All right, for the folks that are out there,
+call them in their 40s or 50s right now,
+doubting that they're ever gonna be able to retire
+or hit that magic number.
+Give us one or two pieces of advice.
+Yeah, so for people in the 40s or 50s,
+I'll give two pieces of advice for retirement.
+One is learn how to treat spending from your assets
+as a good thing.
+And that sounds really weird, but I
+think people need to learn how to do that
+throughout the course of their working years.
+So I've actually suggested this.
+We've kicked it around with some advisors.
+I have never really put it in practice.
+But should we have a year in your life
+where maybe you're putting $20,000 into your retirement
+portfolio, but we actually take a distribution that year,
+and we learn how to spend it?
+So we're kind of keeping your savings flat,
+but you understand what a distribution looks like.
+You understand what a portfolio looks like
+when it doesn't just go up every year
+because you sent money into it.
+What does it look like to take money out?
+And actually to tell yourself that it's okay
+to see that and feel it.
+We as humans, right, we do things
+based off the experiences and knowledge that we have.
+So if we go all the way to retirement
+and we never experienced taking distributions
+or spending money,
+then we're not gonna know how to do that in retirement.
+And then what we see is a lot of retirees
+look at spending down their portfolio as a loss
+and it's painful, then they choose not to do it.
+The second one is don't overly self-insure in life.
+That doesn't mean that you need to go buy insurance policies.
+What I mean by that is what a lot of Americans do
+as they approach retirement is we self-insure every risk,
+meaning longevity risk, we don't go find a way to take
+or mitigate some of that risk.
+We hold onto our assets.
+We don't get long-term care insurance
+or a long-term care plan in place.
+So we hold onto assets.
+And what happens there is you have a lot of stress
+because every day the totality of your investment portfolio
+is not there for that day.
+You are self-insuring and holding those assets
+for a 30 year time period.
+So you have no real liquidity.
+You can't spend that money safely
+because if you start spending it,
+you're actually pulling away from those risks
+that you're gonna face in 20, 30 years.
+And what I see with that is just, it's very stressful,
+right, it adds a lot of mental anguish to retirees
+where they're the ones checking in
+on their account every day
+because they are providing both their current income
+and basically acting as an insurance company for themselves,
+which adds a lot of stress.
+Great point, knowing how to spend it
+and actually being realistic about what that actually
+means to you.
+Well, people think it's the beginning of the end.
+It actually is the smart strategic way
+to think about how you're going to spend your time
+and how much it costs to be you and how much you're going
+to actually need to spend to make that possible.
+Such good advice.
+Best wishes on the new gig, and we
+look forward to talking to you again soon, Jamie.
+Well, thank you for having me on.
+I always appreciate it and great to see you out here at FBA.
+Good to be here.
+I am Peter Lazaroff, Chief Investment Officer at Plank Corp.
+So good to see you, my friend,
+one of the Investipiti 100,
+perennially, year after year.
+Peter, what kinds of questions are you hearing
+through your clients and through the advisors
+that you work with?
+So there's a couple that come to mind,
+some of which have been popping up pretty routinely.
+They're not that specific to this year.
+For example, it seems like people are always wondering,
+hey, when is the right time to invest this large amount of cash?
+Maybe they got a bonus, or they sold a business,
+or they liquidated some of their equity compensation,
+and they always want to know what's
+the right time to get in.
+And Caleb, you and I know that mathematically speaking,
+the best way to do it is just to do it all at once,
+do a lump sum investment.
+But behaviorally, that can be difficult.
+People are dealing with regret,
+and the literature on regret will tell you
+that that feeling is stronger when you can clearly
+see the alternative path.
+And so when you look at investing union,
+you decide to invest all at once and the market goes down,
+you see that so clearly and the regret is gonna be strong.
+And so some people want a dollar cost average into that.
+That's one conversation that for whatever reason
+is popping up quite a bit right now,
+but it's pretty regular.
+The other thing that seems to be coming up
+is that with yields so high,
+we do have some clients asking the question,
+should I be holding cash instead of bonds?
+Why would I own a diversified bond fund
+with a duration of six or seven
+when it's yielding less than cash.
+And like any sort of asset class investing,
+cash is in an asset class within fixed income.
+Different asset classes win over different periods,
+and yes, cash is winning right now.
+But on a, let's say,
+let's just talk about three month treasuries
+to keep it simple.
+If we're trying to lock in, say, a 5.5% yield,
+well, at the end of three months,
+if yields are lower than 5.5%,
+you won't actually earn that 5.5%
+over the course of a year.
+And I'm not saying that will happen,
+but at some point, it will.
+Yeah, that's the headline number gets people's attention,
+but you got to think about duration
+and how long you're actually going to hold for.
+I do feel like people are saying, well, rates
+have to go down eventually.
+I don't know if they have to go down.
+People always say rates have to go up
+or they have to go down.
+Nobody ever talks about them staying the same.
+I feel like that's a wildly under-discussed issue
+where I think the idea of interest rates
+saying the same longer is pretty reasonable.
+But that should, bonds go into cash conversations
+pretty regular.
+And we talk about reinvestment risk.
+We talk about some of the benefits of being in a diversified bond fund rather than cash,
+and then just reminding our clients why do you own bonds in the first place.
+It's for diversification.
+And the second that you start chasing return, it doesn't really matter what asset class
+you're in, you're going to eventually get burned.
+And you would have to know the exact right moment to get in and out.
+A lot of people would argue that in fixed income, if you're timing from cash to bonds,
+it's not as severe as missing out on the upside of, say, stocks.
+Totally true.
+It's still market timing and man, cash is like a drug where once you are in cash, it can
+be paralyzing to get people out of cash.
+Anytime I've ever witnessed anybody go to cash for any reason, they struggle so hard about
+getting in at the right moment regardless of the asset class they're getting back into.
+Right.
+There's something about looking in your banking account and seeing the same balance day after
+day that feels more comfortable versus looking at a stock ticker or looking at your portfolio
+performance especially in a year like last or in the last few weeks.
+seen these surveys, whether it's Gallup or others that talk about, you know, for younger
+people, what do they think is the best long term investment that's going to pay them back
+the most and they get the choices of real estate, stocks, bonds, cash, gold, crypto.
+Most people choose real estate because it is tangible. You can go touch your house.
+You can go, you know, walk in the front door. You can mow the lawn. Whereas you're not
+watching it go up and down on a ticker every day. What do you think is the best long
+term investment for young people?
+Undoubtedly, it stocks to me.
+When I see those surveys that show particularly that younger people don't see that, I do get
+worried.
+It's a lot of why I'm so passionate about creating content, about disseminating that work, about
+making sure people understand that that's the way to create wealth.
+It's not to say that you can't create wealth through real estate, but think about the difference
+between something like buying a total world index fund versus buying one house that's
+a single geographic bet on one neighborhood, in one city, in one country, and it's just
+not that diversified.
+It could work out for you.
+The long-term data suggests that net of the maintenance costs that you put into a house
+that you're maybe barely keeping up with inflation.
+I don't think of something where I have to put money into it to keep up with inflation
+as an investment.
+I think of a house as a use asset.
+If you're buying real estate as an investment, it's just not that diversified and you should
+recognize that historically, stocks are risky, and that is the cost of higher compensation.
+They are less tangible. I do get that. That's sometimes why I enjoy seeing people who maintain
+an individual stock portfolio to the side. You'll often hear me say that, hey, individual stocks
+are really risky and dangerous. That can be true. But if you're just carving out a small piece of
+your portfolio to express yourself and get a little more tangible with something that otherwise
+wouldn't feel that way, I'm a little more in favor of it.
+Gives you a chance to learn about it, do your own research, make some mistakes,
+but don't make it with 50% of your net worth. Make it with less than 5% and it's a great way to learn.
+It's a great way to keep this education journey going, something you're so good at doing.
+Peter Lazaroff, so good to see you, my friend. Thanks for spending some time with us.
+Pleasure is always good.
+Douglas Bonaparth, President, Bonafide Wealth.
+Doug, what does the word wealth actually mean to you?
+For me, it's about time and getting to use your time however you want.
+When you are wealthy, you don't need to answer to anyone when it comes to how you are going to spend
+your time. Retirement is a construct of the industry that you and I both work in, you on the
+advisory side and me on the media side. But it's also changed in a lot of ways, I think, over time.
+Pitch to us is one thing, but I think it means something different to different people. You see a
+a lot of younger professionals in your practice. What do you think it means to them and what does
+it mean to you on the advice side? Yeah, it still goes back to time.
+I grew up in the retirement capital of the world. So I guess I'm a de facto authority. That's Boca
+Raton. And I watched my own grandparents. I lived down the street for them. Classic retirement.
+They would wake up, play golf, go to the deli, sleep by what? Like five, six o'clock,
+wake up early, do it all over again, play with the grandkids. I had a wonderful experience with
+with them and being a millennial, I was like, huh,
+yeah, I can't imagine our retirement being like that.
+And then I had kids and I'm like, wow, that sounds really good.
+I'd love to absolutely do nothing and just chill like all day.
+So maybe grandma and grandpa had it figured out,
+but somewhere along the way,
+we turned retirement into financial independence.
+And that was largely driven because we just don't have
+the same social safety net that my grandfather did, right?
+Served in the army, got a pension there,
+you know, worked his whole life, got a pension there,
+saved up money, was able to move to Boca and chill.
+A lot of that stuff doesn't exist,
+not only for millennials, but baby boomers, Gen X,
+and certainly on down to Gen Z,
+and whatever my kids are, Alpha, I think it was this.
+So what's that mean?
+We have to rethink this, right?
+We have to rethink what this means.
+And for a lot of clients, this is about
+how do we maximize our time?
+We might not have the luxury of being able to fully stop
+working at that age, whatever it may be.
+Let's go with 65, that classic default.
+But what if you're doing something you really love
+or something that fulfills you and brings in some dough
+or supplements what the say, what savings
+and whatever social safety net is there,
+call it social security.
+So you gotta have a more dynamic approach to this now, right?
+It's not gonna be just one thing.
+They had it much more simplistic.
+There's beauty to that within they, my grandparents.
+Now it's not as beautiful, right?
+It's a little bit of a jigsaw puzzle
+that we need to figure out all the more reason why
+you have to pay attention to this.
+You have to be financially educated.
+It comes back to that.
+When things were more simple,
+when there were less products,
+less people selling new stuff, less social media,
+you could keep your eye on the prize,
+I think a little bit better, you could stay focused.
+It's very distracting out there.
+We're even changing the name of retirement
+to financial independence.
+Great, we just confused people on that one, right?
+So welcome to the industry,
+but that's where the focus needs to be.
+How do you solve the jigsaw puzzle for today's retirement?
+Sounds like that's also the new challenge
+or the more clear challenge
+for financial advisors like yourself, right?
+Because not everybody's retirement
+personal finance situation is the same. That's why we call it personal finance. But I also feel like
+the dynamics changed a lot where thinking about experience, thinking about how you spend your
+time and how you spend down your assets is kind of a bigger part of the picture.
+Absolutely. Take college education, for example. When I think about this for my kids, why am I
+talking about college education? Because think about the cost of sending kids to college these
+days. Or what will that cost be when I send my kids to college? Should I be paying for that? Or
+Or should I be focused on my own financial independence?
+I'm a product of student loan debt, so is my wife.
+We get it.
+Would we make different decisions?
+Probably.
+Are we like, oh no, never again, no debt?
+No, I just think it's a tool that should be used differently
+than how we used it.
+And a bunch of other ways to fund their education,
+should they even be doing that?
+Assuming that's what's right for them.
+Who knows what the labor market's gonna look like?
+But again, the central point I'm making is about, huh,
+how do we think about these decisions now
+in terms of what used to be, you have to go to college,
+you have to get that degree,
+we're gonna spend the money on doing that,
+even if it means we have to work another 10, 15, 20 years.
+I don't think this is a selfish act.
+I think this is a, huh, what's the reality
+when it comes to how do we get to this goal of,
+I don't wanna be working for the rest of my life.
+I'm willing to work maybe part-time,
+or maybe not at all, but I want the options
+and I wanna be able to know how to solve
+for whatever path it is I'm gonna go down.
+And here we're just using college education for your children as one example, because
+it's a huge expense typically.
+Yeah.
+When we talk about now the investing part of it, the saving and investing part of it used
+to be pretty straightforward.
+And maybe it's still kind of is, but 60-40 was kind of the rule.
+Maybe you barbell that and you expand it and contract it as you get older and you get
+a little bit more conservative.
+But it feels like things have changed.
+Zero interest rate policy is gone.
+to believe in living in this higher for longer rate environment for who knows how long, but
+it also just feels like that dynamics or the foundations of investing the way at least that
+I grew up with it and you were trained in it have changed a little bit. Do you feel that
+in your practice and are you taking some steps towards helping your clients understand that and
+change the way they think about saving and investing for the future? Yeah, I think more
+of it's the same than really not. And I think there's just more external forces and distraction
+and noise and dangling carrots out there than ever before to make one think that you really
+need to change the formula or the recipe. And I'm not here saying everyone should go pick up a 6040
+portfolio and hang on to that forever. You have the dawn of new asset classes like crypto coming
+into the place. And this isn't, hey, dive into that either. That is an indication of how much
+things like the birth of a new, when have you seen the birth of a new asset class? I've never
+I would argue my father's never seen that.
+You maybe have seen new financial products.
+So that does make that claim of are things different?
+Is it different this time?
+A little bit.
+It's hard to say it's not.
+So we're working on our next book,
+which won't be out for quite some time right now
+called The Merge, where we're examining the power dynamics
+between couples and relationships and money,
+something no one's really dived into.
+We want people to be seen and heard
+when it comes to how the role of money plays
+in their relationships, it should be no surprise
+that a lot of relationships, the majority of them
+don't work out because of financial issues and money.
+And it's not a scarcity thing,
+it's a being heard and seen thing, which is pretty deep.
+So we're writing the joint account over on Beehive,
+which not only answers questions every other week,
+I'm the guy reading, or excuse me,
+answering reader questions, but we're diving
+into some of these issues and these dynamics
+in terms of how couples view their own identities with money
+and then bring them together to create one household identity.
+The stuff needs to be talked about.
+The role of money in your life and relationship
+is inescapable.
+It is forever.
+You don't win at the game of money.
+You have to play it forever.
+And if you can't communicate, and if you can't collaborate,
+and you can't be open and check in
+and know those foundations that drive the mechanics
+of your financial life as a household,
+you're not gonna do as well as you would like.
+Yeah, and with the right partner and the right transparency and communication, there's untold
+limits about what you can do. Love the fact that you're doing it. And finally,
+we have the right people who are helping us answer those questions. We're going to get her
+on this show as well. Doug Bonaparte, thanks so much for coming back on the Express.
+Thanks, guys.
+It's terminology time. Time for us to get smart with the investing and finance term we need to
+know this week. And this week's term comes to us from Doug McMillan. He's the CEO of Walmart,
+just the world's biggest retailer and someone who knows a thing or two about market economics.
+Doug suggests deflation this week and no, he didn't DM us on the
+gram with that suggestion. He brought it up on Walmart's earnings call last week.
+Macmillan said, quote, in the US, we may be managing through a period of deflation in
+the months to come. While that would put more unit pressure on us, we welcome it because it's
+better for our customers, end quote. So in honor of Doug and the good people at Walmart,
+let's break down deflation since we have a feeling we're going to be hearing a lot
+about it in the next couple of months. According to our favorite website, deflation is the general
+decline of the price level of goods and services, the opposite of inflation, of course. Deflation
+is usually associated with a contraction in the supply of money and credit, but prices can also
+fall due to increased productivity and technological improvements. Now, deflation is very different
+from disinflation, which is lower prices but still a positive inflation rate. And while most
+Most consumers think they would prefer outright deflation, falling prices and declining inflation.
+It doesn't always taste so good when it's happening.
+Historically, deflation tends to come with declining wages, mounting debt problems, and
+a recession.
+So pockets of deflation are good, but in order to get that soft landing that those portfolio
+managers are hoping for, disinflation might be more our tempo going forward.
+Thanks for joining us this week, as always, and a very special thanks to all of you on
+this Thanksgiving week.
+We are grateful to you for riding on the Express each and every week, and special thanks also
+to Jamie, Peter, and Doug for sharing their expertise and their perspectives with us once
+again.
+I've learned so much from all of them, and you can share in their knowledge by following
+them, on their socials, we'll link to those, and all the reports we cited on the show
+in today's show notes.
+Grab those wherever you ride the Express, and a Happy Thanksgiving to all who celebrate.
+Turkey prices, by the way, cheaper than last year.
+There's your deflation right there.
+And we'll talk again a little further on down the line.

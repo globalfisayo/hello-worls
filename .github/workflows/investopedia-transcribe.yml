@@ -1,0 +1,139 @@
+name: Investopedia Express transcripts
+
+on:
+  push:
+    branches:
+      - claude/investopedia-podcast-stocks-5p6fhw
+    paths:
+      - ".github/workflows/investopedia-transcribe.yml"
+  workflow_dispatch:
+    inputs:
+      shard_count:
+        description: "Parallel shards"
+        required: false
+        default: "20"
+      limit:
+        description: "Max episodes per shard (0 = all)"
+        required: false
+        default: "0"
+      model:
+        description: "faster-whisper model"
+        required: false
+        default: "small.en"
+      only_missing:
+        description: "Skip episodes that already have a transcript"
+        required: false
+        default: "true"
+
+env:
+  # A push of this file runs a two-episode smoke test; a manual dispatch sets the real values.
+  SHARD_COUNT: ${{ github.event.inputs.shard_count || '1' }}
+  LIMIT: ${{ github.event.inputs.limit || '2' }}
+  MODEL: ${{ github.event.inputs.model || 'small.en' }}
+  ONLY_MISSING: ${{ github.event.inputs.only_missing || 'true' }}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: investopedia-transcribe
+  cancel-in-progress: false
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      shards: ${{ steps.p.outputs.shards }}
+    steps:
+      - id: p
+        run: |
+          n="$SHARD_COUNT"
+          echo "shards=$(python3 -c "import json;print(json.dumps(list(range(int('$n')))))")" >> "$GITHUB_OUTPUT"
+
+  transcribe:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        shard: ${{ fromJSON(needs.plan.outputs.shards) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install faster-whisper
+        run: pip install -q faster-whisper requests
+      - name: Transcribe shard
+        run: |
+          python investopedia-express/pipeline/transcribe.py \
+            --shard ${{ matrix.shard }} --shards "$SHARD_COUNT" \
+            --limit "$LIMIT" --model "$MODEL" \
+            --only-missing "$ONLY_MISSING" --out out/transcripts
+      - uses: actions/upload-artifact@v4
+        with:
+          name: transcripts-${{ matrix.shard }}
+          path: out/transcripts
+          if-no-files-found: ignore
+          retention-days: 7
+
+  collect:
+    needs: transcribe
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: transcripts-*
+          merge-multiple: true
+          path: out/transcripts
+      - name: Merge transcripts into the data set
+        run: |
+          mkdir -p investopedia-express/data/transcripts
+          n=$(ls out/transcripts 2>/dev/null | wc -l)
+          echo "new transcript files: $n"
+          if [ "$n" -gt 0 ]; then cp out/transcripts/* investopedia-express/data/transcripts/; fi
+          python3 - <<'PY'
+          import json, pathlib
+          d = pathlib.Path("investopedia-express/data/transcripts")
+          idx = {"episodes": {}, "sources": {"whisper": "faster-whisper on the episode audio"}}
+          for f in sorted(d.glob("*.json")):
+              j = json.load(open(f, encoding="utf-8"))
+              idx["episodes"][j["id"]] = {"source": "whisper", "model": j.get("model"), "audio_seconds": j.get("audio_seconds"), "segments": len(j.get("segments", []))}
+          json.dump(idx, open("investopedia-express/data/transcripts_index.json", "w"), indent=1)
+          print("transcripts indexed:", len(idx["episodes"]))
+          PY
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Rebuild mentions, prices, logos and app index
+        run: |
+          pip install -q -r investopedia-express/pipeline/requirements.txt
+          cd investopedia-express/pipeline && python run.py --mode full 2>&1 | tee ../data-raw/pipeline.log
+      - name: Commit and push
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          tmp=$(mktemp -d)
+          for d in investopedia-express/data investopedia-express/data-raw investopedia-express/logos; do
+            [ -d "$d" ] && mkdir -p "$tmp/$(dirname $d)" && cp -r "$d" "$tmp/$d"
+          done
+          git checkout -- . && git clean -fdq investopedia-express || true
+          git fetch origin "${{ github.ref_name }}"
+          git reset -q --hard "origin/${{ github.ref_name }}"
+          for d in investopedia-express/data investopedia-express/data-raw investopedia-express/logos; do
+            [ -d "$tmp/$d" ] && mkdir -p "$d" && cp -r "$tmp/$d/." "$d/"
+          done
+          git add -A investopedia-express/data investopedia-express/data-raw investopedia-express/logos
+          git diff --cached --quiet && { echo "No changes"; exit 0; }
+          git commit -q -m "data: add Whisper transcripts and rebuild mentions, prices and logos"
+          for i in 1 2 3 4; do
+            git push origin "HEAD:${{ github.ref_name }}" && exit 0
+            git fetch origin "${{ github.ref_name }}" && git rebase "origin/${{ github.ref_name }}" || { git rebase --abort; git reset -q --hard "origin/${{ github.ref_name }}"; }
+            sleep $((i * 5))
+          done
+          exit 1

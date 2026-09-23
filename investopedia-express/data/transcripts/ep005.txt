@@ -1,0 +1,286 @@
+They say the trend is your friend in investing, but it's awfully hard to pin that trend down
+in September, what the stock market is trying to tell us now.
+Palantir is preparing for its IPO this week, and investors have been waiting a long time
+for this one, what you need to know about the mysterious data mining company before it
+goes public.
+Is the recent market volatility making your stomach turn?
+Don't worry, we've actually seen this movie before in the last recession.
+Fidelity's Juri and Timur joins the Express
+with his historical perspective.
+And why is the Volcker rule coming up again this week?
+We'll explain in this week's edition of Terminology.
+On your mark, get set and get ready
+for the Investopedia Express.
+I'm your host, Caleb Silver.
+Here are a few big stories to get us going.
+Since last week's episode, the S&P 500 has fallen into
+and out of a correction.
+That's a drop of 10% or more from recent highs.
+Tech stocks, especially the mega caps,
+have led the retreat and the recovery like they have all year.
+But money flows tell us that institutional investors started pulling money out of stocks
+last week just after coming back into the market after sitting on the sidelines all
+summer.
+Where did they put it?
+Government bonds, cash, and gold, the same places they've been hiding since March.
+And the asset class returns for 2020 tell the tale.
+Gold has delivered investors a 22% return this year.
+US Treasuries and investment-grade bonds have delivered around 6-7% returns this year, and
+you can thank the Federal Reserve for those since they have been the big buyer of those
+securities.
+Global equity returns are effectively flat for the year.
+Of course, a select few individual stocks have done a lot better than that, but for
+every big winner, there are several losers in its wake.
+That lack of conviction may keep stocks range-bound through the election.
+Speaking of elections, the US Presidential election is the number one concern on the
+minds of Investopedia readers, according to our recent survey.
+Does the person sitting in the Oval Office actually move the market?
+We'll get into that question with Fidelis, Yuri and Timur in just a little bit.
+2020 has been a banner year for initial public offerings, with three months left on the calendar
+U.S. listed IPOs have raised nearly $95 billion through last week, according to Deologic.
+That already surpasses the totals of every year except 2014 since the tech bubble in
+2000.
+There have been some notable blockbusters, including the IPO of cloud computing software
+provider Snowflake a couple weeks ago.
+That was the biggest software IPO in history, by the way.
+This week brings Palantir to the public markets, and investors and its venture capitalists
+who have backed the mysterious data mining company since it was founded in 2003, they've
+been licking their chops for this debut.
+For more on Palantir, its founder, and the prospects for the company, we turn to our
+own Deb DeSouza, my partner on the Investopedia Express daily newsletter.
+Deb, welcome back to the Express.
+Hi, it's good to be back.
+What do we know about Palantir
+besides that it's backed by Peter Thiel
+and some of the most well-heeled
+venture capital firms in the world?
+What does this company do?
+So Palantir has been around for a while.
+It's been around since 2003.
+It builds searchable platforms for its customers,
+which are mainly government agencies
+or police departments.
+It builds these platforms that allow them
+to look at a collection of data
+with visualizations to spot patterns, track criminals.
+For example, it builds a license plate database.
+It helps the US military to take bombs, et cetera, et cetera.
+So it's got some government contracts
+with some big government agencies,
+plus it's work in the private sector,
+but it is mining data,
+which is the currency of the 21st century.
+Deb, we've seen a lot of investors put currency
+in data mining and data software companies
+with the recent IPO of Snowflake.
+Is that what's generating the excitement here?
+this is a real business, right?
+Yeah, of course it is.
+It's fun to remember though that Palantir is only accessing the data that it's given.
+So when it has access to sensitive data like from the CIA or the FBI, it's using their
+data to build these platforms and help them out.
+So it's really building a way for them to look at their data in a better way.
+Let's talk about Alex Karp, the founder and CEO of Palantir.
+He's kind of an iconoclast in Silicon Valley.
+In fact, he moved the firm out of Silicon Valley.
+What do we know about Alex Karp and his sort of vision for the company?
+Right.
+Alex Karp is one of the three founders alongside Peter Thiel and Stephen Cohen.
+He's an interesting guy like the other two.
+He has a doctorate in critical theory.
+And he recently wrote in the S1 filing a letter that distanced Palantir from the rest of
+the tech companies that he says takes advantage of customers by selling that data.
+It was a strange move to do, but you can sort of see him position Palantir in a more defensive
+way, and he's expecting some of the backlash that comes with the work that they do.
+In fact, in Palantir's S1 filing, it lists among the risks social activists ruining its
+reputation or punishing its reputation.
+Even a new government, even a new administration could probably see what it does as negative
+and move away from using its services.
+These are risks that the company faces.
+And because of the kind of data it handles,
+the other big risk is breaches or bad actors
+within these firms or agencies.
+Palantir, definitely in a sense of the spot,
+especially with the US presidential elections
+coming in the next few weeks,
+the company trying to raise upwards of $22 billion
+in a direct listing to go public.
+Deb, thanks for the time.
+Thanks. Thanks for having me.
+The fastest bear market in history,
+followed by the fastest bull market recovery in history,
+followed by a correction for US stocks,
+followed by yet another bounce back in just the last week.
+Feeling the volatility?
+We all are.
+But what are the market signals telling us now?
+Well, it's my pleasure to welcome in Urian Timmer
+to the Express.
+He's the director of Global Macro
+for Fidelity Management and Research
+and a longtime market watcher.
+Welcome to the Express, Urian.
+Hello, thanks for having me.
+You point out a lot of comparisons in your research
+to the 2008, 2009, 2010 recovery
+to what we're seeing right now in U.S. equity markets.
+What are the key similarities and differences
+And how can they help us make sense of where we might be headed?
+Yeah.
+So obviously there's always going to be a lot of differences between cycles, but the way
+that the market is leading the fundamentals here is very similar.
+And if it's one thing I've heard, and I'm sure you've heard it as well over the past
+six months or so, is that the market is disconnected from reality, Wall Street versus Main Street.
+Markets are delusional.
+They don't reflect what's going on around us with the pandemic and the fallout from
+that crisis.
+But in fact, the market actually is doing what it typically does, which is it discounts the
+future.
+The market doesn't always discount the future correctly, but it's always discounting.
+And especially at inflection points, you can see a big difference between what price is
+doing and what the fundamentals are around us.
+I mean, price is always leading the future, but during an uptrend or a downtrend, you
+may not notice it because it's going in the same direction.
+But at inflection points, price will tend to lead by a couple of quarters.
+And that's exactly what happened in 2009.
+The market following the financial crisis bottomed in March of 09.
+By the time earnings actually bottomed six months later, the S&P was up 50% already from
+the low.
+This time around, it's exactly the same thing.
+So it looks like earnings are bottoming around now, price bottomed six months ago, and the
+market is up around 50%.
+or at least it was last week, it's up 45% today.
+So retail investors you're in have grown very anxious
+in recent weeks, especially as the election nears.
+That's according to a recent survey
+that we've done on Investopedia with our readers,
+but you can see it in volatility.
+You can see in volatility pricing,
+VIX pricing out into the election period.
+Is there anything we as individual investors
+can learn from history, past elections,
+that can help inform us as to what we might expect
+over the next five weeks?
+I've looked at elections and their impact
+on the markets or their perceived impact on the markets
+for my entire career.
+And I've sliced it basically any which way you can
+in terms of, okay, which party wins the White House,
+which party wins the Senate or the House of Representatives?
+Is it a sweep?
+Is it a gridlocked government?
+And what happens to the stock market over the subsequent
+one, two, three, four years?
+And what I found is a very consistent pattern
+that while different election outcomes can have
+a pretty different effect on the markets,
+depending on what the outcome is,
+whether it's a sweep from which party, et cetera,
+over the full four year term of a president,
+those differences fall away.
+So if you look at the two years following an election,
+you can see that this party does better than that party
+in terms of the future return for the stock market,
+but those differences are all gone over four years.
+And four years later, no matter how you slice the data,
+The return is about 9% per year.
+And that shows you that ultimately the markets are bigger, the economy is bigger than an
+election cycle.
+And I think also the midterm elections, which can be a course reset if the pendulum is swinging
+too far in one direction or another.
+I think that's also a very important way for the markets to kind of reset.
+So what are the key indicators that you look at on a daily or weekly basis to help you
+gain perspective of where we are in this market cycle. You do this every day, you've been
+doing it for years. What are your go tos?
+I started out as a technical analyst, so I still look at a lot of charts. I make all
+my own charts and I've got probably a lot of them. And so I will look at, at least
+on the shorter term stuff, I will look at a lot of indicators. For instance, I'll look
+at the percentage of stocks in the S&P that are trading above or below their 50-day
+moving average for instance or their 20-day moving average or their 200-day moving average.
+And for instance, a few weeks ago when the market made its new all-time high on September
+2nd, it was $35.88 on the S&P 500.
+Something like 90% of the stocks in the S&P were above their 20-day moving average.
+That's a very short-term oscillator, but it's useful to measure at least where things
+are over the shorter term.
+Yesterday, that number was I think at 5% or 8%, very oversold.
+So that'll be one type of indicator.
+I'll look at the percentage of stocks that have an overbought momentum reading.
+So the RSI, for instance, is a relative strength index.
+And for instance, June 8th, which was what I would call the day trading top, that's when
+kind of these retail day traders all piled into companies that were basically left for dead
+with the pandemic, you know, car rentals, cruise lines, and they started buying them.
+And that kind of led to a crescendo.
+And on that June 8th, 44% of the stocks in the S&P had an RSI of more than 70.
+That's a pretty unusual reading.
+So I'll look at indicators like that to see where the extremes are.
+But then on the fundamental side, for instance, I'm a big fan of the discounted cash flow model.
+A PE ratio right now, given where we are in the cycle, is not really a useful indicator
+because prices going up and earnings are still coming down.
+bottoming, but they're still coming down. So at an inflection point, a PE ratio doesn't really tell
+you much because it's going to make the market look much more overvalued than it actually is.
+So a DCF or a discounted cash flow model measures earnings over a five-year period,
+and then discounts those earnings by essentially a discount rate or the cost of capital.
+Yeah. And you just made the Investopedia pinball machine tilt, dropping all those financial terms.
+So folks, obviously look all those up on investipedia, but what you describe is really the gumbo soup,
+the under the hood fundamentals of what makes markets and securities work. And we really
+appreciate that. You're in, you know, we are a site that was originally built as a dictionary,
+a financial terms site. We've grown obviously from that, but what's your financial term? Is
+it discounted cashflow? What's that financial term that just makes the world come together
+for you and the way you see things? It really is because it does incorporate all the different
+angles, right? It explains why the Japanese stock market trades at, let's say, a 16 multiple,
+and the US trades at a 20 or 25 multiple, because again, it's that focus on returning, paying out
+more of the earnings to shareholders. And ultimately, if you're an investor, if you're a
+shareholder, if you buy a company or an index or a mutual fund, the earnings growth is important.
+But how much of those earnings are returned to you via either dividends or buybacks or both,
+and buybacks of course is not a direct return of shareholder capital but it's indirect
+because share buybacks reduce the trading float and you know supply and demand etc.
+It's my go-to way because it addresses all the different nuances of why markets are trading
+where they are and it gets you past the near-termism of wondering are earnings bottoming today
+or is it in is the next quarter and what is the trajectory because over five years
+You get a much better, smoother picture of what the earnings power of either a company
+or an index or a sector will look like.
+And as I said, the interest rate component is crucial, and a PE ratio does not address
+that.
+Right, which is why we listen so carefully to the Federal Reserve and its FOMC meetings
+and in what it is telling us on a regular basis.
+Well, we really appreciate your time.
+You're in Timmer, the Director of Global Macro for Fidelity Management and Research.
+We appreciate your time.
+Thank you for joining the Express.
+folks really do follow him and read his research notes if you want to learn more about this
+great stuff here.
+Great.
+Thank you very much for having me.
+It's time for terminology.
+When we go deep on the investing and finance term, you need to know this week.
+We're going to go tall this week as we explore the Volcker rule.
+The Volcker rule, according to my favorite website, is a federal regulation that generally
+prohibits banks from conducting certain investment activities with their own accounts and limits
+their dealings with hedge funds and private equity funds.
+The Volcker Rule aims to protect customers by preventing banks from making certain types
+of speculative investments that contributed to the 2008 financial crisis.
+It was named after former Fed Chair Paul Volcker, who served in both the Carter and Reagan administrations,
+and he stood about 6'9", hence the tall part.
+Why are we bringing up the Volcker Rule this week?
+Because five federal agencies, including the SEC and the FDIC, the Watch Dogs for investors
+and bank customers, voted back in June to amend the Volcker Rule.
+One of the big changes? Permitting banks to take stakes in venture capital and private
+equity funds that were previously banned, meaning that asset managers and other banks
+will soon be able to increase their investments in these funds and offer them to you, their
+customers. So why are they doing this? Well, you may not know this, but the amount of public
+companies has been shrinking every year since 1996. In fact, there are around 50% fewer
+public companies today than there were over 20 years ago. The ones coming public may
+be bigger, but most companies are choosing to stay private or sell to a public company
+or merge with a rival. Very few institutional and individual investors can access the private
+markets, but that's where a lot of money is sitting and asset managers want a piece
+of it.
+But know this, private equity has the word private in it for a reason. There's not
+a lot of information on these companies for investors to look at. If you like risk and
+lack of visibility, you'll love the changes coming to the Volcker Rule. For everyone
+else, buyer beware.
+Well, that's it for this week's Express. Subscribe to our daily newsletters, follow
+us on social, and rate this podcast wherever you're listening to it, and give us some
+feedback. We'll let the legendary investor and godfather of index investing, Jack Bogle,
+take us out this week with his words of wisdom.
+Stay the course. That sounds regardless.
+We'll talk to you next week.

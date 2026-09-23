@@ -1,0 +1,352 @@
+We are wheeling and dealing our way into a new week as a flood of mergers and spin-offs hit the market this Monday.
+Will that be enough to spin investor sentiment back around after a two-week dip?
+The Federal Reserve and other central banks will have something to say about that later this week.
+And why are America's biggest tech companies cozying up to India's Reliance Industries?
+Inside the conglomerate that has everyone from Alphabet to Amazon opening their checkbooks.
+And how are individual investors like us supposed to make sense of the great dislocation between
+markets and the economy?
+We'll spend a few good minutes with Charles Schwab's Chief Investment Strategist, Lizanne
+Saunders.
+And it may only be September, but Halloween could come early as quadruple witching is
+brewing at the end of the week.
+Why that could scare up more volatility for the markets.
+But have no fear fellow investors, you are on the Investopedia Express and I'm your
+host Caleb Silver.
+Welcome to the program.
+Here are a few quick headlines to start your week.
+ByteDance, the Chinese owner of social video app TikTok, has chosen Oracle to be TikTok's
+U.S. technology partner.
+Oracle will take a significant stake in the business, which leaves Microsoft and Walmart,
+among others, out of the deal for the popular app.
+The White House had imposed a September 20th deadline for the sale to a U.S.-controlled
+firm or it would have banned the app's use in the United States, and that would have
+ticked my teenage daughters off.
+Pfizer CEO said Sunday that the pharma giant should know if its experimental COVID-19 vaccine
+works by the end of October and if approved, it could be distributed in the US by the end
+of the year.
+Separately, AstraZeneca says it will resume testing for its COVID-19 vaccine here in the
+US this week.
+It had paused testing because of adverse effects on a patient being treated with the vaccine
+in the UK earlier this month.
+Chipmaker Novidia has agreed to buy Arm Holdings, a designer of microchips for mobile
+phones from SoftBank in a deal worth $40 billion.
+Now if you don't know who ARM is, open up your Android or iPhone and you'll see that
+ARM design chip in action.
+It designs the architecture used in chips in most mobile phones, including the Qualcomm
+chip used in most Androids as well as the Apple iPhone.
+Gilead Sciences is acquiring biotech company Immunomedics in a $21 billion deal that will
+expand Gilead's availability of cancer treatments.
+The deal will provide Gilead access to immunomatix FDA approved treatment for some forms of breast cancer.
+Two big things we're watching this week, following the worst week for US tech stocks
+since March.
+Will sentiment continue to shift away from big technology stocks after the NASDAQ corrected
+10% off its recent highs last week?
+The biggest stocks, and we're talking about Apple, Amazon, Microsoft, and Facebook,
+all fell 5% or more last week.
+Now given the size of their market caps, as they go, so goes the overall market.
+Just last week, the popular QQQ ETF, called the QS, from Invesco, which contains the
+biggest tech stocks on the market, plus Tesla, Starbucks, and Costco, saw $4.8 billion in
+net outflows.
+That's the most on record for that ETF, and it's been around since 2002.
+Options activity, which we talked a little bit about last week, is raging among big
+tech stocks, as traders bet on their future direction.
+Volume in single stock equities averaged a record 18.4 million contracts a day in August,
+which is up about 80% from the average monthly volume during 2019, according to the CBOE.
+The most activity surrounds Apple and Tesla options.
+You can expect those stocks and many of the other most widely held and traded to be very
+volatile for at least the next month.
+Intense volatility does not always produce great returns.
+Also on the radar this week, a few big central bank meetings to pay attention to.
+On Wednesday, both the US Federal Reserve and the Bank of Japan announced interest rate
+decisions followed by the Bank of England on Thursday.
+Now, don't expect any movement on interest rates since most are at, near, or below zero.
+Instead, listen closely to what central bankers say about their quantitative easing or bond
+buying programs.
+Consider this.
+Central banks around the world have spent $1.4 billion an hour buying government and
+corporate bonds since the pandemic was declared in March.
+banks now own 40% of Japanese bonds and 14% of U.S. Treasuries, according to Bank of America.
+The ECB, the European Central Bank, pledged to continue its bond-buying program last week.
+And this week, we'll hear whether the U.S. Federal Reserve plans to continue its $80
+billion of monthly bond-buying of government and corporate bonds and bond ETFs.
+You're still wondering why global equity markets just experienced the shortest bear
+market in history look no further than this unprecedented spending by central banks who
+have propped up stocks by laying the safety net under bonds.
+Reliance Industries, India's largest public company by market value and its most profitable,
+has been in the headlines lately as the company has been taking on investments from Alphabet's
+Google and Facebook for its geoplatform subsidiary.
+Last week, Amazon was reportedly offered a $20 billion stake in Reliance's retail
+business.
+Now for many U.S. investors, Reliance isn't exactly a household name, but around the world,
+especially in Asia, it looms large.
+Deb DeSouza, our editor in India, and my partner on the Express Morning newsletter every day,
+joins me now to talk about Reliance, the family behind it, and these latest investments
+from America's tech giants.
+Deb, welcome to the Express.
+Hi, happy to be here.
+Good to have you on the audio version of our newsletter here.
+Now Reliance started out as a textile company, much like Warren Buffett's Berkshire Hathaway.
+It still has a textile business, but it's teeny like Berkshire Hathaway.
+It's got vast operations, Deb.
+What are its biggest businesses and how do people in India interact with it on a daily
+basis?
+Right.
+I mean, the lines over here is omnipresent.
+Most people will interact with it in some way on a daily basis.
+Their core businesses are really refining oil and gas, but in the last couple of years,
+they pivoted to customer-focused retail and telecom, which is why all of you are hearing
+about them now with all of these big investments.
+These are some very big companies and this is just recent news.
+Intel's already in there.
+Some of the biggest private equity firms in the world have big investments in Reliance
+and all of its multiple platforms.
+Now the company is controlled by the Ambani family.
+Am I saying that right?
+Right.
+Mukesh Ambani, he's the chairman.
+He's a larger than life figure over there.
+He's been the chairman for quite a while.
+Tell me more about Mukesh and the Ambani family and their very big presence over there.
+Reliance was started by Thiru Baimbani back in the late 1950s.
+And he's sort of legendary, like the Reliance story sort of folklore here.
+He was famous for sort of being able to spot arbitrage opportunities even before Reliance.
+He caused a coin shortage in Yemen when he realized the silver in the coin was worth
+more than the currency.
+And they've been at this for several generations.
+Now geo platforms, this is the shiny object in Reliance's portfolio.
+It's got Google's in there.
+It's got Facebook among others.
+What is it that all of these big mega tech companies want with geo platforms beyond the
+1.3 billion people in India that may be connected to IT services ultimately?
+Right.
+So you can't really talk about geo platforms before going back to telecom, which is the
+geo carrier, which is the biggest in India right now.
+It really won over customers with very low prices, almost free data for a long time.
+And geo platforms is this ecosystem of apps.
+So you have, after that you can read the news, the Geo meet, sort of like what Zoom looks
+like.
+And these can only be run with Geo SIM cards.
+And Geo now has a user base of 400 million people with its carrier.
+It's this huge ecosystem and India's a huge growth market.
+About 500 million people haven't come online yet.
+So this is where those companies see growth.
+We will have you back on the Express again.
+And of course, every morning, Deb and I have the Express newsletter that you can sign
+up for on Investopedia.com.
+Deb, thanks for being with us.
+Great.
+Thanks for having me.
+It is an honor and a delight to welcome Lizanne Saunders to the Express for a few good minutes.
+She's a senior vice president and the chief investment strategist at Charles Schwab and
+someone who I've been reading and watching for a very long time in financial media.
+She always has great insights on the markets and the economy and how they interact and
+what this actually means for the individual investor.
+Lizanne, welcome to the Express.
+Well, thank you, Caleb, and thank you for such a kind introduction.
+I appreciate it and happy to be here.
+So I read all your commentaries and your whole team's commentaries when they come out on
+the Schwab blog, and you wrote this in your last one.
+You said, you concluded in late August with the following, I worry about the signs of
+froth in the market and among some behavioral measures of investor sentiment, not to mention
+traditional valuation metrics that are historically stretched.
+This is not an environment in which greed should dominate investment decisions, but
+instead one for discipline around diversification and periodic rebalancing.
+As usual, Lizanne, you're prescient.
+Markets have had a rough couple of weeks, but not everyone has been listening, especially
+a lot of new investors.
+How do we kind of break through to them that there is a reason that these valuations are
+going out of control right now?
+How do you get these messages across to people when they just see these gains and they can't
+resist?
+Well, so we're talking about a whole new class of, I wouldn't even call them investors,
+but kind of newly minted day traders.
+And that's where we're seeing the signs of speculative fraud.
+And so far anyway, even though we had a 10% correction in the NASDAQ a little bit less
+than the S&P, so far most of the data suggests that those traders have sort of been beholden
+by this.
+And they still have that kind of buy the dip mentality, press the optimistic bets.
+Sadly, they may take something more severe in the market to not remind these traders
+because in many cases, this is not a reminder, this is a new experience, to get them to
+realize that there is a downside here. We haven't quite seen it, but it may take a little bit more
+pain. The good news is that although we're seeing that speculative froth in pockets of the market,
+in the options market, by that sort of cohort of traders, we're not seeing that same kind of
+speculative froth and excess across sentiment indicators. So that's maybe something that's
+different versus say circa 99 2000 and in fact
+one area where longer term investors and maybe not newly minted traders
+Tend to sort of traffic for lack of a better word is in mutual funds and etfs
+And we've actually had 12 weeks in a row of withdrawals
+So that's in stark contrast obviously to what we're seeing by some of these day traders and and quite frankly
+you know, the by the dip mentality has been right, they've been rewarded. So there's a basis for their
+desire and willingness to kind of press the bets. That doesn't mean there might not be a reckoning
+at some point, though. Sure. We went from record high in the prior week to a 10% correction and
+then has dacked to back up. So we're in a period of volatility. And you're absolutely right about
+that. You mentioned that there's been outflows by institutional investors in the past 12 weeks.
+There's been outflows even before. Yeah, but even in individual investors,
+individual investors, not inclusive of the newly minted day trader crowd.
+And institutional investors too, if you look at long-term mutual funds, equity mutual funds,
+and ETFs. But the market keeps rising. And what I try to explain to people, but don't do as good
+a job as you and your team, is that it's about 10 or 11 stocks that are driving the market higher
+because their market caps are so heavy because so many people have piled into them. That's why
+your markets are recognized, not because it's this broad-based recovery in equity markets
+that is driven in part by the economics, which is something I would love to ask you about.
+We can say this a million times, and I've heard you say it, I've said it a million times,
+the economy and the stock market, not the same thing. Sometimes they do walk hand in hand in
+our reflections of one another, not at this point in time. That said, how can we continue to see
+record highs for equity prices, even though we're maybe in a little bit of a choppy period,
+while the economy is so distressed? Here's what's interesting, and you mentioned this
+at the start of that question, the market is historically incredibly narrow.
+So at the recent highs, I don't know exactly the day, but because we had a couple of days
+where you're hitting new highs, on a year-to-date basis, the five largest names in cap terms
+in the S&P were up 48%.
+The other 495 names were down 2%.
+So yes, those names making up almost 25% of the index are powerful enough to drive the
+indexes to all-time highs, but here's the other side of that story.
+That actually may reflect to some degree what's going on in the economy.
+So on the surface, it appears that there's this disconnect with all-time highs and still
+an 8.5% unemployment rate and economic data that is choppy at best.
+But when it's only five names, which are arguably
+Not just the survivors in this environment, but the thrivers in this environment
+If you just think about how often in the course of a day, especially in the sort of the covid world
+That we're living in the ecosystem of some of those names
+The fundamental strength of those names
+I think is kind of in support of what's going on in the economy a lot of of pain
+and suffering by kind of the masses and a relatively small subset of winners.
+So just looking under the hood may actually connect the dots between what's going on in the market and going on in the economy.
+Fascinating. So an income inequality also in capital markets also happening in the streets of America right now with rapid unemployment and worse for people of lower incomes.
+And that's the sad thing about this pandemic is it's exacerbating.
+There's such a disproportionate impact
+economically on
+Whether it's you know minorities or lower income their ability to still sort of function
+And how do they keep their kids educated all of those issues?
+Sadly those problems are being exacerbated by this they were already appearing
+But this really blew them wide open as many people have said we survey our readers
+We've been surveying them throughout the crisis about what they're doing with their money their sentiment their anxiety
+where they're buying, what they're selling, their bullishness, their bearishness. Our
+most recent survey, which we wrapped a couple of weeks ago, their main concern, Lizanne,
+was the election, which is something that I did not expect from our US audience, even
+though they're very aware, but they thought that would be the biggest factor impacting
+returns and they do expect returns to be lower going forward for the next few months. And
+we're still in the middle of this pandemic. Does that surprise you? And do elections generally
+make a very big difference in terms of the investing landscape?
+It doesn't surprise me, especially in this environment.
+In fact, some of the intricacies of what's been going on in the options market with the
+VIX volatility index is actually driven by concerns about the election.
+So again, it's fairly technical, but part of the reason why volatility was going up
+while the stock market was, which is not normally the case, is that in particular
+the October VIX futures were trading at a very elevated level because of an election
+risk.
+So as you came closer to the September expiration, you had to have that convergence.
+So we were seeing rising volatility largely because it was being priced in the October
+volatility futures, almost all tied to the election.
+It's also somewhat common for a less election risk to be seen more clearly in the market
+in the post-Labor Day environment, even in a, quote, normal election year, which of course
+this is not.
+Very interesting stuff.
+All right.
+You are a great sharer of information on Twitter and through your blog and you really love
+your charts.
+But what's your go-to chart or series of charts?
+On a Monday morning, you get up to go to work.
+What are you always checking?
+What's the go-to for Liz Anzonda?
+Well, I guess it depends on whether it's related to the market or the economy.
+In terms of the economy, I always think it's important to look at the key leading indicators,
+of which of course the stock market is one.
+So that's where there is that crossover.
+I think in this unique environment, there are some sort of newly minted leading indicators
+that I think are sort of fascinating to keep an eye on.
+A lot of the mobility data actually tracking in a very short-term basis what we're seeing
+in terms of movement.
+And that's especially important in this sort of post lockdown environment.
+So in terms of the economy, leading indicators broadly, some of the unique leading indicators
+that are tied to this pandemic.
+From a stock market perspective, it's the sentiment data, both the behavioral sentiment
+measures as well as the attitudinal sentiment measures are always top of mind for me when
+I'm looking at what's going on in the market.
+And on that mobility piece, I know your colleague, Jeff Kleintop, likes to share a lot of the
+mobility coming out of Europe and major cities around the world. We've just built a New York
+City recovery index tracking similar metrics for New York City with New York one that we
+put out on a weekly basis. So watching the way we move, what we spend, where we're going
+and how we spend it is a fascinating way to know kind of where we're going.
+And also search activity, you know, Google trends, what people have top of mind. So,
+you know, through technology and all things digital, we have access to this information
+that we haven't had access to before and it's particularly crucial given the unique nature
+of this crisis. Absolutely. Our anxiety index, which does track fear-based terms and traffic
+to those terms has been screaming lately, but what it's screaming about is the fascinating part.
+It's not screaming about the stock market. It's screaming about personal finance. It's screaming
+about bankruptcy, foreclosure, the things that are affecting us personally. That gives us a sense
+of what people are actually worried about, which does make sense. You know where it started
+It are out as an investing dictionary for lack of a better word 22 years ago.
+So we're built on financial terms.
+What's your favorite financial term, Lizanne, and why?
+What is the one you always come back to?
+Can I give you a line or a phrase as opposed to a term?
+Absolutely.
+So Caleb, you know this one.
+It's by the late, great Sir John Templeton, who I had the great honor of meeting on Wall
+Street Week with Louis Rukeyser when I was a panelist that night.
+And he was the special guest he was in his 90s at the time
+But one of his famous lines was bull markets are born on pessimism. They grow on skepticism mature and optimism and die on euphoria
+And what I think is so compelling about that
+Is that from a term perspective?
+There's no term in there that has anything to do with earnings valuation GDP
+Of p e ratios. It's all about
+psychology. And I think there's no better a description of how market cycles unfold than that.
+Lastly, your most important lesson for new investors, people who are getting into the
+market for the first time or just started this year, what would you tell them right now as they
+walk through those gates? So maybe I'll answer it by saying that one of the most common questions
+I get often by financial media, especially in a volatile period is are you telling investors
+to get in or get out.
+And I think there always is this get in, get out mentality.
+Should I be in, should I be out?
+I think the most important lesson tied to that
+is all or nothing decisions, get in, get out.
+That's not investing, that's gambling on moments in time.
+And investing should never be about gambling
+on moments in time.
+Investing should always be a process over time.
+And the most successful investors in history
+viewed it as a process over time,
+not as a function of a moment in time.
+And I think if you have that mentality
+and don't think of investing as,
+when do I get in, when do I get out?
+You're almost guaranteed on a path of greater success
+than trying to time the market,
+especially in all and nothing terms.
+Liz Anzander is the Chief Investment Strategist
+at Charles Schwab.
+We really appreciate you being on the Express
+and wish you well, thank you so much.
+Well, thank you so much, I enjoyed it.
+But it's time for terminology when we get to explain a financial term or definition
+that is likely to be in the headlines this week.
+And this week's term can be downright terrifying.
+Coming up on Friday, a rare quadruple witching day.
+Quadruple witching refers to a date on which stock index futures, stock index options,
+stock options, and single stock futures expire simultaneously.
+While stock option contracts and index options expire on the third Friday of every month,
+All four asset classes expire simultaneously on the third Friday of March, June, September,
+and December.
+That means this Friday, folks.
+Quadruple witching days usually see heavy trading volume in part due to the offsetting
+of these existing futures and options contracts that are profitable.
+Options traders that have made money betting on the future direction of a security get
+out of their positions when those options expire on the third Friday of every month.
+Now, since we also have stock index options and single stock futures also expiring on
+a quadruple witching day like the one coming up this Friday, there will be even more activity.
+As you mentioned earlier, options activity was 80% higher in August than the same period
+a year ago.
+The US stock market is down 5% to 7% since the end of August as options activity has
+been sizzling for contracts that expire at the end of October.
+What comes right after the end of October?
+Oh, just the US elections.
+So brace yourselves for more volatility ahead folks and beware the witches this Friday.
+Hey folks, we're opening up our terminology segment to all of our listeners.
+If you have a term or concept you want explained on the show, email us at theexpress at investapedia.com
+or message us on Twitter or Instagram and we'll do it on a future episode.
+Thanks for joining us this week on the Express.
+We appreciate your comments, your feedback, and your ratings.
+Please keep them coming.
+Stay smart, stay healthy, and keep your balance this week.
+I'm Caleb Silver and we'll talk again soon.

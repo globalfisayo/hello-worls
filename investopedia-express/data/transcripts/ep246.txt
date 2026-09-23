@@ -1,0 +1,391 @@
+Welcome to the Investopedia Express conversation series.
+This is our space to talk to some of the most influential investors, strategists, advisors,
+academics, policy makers, journalists, and entrepreneurs in the world of finance, economics,
+and investing.
+Today's conversation is with Yoni Asia, the co-founder and CEO of Etoro.
+The popular online brokerage platform launched in 2007.
+Etoro became a public company this week, completing an initial public offering that raised over
+$600 million for the Israel-based company,
+which has three and a half million funded accounts
+in 75 countries on its brokerage platform.
+Yoni, welcome to the Express.
+Thanks for being here.
+Thank you very much for having me.
+Congrats on the IPO.
+How does it feel to be a public company
+after being privately held for 18 years or so?
+What does it feel like?
+It feels amazing.
+More than being a public company,
+we found a detour as a capital markets company, right?
+Passionate about capital markets.
+I started trading when I was 13 and we created Litoro to enable people to invest in capital
+markets in the stock markets later on.
+Crypto came along.
+So it's been an amazing journey the last specifically like the two weeks of the roadshow to really
+see capital markets in action and to meet the top investors from all around the world and
+how they make their investment decisions.
+We're really excited about our next stage of growth as a public company and learned
+a lot over the last two to six weeks being here in Wall Street getting to understand
+better capital markets in the US.
+Yeah, it must be fascinating because you've enabled people to participate in the capital
+markets through the eToro brokerage platform, which is very popular.
+Now you are really a part of it and you've seen how that mechanism works.
+Now you're a security in addition to being a platform for people to experience the capital
+markets.
+That's got to be very meta in so many ways, right?
+Yeah, it's super exciting to now be for Itoro to trade on Itoro.
+So definitely excited about it.
+And also excited about continuing to grow our business together with our new shareholders,
+retail investors and well sweet and capital markets
+investors from all around the world.
+And it's been also great to see,
+like when I showed our platform
+to a lot of the world's top investors,
+I think they were actually shocked to see it,
+how much capabilities and technology retail investors have
+today through Etoro.
+So the copy of technology enables you to copy
+the top investors from all around the world,
+3,300 popular investors on the path
+to become professional investors.
+We train them.
+These are retail investors becoming professional investors
+from 70 different countries trading 21 different stock
+markets on the eToro platform.
+We build our own investment team.
+Init Thoreau, our chief investment office also manages 107
+different smart portfolios from different types of strategies
+from a BlackRock fixed income model portfolio
+that we partnered with them on
+to launching a market neutral strategy
+that was inspired by us meeting a lot of the hedge funds
+here in New York.
+So we've been able to take the platform
+not only from a brokerage and a simple app
+to access the markets,
+but through our social technology and copy trader,
+create and replicate a lot of the strategies
+of the investors that we met during the roadshow
+on the platform to enable retail investors
+to invest in our smart portfolios and copy grade it.
+Okay, that's the flywheel in action.
+For people that aren't familiar with your platform,
+you were early on, this is 2007,
+pre-grade financial crisis.
+You create this platform that allows you
+basically to copy or follow other investors.
+You're one of the first to do it.
+Cut to 2010, you become one of the first
+or the first to incorporate social media
+into the interface,
+allowing people to follow other people.
+So you knew that was gonna become a thing.
+But take us to 2007, origin story days.
+You create this incredible platform
+and then we go into a great financial crisis.
+How'd you weather that storm?
+I started the company together with my older brother, Ronin.
+A great story is tomorrow on NASDAQ
+when we're doing the Velceron.
+This will be the first time ever that a father,
+my father listed his company on NASDAQ in 1991.
+And this is the first time that a second generation,
+a son and a father was actually listing company on NASDAQ.
+So cool, how good is that?
+So we were always passionate about capital markets.
+We always talked about capital markets in the house growing up.
+And we started initially by just trying to find ways to simplify.
+This was desktop. This was before mobile, really.
+Before the iPhone, by the way.
+This is before the iPhone.
+This is just when Twitter and Facebook started in 2000 and they started in 2007.
+This is 2005, this is 2007.
+And we wanted to hack the user experience and provide our customers, you know,
+with a simpler access to the markets.
+And then a global financial crisis came.
+For me, this was like a shocking moment
+understanding how archaic, by the way,
+still a lot of the systems in finance are.
+We actually saw how the banks pulled the plug.
+There were like, I think 48, 72 hours
+where we didn't know whether the bank
+is going to open tomorrow.
+This was like leaving collapsing
+and like Euro dollars stopped quoting.
+You saw spreads increasing, but for us, this was like,
+and nonetheless, we grew quite significantly,
+2008 and 2009.
+So this was for us also an understanding
+that volatility in the markets create interest,
+and interest brings in more customers
+that eventually want to try to turn volatility
+into an opportunity.
+So it was actually great years of growth,
+2008, 2009, for eToro,
+And a lot of key learnings from that period
+which eventually led us in 2010 to discover Bitcoin
+because I started writing on the fact
+that there has to be a global ledger
+because I saw the banks pulling the plug.
+So I'm like, why is this not 24 seven running?
+There needs to be a digital ledger that connects everything.
+And then we started buying Bitcoin in 2011
+because we were like, okay, this is how financial systems
+need to work 24 seven, completely decentralized.
+Nobody can pull the plug.
+So like the global financial crisis showed us two things.
+One is the path forward, which eventually leads us
+to embrace Bitcoin and tokenization and digital assets
+and understanding that retail investors even then
+already knew how to go through market cycles.
+Yeah, and let's cut all the way to the pandemic
+where we're in meme stock mania, crypto explosion,
+2020, 2021, people started trading again
+and we felt it too at Investopedia,
+the same volatility that powers your business
+and powers interest in your platform, powers ours.
+So that was the reverse of that,
+where all of a sudden, influx of new customers,
+new accounts, lots more activity, lots more volatility,
+lots more intermarket connectivity,
+how's your weather that storm?
+Well, positive storms are fun.
+It's like storms of sun, right?
+I'll take it all day long.
+I'll take it all day long.
+Like the big storm for us was 2000 actually in 17.
+We grew from opening 200 funded accounts per day to 20,000 funded accounts in the
+peak of I think it was November, 2017.
+Well, every other company who offered crypto had to shut down their gates.
+We actually already had automation in place, but nonetheless, we were like,
+I think back then probably 500 people, everybody were like doing back office work just to make
+sure we can handle opening accounts. Then when 2020 came along, we saw a perfect storm, hoping to see
+the same perfect storm coming now, which was both crypto markets and the stock market sort of align
+into a crypto rally and a stock rally at the same time. But we were smart enough to continue and
+and invest in our technology in 2018 and 19
+after the key lessons learned from 2017,
+which is automate, automate, automate.
+So we came much, much more prepared to 2021
+and we were able to scale significantly the business
+without the need to hire too many people,
+although we did hire something like 800 people during COVID.
+So we're very good at weathering rallies
+and sort of also amplifying it together
+with our partners like Investopedia to make sure
+that we capture as much of the interest
+in a specific asset class, whether it's crypto
+or whether it's stocks or whether it's any even specific name
+that's interesting today to capture that
+and bring the clients onto Etoro
+to learn about capital markets.
+Yeah, to your point, Investopedia ranks Etoro
+best crypto broker on our reviews for brokerage platforms.
+So we do it for a reason, we review those ourselves.
+We'll talk a little bit about what's going on there
+in a minute, but since you are a public company now,
+we can look inside your filings,
+we can look under the hood.
+First of all, why go public
+besides the fact that you wanna grow?
+I mean, it's a headache a little bit, right?
+There's regulatory issues you have to deal with.
+You got quarterly results, you have to exceed or beat,
+you have to be constantly talking to investors,
+and now you're responsible to shareholders,
+not just founders.
+Why make that decision as a founder,
+especially after so many years?
+First of all, we've had shareholders since I found the company and raised my seed capital
+at the $5 million valuation.
+But ever since, they've been receiving from me a quarterly shareholder update every quarter
+for the past 18 years.
+You've been practicing for this.
+So we've been practicing.
+I think some companies might question whether they want to be public.
+I think for eToro, it was always very clear that we want to be public.
+We want to be part of the capital markets.
+We constantly talk about this, how we build the company.
+We got good, great timing from the market.
+We transitioned from growth at all cost strategy back in 2021.
+We were humbled by the markets in 2022, very smart of us to eventually terminate the SPAC
+agreement rather than going public.
+That was a real storm of 2022 where all the markets go down.
+Yeah, that's a great blessing that never actually happened for you probably.
+for us sort of understanding that we want to change
+the strategy from growth at all costs of profitable growth,
+focus on scaling our AVIDA and AVIDA margins,
+reaching a record 160% year over year growth of our AVIDA
+to more than $300 billion last year,
+gave us the confidence to know that we're ready
+for that transition to be a public company.
+And that by being public,
+we'll increase the confidence of customers
+in the Etoro platform, the existing customers,
+who today have $16.6 billion on eToro,
+but we know a lot of the mass affluent individuals
+that might have $500,000 in eToro
+might have another $500,000 in another brokerage.
+I think by being public,
+we're inviting them to increase their share of wallet
+into eToro, and we believe this will help us
+accelerate growth both organically and inorganically
+in huge potential opportunity markets
+like the US and like Asian.
+So you have around 40 million or so daily active users or so,
+but just over three and a half million funded accounts.
+So what's the average account size
+and how do you solve that business challenge, Joni,
+of converting the users, the people who are around
+the ecosystem into account holders who are using your platform
+and using it actively,
+because that's what you need ultimately.
+Sure, so we have 40 million registered users
+across 18 years,
+those are people just open a free social network account
+like an investopedia logged in user,
+all you need to do is you put in your email
+and you have now access to a real time market data,
+our feed which enables you to see
+what people are talking about in every single stock
+that there is on eToro,
+you have a very interesting feed
+to see people from all around the world.
+I'm on it every day, it's fascinating.
+Yeah, so that's the feed.
+So there's a lot of reasons to be in the social network,
+even before you fund the account.
+Now, many of our customers download the mobile app
+and fund the account day one,
+and obviously we'll have a process of making sure
+we help them make the right investment decisions
+for themselves and find the right opportunities.
+But for those who come to it,
+or for the social network features,
+we actually optimize the platform very similar to how,
+you know, a social network, a Snapchat,
+or a Facebook would do that.
+We have a team of 100 people working on our growth theme
+that every day optimizes the app, adds new features
+to see how customers become more sticky.
+And sometimes customers funded account only years
+after opening the social network account.
+So as an example in Q4 last year,
+we suddenly saw a surge in customers who joined us in 2017.
+He joined us to potentially fund the account
+and trade crypto.
+They were active here and there
+just to look at crypto prices and suddenly decided,
+okay, I'll fund the account now seven years later.
+So we wanna make sure that the community of individuals
+that are enjoying the content on eToro
+can continue to do that for many years.
+And then as the, when the right opportunity arises,
+we can help them fund their brokerage accounts
+and started investing with us.
+Yeah, smart play.
+And it's like you said, the brand recognition
+and being a public company should help with some of that.
+Okay, but let's get back to the growing of the EBITDA,
+which is ultimately where you're gonna be,
+have to answer to investors for and what you have been,
+but now that you're a public company,
+we'll be looking a lot closer at that.
+How do you make your money?
+Is it through payment for order flow
+and net interest income?
+How do those things work?
+Just so our listeners understand how a platform
+like you actually makes money in a world of free trading.
+Sure, so there's five different business lines
+that are shown and represented in the prospectus as well,
+with the one is crypto trading. So that's about 25% of revenues come from crypto trading,
+where we charge roughly 100 basis points, which is actually cheaper and more attractive than some
+peers who charge 1.1 and a half to 2%. So we're actually very attractive, which is maybe why we're
+We're ranked number one for crypto on Investopedia.
+Second line is our trading revenues coming from all
+of the rest, which includes 21 different stock markets,
+which include also on exchange and off exchange derivatives
+like futures options and contracts,
+and also includes ETFs from different markets.
+So all of that goes into a second line,
+which was 44% roughly of revenues,
+where we basically each asset class
+will be a bit different,
+but roughly 20 basis points on an average invested amount
+is what we make.
+If you basically divide how much are we making per trade,
+average trade size roughly $300.
+And this is all like me sharing the public information.
+And then we've grown significantly assets based revenues
+over the last couple of years.
+So which includes what we make on cash balances,
+what we make on leverage trading,
+crypto staking and recently launched stock lending.
+So basically we help our customers monetize
+the assets that they have with us.
+And then we share the revenues roughly 50-50
+depending on which assets.
+So if you have cash with us,
+we obviously share the interest.
+If you do crypto staking with us,
+we'll share with you the crypto staking.
+And lastly is eToro money.
+So we expended our business also into payments business.
+So in Europe, people actually open
+with us a virtual bank account.
+So they have a bank account where they can send
+and receive fiat money.
+They have a crypto wallet where they can send
+and receive crypto assets and can convert fiat
+from dollars, from basically euros into dollars,
+pounds into dollars, Bitcoin into dollars.
+And that falls under our eToro money and payments business,
+which also has grown significantly
+to almost a hundred billion dollar revenue line last year.
+Five different business lines.
+We'll link to the perspectives in the show notes.
+Totally fascinating.
+Just to clarify though,
+you had the settlement back in September of last year
+with the SEC around crypto,
+where now you can only trade Bitcoin,
+Bitcoin Cash and Ether on the platform.
+Do you expect that to change?
+Have you been in touch with this SEC?
+So first of all, this was only for the US business,
+which is still a small part of our global operations,
+outside the US,
+we actually trade 130 different crypto assets.
+So our conclusion was that we actually wanted to put
+sort of the past behind us,
+go public and then look again at growth
+and our product rollout in the US.
+We will be looking now to bring as many of our products
+from overseas, which include potentially futures, more crypto assets, copy traders, smart portfolio
+into the US markets in the next 6 to 18 months.
+Okay.
+Let's go out on this.
+Five years from now, what will eToro be?
+It sounds like you've already laid the foundations for that.
+You're probably thinking about this back in 2007 with your brother and the other founder.
+A lot of these things are coming to fruition, but when I look out at you in 2030, what
+will we see on the platform?
+I see a huge opportunity building eventually a trillion dollar investment house.
+Right?
+So I met many of them now during the roadshow.
+The Fidelity's, the Schwab's, I think there's a new generation of customers, Gen Y and Gen
+Z are going to become wealthier by $84 trillion over the next 25 years.
+That's the US alone.
+another 60 trillion dollars moving from older generations to younger generations in Europe,
+our whole market, right? That's our biggest market by far, we're roughly 10% of brokerage accounts
+that are opened. So I think that new generation of investors are going to amass huge amounts of
+wealth over the next 25 years. And we want to help that generation to trade, invest, save and spend
+on the eToro platform continue, of course, to grow our both number of funded accounts,
+the regions where we operate and have a double digit market share, which are now 12 regions
+across the globe that we're working to basically roll out all of our products. And in addition,
+of course, see how we can drive new products such as AI to give better tools to our customers
+to compound wealth and capital markets over time. Well, you guys were early to the game setting up
+a trading platform that a lot of people have copied. You're still here today. Now you're a
+public company. Yoni Acia, the co-founder and CEO of eToro, now publicly traded on the Nasdaq.
+Thanks for joining the Express and congrats. Thank you very much, Caleb. It's been a pleasure.

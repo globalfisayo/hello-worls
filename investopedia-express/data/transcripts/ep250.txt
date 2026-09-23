@@ -1,0 +1,614 @@
+Let me express this week, global markets
+rattled by the Iran-Israel missile crisis
+breaking down the vulnerabilities
+inside the Middle East oil markets.
+Stablecoins on sale in aisle five,
+why Walmart and Amazon want their own digital currencies.
+It's a world awash in money
+where the funds have been flowing this decade.
+A few good minutes at Chateau Fibonacci
+with the great J.C. Perret's,
+Bring Your Own Glass and the Investopedia Indicator
+and What to Watch This Week.
+It's the Investopedia Express live
+from the New York Stock Exchange, Get On Board.
+Welcome aboard to all our regular listeners
+and to all of you joining us for the first time,
+live and in video.
+Here we are in video, live from the New York Stock Exchange.
+Welcome to this new and hopefully improved version
+of the Investopedia Express.
+I'm Caleb Silver, the editor in chief of Investopedia
+and the host of the Express podcast.
+We've been doing this for a very long time, audio only,
+but now we are live on YouTube, live on Insta,
+live on LinkedIn.
+If you miss us here live,
+catch us on demand on your favorite podcast platforms.
+We're at the corner of Wall & Broad,
+where the Buttonwood tree used to be,
+right outside the doors here.
+That's where the first stock trading began.
+And this is where it's been going on here since 1792,
+right here at the New York Stock Exchange.
+They didn't call it the Stock Exchange until about 1834.
+Old building, old stock exchange,
+the center of capitalism,
+and these walls have seen it all.
+Now, it's a global exchange
+with hundreds of billions of dollars
+flowing through it every single day.
+Tons of products and Investipiti
+is delighted to be here at the New York Stock Exchange
+for the Investopedia Express.
+Catch us every Monday.
+Again, if you miss us here, catch us on demand
+on your favorite podcast networks.
+This is a podcast and a show dedicated
+to educated investors like us who want to keep
+and stay smart about our money, about our portfolios
+and stay on track to investing success.
+That's the Investopedia Express, investing success.
+So let's get after it.
+We've got a market opening here higher
+to start the week after Friday's sell off there
+brought on by the tensions between Israel and Iran.
+Those bombings continued over the weekend
+and missile strikes over the weekend.
+That looks like it's intensifying,
+but investors are shaking that off today.
+Stocks rising out of the gate across the board
+to major markets, higher to get things going.
+The S&P 500 about three quarters of a percent higher.
+The Dow Jones industrial is just under 1% of the NASDAQ,
+just over 1% higher.
+What's moving in the markets today?
+looking at the Dow. We're looking at stocks like Goldman Sachs rising higher here. Also
+IBM, International Business Machines rising higher on the S&P 500. It's the chip stocks,
+AMD rising higher here, but also the casino stocks. A lot of the stocks that sold off
+on Friday coming back today, defense, defensive stocks and aerospace big on Friday. Those
+are selling off this morning to get things going. And on the NASDAQ, it's the chip
+stocks and Palantir rising higher to lead that index a little bit higher out of the gate. But
+when you look at what happened on Friday, we got to cite one of the classic Investopedia terms for
+what really went down. And we call that event risk, our term of the week, event risk. Now,
+the greatest educational website for investors in the world defines an event risk as the
+possibility that an unforeseen event will negatively affect a company, an industry,
+a security, the stock market itself, and cause a loss to investors. These are unpredictable and
+event risks like missile strikes between countries, especially when oil is in the mix, especially in
+the Middle East. Those can rattle markets, and we saw that happening last Friday. We saw gold
+spiking higher, of course. We saw oil spiking higher, 7% to 8%. We'll get into that in a second.
+And we saw stocks selling off, well, not the case to start the new week, investors. Moving on,
+as stocks are moving higher.
+We'll get to our friend, JC Peretz, in a few minutes
+who likes to get us inside the numbers
+because price ultimately is what matters
+when we're looking at the market.
+But let's dig in a little bit to this event risk
+brought on by the bombings between Iran and Israel,
+especially in the oil facilities.
+So those airstrikes did begin last week, right?
+We know that Iran is such a big producer of crude oil,
+one of the second or third biggest in the world,
+according to the EPI and that Strait of Hormuz which Iran had kind of sits around near the Middle
+East, a very critical place for oil supply to flow through. So when you see missile strikes by
+countries like Israel into that area, you know that it's going to become a very sensitive place
+and that is what moved oil higher, especially crude oil prices. Those were up 7% on Friday.
+Those are down about 1% or 2% today, even though those aggressions continued over the
+the weekend, but you got to pay attention to what's going on inside the Strait of
+Hormuz. And there is a very particular island there, right there where a lot of the world's
+oil passes through. I was looking at maps from the EIA on that, about 14 million barrels
+of crude oil day pass through there. 21% of the global liquefied natural gas in the world
+passed through it in 2024. A lot of that passing through Qatar, but it's a super sensitive zone.
+So when you have conflict there, that's what you end up seeing. And you got to pay attention
+to Karg Island, doing some research on plants and some other oil sites, oil research sites,
+about what's the most sensitive areas within the Straits of Hormuz and it's Karg Island,
+this very small little island just off the coast of Iran there. That's the main hub for nearly
+all of Iran's oil exports. That's a strategic target. If you're looking to see what might be
+vulnerable in that area, look to Karg Island. And you got to also note that Iran's oil production
+has risen a lot in the last few years and a lot of that oil goes to countries like China.
+So it's not as if this is an isolated incident happening right here in the Middle East.
+This affects everybody because it affects oil supply.
+And when you think about who Iran's biggest customers are, it's not the US, we got an
+embargo there.
+When you think about its biggest customers, it's China and its countries around the world
+that are depending on that oil.
+That's why this conflict is so sensitive.
+Again, due to the sanctions, Iran has been selling oil to various partners around the
+world and it has countries that buy it on a very small basis, a small barrel of oil basis.
+Those are what they call tea pouts. These get a discount of about $7 per barrel. So a lot of
+sensitivity in that area around prices. But today, investors deciding that maybe it's not as
+vulnerable as it was last Friday, or maybe there'll be talks and discussions to ease some
+of those tensions. We see oil prices a little bit lower today, stocks higher, and that's how we
+We are starting out the week.
+Let's move on to one of these topics that I've been fascinated with lately, stablecoins.
+Stablecoins, those are digital currencies pegged to the dollar usually, or pegged to
+another asset on a one-to-one basis.
+Well, a story out of the Wall Street Journal last week telling us that major retailers
+like Walmart and Amazon, they want to launch their own stablecoins to handle transactions.
+Don't forget, they run billions and billions of dollars worth of transactions through their
+their own networks every single week, every single day,
+and they don't want to wait for those payments to cross.
+So a story out of the journal last week saying that Walmart,
+Amazon, Expedia, and other companies are now experimenting
+with launching their own stablecoins.
+And a lot of this depends on whether or not
+we get the passage of what we call the Genius Act.
+We talked about it on the podcast a few weeks ago.
+This is a law being proposed by lawmakers.
+It's actually bipartisan that would allow for regulation
+around stablecoins to be used in our banking system.
+And they would actually have rules and regulations
+that would allow retailers to potentially use them as well.
+This has not passed the Senate yet,
+but it looks like it might.
+And then it will be signed by the president.
+If we get a passage of the Genius Act,
+well, you're gonna see stablecoins launched by,
+not just retailers, but by other big businesses
+that handle payment transactions.
+Now, why do they wanna do that?
+Well, they wanna do it because
+these are faster selling the times.
+Typically Walmart and other big retailers
+have to wait a couple of days.
+before they get payment settlement
+and they actually receive payment
+for the goods that they've sold in their stores.
+This is a much faster and much more efficient way to do it.
+You hear the promise of the blockchain?
+Blockchain is where these stablecoins will run.
+That's why there's so much excitement around it,
+but there's been a general, broad excitement
+around cryptocurrency in general.
+I was at Bitcoin 2025 in Las Vegas.
+We know that there's a lot of money in that space right now
+and that this administration is very favorable
+to the cryptocurrency industry.
+So keep your eyes on stablecoins.
+again, and the Genius Act, that passes,
+that could become very interesting.
+And it all comes back to a lot of the activity
+in the sector right here last week
+at the New York Stock Exchange Circle.
+This is a circle internet financial.
+This is a company that does a lot of stablecoin
+and blockchain payment systems.
+They went public here on the New York Stock Exchange.
+Shares were priced at $31 way above the range,
+which was 27 to $28, 25 times the demand for that IPO,
+IPO, that stock soared in its debut.
+And we've seen a lot of action in the cryptocurrency and stablecoin market.
+Lately, you've seen a lot of momentum and a lot of money behind this sector.
+It's not just stablecoins that have the wind at their backs, all coins and making
+it come back as well. Bitcoin stalled out a little bit at that 110,
+111,000 dollar per coin mark.
+We'll get into that with our friend J.C.
+Perrettes in a minute.
+But we see stablecoins flexing right now as the passage of the genius.
+that could be something we see in the next few weeks.
+And then we have digital currencies in our financial system.
+Favorite retailers are gonna be using it.
+Those are the top stablecoins by market cap.
+Keep a close eye on those.
+They trade very closely with the dollar
+because they are pegged to the dollar.
+But watch this space very closely.
+When you see a big IPO like Circle
+happening here at the New York Stock Exchange,
+see it oversubscribed,
+see a lot of activity in the sector.
+Well, you know, something's brewing.
+Something is definitely brewing in Washington
+with the Genius Act.
+All right, coming up.
+We are going to get our good friend, JC Perez, the founder of trend labs in on the drop and
+he'll drop in for a few seconds.
+Tell us the most important charts.
+He's watching the most important assets.
+He's watching.
+I've learned so much from JC over the years.
+I think you will too.
+Let's bring on JC Perez, the founder of trend labs.
+Hey guys.
+Thanks for having me.
+This is fantastic.
+I always tell you, you know, I used to read invest a pedia.com in college, like preparing
+for exams 25 years ago or 23 years ago, however long it was
+and you know, the fact that we get to do this together. I mean,
+it's really come in full circle. Speaking of circle. See what I
+did there.
+I see what you did there. Very, very smart. Well, I've learned
+so much from you over the years. You taught me that men lie with
+women lie numbers don't it's all about price. It's all about
+patterns and trends. JC has taught us at Investopedia and
+so many of our readers so much about technical analysis and
+charting and so many others you were the founder of all
+All Star Charts, now your founder of Trend Labs.
+Tell us about Trend Labs.
+What's going on in this new world of yours
+and what are you up to?
+No, I appreciate it, Caleb.
+Listen, you know, you and I know each other
+through All Star Charts.
+I was the founder.
+I mean, it started as a blog back in 2011,
+you know, turned into one of the most widely read
+technical analysis research on the planet.
+I mean, you know, we're really proud of that.
+And that was a research company, still is,
+for hedge funds, professional investors,
+and individuals as well.
+and it's a research company and Trend Labs
+is very much selfish to me.
+It's really about what I'm doing with my own money,
+with my own strategies versus servicing other hedge funds
+and professional community.
+I'm really just talking about what I'm doing
+and then sharing that with everyday investors.
+So it's really a lot of fun.
+And I get to be more of me
+and less about what I'm doing for others
+and focusing on growing my own nest egg, if you will,
+if you will and sharing those strategies is truly a blessing.
+Yeah. Well, the research is pure. I've learned so much from it and folks will link to it
+in the show notes, trend labs.com. But let's get in to some of your recent notes. Some
+of your recent observations stocks are up. You say in a recent note, but the institutions,
+big institutional investors who really move the money around here, right? They are not
+positioned as you say, as they should be, what's going on there. What, why aren't big
+investors believing in this new bull market? Jason?
+Yeah, I mean, listen, this is what Trend Labs is all about.
+It's about finding the divergences between what people think might be happening versus
+what actually is happening.
+And Caleb, you know that, you know, sentiment is near and dear to my process.
+It's so important.
+And we are coming off some of the most extreme levels in pessimism and stock market history,
+depending on how you calculate it.
+there's an unlimited amount of ways of calculating sentiment,
+but using a lot of data, lots of just that, you know, people were,
+were more scared for longer than at any point during COVID or the
+great financial crisis, or the bottoms of the doc, you know, post.com
+bubble. Like in any of those times, people were more scared for longer
+this time, and still are. And something that I learned from a great
+mentor of mine, Mr. John Roque, is that, you know, we're not in
+a reversion to the mean business, but we're in a
+reversion beyond the mean. And in other words, we're not just
+trying to get back to, you know, normal levels. And, you know,
+on average, we tend to extend beyond that. And I have found
+in my experience that that is particularly true from extremes.
+And I would, I would, I would tell you that this spring, the
+sentiment was at an extreme. And therefore, you know, these
+are environments where we want to be greedy. You know, we
+want to let our winners run mathematically, you can't have
+big winners unless you let them get there, Caleb.
+Yeah, and that while they've been scared, the market has
+recovered some 20% now, almost from its lows here. So new
+bull market, but if you look at the NASDAQ, full bull market,
+and as you taught me years ago, there's always a bull market
+running somewhere. And if you look around the world, as we've
+been talking about on this podcast, I know you talk about
+in your research, bull markets throughout South America right
+now, you look at Mexico, if you look at Brazil, if you
+look at Chile, but also in places like Poland, the money
+has moved out of the US stock market to some degree, not all
+of it, there's so much money in this stock market, but
+investors have gotten global for the first time and found some
+upside in other places. But again, it's that sentiment, it
+was as dire as you said, as we've seen in almost
+generations. And if you look at consumer expectations for the
+future of the economy, it was low as they were back in 1981
+coming out. Yes, a long period of stagflation. But if you feel
+bad for too long, you could miss the reality. It looks like a lot of institutions may have
+done that. Individual investors, JC, you know, we track those closely at Investopedia. They stayed
+the course and a lot of them were buying dips and some of their favorite stocks got rewarded
+for, you know, for doing so. Stay patient, bought what they thought they had, they saw good value,
+and a lot of them are a lot happier for doing so despite the fact that the headlines are so
+negative. Let's get into commodities because I know you track those really well. You taught me
+me to always watch Dr. Copper. We've seen gold rally to record highs a lot of that the
+safety trade a lot of that because where else are you going to put your money right now.
+But now we got to see copper fall through. What are you seeing in the in the heavy metal
+and the soft metal space. Jason in the same ways Caleb that we're seeing that sector
+rotation in the stock market. We're also seeing it in the commodities market. You mentioned
+the strength in equities in Latin America for example in Asia and you know throughout
+Europe 30% returns in Germany this year alone just monster
+returns. But we're also getting rotation back into America. You
+mentioned the United States coming back strong. Technology is
+literally as we speak on pace to close at the highest levels
+ever the technology index. So you know, you want to talk about
+sector rotation driving the bull market and equities. We're
+seeing the same thing in commodities Caleb, you know, it
+started with gold, right, the granddaddy of them all, right,
+really making those moves, breaking out last year to new
+all-time highs when priced in US dollars. Remember, it was already doing that price in every other currency.
+So it was inevitable for it to happen in the dollar as well. We got that last year and that has followed through this year.
+We've seen a rotation into silver as well, platinum more recently. And so if gold is making new all-time highs,
+copper can't be too far behind and sure enough, it's pushing that $5 level and, you know, I think is next to, you know, really take off like gold.
+And then what would be the one after that, right?
+Is, okay, great.
+That's what's happening.
+So what's next?
+You know, historically energy would be next.
+Energy very specifically in the S&P 500
+represents only 3% of that entire index.
+Energy is 2% of the Dow.
+It is 0% of the NASDAQ 100.
+So investors in America just don't have exposure to energy.
+And I think they're really vulnerable in the same way
+that pessimism in the equities market was at historic lows this spring. I think commodities
+are coming off a very similar kind of mindset and American investors just don't own it and
+they're very vulnerable and the worst thing that could possibly happen to the American investor
+is a leadership regime in energy. They're not ready for it. I think that's the worst thing
+that can happen to them and that's what we're betting on. Yeah and you know if they weren't
+We're listening to the campaign speeches of Drill Baby Drill.
+I can't help you there because we have seen a kind of a bull market getting started in
+the commodities area.
+But as you say, we're just not exposed to it because individual investors in particular,
+we all own the same stocks.
+We own the MAG 7.
+We own the top of the S&P 500.
+We ask our readers every two months, what stocks do you own?
+What stocks would you own for the next 10 years if you were buying and holding today?
+It's the same group, 15 to 20 stocks, maybe one, one energy stock in that entire group
+JCR.
+about cryptocurrency. I know you track that as well. In a recent note, you say on TrendLabs,
+Bitcoin dominance has likely peaked. You heard me talking about stablecoins and the rise of
+stablecoins, but there's also altcoins. I'm not talking about the meme coins necessarily. Those
+come and go, like fashion as they say, but altcoins in general and this Bitcoin dominance,
+this Bitcoin exceptionalism, this Bitcoin maximalism that I saw at Bitcoin 2012 in Las Vegas,
+that could be fading a little bit. What are you seeing in the charts?
+Yeah, I mean, I think it is, and I don't think that that's a bad thing for the price of Bitcoin, by the way, right?
+So all Bitcoin dominance means is the value of Bitcoin as a percentage of all the value of all the cryptocurrencies.
+That's all that that means. It doesn't mean that it means Bitcoin is going to go up or down.
+It's just what percentage of the pie does it represent?
+Bitcoin is right around 2.2 trillion, and total crypto market cap is like 3.3 trillion,
+so it's about two-thirds of the total crypto market cap.
+And I think there's a very high likelihood that you're getting that rotation into Ethereum finally.
+And Ethereum is really the only one that matters at this point in terms of Bitcoin dominance,
+because Ethereum is over $300 billion in market cap.
+The next one after that is down at $100 billion, which is Binance, Solana is at $90 billion,
+and then they go down from there.
+Ripple is another one that could eat into it potentially at about $140 billion, if I'm not mistaken.
+And so I think that this is the last time,
+I think this is the last cycle where Ethereum will be such a large percentage.
+Because remember, Ethereum is larger than Ripple, Binance, and Solata combined, right?
+So I think it's the only one that could really eat into that Bitcoin dominance.
+So that Ethereum Bitcoin ratio is a big one now.
+I think in future cycles, Ethereum will be less needed for that Bitcoin dominance to decline.
+And therefore, I think there's a really high likelihood that that's it.
+That's the highest you will ever see Bitcoin as a percentage of total market cap.
+I don't know, Caleb, obviously.
+But I think as investors, we need to think that that is a very high possibility.
+So act accordingly.
+And I think what does that mean?
+You know, we've been buying Ethereum.
+We've been buying Solana.
+I want to buy more on breakouts.
+I want to buy more on strength.
+If that thesis of mine proves to be true, I think it's got legs.
+And so we want to be adding to winning positions.
+We got some comments, I think, from some of the live watchers here from Liara.
+Very interesting. Would extra regulation have a negative impact on crypto value, though?
+Extra regulation, unless it's not favorable, probably shouldn't affect evaluation.
+But all I hear from Washington and from this administration is they're going to make it easier and easier for us to own cryptocurrency, to have stablecoins in our financial system.
+They want America to be the crypto capital of the world.
+The president has his own mean coin. Everybody seems to be in the game over there. And now you also see
+the president's holding company launching a
+DeFi decentralized finance company as well as a crypto exchange. So I think they are a good question
+We're going to see a lot more green lights for crypto and that could be mean higher prices depending on ownership
+And I wouldn't be surprised JC if we saw crypto in our 401ks by the end of the year at least bitcoin
+because they've been paving the way for that through the Department of Labor.
+Alright, let's talk a little bit about key indicators you're watching across
+the broader markets. Let's look at equities. Let's just look at the US
+markets here. Two or three key indicators that you're watching closely
+to tell us where things are gonna head from here. Sector rotation. It's the lifeblood
+of a bull market and you're seeing it Caleb, you're seeing it. You know
+Financials, industrials have been massive leaders and go back and study bull markets and bear markets in history.
+Financials and industrials leading is not a bad thing.
+People are like, oh, utilities and consumer staples.
+Yeah, they outperform for, you know, a few months.
+And if it was just utilities and staples outperforming, that would be one thing.
+But financials, industrials and communications were right in there with them.
+And now technology literally today is making new all time highs.
+This is technology, Caleb.
+And when you study every bull market in history, and I have, as you know,
+and I encourage everybody listening to do the same, you know what you're
+going to find in those bull markets?
+Technology is a leader.
+Technology is a leader and technology is a big outperformer.
+What are you seeing?
+This entire bull market.
+You're seeing that now it doesn't happen forever.
+Technology is going to take a step back and allow others to catch up like
+financials, like industrials, like communications, even staples and utilities. Everybody gets a turn
+Caleb in bull markets. And so what do you want to look for? Continued rotation. That's what this is
+all about. Are more sectors participating? Are more industry groups participating? Are more
+countries participating Caleb? And the answer is yes, yes, and yes. Yeah, yeah. There's, as you say,
+there's a bull market running somewhere and it's got to go from sector to sector and sometimes
+country to country and that's what we've seen. You can look at the headlines and blame it all on that.
+The financial media is really good at that, as a company included. But if you just look at sector
+rotation where the money's been flowing and what's performing and not performing, it kind of makes
+a ton of sense and these things are cyclical. All right, you are sommelier, you're making your own
+delicious wine. You're also a master of sake sommelier as well. We got to get a wine recommendation
+from you on the way out. Looking for a good summer wine, JC. Something to have with maybe
+some grilled fish outside. Maybe we're making a branzino with some nice roasted vegetables,
+good garden vegetables, something crisp, something light, something nice for summertime. Give us
+your best wine recommendation on the way out here. Well, first, I'm not yet a sake sommelier. I am
+just a certified Japanese sake advisor. So I'm still one exam shy of the sake song, but I
+appreciate I appreciate the love. Now I gotta go. Now I gotta do it. So thanks. You want a good wine.
+So, you know, listen, something refreshing like that, you know, you wanted me to bring
+a wine I had something bigger, it's not going to go with that dish though, it's going to
+be too overpowering. Okay, okay, okay. You know, for me, my from my taste, you know,
+you're going to have something like that. I mean, that that screams something like an
+acer tico from Santorini, right? Just classic, you know, Greek, you know, you have your meal
+sounds kind of Greek, right? So that works for me, you know, but then, you know, the next day when
+you have the lamb chops, you know, stick with the Greek theme, you know, say with the lamb chops,
+I would go north instead of the Greek wines, the Greek reds, you know, for me, I like the Italian
+reds better. So go with a bulgari soperiori. That's what you want a bulgari soperiori. It's
+gonna be a classic super tuscan, you know, so you're gonna get like some bordo varietals in there.
+man to go with those lamb chops and some of that funkiness of that lamb, you know, with the,
+you know, with that brittana myses that you're going to get from those super tusks, you know,
+you know, the Italians like they're not like strict with their structure, like the Germans
+where everything is so clean, you know, the Italians are more like a little bit of this,
+a little bit of that, you know, and that, that adds that, that, that they're technically
+they're flaws to the wine. But, you know, a lot of us appreciate that for what they are,
+and it makes the white even better. So shout out to the Italians.
+All right. And the super Tuscans and shout out to you, JC Perez, good friend of Investipiti,
+the founder of Trendlabs. Folks, we will link to his terrific research in the show notes,
+but go find it yourself. Trendlabs and make sure you're following JC across the platforms.
+I've learned a ton from you over the years and I expect to continue to learn more from you
+at Trendlabs. Thanks so much for joining the express live from the New York Stock Exchange,
+our very first guest. Thank you for being with us, buddy. Appreciate you Caleb.
+Coming up folks, it is a world awash in money. We've been tracking money flows,
+not just for the past few months, for the past year or so, but since the beginning
+of the decade and for the past five years, they've got trillions and trillions
+of dollars across capital markets right now. We're going to tell you where that
+money is and where it's moving. Money in motion coming up right after this.
+It's time for some money in motion and we love to track money flows. We like to
+see where money is moving, not just on a daily basis, on a weekly basis, but on a long-term
+basis.
+And when you look across the capital markets, there is a huge amount of cash in the markets
+here.
+And then maybe that explains why they've been kind of resilient through all the headline
+risk here.
+It is a $247 trillion global capital markets.
+That is a massive amount of money when you think of it.
+When you think about where that money is and what countries have the biggest position
+across the capital markets,
+and opens your eyes a little bit as to why money keeps moving
+towards the stock market right now.
+It's again, 2.6 trillion in US assets alone out of that,
+$547 billion in foreign banks, US asset foreign buying,
+1.3 trillion of that is just in the stock market.
+This just fits into the beginning of the decade here,
+since the beginning of 2020 till now.
+So much money flowing at $350 billion of foreign investors
+buying into the US stock market. When you look at the US versus the rest of the world, about $1.3
+trillion difference, $300 billion in international stock. So we're in this period of time this year
+where foreign markets, as we just talked about with JC, have outperformed the US market. It
+doesn't happen very often, so capture this moment and remember it. And remember that where most of
+the money is, is in US assets. And in terms of money flows, $2.6 trillion flowing into US stocks
+in just the in the last five years, that's the third largest inflows ever.
+And a lot of that we've seen just this year. So much money has been moving into the market,
+not all to the same places, but as we just heard, tech stocks, technology stocks about to make yet
+another record high. And we've seen some other sectors catching up with that as well. We're
+also seeing a lot of money moving across cryptocurrencies, even though that's just
+a three or four trillion dollar market. When you think about the entire size of the capital
+markets, talking about $247 trillion. So stocks and bonds really dominating the capital markets
+right now. There's a terrific graphic of what the stock market looks like. Public equity,
+the dark part of the bar is right there. That's a huge part of it. That is stocks, global stocks,
+not just in the US, but Europe, China, obviously South America, and then it's fixed income. So
+really stocks get all the attention, fixed income, bonds rule the world. And then you have all
+all these other asset classes that are being introduced to retail investors like us, but
+it's still dominated by the US, it's still dominated by stocks and bonds, and it's still
+dominated by a ton of money flow moving into these sectors.
+So we like to watch the flows.
+We can watch them again on a daily basis, on a weekly basis.
+That tells you what equities might be moving, what individual parts of the capital markets
+might be moving.
+We think about the entire picture, remember,
+it is really stocks, it is really bonds,
+and it's mostly US dominant,
+even though we're seeing outperformance
+from other parts of the world.
+All right, coming up, we're gonna get you ready
+for the rest of the week,
+looking at what to expect this week in the stock market.
+Let's get set up for another really busy week ahead.
+They all seem so busy these days, that's because they are.
+But this week is gonna be dominated by the Federal Reserve.
+We've got an interest rate decision,
+or no decision or a decision to not make a decision
+coming our way probably this Wednesday
+when Fed Chair Powell gives his press conference
+after the FOMC meeting, which starts on Tuesday.
+We're also gonna get retail sales on Tuesday for the month
+of May, how strong were those?
+On Monday, just a few earnings coming out this week
+when our leading things off
+and some manufacturing surveys as well.
+We're gonna get some home builder numbers
+coming out on Tuesday as well.
+And then Wednesday, we'll get again that Fed decision
+from the FOMC, the Federal Open Market Committee.
+If you look at the CME's FedWatch tool,
+which I look at obsessively,
+there's about a 0.1% chance
+that the Fed lowers interest rates at this meeting.
+There's a 100% chance
+that the president will not like that decision.
+And we may even hear more pounding on the table
+for a lowering of interest rates
+by the Federal Reserve from the president.
+And we may even hear
+that he's already picked his replacement
+for Fed Chair Powell,
+whose term expires, I believe, next May.
+So he's got a while to go, but if he announces
+who that Fed chair pick is going to be,
+who might replace Powell, if confirmed,
+you might have what we call a shadow Fed chair
+looming over the Federal Reserve, which might, you know,
+might make things a little bit messy
+for the Fed going forward, but the Fed has been resolute.
+The data looks good.
+We got the inflation report last week.
+CPI came in right around 2.4%.
+You know, the unemployment rate is at 4.2%,
+139 or 137 jobs added last month.
+No reason to raise interest rates now.
+We got tariffs potentially coming our way.
+Those are gonna be inflationary.
+So we probably won't see any moves on interest rates,
+but maybe one or two towards the end of the year
+and small ones.
+Let's look at a comment from our buddy,
+Dr. Preston Cherry,
+a lot going on this week in the markets and the economy.
+You said it, my friend,
+and a happy related Father's Day to you.
+Tons going on.
+Hey, love the podcast.
+We love you.
+Thank you so much.
+Thanks for your comments.
+And can you get an internship?
+Yeah, I need one too.
+We will put that in the show notes of where to look,
+But thank you so much for tuning in.
+We want you to be joining this conversation live on YouTube,
+live on Instagram, wherever you're watching it live.
+And if you can't catch it live,
+catch it on your favorite podcast channels, audio only,
+when this is over.
+All right, coming up,
+it's the Investopedia Indicator of the Week.
+What indicator are we watching closely this week?
+Give us a sense of where markets are headed
+or where the economy is headed.
+The Indicator of the Week coming right out.
+All right, it's the most boring
+the most important chart in all of economics. It's the Fed's dot plot because when the Fed
+renders its decision on interest rates this week, we will get, like we do once a quarter, basically,
+the SEP, the summary of economic projections from the Fed. That kind of tells us where
+Fed governors, 12 of them from their different regions around the country, plus the Federal
+Reserve Chair, Jay Powell, think the economy is headed in terms of economic growth, in terms of
+GDP, but also a forecast for how many interest rate cuts they think or where they think interest
+rates were going to be going up 6 to 12 months. And it's called the dot plot. We only get it,
+again, four times a year. And it's the worst chart you've ever seen, but it's super important.
+And what's important to watch during that dot plot is this sort of lowering of interest rates
+or where the Fed thinks interest rates should be. The Fed funds rate, that is, is the rate at
+which banks loan each other money. They think it's going to be lower, but not a lot lower
+than where it is today. So if you look at the Fed dot plot when it comes out on Wednesday with
+a summary of economic projections, maybe this dot plot will change, maybe those dots will all
+be in alignment. There's no interest rate cuts coming this week. According to the Fed, that
+could all change as we have tariffs. We do have a huge conflict going on in the Middle East right
+now. A lot can change and you're probably going to hear more uncertainty from the Federal Reserve
+this week when they come out with their decisions. So keep your close eye on the dot plot. Again,
+the most boring yet the most important chart in economics right now. So we did it live from the
+New York Stock Exchange. It's the Investopedia Express. Thanks so much for joining us. Big
+thanks to our buddy J.C. Peretz for coming on the show, our first live guest here in our new video
+podcast live from the Stock Exchange. We'll link to J.C.'s research and all the research we cited
+on today's episode. Again, if you didn't catch us here live, catch us on your favorite podcast
+network or on Investopedia.com, investopedia.com slash The Express podcast. Watch us on socials,
+watch our site. We've got free news coming out for the educated investor. Our news team is going
+to be all over the Fed meeting, all over earnings this week and all the reports you need to know.
+We will be back here next Monday. We'll talk again a little further on down the line.

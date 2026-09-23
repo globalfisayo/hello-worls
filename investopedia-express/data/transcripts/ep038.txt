@@ -1,0 +1,549 @@
+I don't practice Santeria, I ain't got no crystal ball.
+If I had a million dollars, I'd invest it all.
+I'm not smart enough to pick stocks, I'm just dumb enough to fail.
+I avoid get rich quick schemes, they'll wind me up in jail.
+I try not to get over excited when I see those cryptos soar.
+I know there's a bubble beneath them making us want them even more.
+I'm just trying to stay in balance, let compounding do the rest, make my allocations
+automatic while I ride the Investopedia Express.
+The choppy winds of spring continue to impact the US equity and cryptocurrency markets.
+And while stocks are stuck in a trading range, Bitcoin and its brethren are in the spin cycle.
+We'll break it down later in the show.
+And we go inside the crime of the century as we uncover how Bernie Madoff defrauded
+270,000 investors in a $65 billion Ponzi scheme that went on for decades.
+Jim Campbell, the author of Madoff Talks and one of the only journalists to have extensively
+interviewed Madoff while he was incarcerated, joins the show to break down how Madoff got
+away with it, who helped him do it, and why it could happen again.
+But first, let's dig in.
+The US equity markets continue to churn as the S&P 500 is coming off its second consecutive
+week of declines.
+That hasn't happened since February, and despite their recent struggles, tech stocks
+had a slight bounce last week as investors bought the dip.
+The NASDAQ closed higher for the first week in five, but is about 5% lower than its all-time
+highs.
+Money flows into global equity, slowed to a trickle in the past few weeks, with only
+a little over $12 billion flowing into stocks just last week.
+Gold prices, the classic inflation and equity hedge, are up about 4% since their lows in
+late April.
+The super boom in commodity prices paused briefly last week, but it could be heading
+higher.
+Lumber prices have doubled from a year ago on short supplies and heavy demand from the
+housing sector.
+prices soared past $12,000 and they're hitting levels we haven't seen since 2012.
+And corn prices are spiking doubling in 2021 and heading to an all-time high.
+Bullish bets on higher corn prices this summer outnumber bearish bets by 17 to 1, according
+to the CME Group.
+Corn, the ultimate cash crop, is used in just about everything we use these days, from
+tortilla chips and chicken wings to bourbon and soda pop, as the Michiganders like to
+say, but its main uses are for livestock feed and fuel. About 40% of the US crop, which totals nearly
+$60 billion and 14 billion bushels, is blended into motor fuel every year. Thank you, Blake.
+$1,370,000,000,000,000,000,000, that's the amount of money that was wiped out in the cryptocurrency
+market from its high on May 12th through its recent low on May 19th. That's according to our
+friends at bespoke investments. At the start of 2021, total crypto market cap was just about
+$759 billion, so it lost nearly double that in just one week. Total crypto market cap reached a
+record $2.58 trillion earlier this month. As of the low last Wednesday, it crashed more than 50%
+down to just $1.2 trillion. Since Wednesday's low, the numbers come back up a little bit to
+to about 1.7, 1.8 trillion, but crypto market cap is still down more than $800 billion from
+its recent highs.
+Why is this happening?
+Regulations are coming.
+There's no two ways about it.
+The IRS is cracking down on crypto gains from trading.
+The SEC is delaying approval of a Bitcoin ETF, and its chairman, Gary Gensler, is considering
+other regulations.
+And last week, the People's Bank of China and several Chinese payment processors said
+cryptocurrency is not an acceptable form of payment.
+That is curbing a lot of the recent enthusiasm for cryptocurrencies.
+Investopedia readers have been crashing the gates on our site looking for answers to their
+crypto questions.
+We've been tracking the questions you ask the most, and here they are with a few answers
+whenever we can.
+Coming in at number one, what are the top cryptocurrencies other than Bitcoin?
+Well, it seems investors are looking for alternatives and they are easy to find.
+We have a full list on Investopedia, but if you want a quick list by market cap, it
+It goes like this, Ethereum, Tether, Dogecoin, Cardano, Binance Coin, XRP, Internet Computer,
+and Polkadot, but there are hundreds more.
+Number two, what does it mean to hodl?
+Euphemistically, it means to hold on for dear life, and Bitcoin believers call themselves
+hodlers, but it actually comes from a drunk typo made by a Bitcoin investor on an online
+chat forum in 2013 who said he was hodling onto his Bitcoin despite a sell-off prompted
+by a crackdown from Chinese regulators.
+familiar?
+3.
+What determines the value of one Bitcoin?
+Well, isn't that the problem?
+It's kind of hard to put a value on a currency that has no underlying asset.
+The value is determined by what the next investor is willing to pay for it.
+Technically, Bitcoin has a market value once it's mined, but once they are being publicly
+traded, the value is constantly shifting.
+4.
+How do I buy Ethereum?
+You asked.
+Well, everyone was running after Bitcoin and Dogecoin chasing Elon Musk's tweets.
+Ethereum was steaming to a 360% gain year to date as the Ether coin was winning widespread
+adoption in the DeFi world.
+You can buy Ethereum on all the crypto broker sites.
+Number 5.
+What happens to Bitcoin after all 21 million are mined?
+That's another one of the vexing questions about Bitcoin since it does have a finite
+supply.
+While the final Bitcoin is unlikely to be mined until around the year 2140 given how
+complex it will be to mine future Bitcoins, not to mention all the electricity use,
+It does make you wonder if Bitcoin will become more or less valuable as we approach 21 million.
+But that's a problem for another century.
+Interesting questions, and check out Investopedia.com for more on those answers.
+Let's get set up for the week ahead.
+It's the tail end of first quarter earnings season and corporate report cards have been
+better than expected.
+The problem is that those expectations were also expected and investors are looking for
+more reasons to keep allocating to stocks.
+flows into equities have slowed to a trickle in just the past four weeks.
+This week we'll hear from big retailers including Best Buy, Costco, and The Gap.
+They'll give us a good window into consumer appetites as inflation swirls across nearly
+every major product category.
+We'll get results from Snowflake 2020's Cloud Computing Darling.
+Cloud stocks like Snow, which has dropped nearly 18% year to date, have fallen out
+of favor in 2021.
+Salesforce and Nvidia are also set to report results and we'll see if they can reignite
+the tech sector.
+On the IPO front, ZipRecruiter, the online jobs market, is expected to make its debut
+on the New York Stock Exchange via a direct listing this week.
+ZipRecruiter itself is not selling shares with the offering and will not receive proceeds
+from the direct listing.
+Instead, shareholders will offer up to 86 million shares of Class A common stock for
+resale.
+Let's see how that goes.
+Direct listings are on a cold streak with investors right now.
+And we may hear more details about Robinhood's expected IPO.
+Evaluation estimates on Robinhood range as high as $40 billion and the online trading platform just announced
+It will allow its own users to buy IPO shares
+Coincidence? You figured that out. That's why you are who you are. Thanks, Bobby D analyze this looking at the economy
+The cooling of the US housing market in the past month may show up in the case Schiller home price index this week
+the median sales price for a US single-family home hit
+$347,000 last quarter, a 17% increase from the same period in 2020. But housing starts
+and existing home sales have started to slow, and that might impact home prices in the 20
+cities the Case Shiller Index measures. We'll also get a report on U.S. corporate profits
+for the first quarter. They will look huge compared to the first quarter of 2020, and
+they will likely be used as a poster child for higher corporate tax rates by the Biden
+administration.
+Speaking of the president, he will unveil his fiscal 2022 budget on May 28.
+The Biden administration released a skinny version of the budget back in April.
+It proposed $769 billion in non-defense discretionary funding in fiscal year 2022.
+That's a 16% increase over last year.
+It also proposes $753 billion for national defense programs.
+That's only a 1.7% increase.
+Let the lobbying begin.
+There are heists, there are scams, and there are straight up robberies out there in the
+financial world, but one crime rules them all.
+And that was Bernie Madoff's $65 billion Ponzi scheme that impacted some 720,000 investors
+around the world.
+Madoff died in prison last month at the age of 82, serving a 150-year prison sentence
+for securities fraud and other charges.
+To date, court-appointed trustees have recovered some $14 billion of an estimated $17.5 billion
+investors gave Madoff over the course of several decades.
+While Madoff confessed to some of his crimes, he remained adamant that several co-conspirators
+pushed him even deeper into his Ponzi scheme and there was no way out.
+There have been thousands of stories written about Madoff, several films, and many best-selling
+books, but only one journalist actually spoke to Bernie on the record extensively, and
+that's Jim Campbell, and he's written a new book called Madoff Talks, and he is our very
+special guest on the Investopedia Express this week.
+Welcome, Jim.
+Thank you, Caleb.
+It's an honor to be here.
+Investopedia is in the footnotes, does a tremendous job of taking complex financial terms and
+reducing them into an understandable manner.
+So they're right there for folks to look at as they go through the book.
+Well, thank you.
+And I found myself pouring into our dictionary, looking up terms and arcane investing topics
+and regulations about a hundred times in the past three days while I've been reading your
+book.
+So I know it well, and I've learned a lot just reading your book and going back to
+the site.
+I have thousands of questions, Jim, but we're on the express.
+So I'm going to pare them down.
+Let's start with you.
+You're a business journalist, but we won't find your column on Bloomberg or the Wall
+Street Journal or the FT, even Investopedia.
+I don't see on CNBC all day long.
+Where do you fit into the galaxy of business journalism?
+Well, first off, that's because I'm a radio guy and this was my first book.
+I have a syndicated business talk show and a syndicated crime show called Forensic Talk.
+And the book emerged out of suddenly finding myself with 400 pages of communications with
+Bernie and I figured this was something that had to be put into some format for folks to be able
+to look at as well as then best vetting everything he said. And the other thing I'll say is that I
+wanted to be the first to put the overall story in the perspective because most of it's untold
+from the systemic failure to the co-conspirators to the feeder funds on and on and on. And so
+that's how it happened. But I am not a business journalist, at least historically, maybe coming
+out of this, there will be some interest in it.
+You're in the group now, my friend. So there's nothing you can do about that. Welcome. Happy
+to have you. Let me ask you this. How'd you get access to Bernie Madoff? Because I tried for three
+years and so did about 100 other people I know. But you've made a career out of speaking to big
+shots who run afoul of the law like Dennis Kozlowski, Elliott Spitzer. How did you get to Bernie?
+My news director in the Greenwich station is always joking. You have to be in jail to get
+on my show. Actually, very fortuitously, I was doing an interview with Laurie Sandell who
+who wrote a book that the family had cooperated with,
+meaning Andrew and his girlfriend, Catherine, mainly.
+They had Ruth in it, but she didn't really wanna be,
+and she didn't like how she was portrayed.
+But anyway, she says,
+I'll hook you up with Andrew off the record,
+which kind of blew me away.
+So I talked to Andrew.
+I started right off with a barrage of brutal questions,
+including, shouldn't you be giving back money
+that your father gave you five million bucks
+in a couple of months before the thing went down,
+and he surprised me by saying, absolutely.
+We talked for a bit, and the show I was doing was live.
+He said, I'm going to watch tomorrow, Jim, to see that you're saying what you're
+saying now.
+He felt comfortable for tourists.
+Coincidence.
+Number two, his mother was moving from Florida to old Greenwich where I live.
+I said, I'll take her to lunch.
+Second, her lunch.
+She walked into the restaurant, December cold day, no one around had sunglasses
+on, even kept them on for the first part of lunch, I guess, proceeded to eat a
+chef's salad like she hadn't eaten in three weeks and then was totally open.
+Honest, good chemistry.
+We walked out of there.
+I said, can I get a picture?
+She said, you're wired.
+Aren't you?
+And once I convinced her that wasn't true, she introduced me to Bernie and the rest is history.
+So describe to me the feeling of when you first spoke to Bernie on the phone from the prison
+where he was incarcerated in North Carolina. What was that like?
+First off, I got to disclose 100%. The prison vetoed me visiting him, so I did not get to see
+him. And you cannot legally tape phone calls on the prison system nor go beyond 15 minutes.
+So our relationship was these long handwritten letters and then emails. His first handwritten
+letter which was on the CBS Sunday morning news show that Jim Axelrod was blown away
+was my wife and my son have said you're a sincere person. So I'm going to talk to you.
+I think you can help dispel the myths and misperceptions around this case. I'm not sure
+I fulfill that very well for him. But that's what started it. I said Bernie, I'm going to bet every
+single word you said for the truth, you can talk to history through me, but I'm going to bet every
+word. He said, Jim, I accept those terms. And we went from there. Unbelievable. Bernie was a
+successful market maker. He was an innovator in electronic trading. He was successful on Wall Street.
+He was doing really, really well. What made him turn to crime based on your reporting and based
+on your conversations with him? You're 100% right. His business was worth $3 billion at peak,
+exclusive of the hedge fund, which was the Ponzi scheme. This was the big deal. Bernie maintained
+to me that the Ponzi scheme started in 1992. He told me a story. He never told anybody else.
+And it's one that you might think there was some logic to,
+I've got a great business, I got in trouble,
+I lost some money, I'm gonna double down
+like a gambler's mistake,
+and we'll get it back and no one will ever know.
+He told me that story,
+that was different than what he even told his own lawyer,
+who he allowed me to have way to attorney-client privilege.
+The fact is that when you uncover this,
+look at the forensics that were done,
+my own investigation, the Southern District of New York,
+the SIPC bankruptcy trustee,
+it looks like he started this thing side by side
+at the same time, the 19th floor of the lipstick building,
+top graduates, and you already alluded to it,
+top level of innovative technology,
+17th floor high school,
+unsophisticated graduates we could manipulate
+at an archaic IBM AS 400
+that was obsolete as of the 1980s.
+One mind compartmentalized,
+able to run one of the cleanest businesses on Wall Street
+and one of the biggest criminal enterprises,
+side by side, probably likely the whole time
+He was in business early seventies, probably started maybe late sixties.
+Right.
+On that 17th floor or whatever, they were faking trades.
+They were creating fake statements, literally photocopying, pasting, making Xeroxes and doing
+it over the course of decades.
+According to reporting at one point, Bernie was the chairman of the NASDAQ.
+He's helping to build the rules and regulations that are going to govern electronic trading.
+Right.
+We're at the advent of electronic trading, yet he was living this duplicitous life running
+this enormous Ponzi scheme.
+Did his knowledge of the system serve as his superpower to commit this fraud?
+Yes.
+In fact, you're also going to get a prime motivation, which was not greed.
+He had built up great credibility with the regulators.
+He designed his systems, particularly to ensure his customers got best price execution,
+which with payment for order flow, as you know, it's a controversial thing right now
+with Robin Hood.
+All he does often does not happen.
+And Robin Hood was sanctioned for that.
+So he's built all this credibility up.
+And I think his mindset was this way, innovative, cost control, I'm making money up and down
+on commissions in the market maker, fit his profile perfectly.
+Comes over here, starts with 24 family and friends.
+Oh my God, I'm not going to make money at every trade.
+And he couldn't take it, couldn't psychically deal with it and really stopped trading.
+I'll pursue it after that.
+And covered even a small IPO loss of $30,000, which gave his investors a sense, I'm not
+going to lose money with this guy.
+covers us when we lose. And I think that's what it was a poor fit. And you're exactly right. The guys
+from the 17th had no idea what they were doing. They thought back dating trades was kosher.
+Trades were going out in Europe. So they were just entering it for data purposes.
+The amount of detail you dig up in the book, like the notes alone are a masterclass in forensic
+accounting and business journalism. So if folks want to learn how to really do that, read the back
+of the book as it is insane. But you write the public made up was an industry leader in
+regulatory compliance and placing customers' interest first, the private made-off was building
+this biggest criminal enterprise in Wall Street history.
+How could he have these two lives?
+And he was making a lot of money and spending a lot of money too.
+All I can say is that this psychic problem with losses and the need, Bernie would describe
+himself as often narcissists do as a victim.
+I had these greedy, relentless investors.
+I had to deliver.
+I always had to please, I had to give my son's money when I had no cash at the time.
+And he saw himself as always having to deliver.
+There was no reason that he could ever say, hold it back, can't do that, here's a loss.
+He could have lost Caleb.
+He could have said, oh my God, the market's down 40%.
+By the end of 2008, that would provide him a convenient excuse to get rid of 40% of
+the money he didn't have.
+Couldn't do that.
+He showed gains actually in December of 2008.
+He was driven by protecting his name and the market making business.
+He would never accept that the market making business was anything but 100% honest.
+Even after I found that they'd uncovered he laundered $800 million of stolen Ponzi money
+from the JP Morgan 703 account in the back door to the trading P&Ls upstairs.
+He's investigated several times by the SEC, but as you write, he had them chasing the
+wrong rabbit.
+to the office like five or six times. Explain what you meant by that.
+Brilliantly exploited the silos, particularly back then, which is broker dealer examiners
+understand exactly how to trace trades and how to look at broker dealers. They do not know how
+to look for Ponzi schemes and they don't touch the investment advisory side of the business,
+which will surprise people. When you think that Merrill Lynch has got one,
+they've got a broker dealer side, you assume they're examining the whole deal.
+No, investment advisory examiners look at that part of the business.
+Bernie didn't register as an investment advisor. In 40 years, he was never looked at by people
+that would have looked at that. You could have uncovered this scam in five minutes
+in several different ways. He exploited that silo. The other thing he did was no one in the firm
+was allowed to talk to the SEC except for himself and his right hand, but called it
+Sheed Fraud Perpetuating Officer. No one else. Now, where else on Wall Street, first of all,
+is the CEO sit with basically entry-level lawyers that are sitting there doing examinations and let
+nobody in the firm, including his compliance heads, which was his brother, and they would catch him
+in lies, contradictions, not delivering reports, and never followed through. Amazing. He was adamant
+made off to you and to the public that his family wasn't involved except his brother. And you came
+to that conclusion too, basically, by the end of the book. The family experienced unbearable
+tragedy even after Madoff confessed his son Mark took his own life two years to the day
+that Bernie confessed. His other son Andrew dies of cancer several years later, his wife wouldn't
+speak to him or visit him in prison. They met like I said when when she was just 13. This is
+the only guy she really knew. How could they not know especially given the the ostentatious life
+they were living? That's obviously a very good question. And there's two ways to look at it.
+One more on the psychological level, but the evidentiary level has to be looked at too.
+Once you understand Bernie, you know that Bernie could never have explained to his wife and
+his kids that he had to keep the business alive by turning to a criminal enterprise.
+He would never have told them that.
+The other thing was he kept his sons out, which I thought was a good thing.
+Andrew interpreted as he was using us.
+Then you look at their behavior.
+The boys turned him in the minute they heard him.
+They didn't stop and hide their money or cover up or say, let's delay a week.
+They went to the feds and turned them in instantly.
+Andrew never said another word to him his whole life.
+Even when I said, talk to him for your own closure.
+Nope, he's dead to me.
+And I asked Ruth, what the heck did you say
+when he told him?
+And she said, what's a Ponzi scheme?
+Now, on the other hand,
+when I found Ruth was still balancing the 703 account
+one year before it went down
+and Andrew ran the market maker
+that that 800 million went through,
+I had to do a lot of investigation of myself.
+I ended up luckily finding the one guy in the firm
+who I could trust, who saw the P&Ls who could explain what was really going on there. I do not
+think that they knew and were complicit. But let's be complete. They use that firm as a private piggy
+bank. And it was a private firm, but it was excessive. And that doesn't mean they're
+indicative of them knowing of the crime. But it's indicative of getting to a point where they were
+just stripping money out of that firm. Madoff spoke to you about four people who abetted his
+crimes and pushed him even deeper into this web of deceit. Briefly, who were they and were any of
+these folks charged with a crime? Okay, Jeffrey Pickour, Norman Levy, Carl Shapiro, and Stanley
+Chase. And the big guy was Pickour, right? Pickour took $7 billion out of the crime. Most people
+never heard of them. And of course, when they hear it's nine times what Bernie stole, it blows
+their mind away. He grew to detest Pickour because Pickour obviously grew to be able to
+would store his returns and it reached the stage where he called Bernie or Bernie's right
+hand admin and just dictated what his gains were and then called up six months later to
+dictate what his losses are to get tax losses to cover things up.
+Stanley Chase, the smallest guy, even became a feeder fund so he was making Bernie passed
+all those fees on and I just couldn't get over.
+He said, I don't want to know what the split strike conversion strategy is.
+I don't understand it.
+I just want no loss.
+That's it.
+Meanwhile, this guy was selling his fund to other people, basically admitting he had
+no clue what was going on and there could be no losses. These four guys, I call this
+a reverse Robinhood because Bernie had a lot of average net worth. You put money in over
+30, 40 years. They were not wealthy guys. They became wealthy building it up. What Bernie
+was doing then was giving them a fake return, 11, 12, 15% and giving these big four and
+his oldest customers 30, 40% or more. He was taking money from his poorer investors
+and giving it to his richer, like a reverse Robin Hood, not one of them was ever prosecuted
+criminally. And what this was, aside from Ponzi scheme was a tax fraud scheme. And that's
+what these guys benefited from. And that was never investigated by the Justice Department
+for some reason.
+Yeah, they were chasing what they thought was the whale, which was the Ponzi scheme.
+Exactly. But because they were making so much money, they needed to commit tax fraud
+to reduce their gains some way and take the sting out. Bernie was taking money up until
+the day he confessed as you write was he pathological or did he still think he could
+get away with it or was he just in so deep he scrambling holding on to the cliff with
+his bare fingers.
+It's kind of a combination of all those because he knew he did not want to be perp walked
+out of that firm. He knew they were running out of money and he actually had a date
+in mind where he was going to default on a 250 million dollar redemption to an overseas
+feeder fund called optimal. And so it was all set up. It was even going to be near
+Christmas because the deposits would be delayed by vacation days.
+He could get his firm through it without their Christmas being ruined.
+And then he would go away, get arrested.
+He was going to tell his family then, and he was going to tell Ike Shorke and his lawyers
+so he understood how to get arrested.
+He panicked, couldn't do it, freaked out, and before they could cover it up, they were
+going to destroy everything.
+He had basically a nervous breakdown almost in his office and confessed.
+He was, again, he could never admit that this thing was going to be a failure.
+So he was taking money right up until the thing closed, including trying to get money
+out of the fund that he was going to default on the end of December.
+Just desperate.
+And as you write, and as we've seen in the depictions in the movies, he's laying on
+his back in his office completely in a panic attack and can't move or he's staring out
+the window.
+So he knew it was winding down.
+Real briefly, I know this is super hard to do, and you do it so well in the book,
+But how did this Ponzi scheme work with the feeder funds and the money from the big investors?
+Just give us the basics of how he put this thing together because it's complicated, but
+it's actually not that complicated when you look at how you put it together.
+It's actually 85% of its investors and the Jewish charities that were wiped out.
+So it was right off the bat based on trust.
+I could never find a victim or even on the 19th floor, the sophisticated traders who
+who understood what his strategy really was,
+even though it's conceptually very simple.
+Then he moves to these feeder funds
+when he scales this up to a,
+in what I call a major scale Ponzi scheme
+from the account by account basis.
+And he gave these feeder funds, he passed on the fees,
+which anybody who knows a hedge fund manager
+would never do that.
+And the feeders basically take 1% off the top
+for sending the funds to them.
+Passed all of that onto them
+and didn't allow any due diligence, okay?
+Most of the time, a lot of the time,
+didn't even explain where their money was going
+or that it was undiversified.
+He sent it in and then Bernie maintained custody
+of the assets, which is another huge no-no
+that should not have been allowed
+so that he basically could do whatever he wanted
+with the money.
+He co-mingled it in the 703 account at JP Morgan.
+That account, by the way, it should have been easy
+to uncover because you got to have counterparties
+and dividend payments coming in on an equity strategy.
+Not $1 through a counterparty,
+not $1 of a dividend ever.
+The same thing the trades should have been clearing through the DTC, the Depository Trust
+Clearing, and Bernie gave them on a Friday night his account number, which was 646.
+And every trade of the market maker could go through there, not one from the IA Investment
+Advisory.
+The SEC didn't make the phone call.
+Then it was all automated off this computer.
+They would take prices off the tapes of the legitimate business, right, and then run
+it through there and basically hand out baskets of money.
+had 250,000 showing in his statement. So you would get five baskets if that was 250,000
+that would be bought and sold back and forth. You'd get this beautiful statement, highly
+detailed listing all the securities, all the confirms in beautiful chronological order.
+Though if you look closely, a lot of them didn't have a commission in the commission
+box, even though he waived all those fees, right? Because he said he was taking commissions
+to cover up that he was actually running the fund. So the statements were fake. The
+were totally fake. The prices were off and outside the pricing rates of the given days.
+There were some days the exchange wasn't open. So there were all kinds of ways that it could
+have been uncovered, but people didn't understand that. And it was trust Bernie, trust Bernie.
+He's the Jewish T bill. He secures the government bonds. And basically that's how you get away
+with it. And I, by the way, absent the O8 crash, he might be in business today.
+Yeah, absolutely. So the fact that it happens in the wake or in the middle of that probably
+help blow this up a lot. And there were people that were blowing whistles. Harry Markopoulos
+is one of them. There were others that were trying to blow the whistle on him. Nobody
+ever raised it to the level where the SEC was looking at that. So the question is, and
+you address this in the book, could it happen again? And it's a weird question, Jim, because
+Ponzi schemes happen all the time. I read about him all the time. The SEC puts out
+alerts. But could another one of this scale happen again, in your opinion?
+Yeah, you know, I went over this with especially with Markopoulos, because they wouldn't
+talk to Harry, as you know, and then they didn't understand him when he tried to.
+They thought he was a disgruntled competitor.
+But after it was all over, they invited him in and he helped design what they call the
+made-off Ponzi scheme detectors.
+He says there are about 90% probability that they'll nail one now, but he says that if
+there was an offshore version of Bernie, it could happen again.
+And as you know, one of Bernie's, or as you may know, in the book, Bernie claims there's
+a lot of untold fraud in offshore hedge fund money that's unreported. And he thinks that's
+what he thought that was an unheralded scandal. That's the only way on the other ways. The SEC
+is basically people think it's there to protect them. But actually, it comes in after the mess
+is made and cleans it up. And that part of the culture has not really changed all that much.
+Right. And they'll tell you that they need more money if they want to be a stronger
+enforcement division. And that is a big battle in Washington been going on for years,
+It'll go on for years.
+Jim Campbell, the book is made off talks.
+It's available everywhere you get your books.
+Check out Jim's radio show, Business Talk with Jim Campbell, plus Forensic Talk with
+Jim Campbell.
+I am so blown away with this book and this Herculean effort of business journalism.
+I got to say, I am so impressed.
+And I'm going to come up to Greenwich and I want to have a chef salad with you and
+find out more of how you do what you do.
+Thank you so much for being on the Express.
+Canvas, totally my honor.
+Thanks for inviting me.
+It's terminology time.
+Time for us to get smart with the investing term we need to know this week.
+This week, it's a twofer and it comes to us courtesy of Carl in Centerville, Alabama.
+Carl suggests fiscal policy versus monetary policy.
+And we like that suggestion because we're kind of in that part of the recovery where
+a combination of both has led to trillions in government spending to abet the recovery.
+That's the fiscal policy part of it.
+Stimulus checks, small business loans, and industry bailouts.
+And then there's the monetary policy part of it.
+Low interest rates and quantitative easing are bond buying by the Fed.
+Well, according to Investopedia, fiscal policy refers to the use of government spending and
+tax policies to influence economic conditions, especially macroeconomic conditions, including
+aggregate demand for goods and services, employment, inflation, and economic growth.
+You can thank the legendary economist John Maynard Keynes for modern ways of thinking
+about fiscal policy.
+He argued that economic recessions are due to a deficiency in the consumption spending
+and business investment components of aggregate demand.
+Keynes believed that governments could stabilize the business cycle and regulate economic output
+by adjusting spending and tax policies to make up for the shortfalls of the private
+sector.
+His theories were developed in response to the Great Depression, which defied classical
+economics assumptions that economic swings were self-correcting.
+The through line from Keynes goes through the New Deal in the US in the 1930s, the
+Great Financial Crisis of 2008, and the recession brought on by the pandemic.
+The US government has already committed $6 trillion in government spending to jumpstart
+the economy. More is coming. Monetary policy, the demand side of economic policy, refers to
+the actions undertaken by a nation's central bank to control money supply and achieve macroeconomic
+goals that promote sustainable economic growth. Monetary policy consists of the management of
+money supply and interest rates aimed at meeting macroeconomic objectives such as controlling
+inflation, consumption, growth, and liquidity. Sound familiar? This is achieved by accidents
+such as modifying the interest rate, buying or selling government bonds, regulating foreign
+exchange rates, and changing the amount of money banks are required to maintain as reserves.
+As we know, the Federal Reserve in the U.S. lowered the overnight lending rate to between
+0 and 0.25% and promised to keep it there through 2023.
+It's also been buying $120 billion in government bonds every month, laying a safety net under
+the capital markets.
+When the Fed decides to taper those purchases and potentially raise interest rates, that's
+one of the hottest debates in the investing world right now.
+Good question, Carl.
+You'll be getting a pair of the summer stylish Investopedia socks for your suggestion.
+Throw them on for your next hike down to the Cahaba River.
+We're going to let Bernie Madoff take us out this week.
+Here's Madoff speaking from prison to New York Magazine reporter Steve Fishman in 2011.
+He was also just one of a handful of journalists or writers who spoke to Madoff while he
+was incarcerated.
+Madoff trying to explain that most of his investors actually made money investing with him.
+But as we know from our conversation with Jim Campbell, you made money if you were in early and
+had a lot of money to begin with. 270,000 people were impacted by Madoff's crimes and countless
+lives were destroyed. Well, that's it for this edition of the Express Crime Story. You never
+know where the tracks will take you sometimes. We're going to pull into the station for a couple
+weeks and retool our engines for a busy summer ahead. So we'll be back on the tracks with
+you on June 7th with a fresh episode of the Investopedia Express. Stay healthy, stay smart,
+and stay legal. We'll talk again a little further on Down the Line.

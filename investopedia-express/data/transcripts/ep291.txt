@@ -1,0 +1,708 @@
+On the Express this week, oil prices top $120 a bale,
+the crude realities of the war with Iran.
+The wealth management industry facing its AI moment right here,
+right now, Jason Wank of Altrus drops in with a view to the future.
+ETFs are coming off our record year,
+but the flows are flowing away from the U.S.
+Will 2026 be the year of stagflation, that is,
+from the Futureproof Citywide Wealth Festival in Miami, South Beach. It's the Investopedia Express,
+never out of reach. Welcome back and welcome aboard live literally from South Beach on the beach.
+We are at the Futureproof Citywide Wealth Festival here with a bunch of financial advisors, wealth
+managers, financial planners, tech companies, AI tech companies. If you are an independent advisor,
+if you work for a bulge bracket firm, or if you're a planner or you're in that business,
+you're probably here or you have somebody from your company here right now. This is where the future
+of wealth management is happening and this conference is heavily focused on AI and the
+intersection of AI and wealth planning. And you haven't been paying attention to it like a lot
+of us have. This industry, like all other industries, being disrupted by AI. So everywhere I look
+around here, all you see is different vendors with tech solutions offering AI into wealth
+management, tax planning, custodianship, stock picking, you name it, it's all happening here
+and some of the smartest and newest upstarts in the industry are all here showcasing
+there whereas I'll be leaving a panel later on in the day on what's happening in the markets
+around the world and boy are they chaotic. So we'll get to what's happening here at
+Future Proof in a little bit but we've got to focus on what's happening in the markets right
+now because the stock market under pressure not just the US around the world Asian stocks
+down 6% as oil prices topping $120 a barrel. There's your FinViz screen of what's happening
+right now in the markets, a sea of red.
+Those little green dots that you see there,
+probably oil companies and defense companies
+benefiting from the surge in oil prices
+and the continuing war in Iran,
+which doesn't look like it has any resolution
+any time soon.
+Stocks coming off their worst week
+since last October, earlier last week.
+Terrible week for the stock market.
+There's my guy right there.
+Terrible week for the stock market
+coming into another week under pressure
+as oil prices rise.
+And as oil prices rise,
+inflation, the fears of inflation rise with it.
+Every industry that relies on crude oil,
+whether it's the airlines, whether it's the cruise lines,
+whether it's just your consumer discretionaries,
+whether it's the travel in general,
+all under pressure and the big tech companies too,
+all under pressure as risk is off the market right now.
+Bitcoin getting a small bid this morning,
+but it's gold prices on the rise
+and commodity prices on the rise with it.
+And that's what you should expect.
+The big question everybody's asking is,
+How high can oil prices go?
+They topped $120, $20 a barrel yesterday last night
+in trading, settling a little bit lower right now.
+But there doesn't look to be a resolution anytime soon in Iran.
+And the president saying, the pain will be worth it.
+The pain at the pump, that is, in gas prices of 35%.
+We talked about the Strait of Hormuz last week.
+There's that map again.
+That's where 20% of the world's crude oil flows through,
+about 25% of natural gas as well.
+There's effectively no tanker traffic happening
+in the Strait of Hormuz right now.
+I think we have a satellite image of about a week and a half ago
+before the war in Iran started compared to the image on the right.
+The white area is the Strait of Hormuz.
+Basically, no tankers passing through that strait,
+which means no oil coming out of the Middle East,
+at least for now. Saudi Arabia is saying it will increase production.
+The president promising to have escorts and reinsurance
+on those old tankers that do make their way through the strait.
+But right now, we're facing potential oil crisis.
+We heard from the Qatar oil minister the other day,
+saying they might have to declare a force majeure
+and stop production altogether.
+Don't forget, most of the crude oil in the world
+does come out of the Middle East.
+So there's a production stoppage.
+You know prices are gonna continue to go up
+and as prices go up, so do gas prices.
+Oil prices lead to higher gas prices.
+Usually takes a couple weeks.
+Seems to be happening a lot faster.
+These days, we saw the price of gas across the country,
+according to AAA, $3.20 a gallon up from $2.90
+a gallon just a month ago, and gas prices have a way of staying higher longer, and the cost
+of the Iran strikes and the conflict right now about 80 cents a gallon to consumers.
+So we're going to be paying higher prices, and it's not just oil and gas.
+It's all the derivatives of that.
+It's fertilizer.
+It's plastics.
+It's all the supply chains that rely on oil.
+And we look back at past oil crises over the past 50 to 60 years, and they have a way of
+driving inflation higher.
+And we know inflation is part and parcel
+or number one concern among Americans right now,
+that affordability issue that we keep talking about.
+This is not going to help matter.
+So inflation's on the rise at a time
+where the economy seems to be
+in a little bit of trouble right now.
+We're going to get into that a little bit later
+in the show, but right now, stocks under pressure,
+obviously oil prices on the rise.
+They're going to continue to stay high for a while.
+The big question is how long,
+and that really depends on how long this conflict goes,
+but if there is no production or a force majeure,
+a stoppage of production in the Middle East
+on a temporary basis, that could drive oil prices
+and gas prices and everything higher with it.
+So we're gonna keep a close eye on that.
+Shout out to all of our investopediacs around the world
+tuning in live every Monday at 10 a.m.
+We are live and direct here
+from the Future Proof Citywide Conference
+in Miami Beach, pardon the noise,
+but there's like 3000 financial advisors, wealth planners,
+and tech companies swirling around me right now,
+having breakthrough meetings, showing off their wares,
+giving talks on stage, I'll be up there in just a little bit.
+So thanks for bearing with me and the noise
+from South Beach, but it's fun to be here on the ground
+at Future Proof Citywide.
+In terms of what's happening
+in the wealth management industry,
+it is facing its AI moment.
+We know that it's affecting AI's,
+impacting every industry that it touches.
+Wealth management in particular was very vulnerable to this
+and now we're seeing a lot more firms adopting it, adopting it for back office things like
+helping generate information for my tax returns, helping find the right asset classes for me
+to invest or helping my advisor.
+I should say there's a ton of back office work that goes into wealth management and
+financial planning and there's a lot of costs associated with it.
+That's why we pay our wealth managers and our financial planners for the advice and also
+getting our financial lives in order.
+Usually it's 1% of assets under management, but sometimes we pay for those products that
+they sell us as well. But back in 2018, a company named Altruis was formed by an entrepreneur
+named Jason Wank and the idea that Jason had at the time was to develop a much cheaper
+solution to wealth management. Take out some of the costs by creating what they call a
+vertical stack. All the technology stacked on top of each other so you don't have to
+go to different vendors for different parts of your wealth management journey. Altruis
+was one of those upstarts. Back in 2018, I used to go to conferences like this. They
+a very small booth, they would give out their little hats. Well, they completely disrupted
+the industry a few months back with the announcement of their AI tool called Hazel, which not only
+does great financial planning using AI, but it helps with the entire holistic nature of
+wealth planning and wealth management. That includes taxes, that includes insurance,
+that includes all the aspects of wealth management and altruists really is having a moment.
+they came out with the hails of product a couple of months ago, we saw stocks of the
+financial services sector sell off deeply because of the fear of disruption. Well, we
+caught up with Jason Wank of Altruist here at Future Proof. Just a few minutes ago, he
+joins us on the drop-in.
+All right, Jason, thanks so much for being with us. Here we are at Future Proof Citywide.
+The theme here is AI. It's kind of your moment too, given what you've just come
+out with, was Hazel. Talk about what that is and where wealth management is today.
+Yeah, I mean, that's a lot.
+But I'll say that as it relates to Hazel,
+we've been working on this actually
+for the better part of seven years.
+So I do think it's kind of interesting
+that roughly three and a half years ago,
+chat GPT 3.5 came out.
+I think that opened up people's eyes
+and made people feel a bit more comfortable
+with the use of AI.
+In the very early days, for all truists,
+we would put a demo in front of people
+and they'd say, I love everything about your product,
+except the AI, get rid of that.
+I would never use that, right?
+So I do think that it's interesting after seven and a half years of building, now it's
+a theme of the largest effectively wealth conference in the nation.
+So it's a pretty cool time to build in.
+And you founded Outruth in 2018.
+I remember going to conferences seeing your small booth, your small hungry team trying
+to make headwinds in this industry.
+And here you are today, kind of disrupting it in a lot of ways, kind of like what you
+started, but it is kind of your moment.
+Let's talk about why you founded Outros to begin with
+and sort of where you see the evolution going.
+Yeah, I mean, I think anyone who's been doing this
+for a long time, I think we just spoke,
+you've been doing it 26 years,
+I've been doing it 26 years, it's in 1999
+when I got my role in this industry.
+But in that time, I mean, basically,
+I've seen hundreds, maybe a thousand plus companies
+be formed, all of them really with, I think,
+a great ethos.
+We're going to make advisors more productive,
+we're gonna make things better.
+But if you actually measure the results that consumers get,
+what you find is that minimums are no lower today
+than they were 26 years ago.
+The cost of advice is no lower than it was 26 years ago.
+And the actual quality of the advice
+is no better than it was 26 years ago, right?
+So we could say that we've spent a lot of time,
+a lot of effort, you know,
+a lot of people have spent a ton of money
+building companies,
+but the output has not actually been measurably better.
+And so with Altric, we thought, look, why is that?
+A big reason is that no matter what you build,
+We have this amazing group of people building AI products,
+for example, here.
+But no matter what you build, it does not matter
+if your infrastructure is not relevant, right?
+So meaning if at the end of the day,
+you have to spend 30 minutes or 45 minutes
+to onboard a client, if it takes dozens of hours a year
+to do your fee billing or rebalancing,
+like these very basic kind of core elements
+of financial advice infrastructure,
+all of that AI doesn't really do any good, right?
+Like none of the elegant software,
+the mobile apps, it doesn't really help anybody.
+So that's where we started Altruv's,
+it was make advice better, more affordable,
+make it accessible to everybody.
+But to do that, you actually have to build
+something that's much harder than building AI, frankly.
+Like you have to build infrastructure,
+which is super boring, it's super expensive,
+super hard, super time consuming.
+But if you can't get that layer right,
+all this other stuff is pretty irrelevant, really.
+In the biz, they call it the vertically integrated stack,
+which you were early to, and as a customer,
+as a client of an RIA,
+I know that's in the background, but I don't feel it.
+I should feel it in my fees,
+because all the other fees have come down
+in terms of trading commissions
+and ETFs have really brought down pricing.
+So pricing has come down on the product,
+but not necessarily on the service.
+Yeah, I mean, I think there's a few things
+that we measure internally.
+One, which I think is really interesting
+is we track in the North Star KPI for us
+is how many accounts can we open that are under $10,000.
+So we're like north of 50,000 accounts
+in the last four years that advisors have opened,
+that they're managing for their clients
+that are under $10,000.
+So I do think, now fees,
+I can't control what advisors charge.
+I can tell you that what we know
+is that we're driving better outcomes for clients.
+We're doing that by using fractional shares,
+which reduces cash drag.
+This allows also lower internal expense ratios.
+It allows people to have better after-tax returns
+because now they can hold individual securities,
+which give them a lot more opportunity
+for things like tax loss harvesting or asset location.
+So we know that consumers are getting better outcomes.
+We know that advisors, their fees are way lower.
+So our general proxy internally is something has to be
+10 times better or 90% cheaper, right?
+Like everything we build, whether it's account opening
+or funding, if it's rebalancing, tax management,
+all of those things, can we make it 90% cheaper
+and or 10 times faster?
+And again, if you get it right,
+like the consumer should feel it, right?
+Like they should feel better outcomes.
+I don't know if it'll necessarily be lower advisory fees,
+but their actual outcomes because of the friction
+that gets removed from the infra
+is going to automatically produce better outcomes.
+So I would assume you're bullish
+on the wealth management industry in general,
+but it is going through kind of a big transition
+and a big dynamic moment.
+There's AI on the one hand,
+there's also a lot of acquisitions going on
+with private equity.
+How bullish are you on the future of this industry?
+Yeah, super bullish.
+I mean, I'm all in.
+You guys could say 99% of my life's work
+and that work is tied up into this industry,
+so I wouldn't be doing it if I didn't believe in it.
+I do have maybe a counter view.
+Like I think the,
+I think the M&A is an interesting arbitrage
+that people are using to build big businesses.
+I think in the next 10 to 20 years,
+most of it will get unwound.
+So the same reason that RIAs existed to begin with,
+right, when we started,
+there were only a few thousand RIAs,
+and most of them were started
+because they didn't want to be part of a big wire house
+or a big huge broker dealer.
+They wanted true independence.
+That group of advisors, 26 years ago, most of them
+were in their 30s and 40s.
+And now, they're in their 60s, sometimes even 70.
+They're selling.
+They're ready to move on.
+You're seeing a huge kind of consolidation
+to where I think it's something like the top 10%
+holds 60-some percent of the assets.
+I'm absurd, kind of a relationship like that.
+It sounds like the wealth in America, too.
+Yeah, I mean, these things are not healthy, right?
+And at some point, they'll be sort of a spin-off.
+And we see it already, actually, one of the fastest growing
+segments at Altruis is an advisor who,
+let's say they're 35 years old.
+They spent the last 10 years as somebody's junior advisor,
+thinking they were the succession plan.
+Their principal and employer sells.
+And now they have to stare in the future and go,
+do I really want to spend the next 25 years working
+for somebody else's wealth management firm,
+likely controlled or managed by private equity.
+And we're just seeing, again, hundreds of those advisors
+pull off every year, start their own small businesses.
+So this all feels very cyclical.
+I mean, I think in the end, human delivered advice
+is definitely a trend that's, you know,
+I think undeniable, there's so many taliments to it.
+But I think what we're doing with all of the
+consolidation roll up, I mean, it does feel like
+at some point the music will stop.
+And some people will be looking for a chair,
+and they won't find the chair,
+and I think you'll see a bit of a bottom
+fall out in prices.
+But those people who are just building awesome businesses
+that are client-centric and doing it in a way
+that feels very organic to themselves,
+like they're not just following a math-based arbitrage,
+like they're really passionate about serving their clients,
+they're gonna be awesome, right?
+I think they're new, fantastic.
+I definitely want my advisor to be a human being.
+We work that guy out.
+Thank you, shout out to our planner and our family.
+But you and I go to a lot of these conferences
+and for years it's been about the holistic practice,
+making sure you're taking care of all your client's needs.
+I don't need my advisor picking stocks for me.
+I assume the investment committee's gonna take care of that
+and there's ETFs that help me get exposure,
+but I use them for just about everything.
+Is that the future of RIA's and wealth management,
+holistic planning, broadly speaking?
+Yeah, no, I mean, I think, I mean,
+if you were to take a look at like how we're building AI,
+for example, you know, Altruis is mostly known
+as a custodian or like a wealth platform
+because of the vertical integration of software.
+When you think about the time you spend with your advisor,
+I just mentioned yours, the custodial part
+is probably a pretty small percentage of the time, right?
+Like there's the account opening, funding,
+some rebalancing that happens, some reporting.
+But my guess is 90% of your conversations are more like,
+hey, this is what's happening in the world
+or this is what's happening with my life
+and hey, it's almost tax filing time,
+it's almost the end of the year, right?
+There's all of these milestones in life.
+And so all of those events are the things
+that I think advisors will have to start
+spending more time on.
+Again, our basic thesis on AI is that it will replace,
+I believe, nearly all of the work
+that most very high-end private wealth firms do with agents.
+And so you could be an individual advisor
+with a small team, and you could have all of the horsepower
+for tax planning, estate planning,
+very comprehensive, very personalized financial planning,
+almost family office-like ability to manage cash or risk,
+I mean, all done through agents.
+So yeah, I think the breadth of advice
+will get much broader, but I think actually the teams
+will stay pretty lean and small,
+which will be really beneficial for clients.
+So what should I be asking my advisor
+as it relates to the use of AI?
+What is this bringing them up to do more of?
+And if I'm a client, how do I get the most out of the fact
+that this technology has really improved efficiency
+and probably price?
+Yeah, I mean, I think, so I'd say it's debatable
+the outcomes people are getting from AI.
+I mean, right now, you know, the majority of it
+is fairly surface level stuff.
+So like a great example would be,
+does a note taker, does that make your financial plan better?
+Probably not, right?
+The reality is somebody should have been taking notes
+all along, so at best some junior person was taking notes
+is no longer having to take notes, right?
+I mean, like that's not materially driving outcomes.
+Most likely what's happening is that people
+weren't taking good notes and now they have good notes.
+But again, like there's not like a big measurable leap
+forward, this is just a time saving efficiency driver,
+but not really driving material outcome.
+So, I think as it relates to AI,
+I don't know that consumers necessarily,
+like a client of an advisor should be pressing like,
+where's all the places you can use AI?
+A lot of the products are still a ways to go,
+before I'd like want to give them the keys, if you will,
+and let them start running my financial life.
+But it's really more about, again,
+I'd say outcomes that you should expect.
+And the tools should be somewhat interchangeable,
+So meaning, I do think that if I'm a client advisor,
+I wanna know that my taxes have been optimized
+every single year.
+So are you doing a full tax plan every year for all of my,
+for me or for every other client?
+Same thing, like for me, some little,
+like low hanging fruit that AI can drive,
+really big efficiencies.
+Cash management, other one, like people don't realize,
+you know, wasting money on cash drag
+or having money in bank accounts
+that are paying almost nothing.
+Like these things can be optimized
+very easily with AI.
+Risk management's another one.
+I live in Los Angeles, so not a little over a year ago.
+People may recall the fires that happened there.
+Many of the homes that were burned down
+were burned down by people who had financial advisors,
+and yet many of them did not have
+appropriate insurance on their homes.
+Likely because the advisors were not looking at all
+of their risk that they're taking their life.
+Ensuring that they have the right coverage,
+that their premiums were the right amount,
+so maybe for the value of their home.
+So I think there's a lot of surface area
+of wealth management, that AI can now enable much better
+kind of oversight, drive better outcomes,
+whether it's getting cash optimization,
+insurance planning, and so forth.
+Investment management and financial planning
+is actually kind of the low-hanging fruit.
+These are things where, to your point,
+it's not hard to build a portfolio these days.
+And so everyone should have a near-perfect portfolio.
+There's no excuse, actually, for that.
+It's surprising how many people don't,
+but again, that's very easy to do,
+and you don't need AI for that.
+But it's the things that human beings should be doing
+for their clients, but they just don't have enough time for,
+that's where the AI lift can be.
+That's why I say it's going to be the areas like,
+more comprehensive, personalized financial planning,
+risk management and state planning, tax management.
+These are the areas where you can get,
+all of a sudden, maybe there was nothing being done
+or very little being done,
+and those things should be almost like you have a team
+of 20 highly trained accountants, attorneys,
+looking at your stuff every day, driving better outcomes.
+You started in this business almost accidentally
+through the IT department,
+had a big wire house for a Morgan Stanley,
+but here you are, you know, running a altruist.
+Again, since 2018, I have a lot of young listeners
+and viewers who watch the Express
+and who tune into Investopedia.
+If you were thinking about going into financial planning,
+into wealth management right now, 21, 22,
+or 25 years old, like a lot of the folks here,
+future proof, where would you sort of target
+your career path?
+Yeah, I mean I think if you can join a forward thinking firm,
+I think it is important to get some amount of experience
+early on.
+Again, I took a very unusual path where I was an engineer
+that happened to get my first job in wealth management
+and I just, you know, if you're a problem solver
+and you see, wow, there's a lot of layers of problems
+you could solve, you know, you can wake up
+in 25 years this past and you're still trying
+to solve the problems.
+But I think it's an incredibly exciting time.
+I think there's so much opportunity for young people.
+I happen to have a 25 year old son myself.
+I wish he would follow into this industry,
+not sure if he will, but the reason why
+is because again, you have this massive change
+that's going to happen where you're going to have
+the majority of advisors, north of 50%,
+will be either retired or basically playing golf all day
+in the next decade.
+You have 30 million consumers that can't get access
+to an advisor that would like to get access,
+and you have AI which can enable a fairly junior person
+to have the same skill set as a very senior person.
+So in engineering, we see this already,
+where a relatively young, early stage engineer
+that really embraces AI can have the output
+of a very senior 10-year, 10, 20 years experience engineer.
+These young financial planners have that same opportunity.
+They have no baggage, right?
+So they can come in fresh, clean slate,
+build an incredibly efficient firm,
+be extraordinarily disruptive and beneficial
+for the society at large and for the industry,
+I think they can actually really topple some giants.
+I think a lot of the really big firms
+are asleep at the wheel.
+They're moving too slow.
+The majority, if they have any AI strategy,
+it's a bad AI strategy.
+They're hiring bad vendors.
+They're trying to build things in-house
+when they don't have the expertise.
+So I'm hyper bullish.
+If you're like 20 to 30 years old,
+you're AI native in your thinking,
+and you come into this industry,
+and you give it in earnest a good five to 10 year run,
+you could be what took other people 30 years to do,
+you could do in five years.
+I think it's an awesome time to be doing this.
+10 years from now, where do you see Altrus?
+I know that's going way out in the future,
+but you've been at this since 2018.
+Yeah, yeah.
+Yeah, look, I think so far,
+all we've done is what we said we would do.
+So from the very beginning,
+I said I'm going to build a self-clearing custodian
+that had not been done in this industry ever, by the way.
+So there's never been an RIA only self-faring custodian
+ever built other than Altruist, but we did it.
+We're going to vertically integrate the key elements
+of like the wealth side of the stack.
+So meaning things like performance reporting,
+fee billing, money movement,
+all the things that you do around a custodian.
+We planned on building AI early on,
+we called it Altruist Intelligence,
+but now we call it Hazel.
+We're doing that right now.
+I think in the end, in 10 years,
+we should be a fairly scaled custodian.
+I don't know where we'll stand in kind of the rankings,
+I suspect that will be mentioned in the same breath as Schwab and Fidelity, the major custodians
+in this space.
+I think we'll power a lot of the largest firms in the country with the fastest organic growth.
+We are built for growth.
+If you're an advisor that wants to grow, everything we do is built for growth.
+There's a reason why today, if you're like a $50 billion firm just growing via M&A
+and referrals from your custodian, you have really no organic growth.
+You have no motivation to change.
+The inertial just keep you doing exactly what you're doing.
+That's that being asleep at the wheel.
+These young fast-growing firms that are growing with massive YouTube channels, building huge
+social followings, almost all of them are on altruists.
+Almost all of those firms are being run by people in their 40s, 30s, and 20s.
+So in 10 years, what you're going to find is we'll have a bunch of firms that are 10
+to 100 billion in assets that grew there organically.
+They'll be so powered by AI that they'll be efficient to a degree that is hard for
+the large firms today to comprehend.
+Like I think that like another kind of little bit
+internal rule we use, but I call it the rule of 99,
+where effectively with AI, we should be able to do
+99th percentile work for 99% lower costs.
+So firms that are fully all in on Altrius
+over the next decade will have such an incredibly
+unfair advantage, where their operating efficiencies
+will be off the charts, but their quality will be
+at the highest level in the entire industry.
+So, I mean, I'm pretty, pretty confident,
+like it won't be a linear kind of path,
+like this 10 year journey, like they'll certainly be ups and downs, but I actually feel like
+it'll be very hard for you to be a highly relevant firm in 10 years if you're not powered
+by altruists and all of your non-custodial work is powered by Hays.
+Like I mean, I get hyper all in on this, it's not obvious.
+Well, you're all in, you've been all in for a long time.
+It's not like you just got your congrats on the recent success and we look forward to
+seeing what you developed in the future.
+Thanks Jason.
+Shout out to Jason Wank and the Altruist team.
+They have built something pretty incredible here, but you see that kind of all over
+future-proof, especially citywide firms developing new technologies, implementing AI to make them
+more efficient, to make their practice more scalable and deliver more value to their clients.
+But it's good to see a firm like that that's been at it for the last eight years,
+finally getting its due. All right, let's do a little money in motion while we're at it.
+2025 was a banger year for exchange-traded funds. And all around me, there's exchange-traded funds,
+ETF issuers trying to pitch their latest products, whether that's active ETFs, passive ETFs,
+crypto ETFs, two advisors to sell to us as industry is growing. There's going to be some
+20,000 ETFs in the next 10 years, if you believe what the industry says. And so far this year,
+2026, off to another banger of a year. US listed ETFs registered $173 billion of inflows,
+Just in the last few months, it's the best start to a year
+with $334 billion already coming in.
+Those flows so far in 2026, that means we're on pace to do
+$2 trillion worth of inflows into exchange traded funds
+in this calendar year.
+And that would be a record.
+But where's the money been flowing this year so far?
+Non-US equity ETFs.
+They took in their second most ever, $57 billion
+leading by developed ex-US with $24 billion.
+Where's that money going?
+into countries like Taiwan, into countries like South Korea, into the South American countries.
+They have seen their ETFs that represent those countries as well with assets under management.
+And the performance so far this year in the global stock market has been outside the US.
+And as long as we're facing the potential uncertainty of how long this crisis and this war in Iran
+will last, that could still be the case. So we're going to keep a close eye on that
+going forward. We got a busy week ahead. We're here at Future Proof Citywide. Let's get to what to
+expect in the coming week, what's coming on down the tracks. Today, Monday earnings from HP
+Enterprises, among other companies. Slow day in the economic front, but a busy day in the stock
+market around 1030 a.m. Eastern time. We get U.S. markets under pressure here. The S&P 500 down,
+about 1.2% to Dow, down about 1.5% to Dow fell 5% last week.
+A lot of sensitive stocks there to the oil shock.
+So we're watching that play out.
+We'll hear what the earnings reports have to say Tuesday.
+Coming up tomorrow, existing home sales for February.
+We know they're pretty light.
+The Small Business Optimism Index also comes out tomorrow,
+as well as earnings from Oracle and NIO,
+among other companies.
+Wednesday, another big day of earnings.
+We got the Consumer Price Index for the month of February.
+I don't know if we're going to see the impact of those oil shocks.
+The CPI is usually taken, those measurements usually taken in the first couple weeks of
+the month.
+I don't think that's bled into what we've seen, but probably a tame inflation report.
+Look for next month because we're going to see inflation spike.
+We'll also get the monthly US federal budget for the month of February as well, and earnings
+from CPB and Woof among other tickers.
+On Thursday, we have the US trade deficit.
+see what the impact of those tariffs and the release of those tariffs was on the trade
+deficit, initial weekly jobless claims, housing starts for the month of January, again, very
+slow, very cold month, not a lot of housing building going on in the month of January,
+earnings from Adobe, Dollar General, Ulta Beauty, and Lenar, the home builder.
+And then on Friday, the Fed's preferred gauge of inflation, the Personal Consumption Expenditures
+Index comes out.
+Again, it won't reflect the impact of this oil shock, but we will see if prices have
+been moderating going into the attack on Iran.
+We'll also get gross domestic product, the first revision for Q4, global goods orders
+for the month of January, and consumer sentiment, the preliminary report for the month of March.
+And I can tell you right now, we don't feel very good as consumers.
+Rising gas prices have a way of really getting us upset, and we're going to see higher gas
+prices for the foreseeable future.
+Again, they're up already 30 cents in just the past month, and expect those to go higher.
+All right, let's get to our indicator of the week.
+Here we are at Future Proof Citywide and we are watching, of course, flows and we're watching
+this stagflation alert potentially.
+We had a jobs report for the month of February that came out on Friday.
+The expectation was for a gain of 50,000 jobs.
+We actually lost 92,000 jobs last month.
+How do you lose 92,000 jobs?
+That's just employers, companies reporting the fact that they have been letting go of workers,
+not adding workers to their payroll.
+So a loss of 92,000 jobs.
+We saw the month of December,
+which had meager job gains actually swing to a loss.
+So we're seeing the labor market under pressure
+as we've been watching for the last several months.
+January was a big rise in employment,
+but a big drop off.
+92,000 jobs lost last month.
+And when you have job losses
+and you have rising inflation due to oil prices
+and rising gas prices,
+That's going to make the price of goods in general rise.
+That could lead us into what we call stagflation,
+and that is not a bad Tom Hanks movie from the 1980s.
+That's an economic cycle characterized by slow growth,
+high unemployment, and high inflation.
+Now the unemployment rate is only about 4.5%.
+That said, there are less people entering the workforce.
+So if you have rising prices, a slowing economy,
+and a slow jobs market, you get stagflation,
+and stagflation is no friend to the stock market.
+Ask Japan, ask the United States back in the 1970s when I was growing up as a little kid,
+it is not good for stocks.
+What does really well during periods of stagflation?
+Gold, commodities, value stocks overgrowth, investment grade bonds, but not stocks.
+The S&P 500 only up about 1.6% during that bout of stagflation in the 1970s.
+So if that's what we're facing, brace yourself for more pressure on the stock market and
+higher prices for gold and higher prices for commodities.
+It has been the pattern for the past six months.
+No reason to expect that to stop anytime soon,
+unless we have resolution in Iran,
+and that doesn't seem like it's anywhere close by.
+All right, from the future-proof citywide wealth festival
+on Miami Beach, this has been fun, pretty challenging,
+kind of warm out here and kind of humid,
+but shout out to the future-proof team
+who put this show on.
+We're here every, twice a year.
+It's one of our favorite wealth festivals,
+and there we are on South Beach.
+The party never stops. Sunday night last night jamming in South Beach and the restaurants
+were packed up until about 10, 11 p.m. So the party's happening in South Beach live from
+future proof citywide. Thanks so much for watching and we will talk again a little further
+on down the line.

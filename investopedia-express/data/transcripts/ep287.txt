@@ -1,0 +1,753 @@
+On the Express this week, a mega milestone for the Dow
+Industrials. We were there when it happened. The latest vibe
+check from our sentiment survey. Paul Hickey and Bespoke
+drops in to show us what's working and what's not across
+the markets, the Investopedia indicator and what to expect on
+this jam-packed week. They say Defense wins championships, so
+put an S across your chest and let's get down to business on
+the Investopedia Express. Welcome back and welcome aboard a chilly Monday
+morning post Super Bowl Sunday. Good to have you with us live and direct shout
+out to all of our Investopedia live streamers and viewers around the world.
+We know you're out there across the continents across the world tuning into
+the Investopedia Express live every Monday at 10 a.m. delighted to have you
+here. We have cool show in front of us. I'm looking forward to talking to our
+very special guest Paul Hickey in just a few minutes. Markets in the red on this
+Monday morning to start out the week, but after a blistering, huge relief rally
+last Friday that brought the Dow industrials past 50,000 for the first time
+in history. We were there when it happened, just happened to be on the
+floor of the stock exchange. Had a feeling it was gonna happen, so we shot
+a little video live and direct from the stock exchange and there you go,
+Ringing the bell. Good moment there for the folks up there. I think that's a Children's Foundation
+up there. Make a wish. Ringing the bell. Good for them. Dow 50,000. Huge milestone. I was there with
+some of my good friends on the floor there. We got Nicole Petalides and Peter Tuchman,
+the Einstein of Wall Street. Nicole, my buddy from the Schwab network was there.
+Good vibes on the floor of the stock exchange. And the first time ever, the Dow industrial is
+hitting 50,000. There they are. Peter and Nicole. We're going to check in with Peter
+later on in the program. He was there for Dow 600 and there for Dow 50,000 making hats all along
+the way. But meanwhile, across the broader market, across the S&P 500, it's about 2% off of its
+all-time highs, a big relief rally again on Friday after a very choppy week. And things have really
+changed inside the market. Good chart here from our guy, chart boy Matt, a change in the guard
+inside the stock market. We've been talking about this rotation for a while. We'll dig into
+it in a few minutes with Paul. But now the equal weight S&P 500 outperforming the market weight,
+the big mega cap tech stocks and AI stocks, those have been faltering for a while really since the
+fall, since October. And you've seen this changing of the guard, right? And that changing the guard,
+that's where you have the software and mega cap techs falling, the value stocks and energy stocks
+rising, different reasons for that happening that are making this sector rotation. But investors
+appetite is also changing. At least the big institutional money is changing right now.
+When you see these big tech stocks fall, you have the S&P 500, just 2% off of its all-time highs.
+You've got to wonder, is this a healthy rotation, a healthy sector rotation,
+or is this some cracks in the ice? We're definitely going to dig into that in a couple of minutes.
+But the survey says we were out with our latest sentiment survey of individual investors,
+of our readers, the smartest investors on the planet, checking in with Investopedia,
+as we do every quarter.
+And guess what?
+We're bullish, cautiously optimistic, most of us, right?
+59% are either cautiously optimistic or optimistic.
+40% are worried, is somewhat worried.
+That's just the way it is.
+Some of us are worried, some of us are optimistic,
+some of us are more in the middle.
+Geopolitical uncertainty,
+top concern among our readers right now,
+used to be tariffs, right?
+It used to be inflation.
+Now it's geopolitical uncertainty.
+We were taking this survey in the middle of,
+after the Venezuela invasion,
+after the threats on Greenland, after Davos
+and that's what you were telling us with your results.
+And I think that's pretty much felt across the board.
+So geopolitical uncertainty topping our concerns.
+What about bubbles?
+Bangles, bright shiny things.
+Yeah, you're feeling those too.
+And you've been feeling it all along.
+We ask this question all the time.
+Where do you see bubbles?
+AI stocks of course, the 55% say gold.
+And that's the first time gold has crept into the top five
+in a while yet gold's been one of the top performing assets
+for the past five years.
+but especially in the last year,
+47% says mega cap tech is in a bubble,
+44% say cryptocurrency,
+even after the mega drawdown bear market crypto winter
+that Bitcoin and the other cryptocurrencies
+are unraveling in right now,
+and 43% say silver again,
+first time to see gold and silver in the bubble category,
+but for good reason, they have risen a lot.
+AI stocks and big tech, guess what?
+That's what our portfolio is full of.
+So we ask you what you're worried about,
+We ask you where you see the bubbles are and you say,
+I stocks will check inside our portfolios.
+This is what they look like.
+Looks like the NASDAQ 100 at the top of the S&P 500.
+We all own the same stocks and we're all exposed
+to the same AI and mega cap tech stocks.
+And that's what we're worried about.
+Then we ask you very specifically,
+which asset class do you think will perform best in 2026?
+We gave you some choices there,
+including the NASDAQ 100,
+which you selected as your top choice,
+semiconductors, mega cap, the Magnificent Seven stocks,
+and gold, those are your top choices.
+So even though you're worried about the bubbles
+in those asset classes, those are the ones we own,
+and those are the ones you think are gonna continue
+to outperform in 2026.
+Yet we've already seen this rotation
+into other asset classes,
+the ultimate discretionary investing question,
+what would you do with an extra $10,000?
+We ask that every round, and guess what?
+Individual stocks, your risk takers, your pirates,
+you say you would take that 10 grand
+and put it into individual stocks,
+you do not want to miss out.
+So the results of our sentiment survey
+on the Investopedia.com homepage, check them out.
+That's how we feel, educated individual investors.
+We fear a lot of the same things,
+we worry about a lot of the same things,
+but we don't make a lot of changes in our portfolios.
+Now, regular listeners know how often we cite
+the bespoke investment group and the great research
+that Paul Hickey and Justin Walters
+the team do up there in Westchester.
+They break down trends, the smart charts,
+the right mix of fundamental and technical analysis.
+That's just right for my pallet and perfect for times like this
+with all these cross-currents across the capital markets.
+So we are delighted to have Paul Hickey from Bespoke join us now on the Drop-In.
+Paul, so good to have you.
+We are such big fans and it's good to have you back on the Express.
+Thanks for having me, Caleb.
+Good, excited to be here.
+Yeah, we're citing you constantly.
+I don't know if your ears are burning,
+But every Monday, our listeners and our viewers get a healthy dose of bespoke research, just
+because I love the way you guys break it down and make me smart every morning and every
+weekend.
+We'll link to your research notes in the show notes.
+So you just heard me talk about our sentiment survey.
+I know you at bespoke ran your own among your subscribers and your readers.
+You did it a little further back, and you were more specifically asking about their
+expectations under this administration for returns.
+We asked the same types of questions,
+but give us a good breakdown.
+The biggest risk, they said, to sustain market growth,
+they were worried about an economic downturn, weren't they?
+Yeah, so I mean, when we posed a series of questions
+of potential issues to them,
+one of the, you know, AI bubble was one of the least cited
+by our respondents and, you know,
+an economic downturn, inflation were much more
+highly cited by the respondents.
+So I think in that respect, you know,
+it's hard to look at what's going on in the economy now
+and feel that we're gonna have an economic downturn
+on the horizon.
+But again, this survey was taken at the end of last year.
+We're still dealing with the, you know,
+some of the uncertainty created by the shutdowns and such.
+So I think in that respect, you know,
+they were looking at the headlines
+and I think a lot of investors,
+which to their detriment,
+focus a lot on what's going on in the headlines.
+and let that cloud what's going on
+in their investment decisions.
+Absolutely, and we can't help ourselves.
+We're animals, we have animal spirits.
+But this other question I thought was really interesting
+because we got the same response basically.
+How have you adjusted your allocation
+in response to this administration?
+We've been asking that question for the past year.
+We ask it under every administration
+and we don't change our allocations a lot.
+It doesn't look like a lot of folks did either.
+Maintain, maybe shifted some exposure at 32%,
+38% say no changes.
+Which is one of the most healthy things we saw
+in the entire results of the survey.
+What we have found historically is that when you,
+when investors, when we go back to 2008
+when Obama became president, we had certain investors saying,
+I wanna get out of the market
+because Obama's gonna tank the economy.
+And we had one of the best stock markets we had in years.
+Then we get Trump into office,
+another cohort of investors were like,
+get me out of the market.
+I can't deal with Trump.
+And the market did great under Trump.
+So I think in this respect,
+what you wanna do is as investors,
+don't let politics cloud your investment decisions
+because they are like oil and water, they don't mix.
+And just as much as we focus on Washington
+and the news and the media,
+the ultimate impact on the economy in certain sectors,
+they can have an impact.
+But broadly speaking,
+whos ever in Pennsylvania Avenue is not gonna have
+that much of an impact on the broader economy.
+Yeah, we preach that all the time,
+but we can't help ourselves.
+The headlines are all around us.
+All right, let's bring it to the present moment.
+This collapse we've seen in software stocks,
+you guys have been calling it for a while.
+You called it in one of your notes,
+the Ozemmic moment for software stocks,
+as you described it a few weeks ago.
+Take us through the breakdown here
+because this is where the exposures,
+these are the stocks that have had the most
+incredible returns over the past few years.
+They're all spending money with and among each other
+or promising each other a lot of money,
+propping up a lot of the CapEx spend
+and a lot of the profit generation.
+What's been happening inside that sector?
+Take us to the very next.
+Yeah, so I mean, I think what you're having is,
+you're having this moment where investors are starting
+to think, what are the impacts of AI on the software world?
+And certain areas of the software world
+are gonna be disrupted in a major way.
+And I think what you almost can go back to
+is you can go back to the late 1990s
+and the media companies and the newspaper companies,
+which tended to have big, what you thought were,
+really strong moats, high barriers to entry,
+and they were just doing very well.
+Then the internet comes along, democratizes everything.
+What we're seeing similar in this respect is that,
+software stocks, you had to be a software engineer
+to create any sort of code.
+And what has made it much, the big shift now
+is that anybody can go in there and create code.
+There was a CNBC anchor on last week who created,
+who vibe coded an app, which she said was very similar
+to what some public companies offer her.
+So, I mean, I don't think the quality
+of what people are doing on their own
+is up to par with some of these software companies
+and their offerings, but it's shifts at the margin.
+And at the other end, the other major impact
+is that as AI becomes much more efficient,
+we're going to have less,
+employee counts could go down
+and that's going to impact software and the pricing model
+for the revenue model for these companies.
+So the software sector has seen an enormous decline.
+It's in some, you know,
+we haven't seen these types of declines.
+We see them rarely.
+I think it could be getting overdone at this point.
+And if you look forward here,
+investors could be rewarded stepping in
+and looking at some of these names.
+But I think the long-term there's a lot of uncertainty,
+which is causing the reaction that you're seeing
+and it's perfectly understandable.
+Yeah, and we always overreact one way or the other.
+You guys do a great job of tracking overbought
+and oversold conditions.
+And right now, as you say in software,
+we could be in that oversold condition
+where there seems to be a lot of capitulation,
+especially among some of the biggest names.
+But you also do a great job with the math on this.
+When you get a stock, a big stock falling 30, 40%
+from its all-time highs, it takes a lot to bring that back.
+Yeah, it's just, I mean, you just the easy one.
+If a stock falls 50%, it's got to double to come back.
+So it's got to see a big move there.
+So as investors, you know, we see big moves.
+I mean, I guess last week,
+we haven't seen that big of a decline,
+but you look at this chart here
+the software sector over the last year, it's right near its lows of the tariff tantrum.
+So the markets come a long way off those April lows, except these software stocks have just
+been decimated.
+And what we sent out a report last week on the software sector looking at it, we called
+it the good, the bad and the ugly.
+The good, as far as if you're bullish on the sector, is that any time it's been as
+oversold as it is now in the history of this IGB ETF, it's been higher a year later,
+every time.
+over, you know, I think 15 different occurrences, you've had positive returns. So that's pretty
+consistent that if you're bullish, that's something you want to look back at, and you want to hang
+your hat on. Bad is the fact that we saw a similar sell off last November sector got extremely
+oversold. And normally, it's quick to bounce back. But this time, as you can see in the chart,
+it never got back above its 50 day moving average in the rebound off that November low. And so
+And so that's a red flag because it didn't see the typical bounce.
+And then the ugly is that when we were 17% below the 50-day moving average last week in
+IGV, and the S&P was still above its 50-day moving average, that kind of divergence is
+practically unheard of.
+It's only happened twice, which was in 2002 and then in 2022 in January.
+And both those periods were very weak, not only for the software stock, but for the
+broader market as well. But again, it's a sample size of two, rather than the 15, as I said, when
+we just see these extreme oversold moves. Yeah, let's talk about retail risk appetite. We are very
+much in tune with the retail investor, individual investors, our friends and family over here at
+Investipede. And we know what they're looking for. And you heard the results of our survey,
+but you say retail risk appetite really crashed to start 2026. But you track it, not just the
+way we track it in terms of what they're looking for and what they say they're doing with their
+money, but you track it based upon a certain basket of stocks. Take us inside that retail appetite.
+So we look at some of the stocks that are catered to retail investors such as Robinhood,
+and that's one of the flutter. And how these stocks are which are small individual investors
+or more gambling, almost gambling mentality. And as you see in that index there, it's pulled back
+sharply. We've seen a big decline in these stocks. I think part of it was these had a big run towards
+the end of last year. You see a sell off in them. But it's a valuation scene. And one other thing
+is the crypto angle is a lot of these stuff like Robinhood has a big exposure to crypto. And I
+And I think that's caused some of the sell off in there.
+Yeah.
+Let's talk about crypto because you can't ignore the fact that we're in a crypto winner
+here at Bitcoin and another one of its fantastic bear markets, because it's had a few and it's
+14, 15 years out there as a publicly available asset.
+There's the technical breakdowns, which are dramatic.
+But then there's the fundamental, if you can even call them fundamentals, because Bitcoin
+doesn't really have fundamentals.
+what you're seeing in terms of risk appetite in the market. What do you see through bespoke lenses there?
+Well, so what tends when we see an asset class not perform the way it's supposed to, that raises
+concerns. So you see Bitcoin, which is supposed to be the digital gold, it's supposed to do well,
+you know, track a store of value like gold, it's completely the opposite way. That causes you to
+to start questioning what the rationale for the investment is.
+And when you look at what has happened to Bitcoin versus gold, it's like an alligator
+mouth.
+They've gone their opposite directions.
+What we've seen here is that we've seen a sharp decline in Bitcoin, and we've seen
+it as deep as this decline has been.
+It hasn't been nearly as severe as the other declines we've seen over the course of its
+history.
+And right now the decline is basically, if you look historically, it's where Bitcoin's
+average drawdown on a given day is.
+It's around 45%.
+So if you look back at history, anytime on any given day, Bitcoin has been down an average
+of about 45% from its all-time high.
+In those other drawdowns that you see going back to 2022, and then in the late teens,
+you saw it drop much more.
+So this type of decline, if it stabilizes here,
+would actually be a very positive sign
+for a volatile asset like Bitcoin.
+And I think what you got to talk about is,
+we've been talking about investor sentiment here,
+where everything could, nothing seemed to,
+everything was going right for crypto
+towards the end of last year,
+and look what happened, it started selling off.
+And now you're seeing a complete reversal of that sentiment
+where investors and the public are like,
+crypto, it's totally failed its mission,
+It's worthless and how far is the bottom?
+And so I think you're seeing sentiment
+become pretty extreme here.
+And you've only seen these
+as far as a short-term oversold reading.
+More than four standard deviations below
+its 50-day moving average last week,
+which is a very extreme reading.
+Yeah, the narrative around it, of course,
+sometimes much hotter than what's actually happening inside,
+but you can't avoid the fact
+that the trend lines have been broken,
+but Bitcoin's been down this track before.
+Many, many times.
+All right, I wanna get into another notion.
+You mentioned that it used to be thought of
+as the digital gold.
+We've had these crazy rallies in gold and silver
+and some sell-offs.
+But you guys pointed out something very interesting
+in a note recently saying that there's like a walled offness
+to some markets, isolated things happening
+in different markets where maybe in the past
+we would have sought a little cross-market contamination
+or cross-market impact.
+That's not the case these days.
+Why is that happening in your opinion?
+I mean, I think it's a very healthy sign that we're seeing this like so for all the assets that have
+been in Bitcoin and so much retail investors flowing into that over the last year and presumably
+losing a lot of money, it hasn't caused a big overflow into other areas of the market. And so
+there's a lot of assets have flown into have flowed into crypto, excuse me, collectively investors are
+down on an asset flow weighted basis about 12% on Bitcoin throughout overtime. And you haven't seen
+those negative returns, you haven't seen people selling other assets, you know, whether they're
+getting margin calls in the crypto space or whatever. So I think the ability for the market
+to silo things in different areas and not have this contagion effect is a very healthy sign.
+Yeah. All right. Let's have some fun with your Super Bowl indicators. You put out a
+great note ahead of the big game last week on things to watch out for. Well, now we know
+what happened here. Seahawks win, you said the last time they won 2014, the S&P 500 finished
+it, ended up 15.5% higher for the year. So these things are not anything to invest in.
+They're just fun to talk about. But you got that one with the Seahawks win. What are
+expectations? Well, Seahawks win or lose every time they've been in the Super Bowl from the time
+whether they won or lost from the end of the Super Bowl till the end of the year, the market was
+higher. So, you know, again, like you said, it's just a fun little indicator, but, you know, that
+in that respect, it's been positive. And, you know, we go back over time, it was the NFC versus the
+AFC. It used to be this enormous divergence between the two, whereas the NFC won, it was great for
+for the market going for the remainder of the year.
+The NFC still has a pretty much like a two percentage point
+advantage over AFC when they win.
+So it's like about like 9.6% when the NFC wins
+for the remainder of the year.
+So, you know, if you're bullish, hey, you know what?
+Not too bad, but it's almost even right now
+in Superbowl wins.
+I think it's now 31, 29 in favor of the NFC
+over the last 60 years.
+Yeah, and if you're looking just back in the last 20 years,
+we've had a lot of bull market activity going on there.
+So a lot of these have-
+But it would have been great if we had a blowout
+because the-
+A blowout would have been great.
+It looked like we were on our way to a blowout.
+Yeah, but it got close there for a while, so we'll see.
+All right, and if the score was under 30,
+the bears like that, usually the market only on average
+ends up about 5.7%.
+but they put up some points,
+made it a little bit interesting for those gamblers.
+Let's take one check in on the things you say
+that are working in the market.
+Builders, building supplies, full service restaurants
+and durable goods.
+Why full service restaurants?
+Why do you think that sector is working right now?
+You know, I think part of it is,
+you know, we're lapping the inflation levels
+and the higher costs for employees,
+But also, I think what you're seeing is all these concerns
+that we've seen over this K-shaped economy
+maybe starting to alleviate.
+The job market isn't doing great,
+but we're seeing jobless,
+we're not seeing a big pickup in jobless claims.
+We're seeing, you saw Frito-Lay last week actually announced
+that they're lowering prices.
+So the inflationary impact on the food supply
+isn't as great.
+And I think what you're gonna see
+for the remainder of the year,
+you're gonna see just a sign of this broadening economy.
+So you look at these groups like building, builders,
+building materials, durable goods, restaurants,
+what the only thing that isn't rallying lately
+seems to be software stocks.
+And so this broadening economy,
+you're seeing a broadening of the market
+and you've seen an earnings results so far,
+you've seen some of the strongest beat rates
+in terms of earnings, you know,
+actual results relative to expectations
+in terms of earnings and sales that we've seen since 2022.
+And historically it's at the very high end
+of the spectrum.
+That's not, whether that's great for the market
+isn't is debatable, but it's showing
+there's broadness in the economy.
+It's not just one sector of the market driving things.
+Yeah, like I said, could be the side
+of a sector rotation symbolizing something healthy going on
+or it could be the beginning of some weakness.
+But you guys do such a good job pointing it out.
+Let's go out on this.
+We're citing you all the time
+you're an investipedian on the Express.
+I got to know Paul Hickey's favorite indicator.
+What's your favorite thing to watch?
+Maybe nobody else pays as much attention to
+but we got to know from your voice,
+tell us what is your favorite indicator
+and why do you like it?
+All right, so we've been talking a lot
+about software stocks in the last several minutes here.
+And as much as there's this uncertainty
+regarding the software sector right now,
+whether it's AI, software, it all runs on semiconductors.
+And semiconductors are the rails
+of the 21st century economy,
+call them the transports of the 21st century.
+And no matter what kind of software you're running,
+it's gonna be via semiconductors.
+So what we're looking for
+is the health of the semiconductor area.
+So the Philadelphia Semiconductor Index,
+we track its relative strength
+relative to the broader market.
+And when that is rallying
+and that relative strength line is rising
+ahead of the market or in unison with the market,
+we take it as a good signal.
+And that peaked in late January,
+it hit a new high in late January.
+So I think that's a healthy sign.
+And what's really impressive about the semiconductors
+since last fall is that it's been such a broad rally.
+It hasn't just been Nvidia driving the gains.
+Nvidia has been one of the weaker performers in the index.
+And you've seen most of the stocks in the sector
+rising by double digit percentages.
+Well, Nvidia was basically flat in that period.
+So I think that's a very healthy sign.
+And that's one of the first indicators
+I'll look at on a daily basis.
+Yeah, socks for those tracking at home, S-O-X-X.
+Check that out.
+And we talked about it a few weeks ago here on the show.
+You had the Dow transports rallying,
+you had the Dow industrials rallying,
+and you had the socks rallying at the same time.
+It was the trifecta of the modern day
+Dow transport theory in action.
+Paul Hake, of the B-Smoke Investment Group,
+so good to have you on the Investopedia Express
+such big fans. Thanks for joining us. All right, take
+care, Caleb. Have a good one. Thanks.
+All right, great stuff from Paul there. We'll link to their
+research in our show notes. But again, tracking trends, keeping
+us smart, the things to watch out for the trends that are
+happening inside the markets that sometimes we miss because of
+the headlines. I go to them for so much research and
+information. Great to have him on the program. All right,
+let's hit a little bit of money in motion because we got to
+get into software stocks, but from what's happening in private credit, a little money
+in motion action.
+All right, you got last week, some news out of an anthropic, the AI agent client software
+there that said that it could create, do a lot of the work that's happening inside law
+firms, do a lot of the work that's happening inside a lot of professional firms, again,
+at the fraction of the price, kind of reminds us of what happened with the deep seek news
+almost exactly a year ago, but it had AI fears spreading throughout the market.
+People are worried about a bubble. People are worried about disruption from these new
+development software developments from these AI related companies. And we saw a massive
+fallout, big drawdown in software stocks last week that's continued, as Paul pointed out,
+really been going on for the past several weeks, but it really hit the credit market.
+And I caught this article, smart article from Bloomberg, the price of the average software
+loan fell to its lowest point, 90.5 cents on the dollar from 94.7.1 cents on the dollar,
+according to Pitchbook.
+It shows that how AI fears are spreading into other parts of the market.
+These are loans that private credit companies, private credit is making to these software
+companies so that they may continue to build out and spend on capital expenditures.
+This is a pretty big deal for private credit investors.
+And why do we care about private credit investors?
+is private credit is coming into our defined contribution plans.
+This is something that is gonna be allowed.
+We're gonna be able to put this in our 401Ks probably
+by the end of the year if this administration
+gets what it wants.
+So there's already more and more exposure to private credit.
+And if you just look at this chart of all this exposure
+that private credit has to different sectors,
+commercial services, software, right?
+Products, healthcare services.
+There is a lot leverage in private credit,
+a lot riding on the fact that these companies are going to be able in these sectors to grow
+their profits because of the AI investment, but it's not just public investors through
+equities, through buying stocks that are exposed to AI and to the overspending AI.
+It is private credit.
+Now, private credit is an asset class that we're all going to have to deal with when
+it becomes part of our assets that we're available to have in our retirement plans.
+So something to watch out for.
+How much are these private credit companies paying to loan money to these companies?
+If it costs more to do that, then you know that there could be some trouble brewing under
+the surface.
+All right, busy week in front of us.
+Let's get to what to expect this week.
+Coming up today, already, earning season rolling on, probably about 75% of the way through earning
+season.
+And if you miss, your stock is getting punished.
+So let's take a look at what's coming on down the tracks this week.
+All right, sure. A list on earnings today to start out the week Apollo Group on semiconductor
+reporting results among others tomorrow, Tuesday, February 10th, US retail sales for the month
+of December, where we aggressively spending into the holiday season. We'll also get the
+NFIB Small Business Optimism Index. That's been pretty low over the past several months.
+A lot of that was tariff related concerns. I've seen small businesses are feeling a little
+bit better, but a huge day of earnings on Tuesday. Coca-Cola, AstraZeneca, we got
+BP reporting results, CVS, Spotify, Robinhood, big day for earnings.
+Wednesday, we're gonna get the delayed non-farm payrolls report, the jobs report
+for the month of January. It's supposed to come out last Friday. Instead, they
+pushed it off a couple of days because of the partial government shutdown. We'll
+get that on Wednesday. We'll get the US federal budget as well. The
+January report earnings from Cisco, McDonald's, AppLovin, and Shopify among others. February 12th,
+existing home sales for January. They were sluggish. I wouldn't expect those to get any better
+until the spring. Weekly jobless claims will get a read on that earnings from Applied Materials,
+Unilever, Vertex, Airbnb, and Coinbase. And then on Friday, CPI, inflation report,
+Consumer Price Index for the month of January and earnings from Moderna and Enbridge, among
+others. Busy week, and again, on the earnings front, this has been a real sensitive time for
+companies to report results. You miss your results, or you forecasted the downside, or you rain in
+your forecast. Stock's getting punished. We've seen that happen a lot in the past couple of
+weeks. We'll see if that continues into this week. The Investopedia News Team all over the
+earnings scene, so keep your browser locked to Investopedia.com and follow us on social.
+All right, let's get in to the indicator of the week. As I said at the top, Dow 50,000,
+Dow Jones Industrial is on Friday, crossing 50,000 for the first time. Huge milestone. Huge
+milestone. Round numbers are nice. We love that as investors. Makes us feel good, makes us feel
+like we're making progress. But this is pretty serious. When I was born in 1970, Dow Jones
+industrials were barely a thousand. So you know my parents put in a thousand bucks the day I was born.
+That'd be worth a pretty penny today but what is the real breakdown behind the Dow Jones
+Industrial Average? There you guys right there Edward Jones and Charles Dow. They were journalists
+who founded a newspaper I believe in Rhode Island in Providence Rhode Island and they
+and they started tracking the market.
+And then eventually came up with the Dow Jones
+Industrial Index founded in 1896, two financial reporters,
+just like your boy here, Charles Dyer were Jones.
+And they followed 12 companies in each sector
+of the US stock market at the time.
+Remember, there were not a lot of companies
+on the market at that time.
+The first published value of the Dow Jones was 40.94.
+It was a value, not even a dollar amount, 40.94.
+was calculated by taking the average market price
+for the 12 companies.
+And what were the 12 companies?
+Well, you got to have good eyes to see this one,
+but most of them are not even around today.
+In 2026, we had American cotton oil, American sugar,
+American tobacco, Chicago gas, national lead,
+coal and iron, Tennessee coal and iron,
+U.S. rubber, Unilever.
+Hey, that's still around, but not on the Dow 30.
+R.J. Reynolds, right?
+now part of a whole different family of companies.
+We Energies, US Steel still around,
+but partially owned now by a Japanese company in Michelin,
+but it was out of Paris.
+Cut to today, the 30 stocks in the Dow Jones Industrials,
+they're not all industrials,
+but they are representative of American business
+in a lot of ways.
+We're talking about obviously companies like Microsoft,
+we got Apple in there, Visas in there,
+Nike, Caterpillar, Amgen, Intel, right?
+This is the new economy for the Dow 30.
+This is the Dow industrials of the modern age.
+Are they the best representation of business in America,
+of public capitalism in America?
+Pretty close.
+When you see a McDonald's in there next to an Apple,
+next to an IBM, right?
+Next to a UnitedHealth, pretty good representation
+of the financialization and the securitization
+and the capitalization of American companies.
+But for a lot of people who've been following the stock market
+for a long time, like my friend Peter Tuchman,
+very significant milestone.
+I caught up with Peter just as the Dow crossed 50,000
+on Friday.
+Put this one on TikTok for the fans out there,
+but I'll play it for you right now.
+Here's Peter and I at the New York Stock Exchange
+just after the Dow Jones Industrials crossed 50,000
+for the first time last Friday.
+Peter Tuchman, Dow 50,000.
+Remember what the Dow was when you started working down here?
+Yeah, I think it was like 600.
+Can you believe we made it to 50,000?
+How long have you had those hats ready?
+These hats have actually had now maybe two weeks.
+When we got really close, we were like 49, six,
+few weeks ago.
+You know, they're the haters who always say,
+oh, these are just numbers, it's not that big a deal.
+But it's not.
+I mean, these are a function
+of an incredibly robust market,
+you know, enthusiasm across the board.
+You know, people are making money in this market.
+You know, and think about it.
+You know, people need to acknowledge
+the historic significance of it,
+the financial, the economic significance of it.
+It's huge.
+It's huge.
+Are you surprised by the resiliency of investors?
+They keep believing no matter what the headlines, no matter the big drops and the big stocks
+in the market, no matter what, there is this resiliency, this indefatigable bull, this bid
+that just keeps going.
+It's relentless.
+It is.
+It's, you know what, look, humans are resilient by nature, right?
+We've seen that throughout history.
+And this market, think about it, this market has had every possible thing tossed at it
+over in 2024, 2025, and we ended those years
+in double digit growth that was spectacular in the S&P.
+We're up 125% since COVID.
+Think about what this country and the world has gone through
+since March 23rd, 2020, right?
+When I was just, they gave me like three months to live
+at that point, and you know, and the world looked like
+it was coming to an end, and yet, yet the market
+is continually to gone on.
+A bunch of world wars, a bunch of regional bank failures,
+You know, government shutdowns, government reopens,
+new administration, tariffs, China, all that stuff.
+Yet we still ended up today hitting that Dow level.
+And it is the largest, it is the oldest index since 1896.
+I was here when the Dow started, right?
+That's what they just told me over there.
+You know, it's amazing.
+And Dow is 30 stocks that represent America.
+It was such a significant index in so many ways.
+Look, that's where we are.
+We're here at the New York Stock Exchange,
+the greatest financial institution in the world.
+And it's an honor to be here.
+Yeah, and you've seen most of it.
+Dow 50,000, Peter Tuchman, the Einstein of Wall Street.
+There you go.
+You probably called this when you started here.
+I'm ready for 100,000.
+I'm ready for 110.
+My guy, Peter Tuchman, the Einstein of Wall Street,
+celebrating in proper form.
+Peter's always out there first with the hats on
+because he's been there for most of those milestones
+and got a lot of pride working down there.
+He's educated a lot of people,
+helped a lot of people out.
+He's a good dude and it was cool to be down there
+for Dow 50,000.
+Again, round numbers are nice,
+especially big round numbers,
+But when you think about how fast we went from 25 to 30,000, 30 to 40, and then 40 to 50,
+these milestones are happening a lot quicker.
+Speaking of milestones, shout out to Colgate University, my alma mater, putting me in the magazine,
+putting me on the website.
+There we go.
+Wall Street on wheels, doing a little profile on your boy right there, skating, longboarding around Wall Street, like I do,
+doing my reports for all of our fans on followers on Instagram and on the social media channels.
+So what a nice profile of your boy right there.
+I love that picture of me, believe me.
+I did some serious posing for that shot.
+I must've done 75 takes skating
+past the New York Stock Exchange, but it was fun to do it.
+Shout out to Colgate, Colgate Magazine, my alma mater.
+And then my team here making me a little coffee mug
+with myself skating on it so I can look at myself
+while I drink my coffee.
+That's super nice of them.
+But that was real nice of Colgate.
+What an honor to be featured in Colgate Magazine.
+Never thought it would happen.
+I was a soccer recruit, almost there by accident.
+And here I am.
+And I was hanging out with my college boys over the weekend,
+a little Super Bowl weekend, a little ski weekend.
+And you know what?
+So grateful for that opportunity and that experience.
+I'm grateful to Colgate for the network
+that it helped me build and the great education
+and all the other things that I learned there.
+Shout out to them.
+Thanks to Paul Hickey of Bespoke for coming on.
+As I said, we're big fans.
+We're citing them all the time on the Investopedia Express.
+And thank you all for tuning in from Around the World,
+live and director for those of you coming to us on demand
+on the Investopedia Express every Monday at 10 a.m.
+And then on your favorite podcast networks.
+Lock in this week, stay warm,
+and we'll talk again a little further on Down the Line.

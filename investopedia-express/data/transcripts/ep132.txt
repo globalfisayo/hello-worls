@@ -1,0 +1,548 @@
+So they sitting there and they panicking, they screaming,
+sell, sell, cause they don't want to lose all that money, right?
+They out there panicking right now.
+I can feel it. They out there.
+They panicking, look at them.
+But what about the shocks?
+To the economy when there's no liquidity as banks grab all they got.
+Don't act like you forgot.
+Oh wait, hurt us a lot.
+Like drop, drop, drop.
+1873 before you and me when the railroad bubble popped.
+1983 after Volcker blew his top.
+Don't remind me about 1933 that depression wouldn't stop.
+We got to know our history when Fed policy starts to flop.
+And credit default starts to pop.
+And capital markets start to chop.
+Like brop, brop, brop.
+Show us what you got.
+We got a plan.
+make some moves, we'll play in 3D chess. We'll stay on track, no setbacks when you ride the
+Investopedia Express.
+Welcome back and welcome aboard and whoa, somehow, someway the major U.S. equity markets closed
+higher again last week battling through more bad news from banks, another rate hike by
+the Fed and bedlam in the bond market. We managed to get through a week without another
+bank failure. That's good news these days. But the drumbeat around broken balance sheets
+among regional banks keeps getting louder. Banks borrowed $300 billion from the Fed's
+various lending facilities since SVBs collapse, so we know the fear is real. The Fed went through
+with its quarter point rate hike as expected, but Fed chair Powell acknowledges that weakness
+in the banking system is creating its own form of liquidity tightening. And if it weren't for that,
+the Fed was likely to raise rates a half a percent to put the final chokehold on inflation.
+The events of the last two weeks are likely to result in some tightening of credit conditions
+for households and businesses and thereby way on demand on the labor market and on inflation.
+Such a tightening in financial conditions would work in the same direction as rate tightening.
+In principle, as a matter of fact, you can think of it as being the equivalent of a rate
+hike or perhaps more than that.
+You get that.
+Banks balance sheets are a hot mess, in large part because of rising interest rates.
+Rising interest rates are also a drag on lending and economic growth.
+The Fed's been trying to slow growth for the past year because it's created unsustainable
+inflation, but it's not really working that well.
+The knock-on effect, though, of higher rates on bank deposits, which are largely invested
+government-backed securities is slowing down the economy and threatens to plunge it into the
+recession everyone's been waiting for since last summer. If you look at the FOMC's summary of
+economic projections, which it releases along with its decision on interest rates, the median GDP
+projection is just 0.4% for 2023 and a mere 1.2% growth for 2024. That's going to feel like slow
+motion compared to the past two years. So why didn't the stock market completely tank last week?
+Well, maybe it's because investors can finally see the end of rate hikes coming up ahead.
+Chair Powell was quick to point out that the FOMC dropped the word ongoing from its statement
+on monetary policy, replacing that with, quote, additional policy firming may be appropriate.
+Now, policy firming is not an economics term.
+It's a Powellism and it doesn't exist anywhere, not even on Investopedia.com or on the Federal
+Reserve.gov website.
+It's a new monetary policy expression that we will duly add to our library.
+But what does it mean?
+That means the Fed has other ways to tighten monetary policy without raising rates.
+And in fact, it's already happening whether the Fed likes it or not because of tightened
+bank lending.
+As for rates, if we look at the most recent dot plot, the most boring yet the most important
+chart in finance and economics right now, it shows where FOMC members forecast where
+Fed funds rates should be for the next three years.
+And that is telling us that they think the terminal rate should be 5.1%.
+That's the apex for rates.
+And we should hit that number this year.
+In 2024, the Fed funds rate is projected to be closer to 4% and by 2025, closer to
+3%.
+All that could change, of course.
+The Fed may be forced to cut rates if the economy unravels quickly or the banking crisis becomes
+more contagious.
+But seeing the end of rate hikes on the horizon and the Fed's softened language may have
+emboldened stock investors to come back to their favorite stocks through a pretty choppy
+week.
+The question is, have equity investors grown too optimistic about the Fed's future plans?
+And that leads us straight into our big three.
+the week.
+Number one, there's a pretty big disconnect between what the Fed is saying and what investors
+might actually be hearing.
+Or maybe it's a case of the Fed saying one thing, but investors choosing not to believe
+it.
+We just talked about the Fed's dot plot and where voting members of the Fed's open
+market committee think interest rates should be for the next three years.
+They have all the data and hundreds of economists and statisticians working on this.
+And then there's the Fed funds futures.
+These are future contracts that traders bet on to predict the path of interest rates.
+You can track these on the CME's FedWatch tool, which we've been referring to constantly
+over the past year.
+As we just said, the dot plot shows the Fed's terminal rate at about 5.1% by the end of
+2023.
+But the market, according to FedFund Futures, has that number pegged at around 4.1%, a full
+percentage point lower.
+It doesn't sound like a lot, but a 1% difference in the most important denominator when forecasting
+inflation, earnings, wealth potential, and yields could mean hundreds of billions of
+dollars in gains or losses.
+And mind the gap, by the way, the yield curve, the spread between the two-year US Treasury
+and the ten-year US Treasury is headed for its steepest monthly increase since October
+of 2008.
+So, who's right?
+The Fed, the bond market, or stock investors?
+That's the most important question we're going to face this year.
+Number two, if banks are such a hot mess right now, why are so many banking executives buying
+their own stock?
+Bank stocks, especially regional bank stocks, have gotten shellacked over the past two
+weeks in rolling waves of volatility.
+First Republic are down 90% in just the past several weeks and KRE, the regional bank ETF,
+is down 30% in the past month. You might expect bank execs to be bailing out of their own stock
+and running for the hills like they did Silicon Valley Bank and First Republic. It'd be a bad look
+to be sure, but their buddies at the golf course would definitely understand. But that's not what's
+happening right now at the majority of regional banks, not at all. According to Insider Insights,
+which tracks insider buying and selling, executives at regional banks were aggressive
+buyers of their own company shares for their own accounts throughout SBB's collapse. Insider
+buying at banks hit its highest level since March of 2020 after the market bottom. So,
+bank insiders are buying bank stocks while bank customers are pulling their money out of banks,
+especially small banks, at a record clip. According to data from the Federal Reserve,
+bank customers collectively pulled $98.4 billion from accounts for the week ended March 15th
+just as Silicon Valley Bank and Signature Bank failed. A lot of that money, $67 billion worth,
+went to the big banks. The rest of that money went to market funds or under the mattress.
+Those withdrawals brought total deposits down to just over $17.5 trillion, representing about
+0.6% of the total. Deposits have been on a steady decline over the past year or so, falling about
+$582.4 billion since February of 2022, according to the Fed. But there's still a lot of money in
+the bank, at least for now. So who's right here? Bank execs betting on bank stocks or bank
+customers who think their money is safer elsewhere.
+And number three, amid all the turmoil in the banking sector and the bond market, investors
+keep gravitating back to their old favorite stocks.
+We talked about it last week, but it bears repeating, especially when over concentration
+starts taking over again.
+And that's exactly what we're seeing with shares of Apple and Microsoft lately.
+Apple, which is the largest stock in the S&P 500 with a market cap of more than two
+and a half trillion dollars, is back to making up a full 29% of the S&P 500 tech sector.
+Apple and Microsoft alone, the two biggest and most widely held stocks on the planet,
+currently account for 13.3% of the S&P 500.
+That's the most on record.
+As the Goldman Sachs strategy team points out, we haven't seen this kind of concentration
+and dominance by two companies since AT&T and IBM dominated the S&P 500 in the late
+1970s.
+That didn't ultimately end well, by the way, but both of those companies are still
+around.
+Still, concentration can be a double-edged sword.
+goes Apple and Microsoft, so goes the S&P 500 and the NASDAQ, the two market-weighted
+indexes.
+If they sneeze, the entire stock market gets the flu, and allergy season feels like it's
+coming on strong.
+Even with the Fed set to pause rate hikes this year, those rising rates have been pushing
+investors out of stocks all year into money market funds, CDs, and bonds.
+And that pattern, according to Goldman Sachs, is set to continue.
+Because there are finally reasonable alternatives to stocks, Goldman predicts that American
+households will sell $750 billion of stock this year in the first annual drop in demand
+since 2018.
+Are they going to sell their favorites too?
+We shall see.
+Let's get set up for the week ahead and banks are going to be back in the headlines big
+time.
+The Senate Banking Committee will hold a hearing on bank failures with the witness list including
+FDIC Chairman Martin Gruenberg, Federal Reserve Vice Chairman Michael Barr, and Treasury Under
+Secretary Nellie Liang.
+Fed Chair Powell said last week that the Fed is conducting an investigation into the
+failure of Silicon Valley Bank and Signature Bank and another separate investigation as
+to why the central bank missed all the warning signs of the current crisis.
+Both are good questions, with bank liquidity circling in the winds, worries about credit
+spreads and a renewed emphasis on credit default swaps are likely to come with them.
+As a refresher, credit default swaps are a financial derivative that allows an investor
+to swap or offset their credit risk with that of another investor.
+To swap the risk of default, the lender buys a credit default swap from another investor
+who agrees to reimburse them if the borrower defaults.
+Credit default swaps on banks have been on the rise lately as some investors doubt their
+ability to weather the storm.
+Credit default swaps on Deutsche Bank, for example, shot up 220 basis points just last
+week, the most since late 2018.
+Deutsche Bank is the 22nd largest bank in the world with $1.5 trillion in deposits.
+That should tell you something.
+Shout out to Tucker Tuttle and Joe Chappell who recommended credit default swaps for our
+term of the week this week on Instagram.
+We're also going to get updates on the U.S. housing market this week with the Case-Chiller
+National Home Price Index and the FHFA House Price Index for January.
+And on Friday, inflation is back on the menu as we'll get the Personal Consumption Expenditures
+Index, the Fed's preferred gauge of inflation.
+It likely climbed about 0.5% last month, but it should be continuing to slow down on an
+annual basis.
+Look for around 5.1% year-over-year compared to that 5.4% we saw back in February.
+On the earnings calendar, a pretty light week headlined by Carnival Cruise Lines, Lulu Lemon,
+Micron, Walgreens, and Blackberry, to name a few.
+The first quarter wraps up on Friday, so let's do a little scorekeeping as we head into the
+final week and put some things in perspective.
+According to our buddies at YChars, here are some year-to-date returns that are getting
+our attention.
+Bitcoin is up 67% so far this year.
+Maybe it is digital gold.
+Gold, the OG inflation hedge, is up 8%.
+The NASDAQ 100, that's up nearly 17%.
+The S&P 500 up almost 3%.
+Thank you Apple and Microsoft.
+Down industrials down more than 2%.
+The Russell 2000 down 1%.
+Government bonds up 2.8% and the US dollar up just 1%.
+With all the noise out there, who else is a little surprised that the stock market is
+actually higher for the quarter and the NASDAQ is on its way to a new bull market?
+Things are getting a little clearer.
+Coming into a little bit more focus now that the Federal Reserve has raised interest
+rates yet again, but may have signaled that it could be close to the end of its tightening
+campaign. But that doesn't mean we should expect any easing of financial conditions anytime soon,
+and the issues on the balance sheets of many banks are only amplifying the situation and adding more
+uncertainty into the mix. So how does all this translate into our expectations for future returns,
+for our portfolios, for our savings, for just about everything? Well, nobody can break this down
+better for us than Anastasia Moroso. She's the chief investment strategist at iCapital and a
+And a return guest on the Investopedia Express, delighted to have you back.
+Thanks for coming on.
+Great to be with you, Caleb.
+Interesting times.
+So I'd love to know your reaction to the Fed's move and Powell's comments.
+And I read your commentary, folks will link to it in the show notes, but let's get into
+just your reaction off the top.
+Yeah, I think it's a de facto pause.
+I mean, the Fed did hike 25 basis points, but I think what's more meaningful for the
+markets is that they essentially really said they're not sure if they're going to be
+any more rate hikes going forward.
+I mean, the whole statement that there may be some more tightening, that's just a whole
+lot of buts, ifs, and maybes.
+And maybe that's Fed Chair Powell's way of saying, we're sort of done for now.
+And then you square that with a summary of economic projections and the dots, the dots
+suggest that they will pause or stop the hiking cycle at 5.1%.
+And we're really within the striking distance of that.
+So that's a positive for the markets, that we don't have to withstand any more tightening,
+based from the Fed. And that's why you've seen the initial reaction in the markets that was really
+this rally, and especially in some of the tech stocks, we gave some of it back yesterday, we came
+back to kind of reprise this rally once again today. And I think it's a natural reaction to
+the Fed finally being at the tail end of the hiking cycle. Yeah, he introduced all kinds of
+new terminology yesterday, too, I thought we're talking on a Thursday, Fed Chair Powell spoke
+on Wednesday, but he said additional policy firming may be appropriate, but he was very
+clear to say and change that language. We didn't hear that word ongoing and he even specified
+that further in the press conference. So I think he's talking a little bit about tightening financial
+conditions, which you address in your note. And I know it's something you're very concerned about
+that notion of additional policy firming. What do you think he was referring to?
+Well, I think he would tell you that it was referring to additional rate increases,
+But I think what the committee is really considering is to what extent are the credit conditions going to tighten because of what's happening with the regional banks.
+And you know, what really struck me is what I said, which is a significant number of participants expect to see tightening in credit conditions.
+And you know, the reason they're concerned and I sympathize with that is because the reality is the funding costs for banks are going up across the board
+as the Fed hikes rates and also as you have the fallout
+from some of the banking crisis in the US and Europe,
+the funding costs are rising.
+And at the same time,
+the yield curve has been inverted for a while.
+So you're not actually getting potentially as much
+on your loans as what you're having to pay out
+in terms of costs.
+So all things considered,
+this erodes the net interest income opportunity for banks.
+And so when you have conditions like that,
+when you have ongoing concerns about deposits
+deposit outflows, it can start with a trickle but then just cascade out, the banks are going to be
+more prudent. They're going to tight standards, they're going to require higher costs to issue
+a loan and all things considered, this is likely to lead to a slowdown in the credit cycle.
+Yeah, you've said it in your note, which is the Fed's given us a new key metric to watch. That
+is the credit flow to the economy from banks. That's what banks do, but they're tight,
+their balance sheets we know are not in good shape, these rate hikes have not been good at all for
+their balance sheets, even if they were mismanaging them in the case of Silicon Valley Bank and other
+banks, but still this has not been healthy for them. And now we know these rates are going to be
+up in this range for a while. So let's talk about that credit flow to the economy from banks.
+Why are we so concerned about that? You point to a very important issue,
+which is it's not just his PB. It's not just the signature bank. It's not just
+first Republic or Credit Suites that are dealing with some of the issues. But the reality is
+there's a competition for deposits that's raising the cost of capital. And then there's the other
+side of the balance sheet, which is what are the assets and they do they have to be marked down
+because interest rates are rising. And the answer in the case of SVP was yes, they had to be marked
+down because they were securities that had to be sold and were eventually sold. That's not
+necessarily the case for every single bank. But the thing that I'm really concerned about is
+until and unless you have a blanket guarantee on all deposits and all unsure deposits,
+depositors are either going to seek higher yield elsewhere, or they're going to seek safety,
+you know, with some of the big banks. And so you still have this negative spiral of potential
+deposit outflows. And when you have that, and you have a capital ratio that maybe is strong for
+the large bank, but is not as strong for a regional bank. And when you've loaned out 80%
+of your deposits, and now you're worried about those deposits flowing out as a bank, as hopefully
+a good risk manager, you're going to be more concerned, and you're going to issue less loans
+as a result of that. And the ones that you issue, you're going to try to charge more for them.
+So that, Caleb, is what Powell was talking about in terms of that's the slowdown, and that's the
+tightening that may be forthcoming for the economy. And this is the second order impacts,
+I guess. We've had the rate hikes and instead of continuing with the rate hikes, all this
+cumulative tightening may actually manifest in tighter credit conditions. So that's why they
+said, look, rate hikes was the only tool we had early on, but now it's the bank's tightening
+lending standards may actually do the job for us in terms of bringing down inflation.
+Yeah. And he even said they may have even hiked rates a half a percent if it hadn't been for what
+was happening within the bank. So that I think got people's attention as well. So we have this
+other thing where we have investors or some investors discounting around 75 basis points
+worth of rate cuts into the end of this year. They have this disconnect between what investors
+may be thinking and what the summary of economic projections may be telling us.
+Explain that to our real listeners here and why that is important.
+Yeah, there is a big disconnect. So as we talked earlier, the Fed is trying to get to 5.1%
+and stay there. And when Fed Chair Powell was asked, what about the 75 basis points of rate cuts that
+are priced in between now and the end of the year? He really pushed back on that and saying that's
+not the base case scenario. So to help understand why that is, first of all, you're right. I think
+what they really wanted to do before the banking crisis is to hike 50 basis points and potentially
+increase the terminal rate to 6%. That was their expectation. So the fact that they have a
+a de facto pause and the fact that they're not even talking
+about higher terminal rates, that tells you kind of the amount
+of concern that they have about the banking sector
+and specifically the tightening that it may introduce
+to the economy.
+Having said that, they still have a job to do,
+which is to bring down inflation.
+Those inflation numbers today are not on pace to 2%.
+And if you extrapolate from the month-over-month change
+in CPI inflation, what the year over year inflation
+is gonna look like around the midterm of the year.
+Guess what?
+It might actually start to creep back up again,
+unless the monthly numbers slow down to zero or 0.1%.
+So that's where I worry the disconnect is,
+is the Fed is sort of compromising and saying,
+fine, we're not gonna hike rates anymore,
+but given that inflation job is not done,
+don't expect us to cut them.
+So I think there's a re-pricing
+that may still need to happen
+in the bond markets to account for them.
+Right, and we'll fill that all the way
+through the rest of the capital markets
+because bonds really run things around here.
+So let's get into sort of that,
+what this translates to across the capital markets.
+We went from a period of TINA, right?
+There is no alternative to stocks
+because rates were so low,
+there was no yield on anything really
+outside of the stock market
+or some much riskier products to TARA, right?
+There is a reasonable alternative.
+There's money in the bank.
+There's money in bonds again, obviously.
+There's money in high yield savings and CDs
+money market funds and we've seen a ton of money move into money market funds in the last week,
+but really over the course of the past year. So given that now that there is an alternative
+and we have this idea where that terminal rate is going to be and it's kind of going to be around
+this range for a while, what does that translate to in terms of expectation returns from your eyes
+for the S&P 500? Well, I think it caps them. I think it definitely caps the returns on the S&P,
+but it doesn't necessarily mean we have to go down to 3600 or 3300, certainly not in the near term.
+The reason I say this is, first of all, for each day around this 5% level, I actually think that
+this US economy can withstand it. This is not the economy of 07, 08, where you had a lot more
+interest rate sensitivity. For example, Caleb, back in 08, we've issued 19% of mortgages that
+were adjustable rate mortgages. So no wonder a lot of households were hurt by that. Today,
+4% or 5% of mortgages out there are floating rate. So there's some pain, but it's definitely limited
+in size and scope. Now you compare and contrast that to Europe, for example, and in some cases,
+60, 70, 80% of their mortgages are adjustable rates. So that's a far bigger issue than in the US.
+But going back to the US, the fact that household and worth has risen, the fact that the unemployment
+rate is 3.6%, the fact that we don't have to pay up higher mortgage expense if we're not moving
+places, all of that tells me that we're not in an imminent kind of a hard landing type of a scenario.
+And that's why we may not need to have a recessionary multiple. You know, I think the people who kind
+of call for lower targets for the S&P are signing and recession multiple to the current or lower
+EPS number. And I'm just not quite in that camp. But at the same time, I mean, where is the bullish
+narrative got to come from you to really help us break out above 4200. For that, I think growth
+would need to reaccelerate, but if it does, what the Fed does, they may no longer be on pause.
+So it's still an uneasy time to be a risk taker and investor because it's a range and nobody likes
+to be trapped in a range, but I guess there are things to do in the range as well.
+Yeah, it doesn't mean that there's no way to invest. It just means if you're just hoping
+for the types of gains that we saw prior to last year, and the first, and that was three years
+on the stock market was up 100%, there was a reason for that. That reason was because we were in
+trouble and the interest rates were floored to zero. We're not going back to that type of environment.
+But then we're also seeing this very curious thing Anastasia with a lot of re-concentration
+to big mega cap tech stocks right now. That might be an anticipation that rates are at least topped
+out here or they're going to fall a little bit and these stocks do better in that environment.
+Or is there a little bit of a flight to safety with no, go with the big stocks because we know
+what they are. And we know they produce cashflow and they've been delivered great returns over
+the last couple of decades. What do you make of all that re-concentration in mega caps?
+Well, I personally like that trade a lot. And I think it's the right trade for people to be
+focusing on because of the two reasons that you mentioned, Caleb, which is if rates are now on
+pause, and these are the same companies that have the same balance sheet strength, that's kind of
+the perfect place to be. So if you think about the NASDAQ, the NASDAQ valuation reached at its
+peak 35 times forward earnings and it is now retraced to 23, 24 times depending on the day.
+So it's back to pre-pandemic levels and it's certainly a lot more reasonable.
+The reason why we had this huge retracement evaluation is of course because it was going
+from 0% to 5% interest rates. But now that that's behind us, that means that the valuation drag
+should no longer be impacting forward returns. To be fair, I don't expect the multiple to expand.
+It shouldn't because the Fed is still staying at 5%, but at the very least, you're not going to have the valuation drag.
+The second thing is the banking sectors in turmoil, the housing sector is essentially in collapse.
+There's a cyclical slowdown that's going on in the United States.
+And amidst that, you look at global IT spending, for example, which is still forecast to grow 5% this year.
+And if you look at the software spending, that's forecast to grow close to 12% this year.
+So all of a sudden you have a sector of the economy that's maybe somewhat resilient,
+if not immune from some of these cyclical slowdown worries. It is flush with cash. It could service
+its debt, most of which is fixed rate anyway. And that's what's driving this flight to safety.
+So I like that combination a lot and clearly other investors do too. I mean, just last week,
+Caleb, the S&P was up 1.4%, which is actually remarkable given all that was thrown at us last
+week. The software sector of the S&P was up 10%. So it really tells you the amount of rotation
+into the sector that's going on behind the scenes.
+And also probably an appetite among investors that want to get back to work
+buying stocks. I mean, it's been over a year now of just not wanting to get into risky business,
+but I think investors have put so much cash either on the sidelines or in money market funds,
+$400 billion really over the past 12 months that they're looking for a reason to believe.
+And sometimes if they see it in the names they trust, I know this with our own readers,
+they like that home cooking. They like those big stocks that they grew up with.
+They're going to gravitate back to them any chance they get.
+Back to banks for just a second, because prior to the Fed meeting this week,
+you had written a week or so ago about the fact that the Fed might pause just given what's
+happening in the banks. So I'd love to know, obviously that didn't happen.
+What are the things you're looking for beyond that credit extension from banks to the economy
+inside banks and inside regional banks that you are looking for in terms of warning signs
+or signs of help as we go through the next couple of weeks?
+I mean, there's a few things that are broadly applicable to banks. And I would look for a
+number of things. You know, first of all, you look at the net interest margin, and whether
+that's improving, or whether it's projected to decrease for certain banks. And the reason why
+things like SVD and signature bank, for example, got in trouble is because they had some of the
+lowest net interest income assumptions, or at least the rate of change versus some of the other banks.
+So I would be looking for those signs of weakness. I would be looking for some of the high loan to
+deposit ratios for cross banks, because those are the banks that are likely to rein in their
+lending if they're worried about what happens if the deposits go out of the door. I would also
+be looking at some of the, for example, common equity tier one capital ratio. And that's one of
+the more common capital ratios to look at. And the reason why investors are opting for larger banks,
+because in the US, that capital ratio stands at 12% for larger banks, and it's 9% or 10% for
+smaller regionals. So given this weaker capital position, given that some of the smaller banks
+don't actually have to conform with the same liquidity coverage ratio, which by the way,
+It's just the number of high quality liquid assets that you have to cover potential deposit
+outflows. Large cap banks are subject to those. Some smaller cap banks are not. So I think
+investors are going to be really scrutinizing those numbers. And if there's any signs of
+weakness on any of those metrics, that's where I think some banks can get in trouble.
+Great points. And we know that they've already been looking at them, and especially if you
+look at the short selling on some of those banks. So it's those banks that have those
+sort of outsized ratios that don't look so healthy that are being targeted the most.
+But right now, everybody's under the microscope. All right, so if you had to put money to work
+right now in a diversified way, you talked about software, you talked about the tech sector and
+some of these big caps, but if you wanted to be comfortable putting money to work in a diversified
+way across asset classes right now, what's your playbook? What are you advising clients?
+Yeah, so the approach is really pretty simple. And I say, Caleb, that one of the silver
+the over-linings that we have now is we have this luxury,
+we haven't had for a while,
+of being both defensive and getting paid for it
+and also being opportunistic
+because the valuations have reset.
+And so when I think about the luxury of being defensive,
+yes, I like cash, I like certain cash equivalents,
+I like munis and maybe even high yield munis
+that give you this really interesting after-tax yield.
+I also like private credit.
+So if you think about what banks are going through
+as a result of all of this,
+one of the things they'll pull back from
+is lending to middle market companies.
+And those middle market companies, however,
+in turn can turn to a private credit manager.
+By the way, they're sitting on $450 billion of dry powder
+that they're looking to deploy in terms of loans.
+And those managers are likely to be issuing these loans
+and demanding tougher terms.
+So as an investor, if I can get floating rate exposure,
+because as I said, we've priced in too many cuts
+that maybe not be warranted,
+if I can get floating rate exposure
+and a spread of 600 basis points versus four or five
+that I was able to get before,
+that's a really healthy yield of close to 12%.
+So when you put this barbell together,
+of getting paid between cash
+and all the way to private credit,
+that's a really healthy yield in the portfolio
+that makes you that much less reliant
+on trading ranges on the S&P.
+Having said that, as you know,
+investing when others are fearful is a good thing,
+buying things when it feels terrible
+is a good thing. And I don't know if tech feels terrible anymore, but I'm a growth investor,
+and I think I'll always be. And I can buy some of these tech opportunities at discounted multiples,
+whether it's semis, whether it's software, I like that. I'm also a growth investor that
+looks to private markets. And if you think about artificial intelligence, if you think
+about FinTech, if you think about all the decarbonization technologies, these are going
+to be disruptors for years to come,
+but so many of those opportunities right now
+are in private markets.
+And just as valuations reset in public markets,
+they're in the process of resetting
+in private markets right now.
+Late stage venture valuations, for example,
+have already started to correct, and I
+suspect there's more to come.
+So if I can commit to invest to those opportunities
+throughout the coming quarters, I
+think we'll pick up some pretty good valuations along the way.
+So it's a patient approach to portfolio allocation, but the beauty of it is that
+we're getting paid for that patience today by earning that yield on this other side of the
+portfolio. Right. And I love your point. Defense does win championships, so it's okay to play
+defense and get paid for it right now while you look for some other opportunities. And to your
+point as well, those other opportunities might be outside of what we think of as the traditional
+capital markets. They might be in private markets, but there are ways to access this for
+individual investors that are important to know. All right, we always love to ask you for your
+favorite term. What term is on your mind? We brought up some of the Fed's new term, new terminology.
+What do you think is the most important financial term or definition right now investors need to
+focus on in these uncertain times? I do think it's the credit cycle. As you know, the credit
+cycle drives economic growth and the expansion of credit has enabled anything from the consumer to
+to commercial real estate, but this credit cycle
+just may be coming to an end.
+And it just sort of depends on how abrupt of an ending it is.
+But I think we're now transitioning
+to a way much slower loan growth going forward.
+And unfortunately, potentially for rising defaults,
+which also happens at the tail end of the credit cycle.
+So that's what I'm watching.
+And to kind of come back to the regional banks,
+I didn't even mention this particular issue,
+but regional banks account for 70%
+of commercial real estate loans.
+And as a percentage of their loan books,
+it's a much larger percentage, like 43%,
+versus 13% of large cap bank loan books.
+So as a result, I'm watching the credit cycle
+and I'm watching particularly the CRE exposure
+of these regional banks.
+Yeah, that's so important to focus on.
+And that is sort of the lifeblood
+of what keeps money pumping through these communities
+across the country.
+So great, great thing to focus on, great metric and another great term.
+And we so appreciate your clarity.
+Just feel better talking to you because you break it down.
+So simply for us to understand.
+Anastasia Morosa, the chief investment strategist at iCapital.
+Thanks so much for coming back on the Express.
+We appreciate you so much.
+Thanks so much.
+Great to be here.
+It's terminology time.
+Time for us to get smart with the investing and finance term.
+We need to know this week and this week's term comes to us from Madeleine
+Sauvé, I hope I'm saying that right, who hit us up on Instagram, suggesting
+bank risk transformation. Ooh, we like that term given all the sudden interest in the balance sheets
+of banks around the world. According to our favorite website, bank risk transformation is
+the process by which banks and other depository institutions evaluate their credit risk against
+the deposits they hold and the loans they make. It involves diversifying where and how the bank
+is invested, managing risks throughout those investments, screening borrowers for default
+risk, and creating and holding adequate capital reserves to absorb any losses and outflows.
+It's what appeared to be missing at Silicon Valley Bank and Signature Bank, and now investors
+and regulators are laser focused on the degrees of bank risk transformation happening, or
+not happening, inside the global banking system.
+This banking crisis has turned a lot of us into banking students, which is a good thing.
+Our bank knows a lot about us, but how much do we really know about our banks?
+Great suggestion, Madeline.
+You helped make us a little bit smarter this week, and we're going to be sending you some
+of Investopedia's finest socks for that.
+We're going to let the late great Robin Williams take us out this week.
+The actor, comedian, and legendary personality could make anything funny.
+And here he is on the Charlie Rose Show in 2009 in the ashes of the great financial crisis
+giving it to the banks like only Robin Williams could do.
+Like a group of junkies who relapsed on, listen to me, I just need some liquidity.
+You know what I'm saying?
+I just ran into some bad subprime.
+We just had complex formulas.
+We just didn't factor in greed and panic.
+I just need $85 billion by Tuesday.
+Thanks for joining us this week, as always.
+And special thanks to Anastasia for coming back aboard The Express.
+She always smartens things up around here.
+We're going to link to her blog and all the reports we cited on today's episode, and you're
+going to find those in your show notes wherever you ride The Express and on Investopedia.com
+slash The Express podcast.
+And we'll talk again a little further on down the line.

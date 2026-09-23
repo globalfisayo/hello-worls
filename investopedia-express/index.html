@@ -1,0 +1,913 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Express Tracker</title>
+<meta name="description" content="Every public company mentioned on The Investopedia Express, plotted against its stock price with an annotation on every episode date.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%232a78d6'/%3E%3Cpath d='M8 20l5-6 4 4 7-9' fill='none' stroke='%23fff' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<style>
+:root {
+  color-scheme: light;
+  --page: #f9f9f7; --surface: #fcfcfb; --surface-2: #f2f1ee; --surface-3: #e9e8e3;
+  --ink: #0b0b0b; --ink-2: #52514e; --muted: #898781; --grid: #e1e0d9; --axis: #c3c2b7;
+  --border: rgba(11,11,11,0.10); --border-strong: rgba(11,11,11,0.18);
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100; --s7: #4a3aa7;
+  --good: #006300; --bad: #d03b3b; --bench: #898781;
+  --shadow: 0 1px 2px rgba(11,11,11,.06), 0 8px 24px -12px rgba(11,11,11,.18);
+  --shadow-lg: 0 24px 60px -20px rgba(11,11,11,.35);
+  --logo-chip: #ffffff; --logo-chip-mono: #23232b;
+  --radius: 14px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --page: #0d0d0d; --surface: #1a1a19; --surface-2: #232322; --surface-3: #2c2c2a;
+    --ink: #ffffff; --ink-2: #c3c2b7; --muted: #898781; --grid: #2c2c2a; --axis: #383835;
+    --border: rgba(255,255,255,0.10); --border-strong: rgba(255,255,255,0.18);
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s7: #9085e9;
+    --good: #0ca30c; --bad: #e66767; --bench: #898781;
+    --shadow: 0 1px 2px rgba(0,0,0,.4), 0 8px 24px -12px rgba(0,0,0,.6);
+    --shadow-lg: 0 24px 60px -20px rgba(0,0,0,.8);
+    --logo-chip: #ffffff; --logo-chip-mono: #23232b;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page: #0d0d0d; --surface: #1a1a19; --surface-2: #232322; --surface-3: #2c2c2a;
+  --ink: #ffffff; --ink-2: #c3c2b7; --muted: #898781; --grid: #2c2c2a; --axis: #383835;
+  --border: rgba(255,255,255,0.10); --border-strong: rgba(255,255,255,0.18);
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s7: #9085e9;
+  --good: #0ca30c; --bad: #e66767; --bench: #898781;
+  --shadow: 0 1px 2px rgba(0,0,0,.4), 0 8px 24px -12px rgba(0,0,0,.6);
+  --shadow-lg: 0 24px 60px -20px rgba(0,0,0,.8);
+  --logo-chip: #ffffff; --logo-chip-mono: #23232b;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0; background: var(--page); color: var(--ink);
+  font: 14px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  padding-inline: clamp(16px, 3vw, 40px); padding-block: 0 48px;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: inherit; }
+button { font: inherit; color: inherit; }
+img { max-width: 100%; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* ---------- header ---------- */
+.topbar {
+  position: sticky; top: 0; z-index: 30; margin-inline: calc(-1 * clamp(16px, 3vw, 40px));
+  padding: 12px clamp(16px, 3vw, 40px);
+  background: color-mix(in srgb, var(--page) 82%, transparent);
+  backdrop-filter: saturate(160%) blur(14px); -webkit-backdrop-filter: saturate(160%) blur(14px);
+  border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+}
+.brand { display: flex; align-items: center; gap: 10px; min-width: 0; flex: 1 1 180px; }
+.brand > div { min-width: 0; }
+.brand .mark { width: 30px; height: 30px; border-radius: 9px; background: var(--s1); display: grid; place-items: center; flex: none; }
+.brand h1 { font-size: 17px; margin: 0; letter-spacing: -0.01em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.brand .sub { font-size: 12px; color: var(--ink-2); margin: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.search { flex: 1 1 220px; max-width: 460px; position: relative; }
+.search input {
+  width: 100%; padding: 9px 12px 9px 36px; border-radius: 10px; border: 1px solid var(--border-strong);
+  background: var(--surface); color: var(--ink); font: inherit; outline: none;
+}
+.search input:focus { border-color: var(--s1); box-shadow: 0 0 0 3px color-mix(in srgb, var(--s1) 25%, transparent); }
+.search svg { position: absolute; left: 11px; top: 50%; transform: translateY(-50%); color: var(--muted); }
+.topbar .spacer { flex: 1; }
+.iconbtn {
+  border: 1px solid var(--border-strong); background: var(--surface); border-radius: 10px; padding: 7px 10px;
+  cursor: pointer; display: inline-flex; align-items: center; gap: 6px; color: var(--ink-2);
+}
+.iconbtn:hover { color: var(--ink); border-color: var(--ink-2); }
+
+/* ---------- hero stats ---------- */
+.hero { display: grid; grid-template-columns: 1.4fr 1fr; gap: 20px; align-items: end; margin: 28px 0 18px; }
+.hero h2 { font-size: clamp(24px, 3.4vw, 36px); line-height: 1.1; margin: 0 0 10px; letter-spacing: -0.02em; }
+.hero p { margin: 0; color: var(--ink-2); max-width: 60ch; }
+.stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
+.stat { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 12px 14px; box-shadow: var(--shadow); }
+.stat .label { font-size: 12px; color: var(--ink-2); }
+.stat .value { font-size: 24px; font-weight: 600; letter-spacing: -0.01em; margin-top: 2px; }
+.stat .hint { font-size: 11px; color: var(--muted); }
+@media (max-width: 860px) { .hero { grid-template-columns: 1fr; } .stats { grid-template-columns: repeat(2, 1fr); } }
+
+/* ---------- filters ---------- */
+.filters { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 8px 0 18px; }
+.seg { display: inline-flex; background: var(--surface-2); border: 1px solid var(--border); border-radius: 10px; padding: 3px; gap: 2px; }
+.seg button { border: 0; background: transparent; border-radius: 8px; padding: 6px 11px; cursor: pointer; color: var(--ink-2); white-space: nowrap; }
+.seg button[aria-pressed="true"] { background: var(--surface); color: var(--ink); box-shadow: var(--shadow); font-weight: 600; }
+.filters select {
+  border: 1px solid var(--border-strong); background: var(--surface); color: var(--ink); border-radius: 10px; padding: 7px 10px; font: inherit;
+}
+.toggle { display: inline-flex; align-items: center; gap: 7px; padding: 6px 10px; border-radius: 10px; border: 1px solid var(--border); background: var(--surface-2); cursor: pointer; color: var(--ink-2); user-select: none; }
+.toggle input { accent-color: var(--s1); }
+.filters .grow { flex: 1; }
+.count { color: var(--muted); font-size: 12.5px; }
+
+/* ---------- company grid ---------- */
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(268px, 1fr)); gap: 12px; }
+.morebtn { grid-column: 1 / -1; justify-self: center; padding: 10px 18px; margin-top: 6px; }
+.card {
+  position: relative; text-align: left; width: 100%; background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 14px 14px 12px; box-shadow: var(--shadow); cursor: pointer;
+  transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease; display: grid; gap: 10px;
+}
+.card:hover, .card:focus-visible { transform: translateY(-2px); box-shadow: var(--shadow-lg); border-color: var(--border-strong); outline: none; }
+.card:focus-visible { box-shadow: 0 0 0 3px color-mix(in srgb, var(--s1) 35%, transparent), var(--shadow-lg); }
+.card .head { display: flex; align-items: center; gap: 11px; min-width: 0; }
+.logo {
+  width: 42px; height: 42px; border-radius: 11px; flex: none; display: grid; place-items: center; overflow: hidden;
+  background: var(--logo-chip); border: 1px solid var(--border);
+}
+.logo img { width: 100%; height: 100%; object-fit: contain; padding: 5px; display: block; }
+.logo.mono { background: var(--logo-chip-mono); }
+.logo .initials { font-weight: 700; font-size: 14px; color: var(--ink-2); letter-spacing: .02em; }
+.card .name { font-weight: 600; font-size: 15px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.card .meta { font-size: 12px; color: var(--ink-2); display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
+.ticker { font-variant-numeric: tabular-nums; font-weight: 600; letter-spacing: .02em; color: var(--ink-2); }
+.pill { font-size: 11px; padding: 1px 7px; border-radius: 999px; background: var(--surface-2); border: 1px solid var(--border); color: var(--ink-2); }
+.pill.etf { background: color-mix(in srgb, var(--s7) 14%, transparent); }
+.pill.delisted { background: color-mix(in srgb, var(--bad) 14%, transparent); }
+.card .row { display: flex; justify-content: space-between; align-items: end; gap: 10px; }
+.card .mentions { font-size: 22px; font-weight: 600; letter-spacing: -0.01em; line-height: 1; }
+.card .mentions small { font-size: 12px; font-weight: 400; color: var(--ink-2); margin-left: 4px; }
+.card .change { font-size: 13px; font-weight: 600; font-variant-numeric: tabular-nums; text-align: right; }
+.card .change small { display: block; font-weight: 400; color: var(--muted); font-size: 11px; }
+.up { color: var(--good); } .down { color: var(--bad); }
+.card svg.spark { width: 100%; height: 44px; display: block; }
+.card .more {
+  font-size: 12px; color: var(--ink-2); max-height: 0; overflow: hidden; opacity: 0; transition: max-height .25s ease, opacity .2s ease, margin .2s ease; margin-top: -6px;
+}
+.card:hover .more, .card:focus-visible .more { max-height: 80px; opacity: 1; margin-top: 0; }
+.card .more b { color: var(--ink); font-weight: 600; }
+
+/* ---------- episodes timeline ---------- */
+.timeline { display: grid; gap: 8px; }
+.ep {
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 12px 14px; box-shadow: var(--shadow);
+  display: grid; grid-template-columns: 92px 1fr; gap: 12px; align-items: start;
+}
+.ep .date { font-size: 12px; color: var(--ink-2); font-variant-numeric: tabular-nums; line-height: 1.3; }
+.ep .date b { display: block; font-size: 13px; color: var(--ink); }
+.ep .t { font-weight: 600; margin: 0 0 4px; }
+.ep .d { color: var(--ink-2); font-size: 13px; margin: 0; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.ep.open .d { -webkit-line-clamp: unset; }
+.ep .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.chip {
+  display: inline-flex; align-items: center; gap: 6px; padding: 3px 9px 3px 4px; border-radius: 999px; border: 1px solid var(--border);
+  background: var(--surface-2); cursor: pointer; font-size: 12px; color: var(--ink);
+}
+.chip:hover { border-color: var(--s1); background: color-mix(in srgb, var(--s1) 10%, transparent); }
+.chip .logo { width: 20px; height: 20px; border-radius: 6px; }
+.chip .logo img { padding: 2px; }
+.chip .logo .initials { font-size: 8px; }
+.ep .actions { display: flex; gap: 8px; margin-top: 8px; font-size: 12px; }
+.ep .actions a, .ep .actions button { color: var(--ink-2); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline; text-underline-offset: 2px; }
+@media (max-width: 600px) { .ep { grid-template-columns: 1fr; } .ep .date b { display: inline; margin-right: 6px; } }
+
+/* ---------- table ---------- */
+.tablewrap { overflow-x: auto; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow); }
+table { border-collapse: collapse; width: 100%; min-width: 720px; }
+th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--grid); font-variant-numeric: tabular-nums; }
+th { font-size: 12px; color: var(--ink-2); font-weight: 600; position: sticky; top: 0; background: var(--surface); }
+td.num, th.num { text-align: right; }
+tbody tr:hover { background: var(--surface-2); }
+tbody tr { cursor: pointer; }
+
+/* ---------- drawer / detail ---------- */
+.scrim { position: fixed; inset: 0; background: rgba(0,0,0,.45); z-index: 40; opacity: 0; pointer-events: none; transition: opacity .2s; }
+.scrim.show { opacity: 1; pointer-events: auto; }
+.drawer {
+  position: fixed; top: 0; right: 0; bottom: 0; width: min(980px, 100vw); z-index: 50; background: var(--page);
+  transform: translateX(102%); transition: transform .28s cubic-bezier(.2,.8,.2,1); overflow-y: auto; overscroll-behavior: contain;
+  border-left: 1px solid var(--border); box-shadow: var(--shadow-lg);
+  padding: 0 clamp(14px, 2.5vw, 28px) 40px;
+}
+.drawer.show { transform: none; }
+.drawer .dhead { position: sticky; top: 0; z-index: 2; background: color-mix(in srgb, var(--page) 88%, transparent); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); padding: 14px 0 10px; border-bottom: 1px solid var(--border); display: flex; gap: 12px; align-items: center; }
+.drawer .dhead .logo { width: 48px; height: 48px; border-radius: 12px; }
+.drawer .dhead h2 { margin: 0; font-size: 20px; letter-spacing: -0.01em; line-height: 1.15; }
+.drawer .dhead .sub { color: var(--ink-2); font-size: 13px; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.drawer .dhead .close { margin-left: auto; }
+.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; margin: 14px 0; }
+.kpi { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 10px 12px; }
+.kpi .label { font-size: 11.5px; color: var(--ink-2); }
+.kpi .value { font-size: 18px; font-weight: 600; margin-top: 2px; }
+.kpi .hint { font-size: 11px; color: var(--muted); }
+.chartcard { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow); padding: 12px 12px 6px; }
+.charttools { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 6px; }
+.legend { display: flex; gap: 14px; flex-wrap: wrap; font-size: 12px; color: var(--ink-2); margin-left: auto; }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.legend i { display: inline-block; width: 16px; height: 2px; background: var(--s1); border-radius: 2px; }
+.legend i.dot { width: 9px; height: 9px; border-radius: 50%; background: var(--s2); box-shadow: 0 0 0 2px var(--surface); }
+.legend i.bench { background: var(--bench); }
+.chart { position: relative; }
+.chart svg { display: block; width: 100%; height: auto; touch-action: none; }
+.chart .hint { font-size: 11.5px; color: var(--muted); text-align: right; padding: 2px 4px 0; }
+.tooltip {
+  position: absolute; pointer-events: none; z-index: 5; min-width: 180px; max-width: 320px; background: var(--surface);
+  border: 1px solid var(--border-strong); border-radius: 10px; padding: 9px 11px; box-shadow: var(--shadow-lg); font-size: 12.5px; opacity: 0; transition: opacity .12s;
+}
+.tooltip.show { opacity: 1; }
+.tooltip .tdate { color: var(--ink-2); font-size: 11.5px; margin-bottom: 4px; }
+.tooltip .trow { display: flex; align-items: baseline; gap: 8px; }
+.tooltip .trow i { display: inline-block; width: 12px; height: 2px; background: var(--s1); border-radius: 2px; flex: none; transform: translateY(-3px); }
+.tooltip .trow i.dot { width: 8px; height: 8px; border-radius: 50%; background: var(--s2); transform: none; }
+.tooltip .trow i.bench { background: var(--bench); }
+.tooltip .trow b { font-size: 15px; font-weight: 600; }
+.tooltip .trow span { color: var(--ink-2); }
+.tooltip .ttitle { font-weight: 600; margin-top: 6px; }
+.tooltip .tsnip { color: var(--ink-2); margin-top: 3px; font-size: 12px; }
+.tooltip .tnext { margin-top: 5px; font-size: 12px; }
+.mlist { margin-top: 16px; }
+.mlist h3 { font-size: 14px; margin: 0 0 8px; color: var(--ink-2); font-weight: 600; }
+.mrow {
+  display: grid; grid-template-columns: 96px 1fr auto; gap: 12px; padding: 10px 12px; background: var(--surface); border: 1px solid var(--border); border-radius: 12px; margin-bottom: 8px; align-items: start; cursor: pointer;
+}
+.mrow:hover, .mrow.active { border-color: var(--s2); }
+.mrow .md { font-size: 12px; color: var(--ink-2); font-variant-numeric: tabular-nums; }
+.mrow .md b { display: block; color: var(--ink); font-size: 13px; }
+.mrow .mt { font-weight: 600; margin-bottom: 3px; }
+.mrow .ms { color: var(--ink-2); font-size: 12.5px; }
+.mrow .mp { text-align: right; font-size: 12px; color: var(--ink-2); white-space: nowrap; font-variant-numeric: tabular-nums; }
+.mrow .mp b { display: block; font-size: 14px; color: var(--ink); }
+.mrow .links { margin-top: 5px; font-size: 12px; display: flex; gap: 10px; }
+.mrow .links a { color: var(--ink-2); }
+@media (max-width: 600px) { .mrow { grid-template-columns: 1fr; } .mrow .mp { text-align: left; } }
+.times { display: inline-flex; flex-wrap: wrap; gap: 4px; align-items: center; margin-top: 6px; }
+.playbtn { border: 1px solid var(--border-strong); background: var(--surface-2); color: var(--ink-2); border-radius: 999px; padding: 1px 8px; font-size: 11.5px; cursor: pointer; font-variant-numeric: tabular-nums; }
+.playbtn:hover { border-color: var(--s1); color: var(--ink); }
+.playbtn.playing { background: color-mix(in srgb, var(--s1) 18%, transparent); border-color: var(--s1); color: var(--ink); }
+.empty { color: var(--ink-2); padding: 30px; text-align: center; border: 1px dashed var(--border-strong); border-radius: var(--radius); }
+footer { margin-top: 36px; color: var(--muted); font-size: 12px; line-height: 1.6; }
+footer a { color: var(--ink-2); }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <div class="mark" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 32 32"><path d="M6 22l7-8 5 5 8-11" fill="none" stroke="#fff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+    <div><h1>Express Tracker</h1><p class="sub">Public companies mentioned on The Investopedia Express</p></div>
+  </div>
+  <label class="search"><span class="sr-only">Search companies and episodes</span>
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+    <input id="q" type="search" placeholder="Search companies, tickers, episodes…" autocomplete="off">
+  </label>
+  <div class="spacer"></div>
+  <button class="iconbtn" id="themeBtn" title="Toggle theme" aria-label="Toggle colour theme"><span id="themeIcon">◐</span><span id="themeLabel">Auto</span></button>
+</header>
+
+<section class="hero">
+  <div>
+    <h2>Which companies does Caleb Silver keep coming back to, and what did their stocks do next?</h2>
+    <p>Every episode of <em>The Investopedia Express</em> since 2020, scanned for public-company mentions. Pick a company to see its price history with a marker on every episode date it came up. Scroll to browse, wheel or pinch to zoom, hover for details.</p>
+  </div>
+  <div class="stats" id="stats"></div>
+</section>
+
+<div class="filters" id="filters">
+  <div class="seg" id="viewSeg" role="tablist" aria-label="View">
+    <button role="tab" data-view="companies" aria-pressed="true">Companies</button>
+    <button role="tab" data-view="episodes" aria-pressed="false">Episodes</button>
+    <button role="tab" data-view="table" aria-pressed="false">Table</button>
+  </div>
+  <div class="seg" id="rangeSeg" aria-label="Date range">
+    <button data-range="all" aria-pressed="true">All time</button>
+    <button data-range="12" aria-pressed="false">12 months</button>
+    <button data-range="36" aria-pressed="false">3 years</button>
+  </div>
+  <select id="sector" aria-label="Sector"><option value="">All sectors</option></select>
+  <select id="sort" aria-label="Sort companies">
+    <option value="mentions">Most mentioned</option>
+    <option value="recent">Recently mentioned</option>
+    <option value="best">Best performer</option>
+    <option value="worst">Worst performer</option>
+    <option value="name">Name A–Z</option>
+  </select>
+  <label class="toggle"><input type="checkbox" id="etfs" checked> Include ETFs</label>
+  <span class="grow"></span>
+  <span class="count" id="count"></span>
+</div>
+
+<main>
+  <section id="companies" class="grid" aria-live="polite"></section>
+  <section id="episodes" class="timeline" hidden></section>
+  <section id="table" class="tablewrap" hidden></section>
+</main>
+
+<footer id="foot"></footer>
+
+<div class="scrim" id="scrim"></div>
+<aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-labelledby="dtitle" hidden></aside>
+
+<script src="vendor/d3.min.js"></script>
+<script>
+(() => {
+'use strict';
+const $ = (s, el = document) => el.querySelector(s);
+const fmtDate = d3.timeFormat('%b %-d, %Y');
+const fmtMonth = d3.timeFormat('%b %Y');
+const parseDate = d3.timeParse('%Y-%m-%d');
+const fmtUSD = v => v >= 1000 ? d3.format('$,.0f')(v) : v >= 100 ? d3.format('$,.1f')(v) : d3.format('$,.2f')(v);
+const fmtPct = v => (v > 0 ? '+' : '') + d3.format('.1f')(v) + '%';
+const fmtTime = t => { t = Math.max(0, Math.round(t)); const h = Math.floor(t / 3600), m = Math.floor((t % 3600) / 60), s = t % 60; return (h ? h + ':' + String(m).padStart(2, '0') : m) + ':' + String(s).padStart(2, '0'); };
+let player = null;
+function playAt(url, seconds, btn) {
+  if (!player) { player = document.createElement('audio'); player.preload = 'none'; player.style.display = 'none'; document.body.appendChild(player); }
+  const same = player.dataset.src === url;
+  if (!same) { player.src = url; player.dataset.src = url; }
+  const seek = () => { try { player.currentTime = seconds; } catch (e) {} player.play().catch(() => {}); };
+  if (same && player.readyState > 0) seek(); else player.addEventListener('loadedmetadata', seek, { once: true }), player.load();
+  document.querySelectorAll('.playbtn.playing').forEach(b => b.classList.remove('playing'));
+  if (btn) btn.classList.add('playing');
+}
+function timeChips(m, e, parent) {
+  if (!m.times || !m.times.length || !e) return;
+  if (window.__ARTIFACT__ || !e.audio) { const w = document.createElement('span'); w.className = 'times'; const l = document.createElement('span'); l.className = 'count'; l.textContent = 'said at ' + m.times.slice(0, 8).map(fmtTime).join(', ') + (m.times.length > 8 ? ` +${m.times.length - 8} more` : ''); w.appendChild(l); parent.appendChild(w); return; }
+  const wrap = document.createElement('span'); wrap.className = 'times';
+  const lab = document.createElement('span'); lab.className = 'count'; lab.textContent = 'said at '; wrap.appendChild(lab);
+  for (const t of m.times.slice(0, 6)) {
+    const b = document.createElement('button'); b.type = 'button'; b.className = 'playbtn'; b.textContent = '▶ ' + fmtTime(t);
+    b.title = 'Play the episode from ' + fmtTime(t);
+    b.addEventListener('click', ev => { ev.stopPropagation(); playAt(e.audio, Math.max(0, t - 3), b); });
+    wrap.appendChild(b);
+  }
+  if (m.times.length > 6) { const more = document.createElement('span'); more.className = 'count'; more.textContent = `+${m.times.length - 6} more`; wrap.appendChild(more); }
+  parent.appendChild(wrap);
+}
+const state = { view: 'companies', range: 'all', sector: '', sort: 'mentions', etfs: true, q: '', data: null, priceCache: new Map(), open: null };
+
+// ---------- theme ----------
+const themeBtn = $('#themeBtn');
+function applyTheme(t) {
+  if (t === 'light' || t === 'dark') document.documentElement.setAttribute('data-theme', t);
+  else document.documentElement.removeAttribute('data-theme');
+  $('#themeLabel').textContent = t === 'light' ? 'Light' : t === 'dark' ? 'Dark' : 'Auto';
+  $('#themeIcon').textContent = t === 'light' ? '☀' : t === 'dark' ? '☾' : '◐';
+  try { localStorage.setItem('express-theme', t); } catch (e) {}
+  if (state.open) renderDetail(state.open, true);
+  renderView();
+}
+let theme = 'auto';
+try { theme = localStorage.getItem('express-theme') || 'auto'; } catch (e) {}
+applyTheme(theme);
+themeBtn.addEventListener('click', () => { theme = theme === 'auto' ? 'light' : theme === 'light' ? 'dark' : 'auto'; applyTheme(theme); });
+const isDark = () => document.documentElement.getAttribute('data-theme') === 'dark' ||
+  (!document.documentElement.getAttribute('data-theme') && matchMedia('(prefers-color-scheme: dark)').matches);
+matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => { renderView(); if (state.open) renderDetail(state.open, true); });
+
+// ---------- helpers ----------
+function logoEl(c, size) {
+  const wrap = document.createElement('div');
+  wrap.className = 'logo';
+  const dark = isDark();
+  const src = dark ? (c.logoMono || c.logo) : (c.logo || c.logoMono);
+  if (dark && c.logoMono) wrap.classList.add('mono');
+  if (!dark && !c.logo && c.logoMono) wrap.classList.add('mono');
+  if (src) {
+    const img = document.createElement('img');
+    img.src = src; img.alt = ''; img.loading = 'lazy'; img.decoding = 'async';
+    img.addEventListener('error', () => { img.remove(); wrap.appendChild(initials(c)); });
+    wrap.appendChild(img);
+  } else wrap.appendChild(initials(c));
+  return wrap;
+}
+function initials(c) {
+  const s = document.createElement('span'); s.className = 'initials';
+  s.textContent = c.name.replace(/[^A-Za-z0-9 ]/g, '').split(/\s+/).slice(0, 2).map(w => w[0] || '').join('').toUpperCase() || c.t.slice(0, 2);
+  return s;
+}
+function rangeStart() {
+  if (state.range === 'all') return null;
+  const last = parseDate(state.data.meta.lastDate);
+  return d3.timeMonth.offset(last, -Number(state.range));
+}
+function inRange(dateStr) { const s = rangeStart(); return !s || parseDate(dateStr) >= s; }
+function visibleMentions(c) { return c.mentions.filter(m => inRange(m.date)); }
+function matchQ(text) { return !state.q || text.toLowerCase().includes(state.q); }
+function companyById(t) { return state.data.companies.find(c => c.t === t); }
+function episodeById(id) { return state.data.episodes.find(e => e.id === id); }
+function nearestIndex(dates, target) {
+  // index of the first trading day on/after target (falls back to last)
+  const i = d3.bisector(d => d).left(dates, target);
+  return Math.min(i, dates.length - 1);
+}
+
+// ---------- stats ----------
+function renderStats() {
+  const m = state.data.meta;
+  const items = [
+    ['Episodes scanned', m.episodeCount, `${fmtMonth(parseDate(m.firstDate))} – ${fmtMonth(parseDate(m.lastDate))}`],
+    ['Public companies', m.companyCount, `${m.episodesWithMentions} episodes name at least one`],
+    ['Mentions plotted', m.mentionCount, m.episodesWithTranscript ? `titles, show notes and ${m.episodesWithTranscript} full transcripts` : 'from titles and show notes'],
+    ['Prices through', m.pricesFetchedAt ? fmtDate(new Date(m.pricesFetchedAt)) : '—', 'daily closes, Yahoo Finance'],
+  ];
+  const el = $('#stats'); el.innerHTML = '';
+  for (const [label, value, hint] of items) {
+    const d = document.createElement('div'); d.className = 'stat';
+    d.innerHTML = '<div class="label"></div><div class="value"></div><div class="hint"></div>';
+    d.querySelector('.label').textContent = label; d.querySelector('.value').textContent = value; d.querySelector('.hint').textContent = hint;
+    el.appendChild(d);
+  }
+}
+
+// ---------- companies grid ----------
+function filteredCompanies() {
+  let list = state.data.companies.filter(c => (state.etfs || !c.etf) && (!state.sector || c.sector === state.sector));
+  list = list.filter(c => matchQ(c.name + ' ' + c.t + ' ' + (c.sector || '')));
+  list = list.map(c => ({ c, vm: visibleMentions(c) })).filter(x => x.vm.length > 0);
+  const by = {
+    mentions: (a, b) => b.vm.length - a.vm.length || a.c.name.localeCompare(b.c.name),
+    recent: (a, b) => b.vm[b.vm.length - 1].date.localeCompare(a.vm[a.vm.length - 1].date),
+    best: (a, b) => (b.c.sinceFirstPct ?? -1e9) - (a.c.sinceFirstPct ?? -1e9),
+    worst: (a, b) => (a.c.sinceFirstPct ?? 1e9) - (b.c.sinceFirstPct ?? 1e9),
+    name: (a, b) => a.c.name.localeCompare(b.c.name),
+  }[state.sort];
+  return list.sort(by);
+}
+function sparkline(c, vm) {
+  const w = 240, h = 44, pad = 4;
+  const pts = c.spark || [];
+  const svg = d3.create('svg').attr('class', 'spark').attr('viewBox', `0 0 ${w} ${h}`).attr('preserveAspectRatio', 'none').attr('aria-hidden', 'true');
+  if (!pts.length) { svg.append('text').attr('x', 4).attr('y', 26).attr('font-size', 11).attr('fill', 'var(--muted)').text('No price data'); return svg.node(); }
+  const dates = pts.map(p => parseDate(p[0]));
+  const x = d3.scaleTime().domain(d3.extent(dates)).range([pad, w - pad]);
+  const y = d3.scaleLinear().domain(d3.extent(pts, p => p[1])).nice().range([h - pad, pad]);
+  const line = d3.line().x((p, i) => x(dates[i])).y(p => y(p[1])).curve(d3.curveMonotoneX);
+  const area = d3.area().x((p, i) => x(dates[i])).y0(h - pad).y1(p => y(p[1])).curve(d3.curveMonotoneX);
+  svg.append('path').attr('d', area(pts)).attr('fill', 'var(--s1)').attr('opacity', 0.1);
+  svg.append('path').attr('d', line(pts)).attr('fill', 'none').attr('stroke', 'var(--s1)').attr('stroke-width', 1.6).attr('vector-effect', 'non-scaling-stroke');
+  for (const m of vm) {
+    const d = parseDate(m.date);
+    if (d < dates[0] || d > dates[dates.length - 1]) continue;
+    const i = nearestIndex(dates, d);
+    svg.append('circle').attr('cx', x(dates[i])).attr('cy', y(pts[i][1])).attr('r', 2.6).attr('fill', 'var(--s2)').attr('stroke', 'var(--surface)').attr('stroke-width', 1.2);
+  }
+  return svg.node();
+}
+function renderCompanies() {
+  const grid = $('#companies'); grid.innerHTML = '';
+  const list = filteredCompanies();
+  $('#count').textContent = `${list.length} compan${list.length === 1 ? 'y' : 'ies'} · ${d3.sum(list, x => x.vm.length)} mentions`;
+  if (!list.length) { grid.innerHTML = '<div class="empty">No companies match. Try another search, sector, or a wider date range.</div>'; return; }
+  const frag = document.createDocumentFragment();
+  const PAGE = 60;
+  const showAll = state.showAll || state.q;
+  const slice = showAll ? list : list.slice(0, PAGE);
+  for (const { c, vm } of slice) {
+    const card = document.createElement('button'); card.className = 'card'; card.type = 'button';
+    card.setAttribute('aria-label', `${c.name}, ${vm.length} mentions. Open chart.`);
+    const head = document.createElement('div'); head.className = 'head';
+    head.appendChild(logoEl(c));
+    const txt = document.createElement('div'); txt.style.minWidth = '0';
+    const nm = document.createElement('div'); nm.className = 'name'; nm.textContent = c.name;
+    const meta = document.createElement('div'); meta.className = 'meta';
+    const tk = document.createElement('span'); tk.className = 'ticker'; tk.textContent = c.t; meta.appendChild(tk);
+    const sec = document.createElement('span'); sec.textContent = c.sector; meta.appendChild(sec);
+    if (c.etf) { const p = document.createElement('span'); p.className = 'pill etf'; p.textContent = 'ETF'; meta.appendChild(p); }
+    if (c.delisted) { const p = document.createElement('span'); p.className = 'pill delisted'; p.textContent = 'Delisted'; meta.appendChild(p); }
+    txt.append(nm, meta); head.appendChild(txt); card.appendChild(head);
+    const row = document.createElement('div'); row.className = 'row';
+    const mn = document.createElement('div'); mn.className = 'mentions'; mn.textContent = vm.length; const sm = document.createElement('small'); sm.textContent = vm.length === 1 ? 'episode' : 'episodes'; mn.appendChild(sm);
+    const ch = document.createElement('div'); ch.className = 'change';
+    if (c.sinceFirstPct != null) { ch.textContent = fmtPct(c.sinceFirstPct); ch.classList.add(c.sinceFirstPct >= 0 ? 'up' : 'down'); const s = document.createElement('small'); s.textContent = 'since first mention'; ch.appendChild(s); }
+    else { ch.textContent = '—'; const s = document.createElement('small'); s.textContent = 'no price data'; ch.appendChild(s); }
+    row.append(mn, ch); card.appendChild(row);
+    card.appendChild(sparkline(c, vm));
+    const more = document.createElement('div'); more.className = 'more';
+    const first = vm[0], last = vm[vm.length - 1];
+    more.innerHTML = `First <b></b> · Latest <b></b><br><span class="snip"></span>`;
+    const bs = more.querySelectorAll('b'); bs[0].textContent = fmtDate(parseDate(first.date)); bs[1].textContent = fmtDate(parseDate(last.date));
+    more.querySelector('.snip').textContent = '“' + (last.snippet || episodeById(last.ep)?.title || '') + '”';
+    card.appendChild(more);
+    card.addEventListener('click', () => openCompany(c.t));
+    frag.appendChild(card);
+  }
+  grid.appendChild(frag);
+  if (!showAll && list.length > PAGE) {
+    const more = document.createElement('button'); more.type = 'button'; more.className = 'iconbtn morebtn';
+    more.textContent = `Show all ${list.length} companies`;
+    more.addEventListener('click', () => { state.showAll = true; renderCompanies(); });
+    grid.appendChild(more);
+  }
+}
+
+// ---------- episodes timeline ----------
+function renderEpisodes() {
+  const el = $('#episodes'); el.innerHTML = '';
+  let eps = state.data.episodes.filter(e => inRange(e.date));
+  eps = eps.filter(e => matchQ(e.title + ' ' + e.description + ' ' + e.mentions.map(m => m.t + ' ' + (companyById(m.t)?.name || '')).join(' ')));
+  if (state.sector) eps = eps.filter(e => e.mentions.some(m => companyById(m.t)?.sector === state.sector));
+  eps = eps.slice().reverse();
+  $('#count').textContent = `${eps.length} episodes · ${d3.sum(eps, e => e.mentions.length)} company mentions`;
+  if (!eps.length) { el.innerHTML = '<div class="empty">No episodes match.</div>'; return; }
+  const frag = document.createDocumentFragment();
+  const PAGE = 40;
+  const showAllEps = state.showAllEps || state.q;
+  const epSlice = showAllEps ? eps : eps.slice(0, PAGE);
+  for (const e of epSlice) {
+    const card = document.createElement('article'); card.className = 'ep';
+    const dt = document.createElement('div'); dt.className = 'date';
+    const b = document.createElement('b'); b.textContent = fmtDate(parseDate(e.date)); dt.appendChild(b);
+    dt.appendChild(document.createTextNode(`#${e.n}` + (e.duration ? ` · ${Math.round(e.duration / 60)} min` : '')));
+    const body = document.createElement('div');
+    const t = document.createElement('p'); t.className = 't'; t.textContent = e.title;
+    const d = document.createElement('p'); d.className = 'd'; d.textContent = e.description;
+    body.append(t, d);
+    const chips = document.createElement('div'); chips.className = 'chips';
+    for (const m of e.mentions) {
+      const c = companyById(m.t); if (!c || (!state.etfs && c.etf)) continue;
+      const chip = document.createElement('button'); chip.className = 'chip'; chip.type = 'button';
+      chip.appendChild(logoEl(c)); chip.appendChild(document.createTextNode(c.name));
+      chip.title = `${c.name}${m.n > 1 ? ` · mentioned ${m.n} times` : ''}${m.times && m.times.length ? ` · first at ${fmtTime(m.times[0])}` : ''}`;
+      chip.addEventListener('click', () => openCompany(c.t, e.id));
+      chips.appendChild(chip);
+    }
+    if (!e.mentions.length) { const s = document.createElement('span'); s.className = 'count'; s.textContent = e.hasTranscript ? 'No public companies named in this episode' : 'No public companies named in the show notes'; chips.appendChild(s); }
+    body.appendChild(chips);
+    const actions = document.createElement('div'); actions.className = 'actions';
+    const more = document.createElement('button'); more.type = 'button'; more.textContent = 'Read more';
+    more.addEventListener('click', () => { card.classList.toggle('open'); more.textContent = card.classList.contains('open') ? 'Show less' : 'Read more'; });
+    actions.appendChild(more);
+    if (e.audio) { const a = document.createElement('a'); a.href = e.audio; a.target = '_blank'; a.rel = 'noopener'; a.textContent = 'Listen'; actions.appendChild(a); }
+    body.appendChild(actions);
+    card.append(dt, body); frag.appendChild(card);
+  }
+  el.appendChild(frag);
+  if (!showAllEps && eps.length > PAGE) {
+    const more = document.createElement('button'); more.type = 'button'; more.className = 'iconbtn morebtn';
+    more.textContent = `Show all ${eps.length} episodes`;
+    more.addEventListener('click', () => { state.showAllEps = true; renderEpisodes(); });
+    el.appendChild(more);
+  }
+}
+
+// ---------- table ----------
+function renderTable() {
+  const el = $('#table'); el.innerHTML = '';
+  const list = filteredCompanies();
+  $('#count').textContent = `${list.length} companies`;
+  const table = document.createElement('table');
+  table.innerHTML = '<thead><tr><th>Company</th><th>Ticker</th><th>Sector</th><th class="num">Mentions</th><th>First mention</th><th>Latest mention</th><th class="num">Since first mention</th><th class="num">Price data</th></tr></thead><tbody></tbody>';
+  const tb = table.querySelector('tbody');
+  for (const { c, vm } of list) {
+    const tr = document.createElement('tr');
+    const cells = [c.name, c.t, c.sector, vm.length, fmtDate(parseDate(vm[0].date)), fmtDate(parseDate(vm[vm.length - 1].date)),
+      c.sinceFirstPct == null ? '—' : fmtPct(c.sinceFirstPct), c.firstPrice ? `${c.firstPrice} → ${c.lastPrice}` : 'none'];
+    cells.forEach((v, i) => { const td = document.createElement('td'); td.textContent = v; if ([3, 6, 7].includes(i)) td.className = 'num'; if (i === 6 && c.sinceFirstPct != null) td.classList.add(c.sinceFirstPct >= 0 ? 'up' : 'down'); tr.appendChild(td); });
+    tr.addEventListener('click', () => openCompany(c.t));
+    tb.appendChild(tr);
+  }
+  el.appendChild(table);
+}
+function renderView() {
+  if (!state.data) return;
+  for (const v of ['companies', 'episodes', 'table']) $('#' + v).hidden = v !== state.view;
+  $('#sort').hidden = state.view === 'episodes';
+  if (state.view === 'companies') renderCompanies(); else if (state.view === 'episodes') renderEpisodes(); else renderTable();
+}
+
+// ---------- detail drawer & chart ----------
+const drawer = $('#drawer'), scrim = $('#scrim');
+function decodePrices(t) {
+  // Single-file build: prices are packed against a shared trading calendar.
+  const P = window.__PRICES__; const j = P && P.series && P.series[t]; if (!j) return null;
+  const cal = P.calendar;
+  const d = j.i ? j.i.map(k => cal[k]) : cal.slice(j.d0, j.d0 + j.n);
+  return { d, c: j.c || j.a, a: j.a, src: j.src, yf: j.yf };
+}
+async function loadPrices(c) {
+  if (!c.priceFile) return null;
+  if (state.priceCache.has(c.t)) return state.priceCache.get(c.t);
+  const j = window.__PRICES__ ? decodePrices(c.t) : await (await fetch(c.priceFile)).json();
+  if (!j) return null;
+  const series = { dates: j.d.map(parseDate), close: j.c, adj: j.a, src: j.src, yf: j.yf };
+  state.priceCache.set(c.t, series); return series;
+}
+async function loadBench() {
+  const b = state.data.benchmarks && state.data.benchmarks['^GSPC'];
+  if (!b) return null;
+  if (state.priceCache.has('^GSPC')) return state.priceCache.get('^GSPC');
+  const j = window.__PRICES__ ? decodePrices('^GSPC') : await (await fetch(b.priceFile)).json();
+  if (!j) return null;
+  const series = { dates: j.d.map(parseDate), adj: j.a };
+  state.priceCache.set('^GSPC', series); return series;
+}
+async function openCompany(t, focusEp) {
+  const c = companyById(t); if (!c) return;
+  state.open = t; state.focusEp = focusEp || null;
+  drawer.hidden = false; requestAnimationFrame(() => { drawer.classList.add('show'); scrim.classList.add('show'); });
+  document.body.style.overflow = 'hidden';
+  history.replaceState(null, '', '#' + encodeURIComponent(t));
+  await renderDetail(t);
+}
+function closeDrawer() {
+  drawer.classList.remove('show'); scrim.classList.remove('show'); document.body.style.overflow = '';
+  state.open = null; history.replaceState(null, '', location.pathname + location.search);
+  setTimeout(() => { if (!state.open) drawer.hidden = true; }, 300);
+}
+scrim.addEventListener('click', closeDrawer);
+document.addEventListener('keydown', e => { if (e.key === 'Escape' && state.open) closeDrawer(); });
+
+async function renderDetail(t, keepZoom) {
+  const c = companyById(t);
+  const prevZoom = keepZoom && drawer._zoomState ? drawer._zoomState : null;
+  drawer.innerHTML = '';
+  const head = document.createElement('div'); head.className = 'dhead';
+  head.appendChild(logoEl(c));
+  const hh = document.createElement('div'); hh.style.minWidth = '0';
+  const h2 = document.createElement('h2'); h2.id = 'dtitle'; h2.textContent = c.name;
+  const sub = document.createElement('div'); sub.className = 'sub';
+  const tk = document.createElement('span'); tk.className = 'ticker'; tk.textContent = c.t; sub.appendChild(tk);
+  const sc = document.createElement('span'); sc.textContent = c.sector; sub.appendChild(sc);
+  if (c.etf) { const p = document.createElement('span'); p.className = 'pill etf'; p.textContent = 'ETF'; sub.appendChild(p); }
+  if (c.delisted) { const p = document.createElement('span'); p.className = 'pill delisted'; p.textContent = `Delisted ${fmtDate(parseDate(c.delisted))}`; sub.appendChild(p); }
+  if (c.domain) { const a = document.createElement('a'); a.href = 'https://' + c.domain; a.target = '_blank'; a.rel = 'noopener'; a.textContent = c.domain; sub.appendChild(a); }
+  hh.append(h2, sub); head.appendChild(hh);
+  const close = document.createElement('button'); close.className = 'iconbtn close'; close.textContent = 'Close ✕'; close.addEventListener('click', closeDrawer); head.appendChild(close);
+  drawer.appendChild(head);
+
+  const kp = document.createElement('div'); kp.className = 'kpis'; drawer.appendChild(kp);
+  const cc = document.createElement('div'); cc.className = 'chartcard'; drawer.appendChild(cc);
+  const ml = document.createElement('div'); ml.className = 'mlist'; drawer.appendChild(ml);
+
+  const vm = c.mentions;
+  const series = await loadPrices(c).catch(() => null);
+  if (state.open !== t) return;
+  const bench = await loadBench().catch(() => null);
+
+  const kpis = [['Episodes mentioning', vm.length, `${fmtDate(parseDate(vm[0].date))} → ${fmtDate(parseDate(vm[vm.length - 1].date))}`]];
+  if (series) {
+    const last = series.adj[series.adj.length - 1];
+    kpis.push(['Latest close', fmtUSD(series.close[series.close.length - 1]), fmtDate(series.dates[series.dates.length - 1])]);
+    const i0 = nearestIndex(series.dates, parseDate(vm[0].date));
+    if (i0 < series.adj.length) kpis.push(['Since first mention', fmtPct((last / series.adj[i0] - 1) * 100), `from ${fmtUSD(series.adj[i0])} on ${fmtDate(series.dates[i0])}`]);
+    // average 30-trading-day reaction after a mention
+    const reacts = [];
+    for (const m of vm) { const d0 = parseDate(m.date); if (d0 < series.dates[0] || d0 > series.dates[series.dates.length - 1]) continue; const i = nearestIndex(series.dates, d0); if (i + 21 < series.adj.length) reacts.push(series.adj[i + 21] / series.adj[i] - 1); }
+    if (reacts.length) kpis.push(['Avg. move, next 30 days', fmtPct(d3.mean(reacts) * 100), `${reacts.length} mention${reacts.length > 1 ? 's' : ''} with 30 days of data after`]);
+    kpis.push(['Price source', series.src === 'yahoo' ? 'Yahoo Finance' : 'Stooq', `${series.yf} · adjusted close`]);
+  } else kpis.push(['Price history', 'Unavailable', c.delisted ? 'delisted before data window' : 'no data returned']);
+  for (const [l, v, h] of kpis) {
+    const d = document.createElement('div'); d.className = 'kpi';
+    d.innerHTML = '<div class="label"></div><div class="value"></div><div class="hint"></div>';
+    d.querySelector('.label').textContent = l; d.querySelector('.value').textContent = v; d.querySelector('.hint').textContent = h;
+    if (/^[+-]/.test(String(v)) && String(v).endsWith('%')) d.querySelector('.value').classList.add(String(v).startsWith('+') ? 'up' : 'down');
+    kp.appendChild(d);
+  }
+  if (series) buildChart(cc, c, series, bench, vm, prevZoom); else cc.innerHTML = '<div class="empty">No price history could be loaded for this ticker.</div>';
+  buildMentionList(ml, c, series, vm);
+  if (state.focusEp) { const row = ml.querySelector(`[data-ep="${state.focusEp}"]`); if (row) { row.classList.add('active'); row.scrollIntoView({ block: 'center' }); } }
+}
+
+function buildMentionList(ml, c, series, vm) {
+  const h3 = document.createElement('h3'); h3.textContent = `Every episode that mentions ${c.name}`; ml.appendChild(h3);
+  for (const m of vm.slice().reverse()) {
+    const e = episodeById(m.ep);
+    const row = document.createElement('div'); row.className = 'mrow'; row.dataset.ep = m.ep; row.tabIndex = 0;
+    const md = document.createElement('div'); md.className = 'md';
+    const b = document.createElement('b'); b.textContent = fmtDate(parseDate(m.date)); md.appendChild(b); md.appendChild(document.createTextNode(`Episode #${e?.n ?? ''}`));
+    const mid = document.createElement('div');
+    const mt = document.createElement('div'); mt.className = 'mt'; mt.textContent = e?.title || m.ep;
+    if (m.n > 1) { const k = document.createElement('span'); k.className = 'pill'; k.style.marginLeft = '8px'; k.textContent = `×${m.n} in this episode`; mt.appendChild(k); }
+    const ms = document.createElement('div'); ms.className = 'ms'; ms.textContent = m.snippet || '';
+    mid.append(mt, ms);
+    const links = document.createElement('div'); links.className = 'links';
+    if (e?.audio) { const a = document.createElement('a'); a.href = e.audio; a.target = '_blank'; a.rel = 'noopener'; a.textContent = 'Listen to episode'; links.appendChild(a); }
+    const src = document.createElement('span'); src.className = 'count'; src.textContent = 'found in ' + (m.src || []).join(', ');
+    links.appendChild(src); mid.appendChild(links);
+    timeChips(m, e, mid);
+    const mp = document.createElement('div'); mp.className = 'mp';
+    if (series) {
+      const md0 = parseDate(m.date);
+      const i = nearestIndex(series.dates, md0);
+      if (md0 < series.dates[0]) { mp.textContent = 'before listing'; }
+      else if (md0 > series.dates[series.dates.length - 1]) { mp.textContent = 'after last trading day'; }
+      else if (i < series.adj.length) {
+        const pb = document.createElement('b'); pb.textContent = fmtUSD(series.close[i]); mp.appendChild(pb);
+        mp.appendChild(document.createTextNode(`close ${fmtDate(series.dates[i])}`));
+        if (i + 21 < series.adj.length) { const r = (series.adj[i + 21] / series.adj[i] - 1) * 100; const s = document.createElement('div'); s.textContent = `${fmtPct(r)} next 30d`; s.className = r >= 0 ? 'up' : 'down'; mp.appendChild(s); }
+      }
+    }
+    row.append(md, mid, mp);
+    row.addEventListener('click', () => { ml.querySelectorAll('.mrow').forEach(r => r.classList.remove('active')); row.classList.add('active'); if (drawer._focusMention) drawer._focusMention(m.ep); });
+    ml.appendChild(row);
+  }
+}
+
+function buildChart(cc, c, series, bench, vm, prevZoom) {
+  cc.innerHTML = '';
+  const tools = document.createElement('div'); tools.className = 'charttools';
+  const seg = document.createElement('div'); seg.className = 'seg';
+  const modes = [['price', 'Price'], ['indexed', 'vs S&P 500 (indexed)']];
+  let mode = drawer._mode || 'price';
+  for (const [k, label] of modes) { const b = document.createElement('button'); b.type = 'button'; b.textContent = label; b.setAttribute('aria-pressed', String(k === mode)); b.dataset.mode = k; b.addEventListener('click', () => { mode = k; drawer._mode = k; seg.querySelectorAll('button').forEach(x => x.setAttribute('aria-pressed', String(x.dataset.mode === k))); draw(); }); seg.appendChild(b); }
+  if (!bench) seg.querySelector('[data-mode="indexed"]').disabled = true;
+  const reset = document.createElement('button'); reset.className = 'iconbtn'; reset.type = 'button'; reset.textContent = 'Reset zoom';
+  const legend = document.createElement('div'); legend.className = 'legend';
+  legend.innerHTML = '<span><i></i>Adj. close</span><span><i class="dot"></i>Mentioned on the show</span><span class="benchkey" hidden><i class="bench"></i>S&amp;P 500</span>';
+  tools.append(seg, reset, legend); cc.appendChild(tools);
+  const chart = document.createElement('div'); chart.className = 'chart'; cc.appendChild(chart);
+  const tip = document.createElement('div'); tip.className = 'tooltip'; chart.appendChild(tip);
+  const hint = document.createElement('div'); hint.className = 'hint'; hint.textContent = 'Scroll or pinch to zoom · drag to pan · drag the strip below to pick a window · double-click to reset'; cc.appendChild(hint);
+
+  const W = Math.max(320, chart.clientWidth || 800), H = 400, m = { top: 18, right: 22, bottom: 24, left: 56 }, ctxH = 56, gap = 26;
+  const iw = W - m.left - m.right, ih = H - m.top - m.bottom - ctxH - gap;
+  const svg = d3.select(chart).append('svg').attr('viewBox', `0 0 ${W} ${H}`).attr('width', W).attr('height', H).attr('role', 'img').attr('aria-label', `${c.name} adjusted close with episode mention markers`);
+  const defs = svg.append('defs');
+  defs.append('clipPath').attr('id', 'clip-' + c.t.replace(/[^a-z0-9]/gi, '')).append('rect').attr('width', iw).attr('height', ih);
+  const clipId = 'clip-' + c.t.replace(/[^a-z0-9]/gi, '');
+  const g = svg.append('g').attr('transform', `translate(${m.left},${m.top})`);
+  const ctxG = svg.append('g').attr('transform', `translate(${m.left},${m.top + ih + gap})`);
+
+  const dates = series.dates, adj = series.adj;
+  const x0 = d3.scaleTime().domain([dates[0], dates[dates.length - 1]]).range([0, iw]);
+  let x = x0.copy();
+  const y = d3.scaleLinear().range([ih, 0]);
+  const lastDate = dates[dates.length - 1];
+  const mentionIdx = vm.map(mm => { const d = parseDate(mm.date); const i = nearestIndex(dates, d); return { m: mm, i, d, onChart: d >= dates[0] && d <= lastDate }; });
+  const before = mentionIdx.filter(o => !o.onChart && o.d < dates[0]);
+  const after = mentionIdx.filter(o => !o.onChart && o.d > lastDate);
+  // benchmark aligned to dates
+  let benchAligned = null;
+  if (bench) { benchAligned = dates.map(d => { const i = nearestIndex(bench.dates, d); return bench.adj[Math.min(i, bench.adj.length - 1)]; }); }
+
+  const gridG = g.append('g').attr('class', 'grid');
+  const areaP = g.append('path').attr('clip-path', `url(#${clipId})`).attr('fill', 'var(--s1)').attr('opacity', 0.1);
+  const benchP = g.append('path').attr('clip-path', `url(#${clipId})`).attr('fill', 'none').attr('stroke', 'var(--bench)').attr('stroke-width', 1.5).attr('stroke-linejoin', 'round');
+  const lineP = g.append('path').attr('clip-path', `url(#${clipId})`).attr('fill', 'none').attr('stroke', 'var(--s1)').attr('stroke-width', 2).attr('stroke-linejoin', 'round').attr('stroke-linecap', 'round');
+  const overlay = g.append('rect').attr('width', iw).attr('height', ih).attr('fill', 'transparent').style('cursor', 'crosshair');
+  const rugG = g.append('g').attr('clip-path', `url(#${clipId})`);
+  const markG = g.append('g').attr('clip-path', `url(#${clipId})`);
+  const xAxisG = g.append('g').attr('transform', `translate(0,${ih})`);
+  const yAxisG = g.append('g');
+  const cross = g.insert('g', ':first-child').style('display', 'none');
+  cross.append('line').attr('y1', 0).attr('y2', ih).attr('stroke', 'var(--axis)').attr('stroke-width', 1);
+  const crossDot = cross.append('circle').attr('r', 4).attr('fill', 'var(--s1)').attr('stroke', 'var(--surface)').attr('stroke-width', 2);
+  const crossDotB = cross.append('circle').attr('r', 3.5).attr('fill', 'var(--bench)').attr('stroke', 'var(--surface)').attr('stroke-width', 2).style('display', 'none');
+  const endLabel = g.append('text').attr('font-size', 11).attr('fill', 'var(--ink-2)').attr('text-anchor', 'start').attr('dy', '0.35em');
+  const beforeNote = g.append('text').attr('x', 4).attr('y', 12).attr('font-size', 11).attr('fill', 'var(--muted)');
+  const notes = []; if (before.length) notes.push(`${before.length} mention${before.length > 1 ? 's' : ''} predate the listing`); if (after.length) notes.push(`${after.length} mention${after.length > 1 ? 's' : ''} came after the last trading day`); if (notes.length) beforeNote.text(notes.join(' · ') + ' (see list below)');
+
+  function valueAt(i) { return mode === 'indexed' ? (adj[i] / adj[visStart] * 100) : adj[i]; }
+  function benchAt(i) { return benchAligned ? benchAligned[i] / benchAligned[visStart] * 100 : null; }
+  let visStart = 0, visEnd = dates.length - 1;
+  const lineGen = d3.line().x((d, i) => x(dates[i])).y((d, i) => y(valueAt(i))).defined((d, i) => i >= visStart - 1 && i <= visEnd + 1);
+  const areaGen = d3.area().x((d, i) => x(dates[i])).y0(ih).y1((d, i) => y(valueAt(i))).defined((d, i) => i >= visStart - 1 && i <= visEnd + 1);
+  const benchGen = d3.line().x((d, i) => x(dates[i])).y((d, i) => y(benchAt(i))).defined((d, i) => i >= visStart - 1 && i <= visEnd + 1);
+
+  function draw() {
+    const [a, b] = x.domain();
+    visStart = Math.max(0, d3.bisector(d => d).left(dates, a) - 1);
+    visEnd = Math.min(dates.length - 1, d3.bisector(d => d).right(dates, b));
+    let lo = Infinity, hi = -Infinity;
+    for (let i = visStart; i <= visEnd; i++) { const v = valueAt(i); if (v < lo) lo = v; if (v > hi) hi = v; if (mode === 'indexed' && benchAligned) { const bv = benchAt(i); if (bv < lo) lo = bv; if (bv > hi) hi = bv; } }
+    if (!isFinite(lo)) { lo = 0; hi = 1; }
+    const padV = (hi - lo) * 0.08 || hi * 0.05 || 1;
+    y.domain([Math.max(0, lo - padV), hi + padV]).nice(6);
+    legend.querySelector('.benchkey').hidden = mode !== 'indexed';
+    benchP.style('display', mode === 'indexed' ? null : 'none');
+    areaP.attr('d', areaGen(adj)); lineP.attr('d', lineGen(adj)); if (mode === 'indexed') benchP.attr('d', benchGen(adj));
+    gridG.call(d3.axisLeft(y).ticks(6).tickSize(-iw).tickFormat(''));
+    gridG.selectAll('line').attr('stroke', 'var(--grid)'); gridG.select('.domain').remove();
+    xAxisG.call(d3.axisBottom(x).ticks(Math.max(3, Math.floor(iw / 110))).tickSizeOuter(0));
+    yAxisG.call(d3.axisLeft(y).ticks(6).tickFormat(v => mode === 'indexed' ? d3.format('.0f')(v) : fmtUSD(v)));
+    svg.selectAll('.tick text').attr('fill', 'var(--muted)').attr('font-size', 11).style('font-variant-numeric', 'tabular-nums');
+    svg.selectAll('.domain').attr('stroke', 'var(--axis)'); xAxisG.selectAll('.tick line').attr('stroke', 'var(--axis)'); yAxisG.selectAll('.tick line').remove();
+    // markers
+    const vis = mentionIdx.filter(o => o.onChart && o.i >= visStart && o.i <= visEnd);
+    const mk = markG.selectAll('g.mk').data(vis, o => o.m.ep);
+    const enter = mk.enter().append('g').attr('class', 'mk').style('cursor', 'pointer');
+    enter.append('circle').attr('class', 'hit').attr('r', 14).attr('fill', 'transparent');
+    enter.append('circle').attr('class', 'dot').attr('r', 5).attr('fill', 'var(--s2)').attr('stroke', 'var(--surface)').attr('stroke-width', 2);
+    enter.on('pointerenter', (ev, o) => showMentionTip(ev, o)).on('pointermove', (ev, o) => showMentionTip(ev, o)).on('pointerleave', hideTip)
+      .on('click', (ev, o) => { ev.stopPropagation(); drawer.querySelectorAll('.mrow').forEach(r => r.classList.toggle('active', r.dataset.ep === o.m.ep)); const row = drawer.querySelector(`.mrow[data-ep="${o.m.ep}"]`); if (row) row.scrollIntoView({ block: 'center', behavior: 'smooth' }); });
+    mk.merge(enter).attr('transform', o => `translate(${x(dates[o.i])},${y(valueAt(o.i))})`).classed('focus', o => o.m.ep === state.focusEp)
+      .select('.dot').attr('r', o => o.m.ep === state.focusEp ? 7 : 5);
+    mk.exit().remove();
+    const rug = rugG.selectAll('line').data(vis, o => o.m.ep);
+    rug.enter().append('line').attr('stroke', 'var(--s2)').attr('stroke-width', 2).attr('opacity', .8).merge(rug).attr('x1', o => x(dates[o.i])).attr('x2', o => x(dates[o.i])).attr('y1', ih - 8).attr('y2', ih);
+    rug.exit().remove();
+    // end label on the last visible point
+    const li = visEnd;
+    endLabel.attr('x', Math.min(x(dates[li]) + 6, iw - 40)).attr('y', y(valueAt(li))).text(mode === 'indexed' ? d3.format('.0f')(valueAt(li)) : fmtUSD(adj[li]));
+    drawContext();
+  }
+
+  // ----- context strip with brush -----
+  const cx = x0.copy(), cy = d3.scaleLinear().domain(d3.extent(adj)).range([ctxH, 0]);
+  ctxG.append('path').attr('d', d3.area().x((d, i) => cx(dates[i])).y0(ctxH).y1(d => cy(d))(adj)).attr('fill', 'var(--s1)').attr('opacity', .12);
+  ctxG.append('path').attr('d', d3.line().x((d, i) => cx(dates[i])).y(d => cy(d))(adj)).attr('fill', 'none').attr('stroke', 'var(--s1)').attr('stroke-width', 1.2);
+  ctxG.selectAll('line.m').data(mentionIdx.filter(o => o.onChart)).enter().append('line').attr('x1', o => cx(dates[o.i])).attr('x2', o => cx(dates[o.i])).attr('y1', 0).attr('y2', ctxH).attr('stroke', 'var(--s2)').attr('stroke-width', 1).attr('opacity', .6);
+  ctxG.append('g').attr('transform', `translate(0,${ctxH})`).call(d3.axisBottom(cx).ticks(Math.max(3, Math.floor(iw / 120))).tickSizeOuter(0)).call(gg => { gg.selectAll('text').attr('fill', 'var(--muted)').attr('font-size', 10); gg.select('.domain').attr('stroke', 'var(--axis)'); gg.selectAll('.tick line').attr('stroke', 'var(--axis)'); });
+  const brush = d3.brushX().extent([[0, 0], [iw, ctxH]]).on('brush end', brushed);
+  const brushG = ctxG.append('g').attr('class', 'brush').call(brush);
+  brushG.selectAll('.selection').attr('fill', 'var(--ink)').attr('fill-opacity', .08).attr('stroke', 'var(--ink-2)').attr('stroke-width', 1);
+  brushG.selectAll('.handle').attr('fill', 'var(--surface)').attr('stroke', 'var(--ink-2)');
+  let syncing = false;
+  function drawContext() { if (syncing) return; syncing = true; brushG.call(brush.move, x.domain().map(cx)); syncing = false; }
+  function brushed(ev) {
+    if (syncing || !ev.selection || (ev.sourceEvent && ev.sourceEvent.type === 'zoom')) return;
+    const [a, b] = ev.selection.map(cx.invert);
+    syncing = true;
+    const t = d3.zoomIdentity.scale(iw / (cx(b) - cx(a))).translate(-cx(a), 0);
+    svg.call(zoom.transform, t);
+    syncing = false;
+  }
+
+  // ----- zoom -----
+  const zoom = d3.zoom().scaleExtent([1, 400]).translateExtent([[0, 0], [iw, ih]]).extent([[0, 0], [iw, ih]])
+    .filter(ev => !ev.button && !(ev.type === 'wheel' && ev.ctrlKey === false && Math.abs(ev.deltaX) > Math.abs(ev.deltaY)))
+    .on('zoom', ev => { x = ev.transform.rescaleX(x0); drawer._zoomState = ev.transform; draw(); });
+  svg.call(zoom).on('dblclick.zoom', null);
+  overlay.on('dblclick', () => svg.transition().duration(350).call(zoom.transform, d3.zoomIdentity));
+  reset.addEventListener('click', () => svg.transition().duration(350).call(zoom.transform, d3.zoomIdentity));
+  overlay.on('pointermove', ev => { const [px] = d3.pointer(ev, g.node()); const d = x.invert(px); let i = d3.bisector(dd => dd).left(dates, d); if (i > 0 && (i >= dates.length || dates[i] - d > d - dates[i - 1])) i--; showCrosshair(ev, i); })
+    .on('pointerleave', () => { cross.style('display', 'none'); hideTip(); });
+
+  function placeTip(ev) {
+    const r = chart.getBoundingClientRect(); let left = ev.clientX - r.left + 14, top = ev.clientY - r.top + 14;
+    const tw = tip.offsetWidth || 220, th = tip.offsetHeight || 80;
+    if (left + tw > r.width - 8) left = ev.clientX - r.left - tw - 14; if (top + th > r.height - 8) top = ev.clientY - r.top - th - 14;
+    tip.style.left = Math.max(4, left) + 'px'; tip.style.top = Math.max(4, top) + 'px'; tip.classList.add('show');
+  }
+  function hideTip() { tip.classList.remove('show'); }
+  function showCrosshair(ev, i) {
+    if (i < 0 || i >= dates.length) return;
+    cross.style('display', null).attr('transform', `translate(${x(dates[i])},0)`);
+    crossDot.attr('cy', y(valueAt(i)));
+    if (mode === 'indexed' && benchAligned) crossDotB.style('display', null).attr('cy', y(benchAt(i))); else crossDotB.style('display', 'none');
+    tip.innerHTML = '';
+    const td = document.createElement('div'); td.className = 'tdate'; td.textContent = fmtDate(dates[i]); tip.appendChild(td);
+    const r1 = document.createElement('div'); r1.className = 'trow'; r1.innerHTML = '<i></i><b></b><span></span>';
+    r1.querySelector('b').textContent = mode === 'indexed' ? d3.format('.1f')(valueAt(i)) : fmtUSD(series.close[i]);
+    r1.querySelector('span').textContent = mode === 'indexed' ? `${c.t} indexed` : 'close' + (Math.abs(series.close[i] - adj[i]) > 0.005 ? ` · ${fmtUSD(adj[i])} adj.` : '');
+    tip.appendChild(r1);
+    if (mode === 'indexed' && benchAligned) { const r2 = document.createElement('div'); r2.className = 'trow'; r2.innerHTML = '<i class="bench"></i><b></b><span>S&amp;P 500 indexed</span>'; r2.querySelector('b').textContent = d3.format('.1f')(benchAt(i)); tip.appendChild(r2); }
+    const near = mentionIdx.filter(o => o.onChart && Math.abs(o.i - i) <= 1);
+    for (const o of near) appendMentionTip(o);
+    placeTip(ev);
+  }
+  function appendMentionTip(o) {
+    const e = episodeById(o.m.ep);
+    const t1 = document.createElement('div'); t1.className = 'ttitle'; t1.textContent = '● ' + (e?.title || o.m.ep); t1.style.color = 'var(--ink)';
+    const s = document.createElement('div'); s.className = 'tsnip'; s.textContent = (o.m.times && o.m.times.length ? `At ${fmtTime(o.m.times[0])}${o.m.times.length > 1 ? ` and ${o.m.times.length - 1} more time${o.m.times.length > 2 ? 's' : ''}` : ''}: ` : '') + (o.m.snippet || '');
+    tip.append(t1, s);
+    if (o.i + 21 < adj.length) { const r = (adj[o.i + 21] / adj[o.i] - 1) * 100; const n = document.createElement('div'); n.className = 'tnext'; n.innerHTML = 'Next 30 days: <b></b>'; const b = n.querySelector('b'); b.textContent = fmtPct(r); b.className = r >= 0 ? 'up' : 'down'; tip.appendChild(n); }
+  }
+  function showMentionTip(ev, o) {
+    tip.innerHTML = '';
+    const td = document.createElement('div'); td.className = 'tdate'; td.textContent = `Episode aired ${fmtDate(o.d)} · close ${fmtDate(dates[o.i])}`; tip.appendChild(td);
+    const r1 = document.createElement('div'); r1.className = 'trow'; r1.innerHTML = '<i class="dot"></i><b></b><span></span>';
+    r1.querySelector('b').textContent = fmtUSD(series.close[o.i]); r1.querySelector('span').textContent = 'close';
+    tip.appendChild(r1); appendMentionTip(o); placeTip(ev);
+  }
+  drawer._focusMention = ep => { state.focusEp = ep; const o = mentionIdx.find(oo => oo.m.ep === ep); if (!o || !o.onChart) { draw(); return; }
+    const span = Math.max(60, Math.round(dates.length * 0.12)); const a = dates[Math.max(0, o.i - span)], b = dates[Math.min(dates.length - 1, o.i + span)];
+    const t = d3.zoomIdentity.scale(iw / (x0(b) - x0(a))).translate(-x0(a), 0); svg.transition().duration(450).call(zoom.transform, t); };
+
+  if (prevZoom) svg.call(zoom.transform, prevZoom);
+  else if (state.focusEp) drawer._focusMention(state.focusEp);
+  else svg.call(zoom.transform, d3.zoomIdentity);
+  draw();
+}
+
+// ---------- wiring ----------
+$('#viewSeg').addEventListener('click', e => { const b = e.target.closest('button'); if (!b) return; state.view = b.dataset.view; $('#viewSeg').querySelectorAll('button').forEach(x => x.setAttribute('aria-pressed', String(x === b))); renderView(); });
+$('#rangeSeg').addEventListener('click', e => { const b = e.target.closest('button'); if (!b) return; state.range = b.dataset.range; $('#rangeSeg').querySelectorAll('button').forEach(x => x.setAttribute('aria-pressed', String(x === b))); renderView(); });
+$('#sector').addEventListener('change', e => { state.sector = e.target.value; renderView(); });
+$('#sort').addEventListener('change', e => { state.sort = e.target.value; renderView(); });
+$('#etfs').addEventListener('change', e => { state.etfs = e.target.checked; renderView(); });
+let qTimer; $('#q').addEventListener('input', e => { clearTimeout(qTimer); qTimer = setTimeout(() => { state.q = e.target.value.trim().toLowerCase(); renderView(); }, 120); });
+
+async function init() {
+  const data = window.__APP__ || await (await fetch('data/app.json')).json();
+  // derived: change since first mention using the weekly sparkline (exact figure is computed in the drawer)
+  for (const c of data.companies) {
+    c.sinceFirstPct = null;
+    if (c.spark && c.spark.length > 1 && c.mentions.length) {
+      const dates = c.spark.map(p => parseDate(p[0])); const first = parseDate(c.mentions[0].date);
+      if (first <= dates[dates.length - 1]) { const i = nearestIndex(dates, first); const v0 = c.spark[i][1], v1 = c.spark[c.spark.length - 1][1]; if (v0) c.sinceFirstPct = (v1 / v0 - 1) * 100; }
+    }
+  }
+  state.data = data;
+  const sectors = Array.from(new Set(data.companies.map(c => c.sector))).sort();
+  for (const s of sectors) { const o = document.createElement('option'); o.value = s; o.textContent = s; $('#sector').appendChild(o); }
+  renderStats(); renderView();
+  const f = $('#foot');
+  f.innerHTML = `Data: episode titles and show notes from the show's public RSS feed${data.meta.episodesWithTranscript ? `, plus full transcripts of ${data.meta.episodesWithTranscript} episodes generated from the audio with Whisper (timestamps link into the audio)` : ''}; company mentions found by dictionary matching (see <code>pipeline/companies.py</code>); adjusted daily closes from Yahoo Finance with Stooq as a fallback; logos from company sites and the nvstly/icons project. Rebuilt automatically every Monday by GitHub Actions. Last build: <span></span>. Not investment advice.`;
+  f.querySelector('span').textContent = data.meta.generatedAt ? fmtDate(new Date(data.meta.generatedAt)) : '—';
+  const hash = decodeURIComponent(location.hash.slice(1));
+  if (hash && companyById(hash)) openCompany(hash);
+  window.addEventListener('hashchange', () => { const h = decodeURIComponent(location.hash.slice(1)); if (h && companyById(h) && state.open !== h) openCompany(h); });
+}
+init().catch(err => { $('#companies').innerHTML = `<div class="empty">Could not load data: ${err.message}</div>`; });
+})();
+</script>
+</body>
+</html>

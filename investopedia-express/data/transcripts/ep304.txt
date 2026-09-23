@@ -1,0 +1,801 @@
+On the Express this week, semi-stocks get slapped.
+Was that a love tap or just a bear hug?
+Ron and Sana drops in with some truth sauce.
+Day traders have found their new hype toy handle with care
+and trillions of dollars of stock is about to flood the market.
+Get a snorkel, grab a mask, breathe deep into your chest.
+We are 40,000 Leagues Deep on the Investopedia Express.
+Welcome back and welcome aboard.
+Happy Monday, live and direct from Battery Park, New York City, the Investopedia Express,
+live every Monday at 10 a.m. and streaming on all your favorite podcast channels on demand.
+Welcome to all Investopedia listeners, followers, and readers all over the world.
+Jump in on the conversation.
+We'd love to have you.
+It is Monday, and markets are bouncing back after a pretty brutal sell-off last Friday
+that really shook the semi-sector, the tech sector in general, big, big drops in the
+NASDAQ 1100 points plus the biggest drop in the NASDAQ were single day point loss in the
+history of the NASDAQ.
+But big numbers mean when the stock market falls like that, when the market falls, you're
+going to get big losses.
+And the biggest stocks, they got slacked, especially the semiconductor stocks.
+And that was really based on a tepid to kind of weakish earnings forecast from Broadcom
+in the middle of last week and doubts about demand.
+That shook the semicector, which had rallied 70% plus in May and April.
+So when you get big rallies like that, that's not normal either.
+So an 80% run for Micron, not normal.
+A 50% run plus for AMD, not normal.
+These stocks were way ahead of themselves.
+And as these stocks get bigger, overstretching their valuations, something's got to give.
+It's kind of like a stretched hamstring, although we don't want to see those in the
+playoffs right now.
+But as the great Jimmy Cliff would sing,
+the harder they come, the harder they fall.
+And these big stocks, especially stocks like Micron,
+hitting a trillion dollars in market cap,
+really just over the past few months,
+they're gonna fall when their sell-off happens.
+That's exactly what you're gonna feel.
+Pretty steep sell-off in those stocks,
+but it also, that sell-off last week,
+hit some of the hottest stock markets in the world.
+And we were talking about them on last week's show.
+We were talking about bull markets
+in places like South Korea.
+Well, South Korea, home to a lot
+of big semiconductor companies,
+and the stock market in South Korea,
+The KOSPI there is basically a bunch of big semiconductor companies.
+So those got slapped and that stock market's still falling today.
+The KOSPI falling 14% Friday and another 8% today.
+Taiwan's weighted index down 7% Friday, another 2% today.
+And the NASDAQ 100 here in the US fell 5% Friday, but bouncing back this morning, chip
+stocks leading the rally back.
+So we swing too far in either direction, but just like the rain though, sometimes we
+needed and the market was overheated, overbought potentially, definitely, absolutely, especially
+in the semiconductor sector and investors, maybe we were a little too overconfident.
+Look no further than the options market.
+I like to look at the data from the CBOE and the retail bullish positioning just over
+the past couple of months was near record highs, just people getting way, way over
+their skis in terms of the enthusiasm around these stocks continuing to outperform a lot
+of call options, especially in the tech sector.
+And there you see it there when you see an options market that looks that red hot with
+so many investors, so many traders betting on these stocks continuing to rise.
+You know that is going to happen.
+And the market has a way of making us slow our flow.
+And speaking of flows, those flows are continuing to flow out of Bitcoin.
+They had a little relief rally going on this morning as the stock market bounces back a
+little bit more, but prices cracked the $60,000 level for Bitcoin last week.
+last Friday, lows we haven't seen since October of 2024, when risk is off the menu, and the
+risk for crypto assets, especially Bitcoin, that is way off the menu, not even being served
+in most restaurants.
+And there's a lot going on here.
+There's the fact that it's a risk off environment or was last week, and certainly for Bitcoin
+over the last several weeks.
+And also this legislation, the Clarity Act is kind of stalled right now in Congress.
+And I don't know if that's going to get passed.
+And even if it does, we've had a lot of hype and a lot of product coming at us around Bitcoin
+and spot Bitcoin ETFs.
+There's so many choices out there for investors and investors have definitely been making
+choices in terms of where they want to trade or invest in their crypto assets.
+And we've seen a lot of money flow out of those Bitcoin ETFs and in traders, especially
+the crypto day traders, they found a bunch of new true toys to play with.
+We'll talk about those later on in the show, things like prediction markets and perpetual
+futures.
+to get into that. But let's dig into this sudden sentiment shift in the markets a little bit deeper
+with someone who's been studying them for several decades and he has taught me more than he probably
+knows about how to understand the markets. Good morning from Canada my friends. Welcome to All
+Invested PDX. Ron and Sana, the legendary business journalist, former anchor and now contributor
+to CNBC and host of the Market Score Forward Report and the message of the Market Substack,
+terrific sub-stack there. Ron and Sana joins us now on the drop-in. Ron, good to see you, my friend.
+Thanks so much for joining the Express. I've been a fan of yours for so many years, and you and I
+have crossed paths but never really had a chance to sit together. So this is great. That's true,
+that's true. Thanks, and thanks for that very generous introduction. I'm also working with
+MS now these days, and so people can find me there if they're so inclined, but lots to talk
+about. I mean, this is a market that, you know, after doing this for 42 years, I can't even begin
+to explain. Yeah, maybe you live in interesting times and you have seen some interesting markets.
+I learned a lot through you through the internet bubble and the dot-com crash and through the great
+financial crisis and all your great work on CNBC. And since then you do great stuff too
+with our good buddy Ali Velshi. You and I are very sponsored with Velshi's go sometimes on MS now.
+So shout out to our good buddy Ali. So is this how this bull market ends? You put out some great
+posts. I've been binging on your Instagram all weekend. Folks, fine Ron on the gram. He puts
+out some really good stuff. But is this how it ends or is this one of those hiccups on
+a secular bull market that happened and we need these pullbacks and these slight corrections?
+Yeah, I mean, I think for the moment and you know, markets just come off its highs, you
+know, the NASDAQ was up 500 points, it's up about 250 now. And S&P and the Dow are
+pulling back from their highs as well. I, you know, corrections as I understand them
+are short, sharp and scary. And that was certainly, you know, the definitive word
+down or description on Friday. I don't know if the bull market ends this way. I don't know if it's
+you know usually doesn't end with just a single day right. I mean it's a process that takes place
+where you get a wide variety of you know both technical and fundamental divergences. You get
+some things happening you know excess speculation which we're obviously beginning to see. And then
+something like an interest rate hike or some external event like the Asian currency crisis
+or Russia's debt default, the collapse of long-term capital, something like that happens.
+And that sends the market reeling.
+You mentioned South Korea.
+I've also been keeping a very close eye on that.
+You know, it was down almost 9% last night, and the market shrugged it off.
+It led the sell-off into Friday, and it continued again today, as it did in Taiwan and as it
+did in Japan.
+But here at home, now that hostilities have ceased for the moment between Iran and
+Israel, it looks like things have calmed down.
+I don't know that it's over, but I would say,
+I think comfortably we're nearer a top than we are a bottom.
+Yeah, and the kind of rally we've been on,
+especially in the tech sector,
+is kind of, I wouldn't say unprecedented.
+We have seen periods like this in history,
+and you've reported on them in the past
+and studied them, written about them
+in several books in the past.
+But what is this to remind you of, if anything?
+I've been thinking about and reading stuff
+from great investors like Omeleak
+about the circular spending that's going on here,
+evaluations that don't necessarily match up to the clarity of where the revenue is coming
+from.
+But what does this remind you of given all the great work you've done in your career?
+I think it's a combination of things.
+I mean, it doesn't have to end the same way as the examples I'm about to give.
+But the circular financing is somewhat reminiscent of trust investing in 1929.
+The parabolic moves that we saw in 1987 and 1999.
+And in each of those cases, you did have, obviously, either a major event that turned
+into an economic event, or in the case of 87, you had a crash that resolved itself over
+the course of a couple of years. And that was a Wall Street event and not a Main Street
+event. So I think there are a lot of elements here of different types of environments.
+98 comes to mind to a certain extent when we had long term capital fail, Russia defaulted
+on its external debt, devalued its currency. And we had a moment that really rocked the
+stock market, forced the Fed to ease, and then we took off for another year and a
+So I'm not quite sure which market that is a direct parallel to this, because it's funny when you look at valuations relative to let's say 1999 when Cisco was selling it 150 times earnings.
+That's not true with Nvidia. It's not true with Intel. It's not true with Micron. They're selling it reasonable multiples.
+But the behavior of the stocks is much more reminiscent of what we saw in 1990s parabolic moves that you mentioned earlier, you know, that just are unsustainable.
+sustainable and what was it semiconductors were up 42% in four weeks
+You know
+We don't see that type of thing too often and and it usually is a bit of a danger sign that at least at the very least
+The 10 to 15 percent correction is in the cards, you know somewhere in the near future
+Yeah, but what is it about that? What that's making these moves much faster?
+Is that the is it algo trading?
+Is it the fact that there are more retailer traders in the market more ways to access the market more ways to play?
+derivatives of the market. I just talked about, you know, the
+call options, you know, there's there's poly market. Now there's
+all different ways that you can bet hedge fine arb in the
+markets. Is that what's making these parabolic moves? So quick
+these days, both to the upside and the downside?
+Yes, yes, yes. And yes, you know, it's, it's, it's, it is
+definitely an all of the above answer. I mean, the call
+volume that you mentioned, I think options trading in dollar
+terms hit $2.6 trillion last week, 70% of that was call
+buying. So and you see retail flows into ETFs, you see retail coming back into technology, as soon as there's a dip,
+and not to condescend to anybody who's an individual investor, but retail is usually a little later to the party. And
+this may be an issue with SpaceX, which we can talk about. You know, that, to me, looks a bit like an exit strategy
+and not an IPO for early investors. And you know, when you look at the rule changes that have, you know, come with
+this listing for SpaceX, you know, retailers, retail investors could end up just buying
+the top, at least for a period of time, because we're going to walk into that as others are
+selling the lockup periods have changed, you can get insiders selling it, you know, three
+months and six months. And so I worry about these moves. And I think it's definitely
+all the above, you have different, you know, mechanisms by which people can enter the
+market, like you say, with the prediction markets with, you know, ETFs, there are
+There are now more ETFs than there are stocks traded in the United States.
+And then on top of that, you know, you've got algorithmic trading that like computerized
+trading in the 1980s tends to exacerbate moves and increase volatility.
+And in times of stress, unlike what the professionals tell you, it also decreases liquidity.
+So you get these much bigger moves that are, you know, disproportionate to what's normal
+on a daily basis.
+Yeah, we have a lot of stock about to flood the market.
+We're going to talk about that a little bit later in the show.
+Where is all this going to go?
+If investors want all these new hot shiny IPOs, we have to sell something in order to buy
+them.
+So supply definitely has a way of impacting things.
+So I want to talk about a few different things.
+And I want your take on whether or not they're a big deal or no deal at all, or if they
+really matter.
+But let's talk about the fact that maybe we went into this year investors thinking
+we're probably going to get lower interest rates.
+We knew Powell was probably on his way out.
+We didn't know it was going to be washed, but we knew it would be potentially a more
+dovish Fed, and that interest rates might be headed lower.
+But there's been all these different things that have happened, whether it was tariffs
+or now the war on Iran.
+And now if you look, and I know you do at the CME FedWatch tool, you're looking at
+the prospect for higher interest rates at the end of the year.
+Does that matter as much as it used to?
+Does interest rates matter to investors as much as it used to?
+Or is it really the yield on the tenure and other factors that actually make a difference
+today?
+Well, I think they're linked.
+I think ultimately it does matter.
+I mean, if you were to see the Fed raise rates
+on a consistent basis going forward,
+right now the market's pricing in one hike in October,
+but BMP Paribas is looking for three hikes
+starting in December.
+If you were to see a sustained change in Fed policy,
+I think interest rates still matter,
+and I think the tenure would probably go up,
+and that could certainly affect market sentiment.
+The cost of money is important,
+And historically, money is still relatively cheap
+and liquidity is certainly still abundant.
+And so if the Fed were under Kevin Worch
+to do what he has suggested,
+which is to shrink the size of the Fed's balance sheet,
+reduce that available liquidity,
+number one, you could have a problem in the banking system
+that would be somewhat disruptive
+and two, if he's raising rates at the same time,
+you could get a liquidity drain.
+Something we saw in 1999,
+a lot of people don't remember this,
+but the Fed was easing into,
+to a certain extent, Y2K, right?
+There were all these concerns about systems failing.
+And so the Fed was a little bit easier
+than we thought they printed $50 billion in actual cash
+to distribute to banks in case things went wrong.
+And I wrote a piece on the very last day of 1999 for CNBC,
+when that liquidity drain was gonna come
+after Y2K passed, I was saying, look,
+you're gonna get a correction of some magnitude 20%.
+It turned out to be the top in the market for a long time.
+But when you notice those things and the possibility
+of the Fed getting tighter rather than easier
+and then draining liquidity, that becomes problematic
+for the market.
+I think it's something that there is watching.
+It may not happen next week at the Fed.
+You have a lot of Federal Reserve officials
+who are disinclined to even talk
+about lowering interest rates.
+So there's a real change in tone
+on the policy setting board at the Fed,
+what Kevin Warsh wants to do, like he's one voice of 12
+And Jay Powell is still a governor.
+So you have the former Fed chair sitting there as well,
+who may be a persuasive voice in deterring
+any moves to lower interest rates.
+So I think it's something
+that really should be watched quite closely.
+I don't think it's something that we could ignore.
+And if you thought the drama was over
+at the Federal Reserve, it's really just the beginning.
+Just the beginning of the second act here.
+This is about to get really interesting.
+All right, the US government potentially taking a stake
+in AI companies.
+We know the US government has been taking stakes basically and abetting our biggest
+tech companies.
+And we know the president's been traveling with tech CEOs everywhere, but potentially
+taking a stake in AI companies.
+This is a good or bad idea.
+And will this eventually result in the next government bailout?
+Yeah, I mean, if it's not already, right?
+I mean, if people are really worried about the availability of capital to continue to
+build out of AI infrastructure, this might be part of that.
+And that might be what kind of a backstop that's already being built in.
+But look, I mean, if we're going to the Chinese model of state-owned enterprises,
+I mean, it certainly flies in the face of everything we're accustomed to, where,
+you know, in free market capitalism, you put your private money on the line, and if it works,
+it works. If it doesn't, it doesn't. And that's the way this game is played. And so,
+Donald Trump is bending the rules here with respect to how, you know, governments act during
+periods that aren't stressful. I mean, you can go back to Chrysler getting bailed out or companies
+getting bailed out during the great financial crisis. That's a different story, but taking
+stakes in public companies during a period that's not in crisis and maybe creating an
+artificial backstop up front is a little concerning to me. I mean, I don't think the government
+should be in that game. And listen, the private capital is betting on this to be the next
+big thing. And they're either going to be right or they're going to be wrong or somewhere
+in between. I mean, we know, look, the promise of the internet was fulfilled. And David
+favor brought this up in 1999 on CNBC. The question is, what's the terminal value of
+the stocks? Right. So have the stocks already priced in all these future gains that we're
+going to get from artificial intelligence? And if so, is the government coming in at
+the top, which would be problematic for them since they're already running $2 trillion
+deficits and have $40 trillion in debt? Yeah, great question. And the thing that I've been
+worried about, and I think other people have been worried about is how real is all of
+this spending. We've heard enormous pledges and we've seen a lot of CapEx spending for
+sure and pledges of more CapEx spending, but there's a lot of spending going on between
+all of these companies, both public and private. And when you look at this runway of upcoming
+IPOs with Anthropic and OpenAI and even SpaceX and Databricks of the world, and that's some
+people are pointing out the fact that they're promising and spending amongst each other.
+But what's real revenue and what's not real revenue? So are we getting to that? Jerry
+Mcguire show me the money moment with these companies, especially as they're about to
+go public wrong.
+Yeah, you know, I'm not I'm not a huge fan of Michael Burries, but he has pointed out
+that the accounting, you know, in some of these transactions is fuzzy math at best.
+And on the one hand, you have one company saying, OK, we're going to buy a couple hundred
+billion dollars worth of compute from Nvidia.
+And then Nvidia turns around and spends money back to them.
+So it's the same dollars changing hands, you know, going both ways.
+And that that that really should be zeroed out.
+not revenue if on the one hand you're spending it and you're just getting it back and then
+booking it as revenue. That's an accounting trick. We saw that with, certainly saw that
+in Japan when you had the kuretsu in the 1980s where Mitsubishi Bank owned Mitsubishi Heavy
+Industries owned a piece of Mitsubishi Automotive and so on and so forth. They would be circular
+investments, investment trusts, and we saw this in the 1920s as well. And leverage on
+the upside works really well. On the downside, it's vicious, right? I mean, you take the
+escalator up and you take the elevator down. And that's something that I think, you know,
+analysts haven't been as explicit about as they should be on the sell side, because
+they really have to track whether or not this money is real. The CapEx is real. I
+mean, we're seeing data centers being built. We're seeing, you know, chips being purchased,
+software being bought, all of that stuff is happening.
+It's supposed to be in the neighborhood of $700 billion this year, maybe a trillion dollars
+next year.
+But there's also been some concerning factors that some of the data centers are being slowed
+down with respect to the construction.
+Some are being canceled.
+And so if you don't have the computing power to make good on the promise of AI, and there's
+some interruption in the process, that's when you really run into a wall with respect
+to how the stocks will behave going forward.
+Yeah.
+And it just takes one of these companies to say they're having a problem and you
+And it's a big policy.
+Yeah, you know, if it's one of the biggies, you know, whoever
+did and the other things that's strange to and again, my
+colleague David Faber brought this up recently, you know,
+Google borrow, you know, took out $80 billion in an equity
+sale last week. What do they need the money for? I mean,
+they're printing cash left and right. And all of a sudden, they
+go to the public market, raise $80 billion, purchase your
+Hathaway puts in 10. And you're saying, okay, why do
+you need to tap the equity markets if your cash flowing,
+you know, is so great, when you look at Amazon, they're
+about to go into negative cash flow for the first time in their history funding some of
+this build out. And that's, you know, when free cash flow is gone, you know, that's what
+a lot of these companies are valued on. And so that it raises some questions about the
+sustainability of not just the stock market behavior, but of the build out process is
+taking place right now.
+And it adds more equity to the market. Yeah, I look like that are already pretty heavily
+on. Yeah. So the back to these IPOs for a quick sec here, the these exchanges,
+Nasdaq and the Nicely, they're bending over backwards to allow these companies to list
+or shortening lockup periods in some cases, but you know, re-examining their rules for
+inclusion and indexes.
+I get it.
+There's a lot of demand for these IPOs.
+But is this good or bad for investors at the end of the day?
+I know we want access to these, but investors can already access these companies.
+But now you're seeing a lot of flexibility with rules that we thought were ironclad.
+Good or bad?
+I'm going to talk about this on my Instagram reels today,
+with respect to brokerage houses,
+lowering the minimums for individual investors
+to buy into this IPO,
+the changes in when SpaceX will be included
+into the NASDAQ 100,
+and moving that from a minimum of 90 days
+down to five or 15,
+and S&P is not doing it, right?
+I mean, S&P is saying,
+no, you've got to be seasoned.
+You have to be out there for a year.
+You have to show some move towards profitability.
+We're not just going to toss you in the index,
+But having said that, once it's included in an index,
+you have the ETFs that have to buy it,
+the index managers have to buy it.
+And that's, to a certain extent, that
+is a preemptive pressure that will put upside,
+it will increase demand for the stock.
+And so retail could top tick this on day one,
+because the index managers, the ETF managers,
+have to buy it right away.
+And then it depends on what price you get in at.
+It's a hard IPO price of 135, but where it opens
+is going to be a big deal.
+Now, it's a very different company
+than the one I'm about to talk about,
+but I worry about an environment like this.
+This was true with Meta as well.
+But if you go back to the height of the internet bubble,
+there was a company called the Globe.com.
+Nobody knew what it did, right?
+Which is very different from SpaceX.
+Very, very different.
+But it was up 640% in its first day.
+Everybody bought it, right?
+And then it subsequently crashed,
+and people sued their brokerage firms.
+Retail investors sued their brokerage firms
+because of suitability issues.
+And they bought this thing at the top
+and it never saw its opening price again.
+I don't necessarily think that's the case with SpaceX,
+but if you look at Meta or some of these other companies
+that have huge pops when they came public, Alibaba, Meta,
+the CIO at Truis pointed out that a year after
+that intraday high, on average those stocks were down 55%.
+So you gotta be really careful here
+And I think, you know, when you're changing the rules of the game, just to accommodate
+one IPO and the exit for early investors, quite frankly, you know, retail should be at least
+cautious.
+I mean, if you've got a $2,000 account, which is now the minimum that's been that's allowable
+for individual investors to buy an IPO and you could put $1,000 or 50% of that money
+into it.
+You know, that's that's half the assets that you have in the account.
+I mean, I know I wouldn't certainly wouldn't recommend that.
+I might be wrong, stock might trade up forever.
+We might get to Mars in five years, I don't know.
+But I'm feeling a little bit cautious about this one.
+Yeah, well, $24 trillion total addressable market.
+Yeah, pretty much.
+Yeah, whatever, the moon's beyond the moon
+and back, quick ones for you here.
+Prediction markets in the stock markets,
+how does this end ultimately?
+I don't know, look, I have fairly strong feelings
+about a couple of things that have taken place
+in the last few years, legalization of marijuana,
+prediction markets, and then more generically speaking,
+gambling from your phone.
+I think these might be three of the biggest mistakes
+we're making, particularly as they pertain to younger people
+who now have gamified or who have seen everything gamified.
+And you can get what you want whenever you want
+sitting in your chair.
+And it's an addictive process.
+I mean, the dopamine hit that everybody gets
+from having that instant gratification sometimes,
+or instant losses, which could be more troublesome.
+I think is a little bit disturbing
+from a behavioral perspective.
+And it's also may very well have
+social consequences down the road.
+So I'm nervous about it.
+There are some aspects of prediction markets
+that are interesting because they may reflect information
+that could be useful even the Federal Reserve
+has admitted that.
+But when you can gamble on everything
+from anywhere at any time,
+I think you're setting up an environment that will lead to, you know,
+further speculative fever in the financial markets. And that's usually,
+again, you know, an event that takes place or closer to a top than a bottom.
+Yeah. Private capital in our portfolio.
+Good idea or a bad idea in terms of our 401k suitability is a really big issue
+here. And so when you're seeing these publicly traded, you know,
+business development corporations that have, you know, quarterly liquidity,
+If you're an older investor and you need to pull money from a private credit instrument,
+but you can't because you can only take out 5% every quarter, it's a problem.
+So I think it really has to be, you know, and should have been delivered to individuals who have a long-term time horizon,
+who don't need the money every quarter.
+And I do think the problem in private equity, and there will be private credit, pardon me,
+and there's been a problem in private equity for a while now, the returns are subpar.
+But I think in private credit, that market's getting saturated.
+It's a nearly $2 trillion market.
+They're raising another couple trillion
+for new investments.
+And it's not going to all be AAA, senior secured debt.
+There's going to be some lousy debt in there
+that blows up at some point.
+We've already seen that happen a couple of times.
+And you're seeing some of the big names
+start to sell off some of their private credit ownership
+stakes.
+And that, to me, is a little bit disturbing.
+It's right now, because of what's happening with SpaceX,
+because of what's happening with tech,
+it suddenly kind of slipped below the radar.
+But I do think there are some problems
+bubbling beneath the surface that,
+again, like we've seen in prior cycles,
+are signs of speculative excess
+that lead to problems down the road.
+Or as Jamie Dimon calls them, cockroaches.
+Yeah.
+Let's go out on this, Ron.
+I've, again, learned so much from you over the years
+as a journalist and now following you
+and all the good work you're putting out there
+on the Instagram and on your podcast and your sub stack.
+What is Ron Insana's favorite investing term and why?
+That's interesting.
+Panic is not a strategy.
+So I think on the one hand,
+and I was on MS Now last night with my friends
+on the weekend and they're all younger than I am.
+And Antonio Hilton and Amen and a few others,
+they're saying, what do we do with our 401k?
+If you're in your 30s and your 40s,
+You don't do anything.
+You just keep doing what you've been doing,
+and you put money to work, you know,
+and average, you know, dollar cost average,
+and all that kind of stuff.
+And we've seen over time that, you know,
+10, 15, 20 years down the road,
+the market's higher than it was in prior periods.
+In fact, there's, you know, indications
+if you've bought every top in your lifetime,
+you're still up, you know, rather considerably.
+I mean, I go back to the day I was born,
+the Dow was at 660.
+It's at 50,000 now, you know.
+So I think on the one hand,
+Yes, I get cautious about short-term moves in the market.
+I get concerned about fair market realities,
+the risks of crashes and things like that
+that can for older investors be quite destabilizing.
+But panicking when you see a downdraft
+like we saw on Friday and you're a younger investor
+with time till retirement is something that is,
+I think, counterproductive.
+And if I were ever to write a book
+about investing for young people,
+it would be three pages long by the S&P,
+by the NASDAQ and by an international ETF.
+And the rest, the other 211 pages
+will be pictures of my family on vacation.
+I mean, I think that you just have to remember that,
+with the exception of 1929 to 1954,
+where the Dow did not see its high again until then,
+there's been no 10, 20 or 30 year period
+in which stocks were higher.
+So don't panic, be patient,
+unless you really need the money,
+in which case you raise cash
+in environments like this.
+Yeah.
+And the rest of the time, do what Buffett says.
+Stand there and do nothing.
+Exactly.
+Just make sure you're allocated.
+Ron Insana, a legendary business journalist, host of the Market Scoreboard Report and
+the message of the market sub-stack.
+Follow Ron and his great work on Instagram.
+I love the reels you're putting out there and thanks so much.
+Thanks, guys.
+I appreciate that.
+Thanks for joining the Express.
+Thank you.
+All right.
+So good to have Ron on the show.
+Again, his stuff is great.
+If you want to get really clear insights on what's happening in the markets,
+bring them on a daily basis.
+Check out Ron's feed on Instagram and also his terrific sub stack there.
+Good day from South Africa.
+Always a great space there.
+Good to see you there.
+Salim Aleichem, good to see you, my friend.
+Thanks for joining us from Indonesia, from all over the world.
+Good morning from Tampa, Hard Rock.
+Things are very volatile over here, and they're only going to get more volatile.
+Good day from Korea.
+I'm Saham
+the Daf for joining the Investa
+PDA Express and from Singapore
+come on in.
+Look at you Investa PDAX all
+over the world.
+The smartest investors in the
+world.
+All hours of the day grinding
+with the Investa PDA Express.
+Good to have you guys with us.
+All right.
+Let's get to a little money in
+motion.
+Well, public enemies, Chuck D.
+said, don't believe the hype.
+It's a sequel as an equal.
+Can I get this through to you?
+I just saw Chuck D. at the KFTV
+for Nick's game one, what a good dude there.
+And what was he talking about?
+He was talking about hype
+and not letting it get to your head there,
+but it's happening again in the crypto sector here.
+This may not get through to you
+because a renegaded crew of crypto traders
+has found their new hype toy and it's wrapped in an ETF
+and an exchange traded fund in May, Bitwise
+and 21 shares launched spot ETFs tracking indexes
+for hype, H-Y-P-E, a decentralized crypto asset
+that operates on its own blockchain called Hyperliquid.
+Confused yet?
+Yeah, me too, but it's its own blockchain.
+The products which trade under the tickers,
+BHYP and THYP have raised close to $150 million in assets.
+And since launch, they have mostly experienced
+positive net inflow days,
+including through the volatility of last week.
+Grayscale, for its sake, launched its own
+Grayscale Hyperliquid staking ETF, HYPG, last Wednesday.
+What is Hyperliquid?
+It's a decentralized perpetual futures exchange
+that is built on the blockchain.
+It operates around the clock for traders outside the US.
+This is heavily used outside the US,
+but what is a perpetual future?
+I had to ask Investopedia for a definition
+of perpetual future.
+It's a type of derivative contract
+that allows traders to speculate
+on the future price of an asset without an expiration date.
+Usually futures contracts have an expiration date.
+I'm predicting or I'm buying a call for October 1st
+or October 31st or November 1st,
+but these are perpetual futures.
+They have no end date.
+And this product existed quietly until the spring
+when the US Iran war sent traders scrambling
+for weekend access to the oil markets
+and they could buy perpetual futures in the oil markets
+throughout the weekend.
+Volume reached a billion dollars a day
+in crude oil alone, according to 21 shares.
+Now this is where it gets interesting.
+Last week, the Commodities Futures Trading Commission
+approved perpetual futures.
+This is this future style contract with no expiration date
+for Bitcoin trading on Cali-Sheet.
+This tool known as Purps,
+this is what the traders call them,
+is popular among retail traders outside the US
+but just landed on our shores in a very big way.
+And now some people, especially those who run big exchanges
+in the United States are worried that the CFTC
+could give the green light to other asset classes
+that trade via perpetual futures.
+This could blow up options trading as we know it
+and take business away from the major exchanges,
+both the stock exchanges and the options exchanges.
+And that means a lot more competition
+outside of Wall Street, outside of Philadelphia,
+outside of Chicago.
+This is going on to these trading
+and these polymarket and Kalshi platforms.
+Things are changing very quickly,
+but this new hype ETF has caught a lot of people's attention.
+Handle these things with extreme care, my friends,
+but just be aware of what's going on.
+Let's take a quick break.
+A lot of us have a number in mind
+when it comes to retirement.
+What we think will be enough.
+But the cost of getting there
+and the cost of living there once you do
+just gets higher every year.
+Everyday expenses keep rising,
+whether it's energy, insurance, or just day-to-day costs.
+It naturally raises a bigger, more important question.
+Will what you have saved
+still support the retirement you plan for?
+Will that math work out?
+That's why more people are starting to look
+beyond traditional approaches
+and think more carefully about diversification and long-term purchasing power.
+Augusta Precious Metals is a company that helps people understand how assets like gold
+and silver can fit into that broader retirement strategy, especially within retirement accounts.
+They take an education-first approach, offering a simple no-pressure way to walk through how
+it all works so you can decide if it makes sense for you.
+If you want to explore that, just go to www.yourgoldiranow.com or text GUIDE to 35052 to learn more.
+Pretty busy week coming our way this week and it's already gotten started.
+Markets bouncing back off of that big sell-off on Friday, but off of their highs for the
+morning so far.
+We'll see what kind of conviction investors have after a big shakeout for semi-stalks
+last week.
+But today, Monday, June 8th, my daughter's birthday.
+Shout out, Zoe.
+Happy birthday to you.
+The Apple Worldwide Developers Conference
+kicking off in Cupertino.
+This is the last one with Tim Cook as CEO of Apple.
+John Ternis takes over the company
+at the beginning of the year.
+So again, Tim Cook's last as CEO and keynote speaker
+at the WWDC, but what are we gonna hear about?
+Well, we'll probably hear more about Siri and AI.
+Remember we had Gene Munster on the show
+a few weeks back talking about the challenge
+for John Ternis and Apple's next 10 years.
+What that looks like, maybe we'll get some hints on that.
+Apparently there's maybe some new hardware introduced
+at the WWDC, we'll see.
+But the most important thing for Apple
+is what are you gonna do with Siri and AI?
+Who's gonna get access to it first
+and what will it unlock within the Apple ecosystem?
+Some earrings today from Campbell Soup and Vail Resorts.
+They had a terrible year up in Vail.
+Hopefully more snow next year, Tuesday the 9th.
+Just the NFIB Small Biz Optimism Index
+to pay attention to.
+We know small businesses have been having a tough time
+with these higher energy prices.
+We'll get a read on that on Tuesday, Wednesday.
+Consumer prices inflation back on the menu.
+The CPI for the month of May is coming out,
+and yeah, we're gonna feel the impacts
+of those higher oil prices last month.
+We had inflation ticking in at 3.8% on the last read.
+Probably might be a little higher than that.
+We might end up touching 4% on the CPI,
+and then earnings from Chewy and Oracle, among others.
+On the 11th, Maya's birthday, my other daughter.
+I got a kid's birthday week here.
+My daughter's birthday week,
+one of my favorite weeks of the year.
+Shout out.
+But it's also the kickoff to the World Cup.
+Let's go.
+Gotta love soccer.
+I love soccer.
+And the World Cup kicks off on Thursday, June 11th.
+I will be in Miami,
+seeing Uruguay versus Saudi Arabia.
+Shout out to all my Uruguay's out there.
+We'll be representing the Celeste in Miami,
+playing against the Royal Kingdom of Saudi Arabia
+on Sunday, on Monday,
+psyched to check that out.
+on Thursday, World Cup kickoff, then the Producer Price Index earnings from
+Lenar and Adobe, among others. And then Friday, the big day, SpaceX, taking off. We
+are expecting SpaceX to start trading publicly for the first time this Friday.
+It will be very widely watched around the world. This is one of the biggest
+IPOs of all time. So we'll be watching that trading activity. We'll see where it
+prices, if it prices. If we get a sell-off through the course of the week,
+I don't know if this company is gonna want to go public on Friday, but there's
+There's a lot of enthusiasm around SpaceX.
+We'll get a look at that.
+And then a reading on consumer sentiment
+and expectations on Friday as well.
+Big packed week of action and the Investopedia Express
+and I got you covered.
+And so does the Investopedia News team all over it,
+by the way, doing great work out there.
+Log into investopedia.com
+or follow us across our shows for the latest.
+Let's get to the big indicator of the week
+because it's got everything to do with these big IPOs.
+There is a massively, massively, massive amount of IPO money
+coming our way in the short future here.
+SpaceX, again, expected to start trading this weekend.
+Thropic, we know, filed for its confidential IPO.
+OpenAI, allegedly filed for an IPO.
+Databricks is gonna become in public eventually,
+plus a lot of other companies.
+This IPO pipeline alone could represent
+some 2.8 trillion to $3.8 trillion of market value
+coming to the public markets.
+They're not selling that much stock,
+But by the time that these stocks price
+and investors buy in on them at the prices
+that they are expected to go public at,
+we could see another $4 trillion in the market of new equity.
+The more important number though,
+the one to watch with these IPOs is the float.
+The number of shares actually sold.
+And I believe SpaceX has a very small float of shares
+that it intends to sell to the public.
+You're not getting a big chunk of SpaceX
+when it goes public, I think it's like 10% or less.
+And historically, large IPOs float about 10% to 20% of shares initially.
+If those companies follow that pattern, if all these big four companies follow that same
+pattern, public markets could be asked to absorb roughly $300 billion to $750 billion
+of new stock supply just from these IPOs.
+And that's not including the new $80 billion that Alphabet just issued for its AI build
+that and Amazon's talking about issuing some new shares.
+And we're talking about a lot of new stock coming to the market.
+a lot. What will investors sell if they want to own these stocks? New demand, new supply,
+I should say, always puts pressure on demand. So investors are going to have to make some choices
+here unless they're just going to come up with more money, take it out of their savings accounts
+or their money market accounts. Now, big institutional investors, they've been allocated
+a lot of these shares. They've already bought into a lot of these IPOs. They are set. If you
+look at the underwriting book for the companies taking all of these companies public, it's like
+Like 20 Wall Street and Silicon Valley firms, maybe a couple of New York firms in there
+with deep investments, so they're already allocated.
+And the employees are allocated, but there have been changes in the rules to when employees
+and executives can sell their shares.
+The lockup expirations on a lot of these new IPOs coming to market are a lot shorter than
+they used to be, which means that insiders can sell, in some cases, after 15 days, 30
+days, just a couple of months.
+used to be about six months before insiders could sell, putting more equity back into the market.
+Insiders are going to want to cash in here. There's been employees at SpaceX that have been there for
+over 15 years. And a lot of these other companies have executives have been waiting for this payday
+for a long time, and so have their investors. And that means a ton of new stock coming to the
+market. And when we have that kind of supply, it does sometimes put a damper on demand. We're
+going to watch that super closely, because it will be one of the dominant forces in the market
+over the next several months. Special thanks to Ron and Sana for dropping in. Really great to get
+his insights. I've learned again a lot from Ron over the years and I suggest if you're not already
+following him and checking up on his sub stack you take a look at that and his Instagram feed.
+Happy birthday to my daughter Zoe and Tamiah coming up here on June 11th and let's go
+Knicker Lockers. We got more work to do and let's get it done and we'll talk again a little
+further on down the line. Go Knicks!

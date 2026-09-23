@@ -1,0 +1,680 @@
+On the Express this week, stocks defy the September swoon, but things are getting pricey
+out there.
+Do old valuation metrics even apply anymore?
+Our buddy Kenny Palkary drops in for a family-style throwdown in just a few minutes, the Investopedia
+indicator, and what to watch this week.
+Microphone check one, two, what is this?
+The Investopedia Express.
+All up in your business.
+Welcome back and welcome aboard.
+Happy Monday to all of you.
+winding down here to the final couple of trading days in the third quarter. Stocks rising on a
+Monday morning after kind of a rough, pretty jumpy last week. Stocks ending the week higher,
+but we are a little bit higher as we start out the week. Again, two more trading days to go
+in the third quarter, and we're going to finish up September in the green, not very traditional.
+September, one of the weakest months of the year for the stock market historically. There were
+The walls of worry everywhere throughout the past month,
+but stocks just turned higher,
+and it wasn't just the Magnificent Seven
+powering stocks to higher highs.
+We had a couple of record highs last month
+and probably a few more on the way
+because they do come in bunches.
+All those worries, all those concerns about tariffs,
+all those concerns about a slowing labor market,
+what the Fed might do, what might not do,
+yet investors still pushing equity markets higher and higher
+and just about one or 2% off of all-time highs right now.
+looking in headlines right now as we start a Monday morning,
+EA Electronic Arts, the big video game company going private
+in a $55 billion deal.
+That's the biggest leverage buyout in history.
+Shout out to our guys at Barbarians at the Gate,
+one of the great books about leverage buyouts.
+This is a big deal.
+And this is just another example of a massive public company,
+a massive public company going private.
+Who wants to be public anymore?
+Shout out to you, Bawa Yaga.
+Thank you for joining the Investopedia Express.
+Shout out to all of our viewers
+and our listeners from around the world.
+Bowel wants real analysis on inflation and economy
+in and over again.
+We got that on investipedia.com.
+But back to what's happening in the markets today.
+Again, a big leverage buyout here, $55 billion,
+electronic arts off the table.
+Gonna be a private company by being bought
+by the Saudi Private Investment Fund,
+Silver Lake, which just got the rights to buy TikTok.
+Thank you very much.
+And another company, Affinity Private Holdings here.
+So that's what's happening right now.
+And as we look at the scores on the doors so far this year,
+about three quarters in the books,
+look what's leading the market.
+Gold up 41%, global stocks up 24%,
+Bitcoin up 17% this year,
+stock market itself up 12 to 13%, the S&P 500,
+high yield bonds having a nice year of 10%,
+the dollar down 9% and oil down 10%.
+That may have explained what that strength is
+in global markets around the world.
+But no matter how you look at the stock market right now,
+When you look at traditional valuation metrics,
+it's overvaluation nation.
+Everything's looking expensive.
+Great debate going on within the stock market among investors.
+Is the stock market overvalued?
+Are we looking at the right things, right?
+We got three flavors of overvaluation
+we're going to bring here to you right now.
+Forward price to earnings ratio that measures earnings
+going out 12 months.
+And that's at 22 times.
+And that's usually how that's as high as it's
+been in many, many years, maybe as high as it's
+spend since 2021, but definitely since the dot com bubble burst, the trailing price to
+earnings ratio that looks back at the past 12 months of earnings. That's at 28 times
+also very expensive. And then the cyclically adjusted price to earnings ratio, the Cape,
+they call it made famous by Robert Schiller, the Nobel Prize winner from Yale University.
+That's at 40 times. That's the highest since the dot com bubble. But the other side of
+the equation is on the other hand, maybe we're looking at metrics that don't really
+apply anymore when we think about the companies that are driving the stock market higher and
+that are driving our economy higher. And there's a lot of ways to look at this. If you look
+at price to sales ratio, this chart here coming up from our friends at Bespoke, that's at an
+all-time high, 3.33, right? Price to sales ratio only historically at an all-time high. But when
+you look at the equal weight S&P 500 price to sales ratio, that's kind of in a 12-year range
+here. And that's take, that's flattening out all the stocks by market cap. That doesn't give you
+and Diddy at $4 trillion and Microsoft at $3-4 trillion.
+This flattens all the stocks out so they're equal weight.
+That actually looks pretty normal within the 12-year trading range of the equal weight.
+So the entire stock market, if you just wait it out equally, looks pretty fairly priced.
+It's the biggest stocks in the market that are making it seem more expensive.
+And that's just valuation going to the biggest stocks in the market that are churning out the highest profits and the biggest sales.
+smart chart here from our buddies at Carson Research.
+Sona's Varghese put this out last week.
+Is it rational exuberance?
+As Fed Chair Powell kind of hinted at the other day,
+and we heard Alan Greenspan say that back in 1996.
+Or is it just that these companies
+are just so much more profitable than they used to be?
+Profit growth has been driving the stock market returns
+since 2019, along with some favorable interest rates.
+But when you got companies churning out profits
+like the Invidias, the Palantir, the Microsofts,
+the apples of the world, you're going to get higher valuations.
+And that's just the way things are.
+And that's maybe just the way new way to evaluate markets these days,
+just because we have this revolution going on and these companies aren't
+churning out a profit growth, looking at one year at a time.
+They are building a hundred trillion dollar AI infrastructure.
+That's going to take five to 10 years to complete, which is why some
+investors are like, forget the old valuation metrics.
+This is what's going on right now.
+So let's get into this with our good friend, Kenny Palkari.
+He's a partner and the chief strategist at State Stonewall.
+He's going to drop in for a couple of good minutes.
+Kenny, so good to see you.
+It's been a minute since you've been back on the express.
+It's always good to see your face,
+and I follow you every single day.
+Thanks so much for being with us.
+Stock market's kind of defied all these concerns
+about tariffs, as I just mentioned,
+a slowing economy, slowing profit growth potentially,
+a weak labor market.
+There's been almost no volatility.
+It's been the quietest year ever,
+despite all the noise in the economy,
+international stocks are crushing the US right now,
+gold continuing to make record highs,
+and everyone, including individual investors,
+are turning bullish all of a sudden.
+What, if any of this, surprises you, Kenny?
+You know, we went from being so negative in April
+when we had that liberation day,
+and everyone was panicking, and oh my God,
+the world's coming to an end,
+and they've sold everything.
+They couldn't sell it fast enough.
+And then suddenly, as people thought about it,
+and there was some more conversations about tariffs,
+you know, people started to take it in stride.
+Next thing you know, they've taken the market once again to brand new highs, all time highs in 2025.
+And probably we're going to make another one before the end of tomorrow, which is the end of the third quarter.
+Right. And so I think that's what's really surprising is that we haven't it's fine that the market rally back.
+It's fine that, you know, people calm down over the tariffs.
+But what it continues to do is continues to surprise to the upside.
+There's been no breathing. There's been no opportunity for stocks to digest the move.
+And while I agree with you, I'm bullish on America,
+I'm bullish on tech, I'm bullish on all that stuff,
+but I'd like to see the market digest a little bit,
+which it hasn't done every time it tries to pull back
+and we drop 1% or 2% and suddenly everyone comes in to buy it.
+And I think some of that may be because
+asset managers are so worried about the tariff thing
+that investors were so worried
+that they weren't sure they kept a lot of money
+on the sideline.
+And now that they see the market's making new high
+after new high after new high,
+It's not coming in and we're talking about tech. We're talking about it changing the world
+So every time it backs off a little bit they jump in and so we may see this momentum continue
+Right, which I think just concerns me a little bit in terms of people getting you know
+Too too bullish or fear or that fear of missing out trade look as a wealth manager
+We're fully invested right? So I'm not in and out of the market
+We're fully invested but that doesn't mean necessarily that we're chasing we're in tech. We love that we own tech
+we've owned it, but up here I'm not chasing it. We're not chasing it. We're going to let it kind
+of digest. There are other places to your point to be able to put money in the market. And the S&P
+equal weight points that out. If you look at the difference between what the S&P is, what the
+equal weight is doing, that points it out. So other parts of the market are in fact, you know,
+underperforming where there is opportunity. Energy, healthcare, basic materials, consumer staples,
+Boring for sure, but they are sectors
+that have under performed the broader market
+and in my view, present an opportunity.
+Yeah, we just showed that chart
+of the equal weight price to sales ratio.
+It's relatively normal
+because these companies are relatively normal
+and they're not churning out profit growth
+at 50% or revenue growth at 50% to 100%
+like the entities of the world.
+They're just doing business as usual
+and earnings have been pretty solid, Kenny.
+So you were a floor trader for years
+and you've been earning money and investing
+as a market strategist for years and years and years.
+So take us inside the mind of a portfolio manager right now,
+two days to go before the end of the quarter,
+two trading days to go before the end of the quarter.
+Everyone, as you say, was kind of bearish
+coming into this year until maybe April 9th.
+And then all of a sudden everybody's bullish again.
+Talk to us about window dressing
+and what that means to the market in general.
+Well, I also think as we came into,
+you know, in late summer, August into September,
+tends to be, you know, September, October time period tends to be historically a
+week kind of volatile time of year.
+And no one had any reason to suspect that this year it was going to be any
+different. But when September never backed off, when it never happened to get all
+these people that might be were waiting for an opportunity and then all this
+cash and now realizing the end of the third quarter is coming and they want to
+look like they've been in it all along.
+So you have this window dressing, which means that a lot of these asset
+managers, you know, they get rid of the losers, and they want to pile into the winners so that
+when they send the report card out, you know, in a week and a half, and ask and investors look
+at how their portfolios are doing, they're going to see, oh, just look, we own talent
+here, we own it, we own it, whether they've owned them for the whole quarter or not,
+it's not the issue. All they're going to know is that right now, those names are in there.
+So that's a good thing. And I think that's also what's been pushing the market up into
+the last into the last couple of days of the third quarter has been that window dressing,
+asset managers and even retail investors try to play catch up, right?
+But I think, you know, come Wednesday, which is October 1st,
+it kind of wipes the slate clean, right? We're now in the beginning of the fourth
+quarter and you've got three months for the market to react and so
+you've got earnings season just two weeks away, you've got lots of more eco
+data, you get the ongoing conversation about the Fed,
+you got Beth Hammock that came out, you know, she said it last week but she
+reiterated again overnight on Squawk Box Europe that, you know, the
+The Fed's in a very antsy place about trying to balance a supposedly weakening labor market
+along with a very strong economic data market.
+And so I actually think you might get the narrative about maybe we shouldn't cut so
+fast.
+Yes, we can still stay on a cutting cycle, but instead of two more rate cuts this year,
+maybe we only get one.
+Yeah.
+Does that matter as much anymore or have investors look way beyond that?
+They look beyond tariffs, they look beyond whether we're getting one or two cuts.
+They know we're going to have a dovish Fed for the next few years and beyond.
+What do they care about?
+Well, we hope the Fed is going to be dovish because if the data continues to remain strong,
+how much more dovish can the Fed get, right?
+The Fed would get dovish if it really thought it were trying to solve a problem.
+But if the economy remains strong, if unemployment doesn't soften, then my point is that
+rates may be actually at the right place at four, four and a quarter.
+Maybe they go to 375, four, but much beyond that, unless something really
+starts to break, I'm not sure that we'll, that, that we should see them go lower
+because all that we'll do is stimulate the economy.
+And I get it.
+There are small businesses that would love lower rates and certainly the
+home builders want lower rates because they want more rates go down and all
+that stuff, but if it doesn't make sense, it doesn't make sense.
+Look what they did in 1978, 79.
+And I don't want to go back that far, but you have to look at history.
+when the Fed prematurely cut rates
+because they thought they had slayed the inflation monster.
+And in fact, by cutting rates,
+all they did was stir up inflation.
+And remember, inflation surged,
+causing Paul Volcker at the time
+to have a forced rate to 21%
+and bring the economy to a screeching halt over two years.
+I'm not suggesting I want to see that happen,
+but I think the Fed, I think Jay Powell is right.
+And I think other members are right.
+You have to be very cautious.
+We had 15 years of zero interest rates,
+which wasn't normal either.
+So there's this normalization process,
+and I think you have to be very, very methodical
+on how they cut.
+So I'm in the camp that if we get one more rate cut this year,
+that that's actually okay.
+Yeah, and rates are actually not that high right now,
+and neither is inflation.
+When you think about historical standards,
+people get crazy about it.
+Go back to the 70s and the early 80s.
+100%.
+Listen, historically, between four and 6%,
+that's really historically normal over the long period.
+Sure, there were times in the late 70s where rates were 20%,
+not that that wasn't normal.
+And then for the last 15 years from 2008 till, you know,
+15 years, 2023 rates were basically zero.
+That wasn't normal either.
+There's a whole generation of people that think zero
+is normal, zero is not normal.
+It's not normal.
+So these people that want 2% movie drinks, guess what?
+That's not normal, right?
+Speaking of not normal, let's speak of not normal, Kenny.
+Let's look at some of the stock top performers in the stock market so far this year three quarters in almost and
+There's some surprise names on there. Some of these names make perfect sense to me. We got Robin Hood markets at the top there
+That stocks up 226 percent, but you've also got some chip makers in there and chip makers have been you know
+The chip makers are building the railroads for the next 10 years or so
+But there's a couple of surprises and a couple of companies out there where you say what you know besides Warner Brothers
+Which might be going through a breakup and GE Vernova, which was split off
+There's some other companies in there that investors have just been flocking to.
+It's not been the MAG 7 this year as everybody thinks it is.
+It's been a lot of these other companies busting out.
+You know what's interesting is I look at that list.
+Names like C-Gate and C-Gate Technology and Western Digital that were big names earlier
+in the earlier in this decade and this century were kind of quite right.
+Like you didn't, you don't know what's talking about C-Gate Western Digital every day like
+they're talking about Apple and Google and Palantir and Vignette.
+Suddenly though, if you look, you see the massive outperformance that Seagate and Western Digital
+have this year.
+I mean, look at them, triple digits, 115%, 130%.
+But to your point, they're right, because that's part of the infrastructure.
+And investors that bought into that are certainly benefiting as well, right?
+Robinhood though, I get Robinhood.
+I mean, I'm not sure why it's up 200%.
+I get what they're doing and all that stuff.
+I'm not a Robinhood owner.
+I never was.
+I certainly understand it, but I'm not sure that I see why it's up 200%.
+That doesn't, that's a little bit off to me.
+I would not have, I would not have.
+Risk on, I think that's the ultimate example of a risk.
+Completely and maybe it's because you know, they reached out to all these people and
+make investing quote unquote across the spectrum.
+So easy that, you know, there's your reason, but I was never Robin Hood owner.
+So you know, I can't speak to owning it.
+It just, it just tells you how hard it is to actually pick stocks in this environment
+because very few people had that top 10
+on their Bingo card this year.
+I would venture to say nobody did.
+Sometimes it's just easier to buy the index, the ETF,
+or go sector rotation to sector rotation.
+All right, give us your key fundamental,
+your key things that you're watching this year.
+I want a fundamental metric
+and maybe a technical analysis metric,
+two things that you're really focused on.
+If it's not gonna be rates,
+if it's not gonna be the labor market,
+what are you watching as a strategist?
+So I continue to watch the strength of the data,
+the strength of the economic data,
+not even so much the labor market data,
+but the broader economic data, the PMIs.
+Look, the United States is a 75% services economy,
+not a manufacturing economy.
+So things that are important to me are things
+that speak to the service part of the economy.
+And if you look at the services PMIs,
+that has been and remains in expansionary territory, right?
+We didn't see that ever going
+to contractionary territory.
+Manufacturing did a tiny bit.
+Now manufacturing's actually right on the cusp,
+probably gonna tickle into expansionary territory
+this month.
+We're gonna get it tomorrow.
+We're gonna get it this week,
+both manufacturing and services PMIs.
+And I also wanna pay attention to average hourly warnings
+and personal consumption and personal spending
+because those speak right to the health of the consumer.
+And guess what?
+Those numbers have been relatively strong.
+You do not see the consumer throwing in the towel
+say, I can't do it anymore.
+The last two reasons, a personal consumption and retail sales,
+were much better than expected.
+That tells you that the consumer, at least by the data,
+tells you that consumer is feeling OK, which then argues
+once again, too, does the Fed need to stimulate it
+any further?
+And so that takes us right back in that circular conversation.
+I don't think they do necessarily.
+Maybe one more cut, maybe two max.
+But are we going down another 125 basis points?
+I don't think so.
+I don't think we should at the moment.
+Yeah, no time soon.
+So yeah, we continue to spend retail sales
+that remain relatively strong.
+Earnings are still decent.
+We're still outpacing inflation.
+We feel terrible if you look at consumer sentiment,
+but we're still spending it.
+As long as we're spending, that's 70% of GDP.
+Right, but that's where the divergence is.
+You say you don't feel good in Kachuba confidence,
+yet every time the spending numbers come out,
+you're spending like there's no tomorrow.
+So which one are you really paying attention to?
+In my mind, I'm gonna pay attention
+to what consumers are actually doing
+versus what they're saying.
+Because you never know who they're really canvassing
+when they call the poll and they say,
+how do you feel today?
+Versus, so you get one set of data
+and then when you get the actual spending numbers,
+you see it's a very different data point.
+Yeah, to my point.
+Are we even measuring the right things
+and who are we even asking
+when we're measuring these things?
+All right. What could what could stop the relentless bid here?
+You mentioned spending. You mentioned the health of the consumer.
+We know that's a very big deal where services economy.
+How do things fall apart if they fall apart?
+Well, so so where I think it's going to fall apart is if in fact they reignite inflation.
+And right now it doesn't seem like it is.
+It's kind of stirring there around three percent, which, by the way, I think three percent is the new two percent.
+Look, we talked about it before when when when inflation was up in the five and six percent, they kept they kept asking the question.
+Are they going to raise the target?
+I think they have subconsciously raised the target.
+I think they're comfortable with 3%.
+I think they realize they're not going to get to 2%.
+It's going to be very difficult to get to 2%.
+So the Fed is happy with 3%.
+But if you start to see it tick up from there,
+if you start to see unemployment,
+they keep saying the labor market's softening.
+Yet unemployment's at 4.3%, which
+is at historically low levels.
+It's basically full employment at 4.2%, 4.3%,
+which is what it's expected to be this Friday.
+So I don't see that nervousness yet.
+If you start to see that number tick up,
+and if it, my fear is if it starts to tick up
+and it ticks up quickly,
+that's gonna be, that's certainly gonna be a killer, right?
+Yeah, we're watching that pretty closely as well, right?
+You know, we're not letting you out of here
+without getting a fall recipe
+for my guy, Kenny Paul Carey here.
+One of the great home chefs.
+There he is right there in the kitchen.
+Your favorite place.
+Look at you right there.
+Looking great, by the way.
+Give us a fall recipe.
+and you know I want a wine pairing to go with it.
+And folks, if you're not following Kenny,
+you must follow him.
+If you don't love the analysis, stay for the recipes,
+stay for the wine pairings.
+Such good stuff there, Kenny.
+Give it something for the fall.
+So listen, it's fall, right?
+So we're coming into Thanksgiving,
+coming into the pumpkin season, all that stuff.
+I love this dish.
+It's just a pumpkin risotto.
+So it's delicious.
+It's not difficult to make it all,
+but you gotta make sure that you're using pumpkin puree
+and not pumpkin pie filling,
+because there's a difference.
+It won't come out the same.
+So you need the shallots, you need the rice,
+you need the white wine, you need pumpkin puree,
+you need a first grade butter, magano cheese,
+you need a chicken stock, right?
+And you need a little bit of salt and pepper,
+very little salt though, because the cheese is salty.
+And so make it like you would make a regular risotto,
+start with the bottom, melt the butter,
+do the shallots, brown the shallots in there,
+then put the rice in, toast the rice.
+In this case, if you can get it,
+you really wanna use carne rolli rice,
+which is a particular type of rice
+from a particular region of Italy,
+it works better for this.
+And toast the rice in the butter, in the shallots,
+and then once it is,
+you start to add in the ladle of chicken stock.
+One ladle at a time,
+first add one ladle of chicken stock, let it absorb.
+Then add the white wine,
+stir it around and let that absorb.
+And then you're gonna add one more ladle of chicken stock.
+Once it absorbs, you're gonna add the pumpkin,
+stir it in, mix it up,
+and then you're gonna keep adding the chicken stock
+as you would a result,
+you add it, you let it absorb, you taste it,
+till you get it just about right.
+Should take you 20, 25 minutes.
+When it's not taken.
+Am I just stirring constantly?
+Cause risotto, you gotta keep working.
+Yeah, you have to stir constantly.
+You can't just get comfortable at the stove.
+You have to stand at the stove and stir.
+Make sure you get good Italian music playing
+while you do it.
+In any event, once it's ready, you take it off the stove,
+you add a dollop of butter,
+then you add the fresh grated cheese.
+You taste it, adjust it for a little bit,
+maybe it needs a little bit of salt and adjust it a little bit.
+And then with this, then I'd serve it in a nice warm bowl.
+And then if you wanna pair this,
+this would be something light, right?
+So you don't wanna, if you're gonna drink red,
+you don't want it to be a heavy red,
+like a Brunello de Montalcierdo.
+You don't want that.
+You want something like a Pinot Noir,
+or you can go with a white, right?
+If you go with a white, don't go with anything fruity,
+go with something dry,
+like a Pinot Grigio Santamagarita.
+Yeah, that sounds amazing.
+I don't know, I went right to white in my mind,
+but beautiful recipe for fall.
+You can go either way.
+If you go with a light red, you're good with it.
+Yep.
+All right, we love that.
+Perfect for the fall.
+Great recipe, great analysis.
+As usual folks, follow Kenny Paul Carey on Twitter,
+on LinkedIn, on all the platforms there.
+He shares his analysis every day, bright and early,
+because no one gets up earlier than Kenny Paul Carey
+and his recipes.
+A good friend of Investopedia.
+Thanks so much for joining the Express, my friend.
+Thanks for having me.
+The hog so good to talk to Kenny Paul Carrey and get his smarts and that terrific recipe.
+We'll make sure we link to it in the show notes and let's get to a little money in motion.
+So we've been talking about gold prices, gold hitting yet another record high up about 46,
+47% this year.
+It's the ultimate inflation hedge.
+You know, central banks have been storing it, individual investors have been buying it.
+I've heard strategists on Wall Street telling us to ramp up your allocations up to 20,
+25% and gold has been on the move.
+But silver, one of the other precious metals out there, and one I have a particularly affinity
+for, doing pretty good on its own.
+And silver has actually, is nearing record highs as well.
+It's up 24% year to date.
+The spot price around $46 per ounce there.
+And why is that happening?
+A lot of the same reasons that you're seeing this rally in gold.
+But silver has more industrial applications, a little bit more widely used because it's
+cheaper, a lot of industrial demand.
+You know it's an inflation hedge.
+No central banks and big investors have been stockpiling it.
+The weakening dollar and lower interest rates,
+that just props up the metals like gold, like silver, like palladium,
+and that's why we're seeing silver nearing record highs as well.
+What's the outlook for silver compared to gold for the upcoming months?
+I think both of them are trending higher
+because we got concerns about inflation rising again.
+We got the dollar continuing to slide.
+We got all types of worries about tariffs
+and everything else that's happening or not happening in our economy right now.
+You've just seen this relentless surge in metals.
+So I think gold and silver,
+kind of trading in tandem,
+although you see gold outperforming silver
+by about 20% right now or so.
+So about 50%, I should say right now,
+but silver is still something to watch.
+And some of the silver stocks have been gushing
+since this rally began.
+So look at the silver stocks and silver ETFs,
+if you want to look at the direction of the market.
+Good question there.
+All right. We've got a busy week coming our way.
+So let's get into what to expect this week.
+Well, first and foremost is the possibility
+and the real possibility of a government shutdown.
+If Congress does not agree
+to these short-term funding resolutions,
+we might very well get a government shutdown
+as of Tuesday night, which is kind of a pain
+and unnecessary and doesn't really affect the stock market,
+but something we're gonna watch pretty closely.
+We do get pending home sales today on Monday.
+We got Fed speakers on tour all week long.
+Fed speakers are talking left, right, center.
+Everyone's talking right now about whether we should lower,
+whether we should raise.
+You heard Kenny talking about it earlier.
+Some earnings coming out this,
+starting today with Carnival Cruise Lines
+and Jeffries Bank to start things off Tuesday.
+Job openings and labor market turnover survey.
+The Joltz Report, one of my favorite reports of the year,
+of the year because we get a pretty good idea
+of how many people are quitting their jobs
+and how many jobs are out there and available.
+Consumer confidence for September,
+that number rolls in.
+The Case Shiller Home Price Index,
+we know home prices,
+starting to level off a little bit and earnings from Nike on Tuesday just do it.
+And on Wednesday, the labor market data continues if the government isn't shut down with the
+ADP employment report, construction spending for August, S&P final US manufacturing PMIs,
+of course.
+And on Thursday, initial jobless claims factory orders for August, how were factories impacted
+by tariffs and we'll get deliveries from the automakers, especially Tesla.
+Everyone's got their eyes on Tesla's delivery, see if that business has recovered.
+And then it all leads to the big jobs report on Friday for the month of September.
+We're still looking at tepid job gains month after month.
+We've only averaged 29,000 for the past three months.
+The question is, does the unemployment rate hold at 4.3% or does it shoot higher?
+But the big question around all of this is, do we get data at all this week if the government
+shuts down?
+One of the first places that will stop collecting and issuing data and issuing releases is the
+Bureau of Labor Statistics, which means maybe we don't get the jobs report on Friday.
+maybe we don't get the inflation report in another couple of weeks. So that's one
+impact of a government shutdown, not to mention a lot of supply chain disruptions
+throughout government, maybe people not getting their medications, people not
+able to enroll for Social Security. It gets pretty messy out there and
+hopefully this is resolved. Before the end of the week they usually are, but
+still that could be a mess. Alright, the indicator of the week. What am I
+keeping an eye on this week? Well as we talked about with Kenny and at the
+top of the show. Individual investors are suddenly as bullish as they've been all year.
+Where you been? Right? We were looking at the AII sentiment survey for the past week.
+There's more bulls and bears now. First time all year, there's more bulls than bears as
+far as individual investors go. And we, Investopedia, have our sentiment survey in the field.
+We're going to be debuting that tomorrow night on CNBC. Every two months, we survey
+the smartest readers in the world to see how you're feeling. Bullish, bearish, fearful,
+and the AI sentiment surveys
+are pretty good tip off indicator for that.
+So why are we so bullish these days?
+That's something I am keeping a very close eye on
+as stocks dance near record highs
+and two other bonus things
+that I'm keeping an eye on this week.
+Last week, maybe you didn't hear about it,
+but FINRA, which is basically an industry consortium,
+financial industry for the financial industry,
+just relax rules on pattern day trading.
+It used to be that used to have,
+you used to have to have $25,000 in your account
+if you were gonna day trade,
+make more than four trades a day,
+well, they're relaxing that rule.
+So now you're not gonna necessarily need
+to have $25,000 in your account day trade.
+That's gonna encourage a lot of risk.
+And folks, if you're thinking about trading
+for the first time,
+if you're thinking about jumping into this market headlong
+as we dance near record highs,
+and all of a sudden there is no limit
+on how much you need to have in your account
+to pattern day trade, I suggest you,
+and I urge you strongly to learn how to day trade,
+to learn technical analysis, to learn risk management,
+because about 95% of day traders lose money.
+And if you don't know what you're doing,
+and if you don't have rules,
+you are gonna lose money as well.
+So this is very interesting,
+Relaxation of the Rules by FINRA.
+And one other thing that caught my eye
+over the weekend, smart article by the Wall Street Journal
+about hedge fund managers becoming so big
+that they need their own agents.
+Yeah, they're having their own agents,
+just like athletes, just like entertainers,
+they're making so much now that they need
+to have agents who negotiate their deals,
+who plan their activities.
+This, my friends, if anything,
+could signal a top in the market.
+When hedge fund managers need agents,
+anything goes right now and no rules on pattern day trading.
+We are living in a brave, new, and peculiar world.
+So be safe out there, and thanks to all of you
+for joining the Express Live every Monday at 10 o'clock
+on demand on your favorite podcast networks. Shout out to our good friend, Kenny Paul Kerry
+for joining the show. You got to tune into Kenny. He is one of the smartest, most entertaining
+people in our industry. I love reading and listening to his analysis. Plus those recipes
+cyber script profiler. Thank you for joining the show. Thanks to all of you. He's on YouTube
+as well. That's right. Strategy sessions. He's on YouTube as well. Find Kenny Paul Kerry
+there every day. Bob Baldwin, phenomenal. You are phenomenal. My friend, you have a
+great week Romania is in the house shout out to you in Romania love to have you here hope for two
+months of green hey I hope for 12 months of green savage God let's go let's keep doing this yes
+stocks are overvalued and some are still overvalued absolutely and that's the beauty of investing you
+got to find those pockets of places where you think value can rise higher top flow peace out to
+you my friend thanks to all of our listeners and viewers from around the world we love having you
+join the Investipedia Express. We love your comments and you just keep them
+coming because you are the smartest investors in the world. We will talk
+again a little further on down the line.

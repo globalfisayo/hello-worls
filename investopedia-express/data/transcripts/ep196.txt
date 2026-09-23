@@ -1,0 +1,590 @@
+Let me tell you this, the older you do get, the more rules you're gonna try to get you to follow.
+You just gotta keep living, man.
+L-I-V-I-N.
+One for the money, two for these beats.
+Three to get ready, it's summertime.
+Bring the heat to the griddle.
+Fire up the range.
+Markets flying higher still.
+Something feels strange in all these patterns.
+These trends are all askew.
+Intersector dispersion, lack of breath.
+It's nothing new still.
+Overconcentration can lead to agitation.
+It's not coincidence.
+It's called causation.
+We've seen it before.
+We'll see it again.
+But when you're running with the Bulls, you've got to know when to break from the pack.
+Take a step back.
+Evaluate your positions.
+Get that portfolio on track.
+Allocate responsibly.
+Take the time to assess.
+Because the second half starts now on the Investopedia Express.
+Welcome back and welcome aboard.
+And let's head back to the locker room after a blistering first half of the year for the
+stock market.
+The S&P 500 snapped a three-week winning streak last week, dipping just 0.1% on the week.
+But what a first half.
+The benchmark index is up 14.5% for the first six months of the year, the strongest start
+to an election year in history.
+We can thank the AI craze a lot for that advance and NVIDIA, of course, the poster child for
+the future of technology.
+But a few other stocks were behind that boost, and we're going to name some names in just
+a few minutes.
+Inflation showed more signs of moderating as the PCE, the Personal Consumption Expenditures
+Index, the Fed's preferred gauge of inflation rose just 0.1% on the month, coming in at
+a 2.6% annual rate. That's pretty darn close to the Fed's 2 to 2.5% target. We're getting
+there. Our spending slowed a little bit last month, but our savings grew 0.3%. And while
+there are plenty of concerns around the over-concentration of just a few winners in the stock market
+so far this year, history shows us that strong first-haves usually turn into strong second-haves.
+As our pal Ryan Dietrich at the Carson Group points out, when the S&P 500 is up double
+digits at the midpoint of the year, the full year has never been lower, ever.
+And the average gain in a year with a double digit head start by the midpoint is 25%.
+The median gain in the second half after a double digit first half is 9.8%.
+There is zero guarantee that will happen this year, but trends in motion do have a
+way of staying in motion, as Sir Isaac reminds us, until something big knocks them off course.
+And that leads us directly into our big three for the week.
+Number one, will the lack of market breadth be that big thing that undoes this bull market?
+We've talked about the fact that the magnificent seven stocks account for more than 25% of
+the market cap of the S&P 500.
+Big stocks move things around in the market cap weighted indexes.
+It's true today and it was true in the supercomputing and server era of the mid 2000s when stocks
+like Cisco and Juniper Networks ruled the roost.
+It was true in the dot-com mania of the late 1990s.
+It was true in the telecom era of the 1980s,
+true of the big oil era in the 1970s,
+railroads at the start of the 20th century,
+you get the point.
+But what gets some strategists all worked up
+about this over concentration
+is that the price breadth diversions
+inside the stock market is as high as it's ever been.
+And I mean ever.
+According to sentiment trader,
+23% of the trading days so far in 2024
+have experienced higher prices and breadth
+moving in opposite directions.
+That usually doesn't happen.
+But that's what happens when just a few big stocks
+make really big gains, and that level of price breadth divergence ties 1995 for the highest
+percentage on record.
+The year 2000 came pretty close, but nothing like what we've seen so far or back in 1995.
+And in 1995, that divergence was not a problem as the S&P 500 had rocketed 34.5% higher for
+the year.
+The 1990s were just so coolio.
+But before you get all gangster on us, don't forget that the market fell more than 10%
+in 2000 after the implosion of the dot-com bubble.
+Is AI a stronger trend than the dot-com bubble?
+We're going to find out.
+Number two, while there's been almost no volatility during this bull market, especially over the
+last six months, something is very skewed up in the options market.
+The VIX or volatility index measures the implied volatility of the S&P 500 index options that
+are coming due at the end of every month.
+If traders are betting on the S&P 500 to fall before the end of the month and buying
+a lot of put options, volatility or the VIX will rise, but that's just not happening.
+What is happening, according to Ned Davis research, is that the SKU index, a close cousin
+of the VIX from the CBOE, which measures tail risk, is screaming like a toddler who just
+dropped their ice cream.
+Tail risk, you might recall, is a change in the price of an index or stock that would
+place it on either of the tail ends or the far edges of the normal distribution curve.
+It's very low probability risk.
+Right now, according to Ned Davis, the SKU index is telling us that traders are willing
+to pay more for out of the money options than they are on a bet that the market
+will decline in the near term. In other words, they are willing to pay more to protect against
+a big market shock and decline caused by a black swan type of event. Metaphorically speaking,
+they are willing to pay more to ensure against a major hurricane than they are for weeks
+of steady rain that could lead to leaks and water damage. And right now, the SKU index
+reading of 147.1 is at levels we haven't seen since 1990. The stock market fell 7%
+in 1990 in case you're keeping score. And number three, it is half time, which
+means it's a good time to do a little scorekeeping and point out some of the winners and losers
+of 2024 so far.
+Across the major stock market averages, we've got the S&P 500 up 14.5%, the NASDAQ 100 is
+up 17%, the Dow 30 up 3.7%, no Nvidia there. How about small caps? The Russell 2000 up just
+1.7%, long bonds 20 years or more down 7% and the bear market and bonds just keeps on
+growling. How's your Bitcoin? It's up 44% so far this year, despite a big sell-off
+over the last couple of weeks. Inside the stock market, big winners won big, and most of them
+are in the AI ecosystem of course. Super Micro Computer was the best performing stock in the
+benchmark index in the first half, rising 213% even after a 30% drawdown. It's making servers
+for AI storage naturally. NVIDIA was second on the list of high flyers, rising 150% and it had
+a big drawdown as well, plus a big stock split. And then two power players, Vistracorp, a Texas
+space independent utility that has positioned itself as a power supplier to AI server farms.
+Its stock is up 128% in 2024. And then there's Consolation Energy, another power company
+promising endless demand to keep those data storage and server farms humming. Shares rising 76%
+as of the first half. GE Aerospace took off in 2024 as the giant once known as Thomas Alva Edison's
+General Electric finally shut off all those legacy assets to focus just on making aerospace
+equipment and technology. Shares of GE up 58% so far this year.
+On the losing side of the ledger, some big tumbles from some big companies. Walgreens
+Boots Alliance led the declines with shares down 54% this year as the once dominant drug
+store chain in America is closing about a fourth of its stores. That stock has lost 80% of
+its value in five years. Hard to come back from that. Shares of Lulu lemon are down
+close to 40% on the year because how many see-through tights do we really need in our
+closets. Intel, the once dominant chip maker that helped revolutionize personal computing,
+finds itself behind the AI 8 ball, shares falling 38% so far this year, and shares of
+EPM systems, the custom software maker, have fallen 34% on the year as custom software is just not
+AI. And investors continue to tune out Warner Brothers Discovery as that content conglomerate
+is getting buried under a mountain of debt and declining subscribers. Let's get set up for the
+week ahead, the first week of the second half of the year, and likely a quiet one across the US
+capital markets given the July 4th holiday. Markets will be closed early on Wednesday and all day
+Thursday. July and August tend to historically be pretty quiet in terms of trading volume and
+market moves, but the first two weeks of July tend to bring the heat. According to the Stock Traders
+Almanac, the first 15 days of July have actually been the best two-week trading period for the
+S&P 500 since 1928. Likely a lot of portfolio reloading going on to start the second half,
+But we are on this train for the long haul.
+And we're going to get some updates on the jobs market this week with the June payrolls
+report due out Friday, preceded by the latest JOLTS report for May out on Tuesday.
+That's the Job Openings and Labor Market Turnover Survey.
+And then ADP's private payrolls report due out on Wednesday.
+As for job gains, economists are expecting around 200,000 jobs to have been added last
+month, a slowdown from that surprisingly high 272,000 job gains in May.
+But economists have been pretty wrong, pretty often, pretty lately about the labor
+market. Look for the unemployment rate to stay at around 4%. Anything higher than that, we'll
+get the recession drums beating again. The earnings calendar is pretty light, but constellation
+brands will be among the few widely held companies reporting results, and we're going to get
+an update on deliveries and sales from global automakers, including Tesla, on Monday. Auto
+sales like home sales are in low gear.
+The meme stock madness that took over the stock market in 2021 may have seemed like a
+random rash of retail investor mania born out of the pandemic lockdowns and the trillions of dollars
+in stimulus checks sent out by the government to keep the economy from a death spiral. But for
+those of us who watched it happen in real time and reported on it, the roots of that movement were
+actually much deeper than many of us realized. You can trace a lot of them back to the ashes of
+the great financial crisis and the Occupy Wall Street movement that emerged from those dark days
+in the US economy. And in fact, there is a through line from that movement through online
+platforms like 4chan and all the way up through Reddit's Wall Street Bets and beyond.
+Driving that through line are tens of thousands of young men who felt disconnected from society
+and the financial markets, outcasts and insurgents who found their medium and their message through
+day trading and trying to stick it to Wall Street by beating institutions at their own game.
+No one has covered this closer than Nathaniel Popper, a former reporter for the New York Times
+and the LA Times. His new book, The Trolls of Wall Street, How the Outcasts and Insurgents
+are hacking the markets, traces that through line from its origins, and tells the tale of how this
+movement has upended the capital markets in ways that we haven't seen in generations, and possibly
+change them forever. And Nathaniel is our very special guest this week on the Express. Thanks
+so much for joining us. Thank you for having me. This is a great book. It's so much fun to read,
+and especially for those of us that cover this and were there moment to moment and watch this
+happen. And certainly at Investopedia, we saw so much activity and traffic around people trying
+to learn what was happening and how to understand the markets. But your book is really centered
+around two characters. Jordan Zazar, he was a moderator for Wall Street Bets, the Reddit forum,
+and Jamie Rogozinski, the creator of Wall Street Bets and many of the subreddits that form from
+its trunk. Briefly tell us about these two guys because they're so pivotal in your book and in
+this story. Sure. Yeah. These are the two people through whom you can sort of see this whole
+world that's emerged over the last decade. And I started with Jamie Rogozinsky. He is the one who
+created Wall Street Bets back in 2012. And he created it at an interesting moment when most
+Americans, and especially most young Americans, were thoroughly disenchanted with the markets.
+You know, they were not getting anywhere near stock trading. You know, the markets were sort
+sort of a dirty word at that moment,
+just a few years after the financial crisis.
+But Jamie, who was 30 at the time,
+was sort of struggling to find his place in life,
+saw something in trading and social networks
+that was compelling to him, that sort of drew him in,
+and that ended up turning into this community
+that I think a lot of other people found
+and liked for the same reason.
+And it was this tension in Jamie's life.
+I mean, the fact that he was struggling in real life,
+that he was also skeptical of the markets
+and the financial industry,
+and he saw something promising in this universe
+that led him to create this community.
+Few years later, James Zorzareman
+became the main moderator on this community
+and sort of took over from Jamie,
+ended up getting Jamie booted from the community.
+And he really saw this community
+through explosive growth during COVID
+and in the wake of the GameStop craze.
+What does it mean to be a moderator
+for one of these forums on Reddit?
+Are you the train conductor?
+Are you trafficking it?
+Are you policing it?
+What does it mean?
+It's a great question.
+And I think we don't really have a great model of it
+from the traditional world of media and community
+and politics, but it's this incredibly important role
+in these communities.
+It's a volunteer job, essentially.
+Nobody's getting paid anything to be a moderator,
+but they're the ones who are kind of making the rules,
+determining what's allowed, what's not allowed,
+and they have to keep the support of the community,
+and the rules for that are very unclear.
+And Jamie, who founded it,
+did not keep the support of the community,
+which is why he ended up getting kicked out.
+And it's this really interesting thing with Wall Street Bets
+where this is a place where people are coming together
+around the idea of making money and trading and investing.
+And yet when the moderators tried to make money
+off the community, they alienated
+and turned the sort of crowds on them.
+And so there's this strange like capitalist,
+anti-capitalist system almost,
+where you had to retain the trust of the people who were there
+if you wanted them to keep on leading the community.
+And there was a certain influence that came with that.
+And a big part of my book is trying
+to understand how this was a place that
+spinly had no rules.
+It seemed like anything went, you could say whatever
+you wanted.
+And yet, there was this sort of code of conduct.
+it governed how this community grew and the sort of influence it took on.
+Yeah. And this community largely made up of lonely, young, underemployed men, the
+Manosphere, right? These are people downstairs in the basement or shutting themselves in their
+bedrooms at night because they were able to express themselves through these online forums
+with fake names or their handles without actually having to go talk to people. So this was like this
+place where a lot of this was fermenting post-financial crisis, but it goes all the way through to today.
+So talk about the types of people that were in this or are still in this.
+Yeah, you're absolutely right. I mean, there is a whole world of young men that's grown up online
+that I think a lot of the outside world has sort of ignored. I mean, you know, it sometimes
+sort of flares up in ways that people can't ignore. I think, you know, Donald Trump and
+and the candidacy of Donald Trump and his popularity online
+is a big part of this community as well
+and tells us a lot about what's happened
+with this online community.
+But as you mentioned early on,
+it grew out of these seeds of this online community
+known as 4chan, which was a place to embrace
+the anonymity of the internet and allowed people
+to kind of give voice to these impulses and urges
+that were not allowed in polite society.
+And that was the sort of seeds of this
+and Wall Street Bets embraced that
+and sort of turned it on the financial markets.
+And I think there was something for young men
+who were struggling in life
+that was very attractive about the financial markets.
+There was something about trading that drew these people
+and that gave them a sense of sort of influence
+and agency and power.
+like they could understand something.
+And this was a space for them that was largely
+not all that appealing to women.
+And so there just weren't women around
+and that gave a sort of no holds barred atmosphere
+to the whole thing.
+But I mean, I think it's worth going back
+and remembering that this issue with young men,
+I mean, we sort of think about the underemployed
+sort of angry young men,
+but this is a real issue in our society today.
+I mean, the study of how young men have struggled,
+how they've fallen behind in school,
+I mean, this is not just a sort of fringe thing.
+This is a widespread issue.
+And I think you see it in college graduation rates
+and employment levels.
+I mean, you know, all across the board,
+young men have sort of fallen behind their female peers.
+And this sort of financial manifestation of it
+is pointing out in the markets.
+And I think it's one of the most interesting ways
+this is all sort of playing out over time.
+So it's not just the trading, right?
+And the community that they built, but it's the trolling,
+which is the name of your book,
+the trolls of Wall Street.
+And folks will link to it in the show notes,
+but it's not just the fact that you can trade,
+talk about it and have all this activity,
+but you could take shots at people.
+And that's what a lot of this became.
+People could say anything they want,
+and on the flip side, they could pump a stock up
+or they could take it down or they could take someone down.
+So it was no holds barred in a lot of ways
+that was a behavioral thing,
+but it also translated into a trading thing.
+Yeah, trolling is this crucial concept
+that I think is necessary to understand American culture
+in the last decade, but trolling is also this thing
+that's necessary if you wanna understand
+what's going on in the markets these days,
+because it always seems like a joke.
+I mean, the troll always has this sort of defense
+that it's all just sort of pram, a joke.
+But hiding underneath that joke is, in the case of investing,
+real money.
+Real money is on the line.
+And this strange way in which it all seemed like a joke,
+and yet it started to actually move the markets.
+And that really happened, as you mentioned,
+during COVID when millions of people found their way
+to this community, found their way to this style of trading,
+and trolling entered the markets.
+And trolling is this idea that first grew up
+on 4chan and on online communities.
+But it has sort of taken over as this like new mode
+of discourse and it's obviously also taken over politics.
+Let's get back to Robinhood for a second.
+The online trading platform, the first online broker
+to make trading commissions free,
+had a huge role in this movement
+and then all the way through the pandemic
+where we had some blowups with Robinhood.
+It was also started in the ashes
+of the great financial crisis, exploded obviously in 2021,
+but it is pivotal to what was going on here
+because it kind of gamified the trading with the confetti,
+the simplicity of it, ultimately the app.
+That brought so many retail traders
+into the market for the first time,
+and a lot of them have kind of stayed there.
+Yeah, I mean, you have to remember,
+there's really two, I think, crucial parts
+of the ramen hood recipe.
+One, as you pointed out,
+is that they eliminated trading fees, trading commissions,
+so that when you bought $10 of stock in something,
+if that's the size trade you wanted to put on,
+you didn't have to pay another $10 to make the trade.
+And that seemed like a small thing at first,
+but within a couple of years,
+all of the other brokers had to follow suit
+and eliminated trading commissions on their own platform.
+So, 2019, right before COVID struck,
+you saw Schwab and E-Trade and everybody
+had to eliminate commissions because they realized
+that their customers were all gonna go to Robinhood
+if they didn't.
+But the other element,
+and the somewhat more amorphous element,
+but equally important element
+of the Robinhood success story
+is the way that they made trading feel accessible.
+You open the app and it feels like something you can do.
+It doesn't feel like something
+that you need to have a college degree to do.
+And that drew a lot of people
+and it made trading feel like something
+that anybody could get started on.
+Anybody did get started on.
+I mean, Robinhood really threw open the gates
+in quite a radical way,
+and in ways that we're still seeing.
+And as you point out, there were other elements to this.
+Crypto was a big part of this.
+We often think about this as meme stocks.
+It's easy to sort of get stuck
+in thinking about this as just about meme stocks,
+but there's this whole new world of online money
+where these players of these online communities are moving in between. And it's not as though
+there's just meme stocks are where it all happened. You know, this is really a whole new online universe
+of money. Oh, yeah, penny stocks, meme stocks, Forex, everything you can think of. But when we
+talk about meme stocks, I mentioned the GameStops and the and the AMC's the world, those became
+popular during the pandemic. But the OG meme stocks that were being traded by this community
+before that, we're talking about Tesla, Virgin Galactic, right? This was already happening.
+It just exploded during COVID. So this community was already very active in pushing up a lot of
+these stocks, but also the hero worship, right? With CEOs like Elon Musk and Richard Branson,
+this community can get behind those types of people and really pump up those stocks.
+Yeah. I mean, for most people, there was a sense that this began and ended with GameStop in 2021.
+There was this notion that that had suddenly flared up overnight and had come out of nowhere.
+But as you point out, this had been evolving, developing for years.
+The first meme stock, the most popular meme stock was AMD, the chip maker.
+And one of the interesting things about the AMD story is when people picked it up, they
+picked it up because it was this loser underdog, which appealed to this community of underdogs.
+And AMD ended up going up something like 200, 300% in the years after this community first
+fixed on it.
+They were the only ones who saw the underdog story and the potential in AMD.
+And a lot of people got very rich in this community from AMD.
+That led into, as you point out, Tesla, which is another one of these stocks that the
+institutional community had just written off.
+It was one of the most heavily shorted stocks on Wall Street.
+Still is.
+Yeah. And when the Wall Street Bets community began to fix on this and drive it up,
+everybody was assuming this was going to have to end. And years later, we're still seeing this.
+Billions of dollars that hedge funds lost trying to short Tesla were lost in large part to these
+retail traders. And all of this happened before GameStop ever showed up. So this was not a flash
+in the pan, this was something that sort of evolved over years.
+So 2021, 2022, we're back to work, right? Retail trading activity dissipates, as you might imagine,
+but they don't go away necessarily, right? We still have a lot of day traders targeting
+short-sold companies. You see some activity now and then. We saw it again with Roaring Kitty a
+few weeks back when he was back in the market or reasserting himself that he was still involved
+and GameStop. What happened after we get back to work? Where do these people go?
+Well, I think there was, as you point out, there was an assumption that this crowd was
+going to dissipate. And I think when you just look at meme stocks, the fervor has come out of that.
+When this latest GameStop boom was a shadow of the 2021, there was not the same level of activity
+and excitement last month when GameStop brought up again with Roaring Kitty.
+But if you just look at meme stocks, you're missing the bigger picture here and the bigger
+movement that's developed around this. And what's interesting is this data that a number of
+companies have begun to collect. I think the most interesting data comes from a company called
+Vanda Research, which has found a way to tease apart the amount of trading done by retail
+traders and the individual stock buying that they're doing. What you see from their data is
+that the amount of trading and investing done by retail folks went up by something like a factor of
+four or five from before the pandemic to after the pandemic started. And that has been sustained
+essentially even as people have gone to work. I mean you see something like 20 billion dollars
+a month is being spent every each month by retail traders buying stocks. And that is so much higher
+than what we saw before the crisis. And most of what they're doing is no longer meme stocks. This
+is not driven primarily by meme stocks. What you see is a sort of process of maturation and education
+where people realize like, okay, there's the entertainment part of this, but there's also
+the part where you bet on stocks, you know, a lot of this is the sort of magnificent seven tech stocks,
+and you can make money. I mean, you put money into the markets and it just goes up. And so you've seen
+this shift from meme stocks to, you know, the Nvidia, the AI stocks of the world, the electric
+car companies of the world, even beyond Tesla. And you see this sort of betting on the future.
+And that's why I think this is sticking around. This is no longer just about meme stocks. It's
+no longer just about the most speculative corners of the market. This is turning into real investing.
+Yeah, folks will remember our conversation with Tom Sosnoff a few weeks ago when he said the
+best thing to come out of this is the fact that a lot of people got into the market that would
+not have been in the market or not have gone into the market. And that's a good thing. But we
+also know that people lose money day trading. Most people lose money day trading. And if you
+You chased a lot of these meme stocks, especially as they got higher and higher, you probably
+lost money.
+In fact, there's people call these traders dumb money.
+And there was a movie that we've talked about on this podcast before called Dumb Money.
+I'm in that movie, right?
+It's a movie.
+It's also a term.
+It's not so simple as that.
+Is it though?
+Not everybody lost money.
+And as you just mentioned, a lot of people graduated into long term investing.
+That's a great point.
+I think the old idea of dumb money is simply dumb.
+I mean, yes, people make stupid decisions
+when they're first getting into this.
+It's very easy when you're first getting into this
+to get drawn into the shiniest thing.
+And there are a lot of people who lost money.
+I talk about that in the book.
+But what I think is even more interesting
+is the fact that you see this progression over time.
+And when you look at some of the data,
+it's not at all clear that this crowd as a whole
+has lost money or even done worse than the indexes.
+I mean, there's now a lot of interesting academic work
+being done, looking at retail traders,
+looking at this new generation.
+And a lot of it suggests that they're actually doing
+quite well over time.
+All right, so let's take it back to our main characters
+and Wall Street bits.
+The forum is still active.
+It's not like it was obviously in 2021
+where it was totally bananas, but it is still active.
+Where's Jamie today?
+Where's Jordan today?
+Where does Wall Street Bets sit today in this conversation?
+And what do you think happens next?
+Not to predict the next mania,
+but you think this community remains like it is
+or does it evolve?
+Well, Jamie and Jordan are still very much in there.
+Jordan is still essentially the top moderator
+or one of the top moderators on Wall Street Bets.
+There's always a community of moderators,
+but he has added all of these AI powered tools
+to Wall Street Bets,
+turned it into something much more sophisticated
+and interesting.
+Jamie got kicked out of Wall Street Bets,
+but he still understands the sort of power
+of this new world of retail trading.
+And he's out there doing podcasts and movie.
+I mean, he's all over the place.
+He's established himself as something of an expert
+on this new generation.
+But I think part of what's interesting
+is that this movement has gotten bigger
+than Wall Street Bets.
+I think the fervor on Wall Street Bets
+that grew up around meme stocks and options trading.
+And as I mentioned, this has gotten bigger than that.
+This is now something that essentially
+all young men take part in.
+And it's not just on Wall Street Bets,
+there's Discord communities and chat groups
+and WhatsApp groups.
+And so I don't think that Wall Street Bets
+is the future of this.
+I think that this broader universe of young men who are investing and approaching the
+markets in new ways, I think that's where this is going.
+It's not about meme stocks.
+It's not necessarily about option.
+It's about the markets remaining a new source of entertainment, but also a new place to
+put money instead of just betting, gambling.
+There's often an instinct to compare investing to casino or sports gambling, but those kinds
+of speculation are zero-sum games and the markets are not zero-sum games.
+You can put money in, you can invest in companies, and everybody can win in that process.
+I think that is the positive spin on this.
+That's the good part of this story, which is that Americans and young Americans have
+more money in the markets and they are benefiting from it.
+And it was a big problem after the 2008 financial crisis that people ran from the markets.
+They missed out when the markets bounced back and that's not happening now.
+This is all about really the future of money too, something that you've covered really
+for your entire career.
+You've got your other book, Digital Gold, Bitcoin and the Inside Story of the Misfits
+and Millionaires Trying to Reinvent Money.
+You've got this terrific book, The Trolls of Wall Street.
+I got to know, let's go out on this.
+You've studied this space and you've been in this financial reporting and business reporting
+space for your whole career like me.
+What is your favorite financial or investing term, maybe something you learned through this
+book or otherwise, and why?
+I think the gamma squeeze was this crucial part of the Wall Street Beth story, this idea
+that options traders, options buyers, if enough options traders bought a similar looking
+a call option on a stock like Tesla, they could essentially force the market makers
+to buy the underlying stock and drive up the price. And you saw this happen with Tesla,
+you saw this happen with GameStop, you saw it happen with AMC. And it's one of these places
+where these trolls of Wall Street figured out something about the way the markets work.
+They came to understand the way options and market makers related to each other and the
+the way that that could set off a gamma squeeze.
+And you saw this again and again.
+And I think, again, it's one of these times
+where this community that looked like such a bunch of idiots
+to the outside world had actually figured out
+something very smart and clever about how the markets work.
+And I think that sort of tension,
+that contrast between how stupid they often look
+and how smart they are under the surface
+is one of the key elements of this whole story.
+Yeah, dumb like Fox, as we like to say.
+Anyway, it's a terrific book, Nathaniel Popper,
+the author of The Trolls of Wall Street,
+how the outcasts and insurgents are hacking the markets.
+It's out soon.
+We will link to it in the show notes,
+plus your other books.
+So good to have you on the Investopedia Express.
+Thanks for joining us.
+Great to be here, thank you.
+It's terminology time,
+time for us to get smart with the investing
+and finance term we need to know this week.
+And this week's term comes to us
+from the Supreme Court of the United States of America.
+The highest court in the land handed down
+a number of critical decisions last week,
+several of which deal big blows to government oversight and regulation of companies and
+their impact on the environment.
+And this week's term is the Chevron deference doctrine, a 40-year-old law that allowed state
+and federal courts to defer to federal agencies to interpret the laws they are charged with
+implementing providing their reading is reasonable, you know, kind of doing the job they're supposed
+to do.
+It's called the Chevron deference doctrine as a result of the landmark 1984 Supreme
+Court case Chevron versus the National Resources Defense Council in which the NRDC suits Chevron,
+Texas-based oil giant for attempting to reinterpret the Clean Air Act of 1970 in order to install
+new equipment at one of its refineries. The NRDC won that case, which was rather insignificant
+on its own, but the Chevron deference has been used hundreds of times by environmental groups
+and federal agencies like the EPA to punish companies for environmental violations and
+prevent them from adding more capacity that would increase pollution and add more emissions
+into the air. With last week's ruling, the Supreme Court has removed a sharp tooth
+from regulatory jaws, and that big wave of regulation we've witnessed against big business,
+especially big tech lately, that just may have pressed it.
+Thanks for joining us this week. As always, and special thanks to Nathaniel Popper for
+climbing aboard the Express. His new book, The Trolls of Wall Street, How the Outcasts
+and Insurgents Are Hacking the Markets, is a fun and smart read and perfect for your
+summer reading list. We'll link to it in the show notes, along with all the other
+reports we cited on this week's episode.
+We're going to take a little halftime break next week ourselves, recharge our engines
+and get ready for a busy second half of the year.
+But we're going to leave a bonus episode in the feed, and it's a special one for all
+you wine lovers out there.
+If you're looking to find the next Screaming Eagle, you'll love my conversation from the
+Food and Wine Classic in Aspen a couple of weeks ago with some of the smartest people
+in the wine industry today.
+Look for that juice in the feed next week.
+Enjoy your holiday and let's be grateful for our independence, and we'll talk again
+a little further on down the line.

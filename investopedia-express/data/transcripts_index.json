@@ -1,0 +1,1909 @@
+{
+ "episodes": {
+  "ep001": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 131.0,
+   "segments": 17
+  },
+  "ep002": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1244.3,
+   "segments": 329
+  },
+  "ep003": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1332.1,
+   "segments": 352
+  },
+  "ep004": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1337.3,
+   "segments": 392
+  },
+  "ep005": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 960.1,
+   "segments": 286
+  },
+  "ep006": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1032.0,
+   "segments": 263
+  },
+  "ep007": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1064.7,
+   "segments": 253
+  },
+  "ep008": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1453.8,
+   "segments": 424
+  },
+  "ep009": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1393.0,
+   "segments": 407
+  },
+  "ep010": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1591.6,
+   "segments": 550
+  },
+  "ep011": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1450.7,
+   "segments": 434
+  },
+  "ep012": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1382.6,
+   "segments": 371
+  },
+  "ep013": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 929.1,
+   "segments": 249
+  },
+  "ep014": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1418.3,
+   "segments": 370
+  },
+  "ep015": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1166.8,
+   "segments": 248
+  },
+  "ep016": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1298.5,
+   "segments": 375
+  },
+  "ep017": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1581.3,
+   "segments": 310
+  },
+  "ep018": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1406.2,
+   "segments": 365
+  },
+  "ep019": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1296.7,
+   "segments": 296
+  },
+  "ep020": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1194.5,
+   "segments": 260
+  },
+  "ep021": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1630.5,
+   "segments": 447
+  },
+  "ep022": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1496.2,
+   "segments": 394
+  },
+  "ep023": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1614.2,
+   "segments": 504
+  },
+  "ep024": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1279.1,
+   "segments": 323
+  },
+  "ep025": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1602.4,
+   "segments": 558
+  },
+  "ep026": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1433.4,
+   "segments": 462
+  },
+  "ep027": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1706.2,
+   "segments": 450
+  },
+  "ep028": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1552.8,
+   "segments": 389
+  },
+  "ep029": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1449.5,
+   "segments": 414
+  },
+  "ep030": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1208.8,
+   "segments": 286
+  },
+  "ep031": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1510.7,
+   "segments": 418
+  },
+  "ep032": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1876.4,
+   "segments": 610
+  },
+  "ep033": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1931.4,
+   "segments": 526
+  },
+  "ep034": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2282.1,
+   "segments": 714
+  },
+  "ep035": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1630.7,
+   "segments": 541
+  },
+  "ep036": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1859.6,
+   "segments": 578
+  },
+  "ep037": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1962.1,
+   "segments": 546
+  },
+  "ep038": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1999.3,
+   "segments": 549
+  },
+  "ep039": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2112.4,
+   "segments": 548
+  },
+  "ep040": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1578.0,
+   "segments": 454
+  },
+  "ep041": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1691.9,
+   "segments": 435
+  },
+  "ep042": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1683.7,
+   "segments": 492
+  },
+  "ep043": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1703.9,
+   "segments": 486
+  },
+  "ep044": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1721.5,
+   "segments": 448
+  },
+  "ep045": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1855.4,
+   "segments": 477
+  },
+  "ep046": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1994.7,
+   "segments": 530
+  },
+  "ep047": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1528.3,
+   "segments": 450
+  },
+  "ep048": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1606.9,
+   "segments": 455
+  },
+  "ep049": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1798.1,
+   "segments": 538
+  },
+  "ep050": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1933.4,
+   "segments": 531
+  },
+  "ep051": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1781.9,
+   "segments": 516
+  },
+  "ep052": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1779.0,
+   "segments": 478
+  },
+  "ep053": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1754.0,
+   "segments": 511
+  },
+  "ep054": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1226.7,
+   "segments": 310
+  },
+  "ep055": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1557.9,
+   "segments": 431
+  },
+  "ep056": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1782.4,
+   "segments": 510
+  },
+  "ep057": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1979.1,
+   "segments": 611
+  },
+  "ep058": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1633.9,
+   "segments": 486
+  },
+  "ep059": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1802.4,
+   "segments": 553
+  },
+  "ep060": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1766.3,
+   "segments": 415
+  },
+  "ep061": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1792.5,
+   "segments": 541
+  },
+  "ep062": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1636.3,
+   "segments": 454
+  },
+  "ep063": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1614.6,
+   "segments": 409
+  },
+  "ep064": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2036.0,
+   "segments": 666
+  },
+  "ep065": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1985.2,
+   "segments": 547
+  },
+  "ep066": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1667.4,
+   "segments": 425
+  },
+  "ep067": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1750.9,
+   "segments": 492
+  },
+  "ep068": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1861.0,
+   "segments": 436
+  },
+  "ep069": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1955.8,
+   "segments": 448
+  },
+  "ep070": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2229.7,
+   "segments": 520
+  },
+  "ep071": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1816.9,
+   "segments": 493
+  },
+  "ep072": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2022.7,
+   "segments": 508
+  },
+  "ep073": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1901.7,
+   "segments": 502
+  },
+  "ep074": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1797.2,
+   "segments": 575
+  },
+  "ep075": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1749.6,
+   "segments": 555
+  },
+  "ep076": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1778.7,
+   "segments": 440
+  },
+  "ep077": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1571.6,
+   "segments": 373
+  },
+  "ep078": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1914.3,
+   "segments": 611
+  },
+  "ep079": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1811.4,
+   "segments": 643
+  },
+  "ep080": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1437.0,
+   "segments": 345
+  },
+  "ep081": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1745.7,
+   "segments": 466
+  },
+  "ep082": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1567.6,
+   "segments": 420
+  },
+  "ep083": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2071.9,
+   "segments": 509
+  },
+  "ep084": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1692.5,
+   "segments": 507
+  },
+  "ep085": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1919.9,
+   "segments": 579
+  },
+  "ep086": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1876.3,
+   "segments": 498
+  },
+  "ep087": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1845.1,
+   "segments": 460
+  },
+  "ep088": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1926.2,
+   "segments": 434
+  },
+  "ep089": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1748.9,
+   "segments": 563
+  },
+  "ep090": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1818.3,
+   "segments": 460
+  },
+  "ep091": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2767.5,
+   "segments": 1067
+  },
+  "ep092": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 3575.0,
+   "segments": 1495
+  },
+  "ep093": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1860.2,
+   "segments": 511
+  },
+  "ep094": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1911.1,
+   "segments": 536
+  },
+  "ep095": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2099.2,
+   "segments": 671
+  },
+  "ep096": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2170.4,
+   "segments": 560
+  },
+  "ep097": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2374.6,
+   "segments": 541
+  },
+  "ep098": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1854.2,
+   "segments": 488
+  },
+  "ep099": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1883.5,
+   "segments": 506
+  },
+  "ep100": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1806.4,
+   "segments": 400
+  },
+  "ep101": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1752.6,
+   "segments": 494
+  },
+  "ep102": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1920.3,
+   "segments": 520
+  },
+  "ep103": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1831.6,
+   "segments": 473
+  },
+  "ep104": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1640.9,
+   "segments": 459
+  },
+  "ep105": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1785.9,
+   "segments": 526
+  },
+  "ep106": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2026.9,
+   "segments": 650
+  },
+  "ep107": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1933.1,
+   "segments": 619
+  },
+  "ep108": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2064.8,
+   "segments": 641
+  },
+  "ep109": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1985.0,
+   "segments": 608
+  },
+  "ep110": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2142.1,
+   "segments": 612
+  },
+  "ep111": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1948.3,
+   "segments": 428
+  },
+  "ep112": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1287.4,
+   "segments": 522
+  },
+  "ep113": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2026.7,
+   "segments": 526
+  },
+  "ep114": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1865.3,
+   "segments": 533
+  },
+  "ep115": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1968.7,
+   "segments": 520
+  },
+  "ep116": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2066.3,
+   "segments": 742
+  },
+  "ep117": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1871.6,
+   "segments": 553
+  },
+  "ep118": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1991.5,
+   "segments": 427
+  },
+  "ep119": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2137.7,
+   "segments": 483
+  },
+  "ep120": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1903.4,
+   "segments": 484
+  },
+  "ep121": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1734.4,
+   "segments": 510
+  },
+  "ep122": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1987.3,
+   "segments": 507
+  },
+  "ep123": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1651.7,
+   "segments": 497
+  },
+  "ep124": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2227.9,
+   "segments": 534
+  },
+  "ep125": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2176.9,
+   "segments": 702
+  },
+  "ep126": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1726.2,
+   "segments": 475
+  },
+  "ep127": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2008.1,
+   "segments": 629
+  },
+  "ep128": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1828.3,
+   "segments": 468
+  },
+  "ep129": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1807.0,
+   "segments": 557
+  },
+  "ep130": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1986.4,
+   "segments": 562
+  },
+  "ep131": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2011.1,
+   "segments": 466
+  },
+  "ep132": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2045.1,
+   "segments": 548
+  },
+  "ep133": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2137.4,
+   "segments": 792
+  },
+  "ep134": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1867.9,
+   "segments": 413
+  },
+  "ep135": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1871.3,
+   "segments": 464
+  },
+  "ep136": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1775.3,
+   "segments": 439
+  },
+  "ep137": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1997.1,
+   "segments": 702
+  },
+  "ep138": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2036.7,
+   "segments": 533
+  },
+  "ep139": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1771.4,
+   "segments": 478
+  },
+  "ep140": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1954.9,
+   "segments": 467
+  },
+  "ep141": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2117.5,
+   "segments": 652
+  },
+  "ep142": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1827.8,
+   "segments": 501
+  },
+  "ep143": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1644.2,
+   "segments": 584
+  },
+  "ep144": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1685.7,
+   "segments": 551
+  },
+  "ep145": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1685.1,
+   "segments": 466
+  },
+  "ep146": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1965.6,
+   "segments": 643
+  },
+  "ep147": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1862.1,
+   "segments": 460
+  },
+  "ep148": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1975.7,
+   "segments": 517
+  },
+  "ep149": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1811.4,
+   "segments": 458
+  },
+  "ep150": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1676.1,
+   "segments": 382
+  },
+  "ep151": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2117.0,
+   "segments": 548
+  },
+  "ep152": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1806.5,
+   "segments": 457
+  },
+  "ep153": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1776.4,
+   "segments": 530
+  },
+  "ep154": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1801.3,
+   "segments": 454
+  },
+  "ep155": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1897.0,
+   "segments": 565
+  },
+  "ep156": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2296.2,
+   "segments": 794
+  },
+  "ep157": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1945.6,
+   "segments": 404
+  },
+  "ep158": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1774.9,
+   "segments": 601
+  },
+  "ep159": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1912.0,
+   "segments": 574
+  },
+  "ep160": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1847.2,
+   "segments": 441
+  },
+  "ep161": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1809.3,
+   "segments": 487
+  },
+  "ep162": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1832.7,
+   "segments": 382
+  },
+  "ep163": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1815.9,
+   "segments": 578
+  },
+  "ep164": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1993.1,
+   "segments": 624
+  },
+  "ep165": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1918.1,
+   "segments": 659
+  },
+  "ep166": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1657.1,
+   "segments": 488
+  },
+  "ep167": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1922.7,
+   "segments": 621
+  },
+  "ep168": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1846.8,
+   "segments": 461
+  },
+  "ep169": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1575.4,
+   "segments": 387
+  },
+  "ep170": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1873.9,
+   "segments": 487
+  },
+  "ep171": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1931.9,
+   "segments": 556
+  },
+  "ep172": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1794.1,
+   "segments": 411
+  },
+  "ep173": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1846.3,
+   "segments": 594
+  },
+  "ep174": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1764.0,
+   "segments": 407
+  },
+  "ep175": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1903.6,
+   "segments": 533
+  },
+  "ep176": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1816.1,
+   "segments": 571
+  },
+  "ep177": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1858.5,
+   "segments": 493
+  },
+  "ep178": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1922.4,
+   "segments": 480
+  },
+  "ep179": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1866.0,
+   "segments": 451
+  },
+  "ep180": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2122.0,
+   "segments": 568
+  },
+  "ep181": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2144.0,
+   "segments": 661
+  },
+  "ep182": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1875.0,
+   "segments": 556
+  },
+  "ep183": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1924.5,
+   "segments": 501
+  },
+  "ep184": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1652.8,
+   "segments": 397
+  },
+  "ep185": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1841.7,
+   "segments": 518
+  },
+  "ep186": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2132.5,
+   "segments": 616
+  },
+  "ep187": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1837.0,
+   "segments": 437
+  },
+  "ep188": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1454.9,
+   "segments": 433
+  },
+  "ep189": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1799.2,
+   "segments": 486
+  },
+  "ep190": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1817.2,
+   "segments": 483
+  },
+  "ep191": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1836.7,
+   "segments": 485
+  },
+  "ep192": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1676.7,
+   "segments": 486
+  },
+  "ep193": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1889.6,
+   "segments": 656
+  },
+  "ep194": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2056.8,
+   "segments": 489
+  },
+  "ep195": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1851.1,
+   "segments": 504
+  },
+  "ep196": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2058.3,
+   "segments": 590
+  },
+  "ep197": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1844.8,
+   "segments": 685
+  },
+  "ep198": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1759.4,
+   "segments": 428
+  },
+  "ep199": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1968.7,
+   "segments": 454
+  },
+  "ep200": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1878.3,
+   "segments": 474
+  },
+  "ep201": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1909.7,
+   "segments": 461
+  },
+  "ep202": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1806.0,
+   "segments": 510
+  },
+  "ep203": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1923.4,
+   "segments": 595
+  },
+  "ep204": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1876.1,
+   "segments": 479
+  },
+  "ep205": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2015.3,
+   "segments": 572
+  },
+  "ep206": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2475.2,
+   "segments": 599
+  },
+  "ep207": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1655.7,
+   "segments": 463
+  },
+  "ep208": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1622.8,
+   "segments": 507
+  },
+  "ep209": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1513.9,
+   "segments": 455
+  },
+  "ep210": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1847.8,
+   "segments": 585
+  },
+  "ep211": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1948.1,
+   "segments": 563
+  },
+  "ep212": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1877.8,
+   "segments": 527
+  },
+  "ep213": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1902.9,
+   "segments": 534
+  },
+  "ep214": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1630.7,
+   "segments": 501
+  },
+  "ep215": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1993.3,
+   "segments": 565
+  },
+  "ep216": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2538.8,
+   "segments": 753
+  },
+  "ep217": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1867.6,
+   "segments": 439
+  },
+  "ep218": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2348.0,
+   "segments": 704
+  },
+  "ep219": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1941.7,
+   "segments": 509
+  },
+  "ep220": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1910.9,
+   "segments": 488
+  },
+  "ep221": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2254.8,
+   "segments": 573
+  },
+  "ep222": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2005.3,
+   "segments": 547
+  },
+  "ep223": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1809.4,
+   "segments": 463
+  },
+  "ep224": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 602.0,
+   "segments": 145
+  },
+  "ep225": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 727.3,
+   "segments": 185
+  },
+  "ep226": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 826.3,
+   "segments": 217
+  },
+  "ep227": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 736.3,
+   "segments": 180
+  },
+  "ep228": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 703.3,
+   "segments": 174
+  },
+  "ep229": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 734.0,
+   "segments": 167
+  },
+  "ep230": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 780.9,
+   "segments": 176
+  },
+  "ep231": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 719.9,
+   "segments": 198
+  },
+  "ep232": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 884.8,
+   "segments": 207
+  },
+  "ep233": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1361.3,
+   "segments": 395
+  },
+  "ep234": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 780.6,
+   "segments": 199
+  },
+  "ep235": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 855.0,
+   "segments": 221
+  },
+  "ep236": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1117.3,
+   "segments": 296
+  },
+  "ep237": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1300.3,
+   "segments": 342
+  },
+  "ep238": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 939.3,
+   "segments": 251
+  },
+  "ep239": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1010.7,
+   "segments": 248
+  },
+  "ep240": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 814.9,
+   "segments": 184
+  },
+  "ep241": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1111.6,
+   "segments": 383
+  },
+  "ep242": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 775.1,
+   "segments": 184
+  },
+  "ep243": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1850.3,
+   "segments": 653
+  },
+  "ep244": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1076.0,
+   "segments": 317
+  },
+  "ep245": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 973.9,
+   "segments": 235
+  },
+  "ep246": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1196.9,
+   "segments": 391
+  },
+  "ep247": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 761.4,
+   "segments": 190
+  },
+  "ep248": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1313.9,
+   "segments": 343
+  },
+  "ep249": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 879.8,
+   "segments": 197
+  },
+  "ep250": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2059.5,
+   "segments": 614
+  },
+  "ep251": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2205.8,
+   "segments": 675
+  },
+  "ep252": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1903.9,
+   "segments": 647
+  },
+  "ep253": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1937.9,
+   "segments": 659
+  },
+  "ep254": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1891.0,
+   "segments": 560
+  },
+  "ep255": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1902.7,
+   "segments": 671
+  },
+  "ep256": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1820.1,
+   "segments": 618
+  },
+  "ep257": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2104.4,
+   "segments": 678
+  },
+  "ep258": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1845.8,
+   "segments": 686
+  },
+  "ep259": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2110.1,
+   "segments": 701
+  },
+  "ep260": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2003.2,
+   "segments": 672
+  },
+  "ep261": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2090.8,
+   "segments": 707
+  },
+  "ep262": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1220.2,
+   "segments": 392
+  },
+  "ep263": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1789.7,
+   "segments": 601
+  },
+  "ep264": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2045.0,
+   "segments": 674
+  },
+  "ep265": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1902.6,
+   "segments": 680
+  },
+  "ep266": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1417.0,
+   "segments": 450
+  },
+  "ep267": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1520.5,
+   "segments": 627
+  },
+  "ep268": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2654.1,
+   "segments": 800
+  },
+  "ep269": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2402.3,
+   "segments": 830
+  },
+  "ep270": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1725.4,
+   "segments": 549
+  },
+  "ep271": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2470.4,
+   "segments": 795
+  },
+  "ep272": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2253.6,
+   "segments": 823
+  },
+  "ep273": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1939.3,
+   "segments": 589
+  },
+  "ep274": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1994.2,
+   "segments": 760
+  },
+  "ep275": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1558.6,
+   "segments": 618
+  },
+  "ep276": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1770.3,
+   "segments": 443
+  },
+  "ep277": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1222.8,
+   "segments": 417
+  },
+  "ep278": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1760.4,
+   "segments": 671
+  },
+  "ep279": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2393.0,
+   "segments": 813
+  },
+  "ep280": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1173.0,
+   "segments": 471
+  },
+  "ep281": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1974.2,
+   "segments": 624
+  },
+  "ep282": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2145.4,
+   "segments": 767
+  },
+  "ep283": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2057.8,
+   "segments": 603
+  },
+  "ep284": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2413.0,
+   "segments": 714
+  },
+  "ep285": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2240.0,
+   "segments": 589
+  },
+  "ep286": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2428.4,
+   "segments": 746
+  },
+  "ep287": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2326.7,
+   "segments": 753
+  },
+  "ep288": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2492.2,
+   "segments": 728
+  },
+  "ep289": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2490.4,
+   "segments": 714
+  },
+  "ep290": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1709.8,
+   "segments": 682
+  },
+  "ep291": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1990.2,
+   "segments": 708
+  },
+  "ep292": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2302.7,
+   "segments": 760
+  },
+  "ep293": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1971.6,
+   "segments": 600
+  },
+  "ep294": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2160.7,
+   "segments": 789
+  },
+  "ep295": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2222.3,
+   "segments": 585
+  },
+  "ep296": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2226.3,
+   "segments": 627
+  },
+  "ep297": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1934.3,
+   "segments": 630
+  },
+  "ep298": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2511.2,
+   "segments": 803
+  },
+  "ep299": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2239.4,
+   "segments": 649
+  },
+  "ep300": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2269.6,
+   "segments": 795
+  },
+  "ep301": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2549.4,
+   "segments": 963
+  },
+  "ep302": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2773.0,
+   "segments": 868
+  },
+  "ep303": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2353.8,
+   "segments": 727
+  },
+  "ep304": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2447.1,
+   "segments": 801
+  },
+  "ep305": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 3246.1,
+   "segments": 1154
+  },
+  "ep306": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2262.7,
+   "segments": 755
+  },
+  "ep307": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2689.0,
+   "segments": 1076
+  },
+  "ep308": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2920.2,
+   "segments": 837
+  },
+  "ep309": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2960.8,
+   "segments": 971
+  },
+  "ep310": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2739.4,
+   "segments": 934
+  },
+  "ep311": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2557.3,
+   "segments": 849
+  },
+  "ep312": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2491.7,
+   "segments": 725
+  },
+  "ep313": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1800.1,
+   "segments": 681
+  },
+  "ep314": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2086.1,
+   "segments": 739
+  },
+  "ep315": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2489.2,
+   "segments": 863
+  },
+  "ep316": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 1717.1,
+   "segments": 653
+  },
+  "ep317": {
+   "source": "whisper",
+   "model": "small.en",
+   "audio_seconds": 2313.5,
+   "segments": 692
+  }
+ },
+ "sources": {
+  "whisper": "faster-whisper on the episode audio"
+ }
+}

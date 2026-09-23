@@ -1,0 +1,383 @@
+Welcome to the Investopedia Express conversation series.
+This is our space to talk to some of the most influential investors,
+strategists, advisors, academics, policymakers,
+journalists, and thinkers in the world of finance and investing.
+Today's conversation is with David Booth,
+the founder and chairman of Dimensional Funds.
+David and a group of future Nobel Prize winners from the University of Chicago
+revolutionized the investing world in the late 1960s and 70s,
+applying data for the first time to quantify the real performance of the stock market
+and to shine a glaring spotlight on the way Wall Street used to work.
+In the process, they created Dimensional Funds,
+one of the most successful investing firms in history.
+There was something in the water in the late 1960s
+flowing south down the Chicago River,
+making its way into the pipes at the University of Chicago's Business School.
+It awakened a curiosity about the nascent power of computing, data analysis,
+and the way capital markets worked.
+A legion of Nobel Prize winners came out of that department.
+Many of them reshaped the way we think about the economy, the markets,
+and our behavior in those ecosystems.
+Milton Friedman, George Stigler, Gary Becker, Harry Markowitz,
+Myron Scholz, Eugene Fama, a financial murderer's row
+of the most revolutionary thinkers
+in modern financial history,
+all came through the hallowed halls
+along South Woodland Avenue.
+As did David Booth, a Lawrence, Kansas kid
+trying to make it as a shoe salesman,
+but knowing he had a higher calling.
+And that calling eventually led him
+to found Dimensional 43 years ago,
+an investment and advisor from that today,
+both $770 billion in assets under management,
+with over 1,500 employees around the world,
+but just one investment philosophy.
+And we're delighted to be joined today by David Booth,
+the chairman of Dimensional,
+and for whom the University of Chicago's
+Booth School of Business is named for,
+thanks to his generous donation.
+Thanks so much for joining us.
+Oh, well, thanks for having me.
+I'm glad you look forward to this.
+Yeah, what a ride.
+What was going on in Chicago?
+Obviously, the university, especially the business school,
+wanted to attract smart thinkers,
+but they were on the verge of something
+that nobody was aware of.
+Well, no, that's right.
+And you're correct to point out,
+all of a sudden they had data and they had computers
+big enough to process the data.
+I mean, cause you can, even though you have data
+if you're trying to do a regression on a HP 12C,
+pretty tough to do.
+How big were the rooms though for these computers?
+There were entire rooms at the time.
+All you had was the buildings.
+It was very difficult to get turnaround
+on your programming.
+So you'd spend all night down at the computer center.
+Yeah, load up the chips, come back in the morning.
+Hopefully your data came out,
+but in that you had some very interesting people
+like Eugene Fama, like Myron Scholz,
+like a lot of these people who were fascinated with data,
+but also they didn't just take Wall Street's word
+for gospel, right?
+They said there's something very wrong and very different
+about what's going on in finance than what the guys
+on Wall Street with the suspenders and the cigars
+and the martinis are telling you.
+They think they know it all, but they don't.
+Why did that curiosity spark up in people
+like Eugene Fama and others?
+Well, I mean, you described it pretty well.
+Talking to people, a lot of people think
+that the stock market is run by insiders,
+then they feel like they're an outsider.
+And so they're not really part of the game
+and they don't invest.
+I think the breakthrough in a nutshell was
+these insiders were as clever as they claimed to be.
+And a bunch of these outsiders,
+Fama, Scholes, Miller, and the group
+tested what they claimed and found it to be wanting.
+And the key thing that they were really testing,
+the core of it all was the information about the market
+is contained in the market.
+Pricing data will tell you everything.
+Pricing trends will tell you a lot,
+but it's not as if somebody has the next hot thing
+because somebody told them over at the bar
+that that's why that stock's gonna go up.
+What was the importance of testing that theory?
+I guess in essence, as you're saying,
+you may be smart, but the market's smarter than you are.
+And so people just look at the data.
+You look at the performance
+of professionally managed portfolios, for example,
+is largely in the public domain.
+You could test it out now.
+And after fees are considered,
+the results are worse than you'd expect by chance,
+you know, which is, that's difficult to explain.
+It just means the costs of doing all that trading
+and so forth and management fees,
+wiped out any advantage that they thought they had.
+Yeah. Meanwhile, Jack Boga was also figuring that out
+as well. And he went on to become sort of the
+godfather of index fund, but it was also this questioning
+that you eventually walked into when you went in there
+as a PhD student, what does right mean?
+Risk versus expected return.
+Why did that become something that you wanted
+to tackle yourself?
+Well, I think the whole motivation
+of these great academics was to really understand more
+about markets and how they work.
+And if they could do that, then they could improve
+the lives of a lot of people,
+help people figure out a better way to invest.
+And that's what happened.
+Over the last 50 years, things have changed a lot.
+People are getting a much better deal
+investing today than in 1971 when I started out. These are lower, better risk controls and so forth,
+flowed from these ideas and all this research that was being developed.
+Right. And it also opened the capital markets because all of a sudden, real normal people were
+like, wait a second, if I can just bet on the index, if I can just invest in the index or
+pick a sector, I can outperform what hotshot things down on Wall Street.
+Yeah, pretty cool. It's a democratization of investing. And that's part of the motivation
+that we have in doing our documentary is that we want to help people learn more about how
+markets work and they learn more about how markets work, they're more likely to invest,
+have a good investment experience over time. I want to get into the documentary in a minute,
+but you've engaged the Academy Award winning filmmaker, Errol Morris, to make a film called
+Tune Out the Noise, which is incredible folks. We'll link to it in the show notes, which Errol
+Morris is one of the best documentary makers of the last 50 years. This documentary is beautiful.
+I want to talk about why you wanted to tell the story more in a little bit.
+But let's go through the timeline of what you walked into when you went to the University
+of Chicago as a PhD student.
+1964, William Sharps develops the capital asset pricing model, a method for evaluating the
+expected return in risk of securities and portfolios at Seminole.
+1965, Fama, your colleague, Eugene Fama, the historic financial analyst, journal paper,
+random walks in stock market prices.
+We also know about random walks down Wall Street.
+In 1969, you enrolled in the University of Chicago as a PhD student.
+Right around all this idea formation, all this data analysis, what hooked you?
+Why did you want to get into it in the first place?
+I was always curious about finance and I had to do something with numbers.
+My undergraduate and master's degrees were quantitative things.
+And all of a sudden, particularly at the University of Chicago, all of this research
+data quantitative aspects were very appealing to me.
+Now how I got hooked was really early on,
+sitting down my first course, first day,
+was a course taught by Gene Fama.
+And he quickly got into this notion of how markets work.
+And I go, that has to be the way markets work.
+And that wasn't until much later I realized
+that Wall Street didn't believe any of that.
+But it turns out Fama was right.
+So Fama won Wall Street zero, you know?
+Yeah, and he had no problem sticking his finger
+in the eye at Wall Street.
+He was an outsider, came from Massachusetts.
+He was a tough kid.
+He didn't know business being there in the first place.
+You were a shoe salesman and decided that you didn't want to be in a profession
+where you didn't feel great about what you were doing.
+What made you go, this is not for me, but this definitely could be for me.
+At the end of the day, I think people want to feel good in their careers
+that they helped the world was better for them having been there.
+And so my idea was I'll go get a PhD return maybe to Kansas and be a professor.
+And that was it because I thought that would have a lot of satisfaction in that.
+Yeah, you could do a lot worse than that. Plus, you had a fun team to root for. But cut to 1981,
+your founding dimensional, just about a mile or two from here in your Brooklyn brownstone,
+how did you pull it all together to form the firm?
+A lot of things had to come together. But basically, the aha moment was when we started
+working with big institutional clients. And those days, they didn't invest any meaningful way in
+the stocks of smaller companies. So we go, aha, that's absent from your portfolio. And it's
+It's only sensible you'd have stocks of large and small companies.
+And what we will do is give you access to small.
+Indeed, you launched in 1981 the US microcap portfolio.
+That's breaking new ground, offering small caps
+to retail investors as a diversifying mechanism.
+Now that's pretty common.
+But you were the first ones to do it because you had all
+of this data.
+And then, as the firm continues to grow over time,
+you keep adding pieces to it, adding new funds to it,
+adding new dimensions to dimensional.
+But when did you realize you were onto something that could become mass market,
+so to speak, or big enough to attract enough assets to make it a real going concern?
+Well, it never really occurred to us.
+And then we had the financial advisor and Sacramento came in and wanted access
+to our funds and I come on.
+We don't know about dealing with individual investors.
+We think they kind of come in and out and aren't that loyal.
+And he said, no, no, no, no.
+Well, you know, we, we're good long-term investors.
+So we said, well, let's give it a try.
+And he tried it and then a year later he comes back and says,
+there are a lot of advisors like me out there
+that would love to have access to your funds.
+And so that's how we started working
+with financial advisors.
+And now that's a big, a bigger part of our business.
+It's a huge part of your business.
+They're recommending those funds to people like me.
+And in 2021, you become the largest active ETF issuer
+after launching ETFs just in 2020.
+So that was quick, you were definitely onto something
+and it has evolved since then.
+So this is all built on data, numbers don't lie.
+This is how you built the firm,
+evidence-based investing really at its core.
+Fast forward to 2025, David, today,
+the age of AI, data is the currency of the 21st century.
+What is this meant for dimensional?
+What does that meant for portfolio construction
+management overall?
+Well, it makes the whole process more efficient.
+There are things that AI is gonna be able to do
+that will make life a lot easier for us.
+And often the question kind of goes,
+Well, does this mean that people will be able to pick stocks
+more easily now than they could in the past because of AI?
+And I think the answer to that is no.
+I mean, this whole notion of market efficiency
+that's coined by Gene Fama says,
+you know, the best evidence is that market
+reflects all available information.
+No matter how big the AI machine is in our algorithm,
+it doesn't have access to all available information.
+I think I know the answer to this,
+but I'm gonna ask you straight up.
+I assume you still believe markets are efficient,
+And how do you explain that when we go through manias like during the pandemic, when we have
+the meme stock mania or where you have this volatility because you don't know the direction
+of economic policy?
+Is that just markets and participants trying to find the right levels?
+How do you explain it as somebody who believes this at his core?
+Well, I think that the best way to describe it is you know, to behave as though you believe
+markets are efficient.
+At some level, that theory or hypothesis is a model like other models.
+It doesn't explain everything.
+We can find exceptions that can undoubtedly are true of inefficiencies here or there,
+but you have to be careful with that.
+Those you can only identify after the fact.
+It's hard to identify these trends or something before the fact.
+That's the only thing that counts.
+So I come back to start with the data, professionally managed portfolios don't seem to be able to
+beat the market.
+So why would you think you could?
+And once you say, look, there may be some imperfections in the market, but I'm not
+going to give you advantage from that.
+So I don't really care.
+The market does a great job of setting prices
+that's the point that you can just accept them as being fair.
+What that means is when you go home at night,
+instead of agonizing over what you're gonna do
+in the market the next day,
+spend some time with your kids
+and come up with a sensible investment solution.
+It's basically just looking at all these
+different category stocks, bonds, whatever,
+and coming up with a sensible solution
+that works best for you.
+Now, what we've learned over time is,
+Sure, investing is complex and uncertain,
+but what's happened over the last couple of decades as well,
+several decades, is the growth
+in the fee-only financial advisor business.
+Until, let's say 1960,
+it basically nearly all the mutual fund companies
+started out as load companies.
+And theoretically, there's nothing wrong with load funds,
+but it just creates wrong incentives.
+So when we decided to work with advisors,
+We decided to only work with fee-only advisors
+and try to sidestep the conflicts of interest
+to come with being a product push salesman.
+Yeah, well, you were ahead of the fiduciary
+moving by many years.
+But now we have this where we have
+plenty of advisory firms out there.
+We have thousands of ETFs.
+Everyone trying to securitize the market
+in some way or another.
+Have we overdone it?
+Has the capital markets,
+has the financial services industry
+overdone it with product,
+overdone it with promise,
+ever done it with different ways to slice up the markets when you could just really
+be an index investor and be all right.
+Yeah, I think all you need are our funds.
+I mean, I don't think there's any reason to have anything else.
+One of the things I worry about with the trends recently is just the explosion in the index
+ETFs.
+And it's kind of starting, the motivation for indexing to begin with was it doesn't
+look like my managers can pick winners.
+Now, what you see is the whole ETF industry has turned into a giant investment casino,
+where you can place your bets. The market's open today, and here's all different ways,
+all different indices, all different ways of accessing the market. And what worries me is,
+as we've seen an explosion in the use of indexing, for example, it's been associated with a rise
+and trading volume. If people really believe the story, wouldn't you think that a rise in indexing
+would be associated with a decline in trading volume. It's one of the reasons you want to index
+is cut down on trading. How do you explain that? Is it just the fact that everyone is looking for
+an edge and looking for new ways, again, to slice it up and securitize it? Historically,
+I think the financial services industries have been dominated by snake oil salesmen,
+designing new products, different ways of packaging the same old stuff in a way that
+they can sell it to you to be able to produce it in a convincing manner.
+And I can go through my 50 years in the business, one fan after another. I mean, everyone really
+sounds terrific. And then people gravitate to it. And then all of a sudden, it doesn't seem to work
+like they thought it would. Well, let's put it this way. If you were 30 years old or 35 today
+and really getting serious about investing, investing for retirement, trying to build your
+wealth, how would you invest? Well, we believe in is you want to have kind of what is called
+market portfolios. On the equity side, you might have hundreds if not thousands of names.
+There could be a small cap market or a large or a value market. There could be different ways
+of constructing that market. But what you're looking for is broad diversification, low turnover
+rates, trading doesn't seem to pay off, and pay attention to taxes. If you think of the markets
+being the stocks and bonds, everything taken together, and let's just say stocks are half
+The market and bonds are half. Almost everybody believes that over the long haul stocks will
+have higher average returns than bonds. But few people have 100% of their money in stocks.
+And the reason is because along the way, there's too much variability that can stand the pain.
+And people frequently spend too little time thinking about their particular circumstance.
+If you're getting ready to retire, you're in a different spot than somebody that just won the
+lottery. So, you know, the key to all of this is, take for example, figuring out how much in stocks
+versus relatively riskless assets really does depend on your particular circumstance, how much
+you're willing to save, so forth. All that needs to come together. And even though the market's
+complex, I think you're left with a couple of kind of sensible ideas about how to approach the problem.
+Diverse vacations are muddy, fees are the lower the better, you know, and taxes are important.
+Is there any such thing as a risk-free asset anymore?
+I don't think so. For one thing, one kind of risk is always out there is inflation.
+Even if you think there's nominal risk, I mean, there's a certain interest you can get for sure.
+You don't know how well what is going to be worth at the end. It depends on what happens to inflation.
+Let's talk about the documentary again. We mentioned Errol Morris, one of the great documentary makers of all time.
+You hired him to make a documentary telling the story of dimensional why him why was it time to tell dimensional story?
+We weren't interested in making a movie
+What we're interested in is helping people understand markets and how they work and if they understand how markets work
+There will be more likely to come up with a sensible solution that they can live with and they can do that
+And they're probably gonna have a good long-term
+investment experience we approached Harold more with the idea of how to communicate and
+And he had very little experience in investing, but once he got onto these ideas, he just
+got incredibly excited.
+He's kind of an expert in the history of science and all of a sudden comes up with this, hey,
+this is just like 16th century with astronomy and all of a sudden new data, new information,
+and the field of astronomy changed just the way in the 60s and 70s with this new data,
+the field of investing changed.
+Yeah, he weaves it together so beautifully.
+So well filmed, so well edited.
+Just make sure you see that when it is out.
+We will link to it if we can in the show notes.
+All right, let's go out on this.
+You know, Investopedia is a site built on our investing terms and an investor education.
+We are birds of a feather like you.
+We want people to learn.
+What is David Booth's favorite investing term and why?
+Compounding.
+It really is the eighth wonder of the world or whatever Einstein said it was.
+People don't realize, let's say, if you have a 10% return, which is roughly what
+stocks have done historically, that throws your money every seven years.
+say you have six of those seven year periods,
+you know, a dollar grows to 64,
+you know, 100,000 grows to 6 million.
+I mean, the magic of compounding
+is hard for people to appreciate.
+And it's true in life as well.
+You are the result of the compounding
+of many decisions you made over your lifetime.
+So compounding is everywhere.
+It's just not in investing.
+Yeah, well, it's not a boring term for us.
+It's one of our favorites.
+And you know what?
+It's undefeated.
+Compounding is undefeated, especially in finance,
+but in all walks of life.
+It's been a true pleasure speaking with you.
+David Booth, the chairman of Dimensional.
+Thanks so much for joining the Express.
+Thank you.

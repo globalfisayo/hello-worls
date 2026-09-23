@@ -1,0 +1,424 @@
+Investors are walking on a tightrope.
+On one side, rising stock prices and economic recovery in some places
+and hopes for effective vaccines made widely available by the end of the year.
+On the other, rising volatility, an uneven economic recovery that is leaving millions behind,
+a resurgence in COVID-19 cases around the world, and oh yeah, an election just two weeks away.
+Don't look down now, we've got to keep on moving and you are on the Investopedia Express with me, Caleb Silver.
+We are more than seven months into this global pandemic and the divergences in the recovery
+are everywhere we look.
+Global economies like China, Germany, and even the US are recovering at a pretty healthy
+clip.
+But what will a second wave of the coronavirus do to that progress?
+Asset prices keep rising as equity markets have been grinding higher over the last month.
+And the drumbeat of the economic recovery, which can be heard everywhere but the labor
+market, finally woke up the yield curve.
+That plot of long-term interest rate expectations going way out into the future.
+Is it signaling long-term optimism for the US economy?
+If so, why are consumers starting to fret?
+We'll tackle all of that later in the show with Ryan Dietrich, the chief market strategist
+at LPL Financial, and Heather Long, economics reporter for The Washington Post.
+First, a few big things on the radar for this week.
+The corporate earnings parade rolls on with some 300 companies reporting results from
+the past quarter.
+We'll hear from Tesla, IBM, Coca-Cola, Chipotle, and Southwest Airlines, to name just a few.
+We know last quarter was the beginning of the recovery.
+We want to hear what these companies think about the future.
+On the economic front, we'll be on the lookout for U.S. building permits for September and
+U.S. home sales.
+We know the housing market is red hot in some parts of the country, but is anyone
+willing to build these days, especially with commercial real estate and dire straits?
+We'll also get a read on the Canadian Consumer Wednesday with consumer confidence and retail
+sales from the great north.
+And we'll get a look at the US Federal Reserve's beige book report on Wednesday, its diary
+of financial conditions in the US.
+We know this.
+The Fed is worried enough to keep interest rates at or near zero until at least 2023
+and stubbornly high unemployment, especially among lower income Americans, is a huge concern.
+With so much investor anxiety swirling around the upcoming election, it helps to have a
+little historical perspective to help guide individual investors.
+The good news for us is that we have Ryan Dietrich, the chief market strategist for LPL Financial
+with us to do just that.
+Ryan, welcome to the Express.
+Caleb, thank you so much for having me.
+I don't know.
+Do we even have anything to talk about?
+It's kind of boring out there, isn't it?
+But maybe we'll find something to talk about here.
+Yeah.
+I'm such a big fan of your research.
+I cite it all the time in my newsletters because it really does frame current market
+events into their proper historical context.
+I think that's so important for individual investors in particular.
+So as we stare down this critical election, how much does it really matter and should
+it matter to individual investors, the election?
+Well, I always like to use quotes and General Patton said, the further back in the past we
+look the further into the future we might see.
+And I always kind of gravitated to that because that's what I do.
+And when you think about elections, just keep this real simple here.
+This is an election year.
+October historically is actually the worst month of the year during an election year.
+Now, so far we're kind of hanging in there this October, but it kind of tells us maybe there's
+some skittishness, maybe just a little apprehension ahead of an election is what you tend to see more
+often than not. I know it's not perfect this year. Maybe our correction was back in September when
+we had that 10% correction and bounce back. But the other thing that tends to happen more often
+than not is you tend to get a rally after the election and we can get into the fact, you know,
+will there be a contested election and this and that, but once the uncertainty is out of the way,
+You tend to get that end of year rally and whether it be Santa Claus come to town or not.
+That's kind of what we think likely can happen. I've got all the stats in my head and you know
+all of them. The third quarter is normally not that strong. That's just how it is. Okay.
+Third quarter this year was up over 8% for the S&P 500. When I looked at all the times,
+you had a really good third quarter by up 7.5% or more. Caleb, the fourth quarter is higher every
+single time. I think it was like 10 or 11, I think 11 times. So it's one of those,
+it is what it is. And the third quarter might have been telling us that higher prices are coming in
+the fourth quarter. And we know it's an election year, but maybe the market doesn't care. Markets
+overlooking markets, almost ignored a hundred year pandemic and the devastation that that
+caused with our recession that we are probably out of, but just had. And markets still looks pretty
+good to us here, election or not. Right. And if you pull it even further back, some would say,
+look, we're in a secular bull market. Yes, we had a bear market within that. You can have
+have cyclical bear markets within secular bull markets. And this is the beginning of
+an expansion. There's a lot of money out there. There's a ton of money on the sideline. As
+we know, a ton of outflows over the summer in the past six months while the market was
+crushing higher. So there's a reason to believe, look, money's just on the sidelines, going
+to be put to work. There's going to be some infrastructure spending no matter who's elected
+president. So maybe that's just it.
+Yeah. And you think about the idea, look at small caps, right? Russell 2000 hasn't
+made a new high since I think it's August of 18. All right. That's a long time without
+new high. A lot of global markets have not made new highs. Everyone thinks in the US things are up
+so much because the large cap tech, NASDAQ 100, FANG stocks, we get it. But you look under the
+surface, you know, industrial materials and small caps, these are either getting closer to new
+all-time highs or just kind of breaking out, which I think is something that confuses a lot of
+investors where there are parts of this market that haven't gone anywhere. And you could spend
+that two ways. I'd spend it to, hey, maybe the market, you know, made a major, major peak in
+in January 2018, global markets for that matter.
+And we've had this bear market consolidation,
+a really rough patch overall,
+but now things are just starting to get going.
+And I like to use this example, I call it the seven year itch.
+If you think about 1950,
+that's when a bull market started, 1950, okay?
+That's my opinion.
+Seven years later in 1957,
+there was a recession at a bear market.
+What happened after that?
+Market went up to 1966, after that seven year itch.
+The bull market, in my opinion, started in 1980.
+That's when the S&P made new all time highs, 1980.
+Everyone says 82, I kind of disagree.
+If last time I checked you had seven to 1980, that's 87,
+33% correction or 34% correction, 33% correction,
+and then you rally for 13 more years.
+This bull market, in my opinion, didn't start in 2009,
+started in 2013, when we broke out above the peak
+in 2000, 2007 and 2013, went nowhere for 13 years,
+broke out, you add seven years to that, you get 2020.
+Once again, the seven year itch, we had the horrific,
+horrific, you know, 34% correction,
+fastest bear market in history.
+And what Mark Twain say, history doesn't repeat,
+but it rhymes.
+If these other two times of seven year itch played out,
+you had years to go,
+I don't wanna be like Mr. Perma bull here,
+but I do think that there is likely years left
+to this bull market that very well could just be getting
+started in a lot of ways.
+Right.
+LPL has some 17,000 advisors in its network
+advising individual investors out there
+as they face short-term things like the election
+and what comes after it.
+But what question are you getting most
+those advisors. Is it centered around November 3rd? Is it centered around tactical things about
+where to allocate since we've had a nice rally off the lows in late March?
+Yeah, I mean, I guess the number one question that we have is circled around the election,
+it's probably safe to say, and it's along the lines of, you know, if Joe Biden were to win,
+and if you get a blue wave, what could that mean? Because we all see what's going to happen with
+taxes. Taxes are probably going to go higher. We think, honestly, if President Trump were to win
+again, we might have a little bit higher taxes next year, certain places, but clearly Joe Biden's
+going to take the tax rate from 21 to 28. Now that's assuming, you know, we don't have a split
+Congress, which might be a lot harder to do, but some of the concern is what could that mean? And
+you know, sure, it can take 10% off of S&P 500 earnings, which is something we're not going to
+ignore. But what is Joe Biden also going to bring? Spending. All right, the next 10 years, he's
+looking at a $7 trillion spending plan. President Trump did a lot of spending also. Stock markets
+like spending, whether you agree with it or not, and I'm not saying I even agree with, you know,
+running up debt and spending a lot. What I am saying is markets like that. So partially,
+that's just so important for people to remember. When you look at the green energy, renewable energy,
+he's going to do, you mentioned infrastructure. We'll probably get infrastructure. President
+Trump would win. It's going to be bigger if Joe Biden wins. So just because taxes are going higher,
+I mean, that's not great, but there are some major other pluses. Oh, by the way,
+we've got an issue with China, right? Tariffs. And believe me, I know people still disagree,
+or tariffs good or bad, but nonetheless, I think Joe Biden's going to be much more,
+you know, a little easier on China, maybe get rid of some of those tariffs, which would actually
+help increase S&P 500 earnings.
+Over the past few weeks, Ryan, what are they telling you about how investors are betting
+on a potential election outcome or just repositioning themselves after what we've been through?
+Yeah, I mean, the one theme I guess that I'm hearing time and time again, and you turn
+on CNBC, and you've probably heard me even say it on CNBC, is this whole cyclical value
+trade.
+And we have seen some flows there.
+And when we hear cyclical value, what we like at LPL Research, we like materials and industrials
+on a relative strength basis, absolute price basis.
+two areas are really starting to take some leadership. And a lot of people have talked
+about bank stocks for a very long time as a cyclical value trade. We're still not so warm
+and fuzzy on bank stocks with yields lower. Banks have had really good earnings so far
+this earnings season, but it feels like every three months they've got earnings and the
+stocks underperform. So, you know, some flows into those cyclical value make a lot of sense.
+And the way we're positioning the models for our advisors, kind of almost like a call
+a barbell approach. You know, on one side, we do like tech and we still like, you know,
+healthcare, and then some of the groups that got you there where
+the earnings are coming from communication services, but the
+other side signal value those industrials and materials really
+could do well, the economy opens up and improves next year. And if
+we get more COVID and a slowdown, we know the playbook there is
+moving to the safety of big cap tech and healthcare, maybe what
+healthcare is, it's kind of a hybrid healthcare looks kind of
+good either way, you know, biotech is one of our favorite
+groups biotech went nowhere for five years and now all of a
+sudden broke out corrected and with the pandemic and all the
+money and flows that are going in there. There are some absolute bigger term opportunities
+the next five to 10 years in healthcare and biotech specifically in our view.
+Right. Just this massive shift in the way that our economy and the companies around it have reacted
+to trends that were already in motion. But the pandemic, a lot of people say, Ryan accelerated
+that. And now you're seeing this big shift, right? We think the pandemic, absolutely. It's
+like we've had about 10 years and about three months, right? All this hyperdrive, all the
+different things. And what we've seen with our independent advisors, some of the ones that have
+really succeeded. And this isn't just about, you know, the broker dealer world that I live in,
+research side of things, just in general, who's who's agile, right? Who's who's able to look at
+this fear, but find opportunity in it and make changes and adapt and then whatever industry
+you're in, this was a really, really tough time, no question about it. But that's what we've seen
+has really been been been there. One other thing from from LPL researchers point of view with our
+advisors, we found was successful for us, which is being there, right? Consistently reaching out,
+And I know you do this every day, you know, reaching out to your readers and to people on this podcast and showing them what's going on and bringing on different guests and just don't hide.
+Just because you're down 34% in six weeks.
+That is not the time to hide.
+Okay.
+You need to be out there.
+And if you don't know what's going on, say, listen, this is crazy.
+I don't know what's going on.
+Just be, be honest with people.
+And that's what we found really works.
+And it's easy to say now, those are G whiz or chip shop from all time highs almost.
+Uh, but still when, when we have another bear market and we will, right?
+I can't make guarantees.
+I'm in the world of compliance can make guarantees, but it's very likely.
+We're going to have another bear market someday. Just being there for people,
+being there for investors is so, so very important.
+Absolutely. And you're there. And folks, you should follow Ryan's research,
+get his research note every day. It's always terrific, a great follow on Twitter as well.
+And I so appreciate you joining us on the Express, sharing your viewpoints
+and be well. Thank you so much.
+It's over already. That was fast, but I look forward to being back soon. Thank you.
+We will definitely have you back. Ryan Dietrich from LPL Financial. Thanks so much.
+More than 10 million Americans are unemployed and over 26 million are receiving some form
+of unemployment insurance.
+But those are just the headline numbers and there's a lot more going on under the surface
+that's pretty troubling.
+Heather Long, the economics reporter for the Washington Post, my old colleague from CNN
+Money and one of my favorite people in the business joins us to uncover what most of
+us don't see inside the unemployment crisis in America.
+Heather, welcome to the Express.
+Good to be here.
+Income inequality was bad going into this crisis and now it seems to be exasperated.
+Where are we seeing the greatest strain in the labor force seven months into the pandemic
+now?
+This is the most unequal recession that we have seen in modern US history so that we have
+data for since World War II.
+What I mean by that is basically the recovery is over for the top 25% of Americans, a lot
+of whom can work from home.
+Those jobs weren't hit as hard and are mostly back.
+It's the total different story for the bottom half, particularly the bottom 25%.
+Those jobs are coming back very slowly.
+And those people, of course, had the least savings just to toss out a few numbers.
+Americans with college degrees, 55% of jobs are back.
+Americans with high school degrees, only 40% of jobs are back.
+And for black versus white, only a third of jobs are back for black men and women versus
+60% for white men and women.
+So you can see these big, big disparities.
+We had that coming out of the last recession and it took about 10 years for black unemployment
+to come down close to white unemployment levels.
+But it seems like there's just transformation in the economy because of the pandemic where
+the services part of the economy, where most of these low income workers are concentrated
+has been sort of affected maybe forever in some ways.
+Is that kind of what you're seeing when you look through the data?
+That's what I really think that the thesis coming out of this is, is in economic terms,
+we call it a need for reallocation.
+So coming out of the last recession,
+we needed a lot more blue collar workers
+to move into the service sector.
+This time around, we're going to need people
+who are already in the service sector
+to find different service sector jobs
+and potentially move cities.
+Are we really gonna need as many workers
+in New Orleans on Florida beaches in Las Vegas?
+That's a huge question coming out of all this
+and Americans right now don't move around a lot.
+We simply do not change states,
+move more than 60 miles away from where we grew up.
+So whether we can do that,
+whether particularly with these lower income workers,
+people don't have the savings needed
+to really restart their lives.
+Let's talk a little bit about stimulus
+because it's obviously the hot potato right now
+before the election.
+There probably won't be a bill before the election
+as far as anybody can tell or one of substance.
+But in your reports that I read often,
+you talk about the need for it
+and the need for it to be directed
+at these people who are being hit the hardest,
+But that's not what seems to be the conversation in Washington right now.
+If there is going to be stimulus, how do you think it should be most effectively directed?
+I mean, it's very clear where it needs to go.
+And I do think there's generally agreement on this between the White House and Republicans
+and Democrats in Congress.
+It's obvious that small businesses are really on the line.
+And it's obvious that these 25 million Americans currently on unemployment insurance are in
+pretty dire situation.
+I think one of the scariest data points that's come out in the last few days is this data
+from JPMorgan Chase Institute,
+which shows that what happened to unemployed people
+and the money they were getting,
+they were getting a pretty good amount,
+in some cases earning more than they did in their past job
+through the end of July.
+And a lot of people were smart,
+they tried to save that money,
+I've certainly heard that anecdotally,
+but JPMorgan really put data on that.
+And they showed that, okay,
+when those payments expired at the end of July,
+people went from getting about 900 on average a week
+down to 300, so a huge cut.
+People were able to make it through August
+and a bit of September.
+But now, and I certainly hear this anecdotally
+when I talk to people, now you've got people
+getting cars repossessed, people not able to pay the rent,
+people not able to get enough food.
+And that's the scary situation we're really in here.
+People are talking about a recovery
+that doesn't sound like a recovery to me.
+And it sounds like when you look at it
+from the investor perspective,
+there's all this concern about consumer spending.
+Is consumer spending gonna hold up
+as such an important part of the economy?
+Yes, it is, but we're not probably worried enough
+about people falling into poverty here
+and into what could be a cycle
+that may be very hard to get out of
+for the next several years.
+I think you're right.
+The other thing that's really struck me
+that I've learned more from speaking
+than probably 100 now unemployed people
+is even people who are going back to work,
+I think of a casino worker on the Gulf Coast,
+spoke with, she's a bartender at one of the casinos in Mississippi. She said, you know,
+I got my job back in July, but I earned about a third when I used to, you know, my hours aren't
+there. And the tips, you know, the tips that you used to get, she said all the checks, you know,
+there's fewer people coming in, they're ordering, they're not ordering the fillets like they used
+to. And all of that adds up. And I'm hearing that more and more. I think there's this perception is,
+oh, once people get their jobs back, they're fine. That is just not what we're hearing in
+the service sector at all. Right. And then all the hopes of a vaccine and everybody wants a vaccine
+or vaccines to come to market for the public, it doesn't necessarily flip the switch right away.
+This economy, especially in the areas that have been damaged so badly, is going to take a while
+to re accelerate. What are you reading and learning about how long it might take for an
+actual recovery, broad based recovery to happen if and when there are vaccines?
+Well, the most optimistic estimates are that we will be back to something around, quote,
+full employment in 2023 or 2024. Now, as you mentioned, it took 10 years almost to get there
+after the Great Recession. So certainly taking four years to get there sounds a little better,
+but it sure doesn't sound great if you're one of those people who would take years to get back to
+where you were pre-COVID. And that's really, I think, the big debate for whether Trump wins
+reelection or the buying team comes in, there needs to be more stimulus pretty quickly, but then there
+really needs to be this longer term plan. And I have to say Germany has done a much better job in
+this pandemic, not only of controlling the virus, but they have laid out a 10 year sort of vision
+and investment plan for where they want to transition workers, you know, what industries
+they want workers to encourage workers to go into. And we just don't really have that right now in
+the United States. We're sort of letting people flail around with no direction, no retraining.
+So we're not going to get another non-farm payrolls monthly jobs report before the election. We know
+our unemployment stands going into the final election here, but what are some of the key
+economic reports you're going to be looking at over the next week or two to give you a sort
+of better sense of where we are? Well, obviously everyone's waiting for that third quarter GDP
+report, which will be right before the election. But I think what could be even more interesting
+will actually come on Tuesday morning at 10 a.m. and that is the state unemployment data. So we'll
+get our last look at how individual states are doing and then this fades in the election cycle.
+We all know what the national results probably going to be but so much of this election hinges on
+Pennsylvania, Wisconsin, Michigan, maybe Florida and when you look at individual states there's
+such a disparity right now. Pennsylvania, our last read on their unemployment was over 10 percent.
+one of the worst states. Is that still really bad? When I talk to pollsters there, they say,
+you know, the economy was rising as an issue on people's minds. And the contrast, Wisconsin had
+one of the lowest unemployment rates, the last read we got at 6.2. Did they fall again? Michigan
+sort of in between. So I think that's going to be really interesting to see, is there improvement
+in some of these key swing states or not? Politics and economics are all very local as we
+all know. Thank you so much, Heather. Heather Long is the economics reporter for The Washington
+Post and one of my very favorite journalists out there covering the stories that need to
+be covered. Put her on your reading list if you want to really know what's going on inside
+the economy.
+Where were you 33 years ago today on Monday, October the 19th, 1987? Well, some of you
+were probably not around back then or too young to remember. I was just 17 and definitely
+not aware of what was happening on the corner of Wall Street and Pine Street inside the
+the New York Stock Exchange.
+The Dow Jones Industrials fell more than 22% that day, the single biggest one-day percentage
+decline in history.
+It set off a bear market that took nearly two years to climb out of.
+Why did it happen?
+A few reasons.
+Over speculation, the Dow had climbed 44% in just seven months leading up to August of
+1987 as investors chased high-tech healthcare and energy stocks.
+Excessive hedging as big institutional investors bought what was known as portfolio insurance
+in case things went south.
+Today we just call that shorting the market by buying put options and stock or index futures
+betting that they will fall.
+As markets fell, those bets were programmed to automatically keep buying more put options,
+creating an avalanche of selling.
+And it was the beginning of computerized trading, which couldn't keep up with the order flow
+as traders frantically rushed to file sell orders.
+While the Dow clawed back 50% of those Black Monday losses in just two sessions, it took
+until September 1989 for stocks to return to pre-Black Monday levels.
+So could it happen again today?
+Well, not quite, but that 12.9% drop back in March of this year was a little bit of a
+face ripper, as they say downtown.
+And stock exchanges, like the New York Stock Exchange, have implemented what we call circuit
+breakers.
+These automatically halt trading when indexes fall by certain percentages to make sure that
+all orders can be processed in the order that they were entered.
+If you remember this past March, those circuit breakers were triggered three times in just
+over a week when the market plummeted on the outset of this pandemic.
+It's terminology time.
+Time for us to get smart with the investing or finance term we need to know this week.
+This week's term comes to us courtesy of Shashin Shah from Santa Fe, New Mexico.
+Shashin gets a pair of vintage Investopedia socks for his suggestion, and you can too
+by DMing us on Twitter or Instagram with your suggestion if we use it.
+Shashine wants to know about yield curve control, and it's timely because that's what the Federal
+Reserve has been trying to do.
+Yield curve control, according to my favorite website, involves targeting a longer-term
+interest rate by a central bank, like the Federal Reserve, than buying or selling as
+many bonds as necessary to hit that rate target.
+In normal times, the Fed steers the economy by raising or lowering very short-term interest
+rates, including the rate that banks earn on their overnight deposits.
+After yield curve control, or YCC as the economists like to call it, the Fed would target some
+longer term rate and pledge to buy enough long term bonds to keep the rate from rising above
+its target.
+It's yet another way for the Fed to stimulate the economy if bringing short term rates to
+zero isn't enough.
+Why is yield curve control our term this week?
+Because the Fed will release its beige book on Wednesday and investors want to hear what
+other tools it might have up its sleeve to keep the U.S. economy on the recovery
+track.
+We hope you stay on track this week and we'll try to do the same.
+We'll let the legendary business broadcaster Louis Rukeyser take us out with his opening
+to his broadcast on PBS just after Black Monday in 1987.
+Okay, let's start with what's really important tonight.
+It's just your money, not your life.
+Everybody who really loved you a week ago still loves you tonight.
+And that's a heck of a lot more important than the numbers on a brokerage statement.
+The robins will sing, the crocuses will bloom, babies will gurgle, and puppies will curl
+up in your lap and drift happily to sleep, even when the stock market goes temporarily
+insane.
+And now that that's all fully in perspective, let me say, ouch.
+A great Lewis Rucheiser who paved the way for so many of us in this business.
+I'm Caleb Silver and thanks for rolling with us on the Investopedia Express.
+We'll talk to you again next week.

@@ -1,0 +1,803 @@
+On the Express this week, ten US highs for the stock market as AI stocks lead the way.
+What's next for Apple in a Tim Cookless future? We go deep into the core with Gene Munster of
+Deepwater Asset Management. Investors can't get out of cash fast enough, boy are they bullish,
+and it's make or break week for big tech earnings reports. Hey, if you think gas prices are too high,
+stay away from the tomato bin at the supermarket. From the sin city where only the real winners win,
+It's the Investopedia Express. Ante up and jump in. Welcome back and welcome aboard to
+the Investopedia Express live and direct from the city of Las Vegas. Yeah, I'm in my hotel room,
+but you got to go where it's quiet to do these podcasts. Here for Bitcoin 2026, the annual
+conference of all the Bitcoin enthusiasts. I was here last year, Bitcoin was about $110,000
+a coin, now a little bit closer to $80,000 per coin. We'll see what that does to the vibe
+with the hodlers around here will be going downstairs and checking that out and bringing
+you highlights from Bitcoin 2026 throughout the weekend and a special edition of the Investopedia
+Express next Monday. Tune in for that. Good to have you with us. Thanks to all the Investopediax
+and the Investopedia readers, listeners, watchers, and viewers all over the world. Good to have you
+with us. It's the Investopedia Express live every Monday at 10 o'clock in the morning and then
+on demand on your favorite podcast. And we are entering the week near record highs for the
+the stock market. Yes, thank you very much. Here we go again. Close to record high stocks
+bouncing off of record highs this morning on tenuous tenuous talks with Iran over a
+over a permanent ceasefire that's gone back and forth. But we still have oil prices over
+$105 a barrel, especially for crude oil up there in Europe. So that is putting the stock
+market rally on a little bit of ice right now. But we've had nine new stock market
+S&P 500 highs so far this year. Shout out to Brian Dietrich, my guy Carson,
+always putting out these good charts. Nine record highs so far this year, despite all the news,
+despite all the chaos, the stock market just continues to make record highs. But it's not
+exactly the kind of comfortable record highs that we're used to. Yeah, well, last week we talked
+about some sector strength. We talked about a lot of stocks in the S&P 500 and across the entire
+stock market, making 52-week highs. Well, it's really the strength of AI that has really pushed
+this new rally, this new bull to record highs.
+And if you've been watching this closely, like we have been,
+it may look a little familiar.
+Check out this chart of the S&P 500.
+Oh, we got retail sales first and consumer sentiment.
+Yeah.
+Can you retail sales remaining very strong, even though we're in
+record high credit card debt, but consumers, we feel terrible.
+And that's because of those high prices and that's cause of inflation.
+So you've got this disconnect going on with retail enthusiasm that we're,
+We're willing to shop. We're paying more for everything just because of tariffs or the war on Iran and the impact of oil prices.
+We feel terrible about the economy, but you got the stock market at record highs.
+And if it looks and sounds and smells a little familiar, check out this chart we put together here.
+You got the S&P 500. You got the NASDAQ. NASDAQ up there. The orange line up there so far in the past month really rallying up about 13 percent.
+And then you have the equal weight S&P 500.
+That's if you actually weighted all the stocks
+in the S&P 500 equally, we don't.
+It's a market weighted index.
+That's your blue line right there.
+So you're equal weight,
+really underperforming the rest of the market.
+And it's really been big tech and NASDAQ
+on this latest leg of the rally.
+James McIntosh of the Wall Street Journal
+points out a few good facts in a piece he put out yesterday
+on the journal shout out.
+James, on the recent run to record highs,
+and I caught some of these caught my attention.
+I think they'll get your attention as well.
+the S&P 500. 118 stocks have already fallen more than 10%. Right so far, this year, notably
+those now facing higher costs for fuel, aluminum and other raw ingredients are those dependent
+on sales to customers hit particularly hard, such as farmers, there's the impact of those
+higher oil prices bleeding through some of these other companies and some of these other
+stocks in the market exclude the AI, this only 82 stocks mostly AI related are up
+more than 10 percent. Sound familiar? Sounds like the last few years we've been going through
+this. Exclude the AI version of the magnificent seven stocks. Put Broadcom alongside Alphabet,
+Amazon, Apple, Meta, Microsoft, and Nvidia. And the market value of the S&P 500 is actually lower
+than it was a month ago. Put another way, these seven stocks are lifting the entire market. Big
+stocks, big caps, lifting all boats. And yes, we have seen this movie before. And this happens
+and all technological revolutions. You get leaders and you get those that are falling behind,
+but also you have the latest confusion of higher oil prices impacting companies across the stock
+market. More than half of the S&P 500 members are lower than they were one month ago, yet the S&P
+500 index itself is up 4% and the tech-heavy Nasdaq is up 8% because the biggest stocks are so big,
+they often offset the declines in those other stocks. Half the S&P 500 sectors are actually
+lower. Two of those that are up, consumer discretionary and communication services
+are like the market dominated by just a few large AI companies. And you hold them in your portfolio.
+We showed you the results of our latest investor survey, our reader survey. We all hold the same
+biggest stocks. They are the big names, the super spenders, the super scalers. We'll get into those
+in a minute. What really matters then is the same thing in the markets that people have been
+debating for really two and a half years right now, but really over the past year.
+Is there a bubble in a I will all this spending amount to something or are these companies spending themselves silly and won't have the
+profits to show for it on the other side because as investors, that's what we care about.
+We're going to get into that when we get Gene Munster on the line here in a minute.
+But there's one company that really needs to show its story.
+And that, my friends, is Apple.
+Tim Cook, Apple CEO for the past 15 years, caught some of us by surprise last week, a little bit off guard when he announced that he'd be
+stepping down this September and he will be succeeded by John Ternus who's
+currently Apple Senior Vice President of Hardware Engineering. The appointment of
+Tirth's not a surprise to a lot of people who watch Apple, those Apple's
+insiders, they expected this to happen. He's been leading hardware and Apple is
+a hardware company after all. He's been the leader in the clubhouse for years
+according to those insiders but the timing may be a little suspect. A lot of
+folks thought Tim Cook might go another couple years, figure out a lot
+on this geopolitical stuff, navigate his way
+through this administration,
+but he'll be stepping down in September.
+And that leaves John Turnis to push Apple
+into the AI conversation,
+where it's kind of been absent for a few years.
+Yeah, they dabble in some stuff series, a version of that,
+but they haven't taken it to that next level.
+And as you know, there's levels to this.
+That'll be John Turnis' ship to steer,
+and he's pretty well suited for the mission.
+But before we get to him and Apple's future,
+it's worth a couple of minutes
+to lay out Tim Cook's legacy and some of his highlights
+at the helm of Apple, which has been one
+of the most valuable companies in the world
+for the past few years.
+Jockey's back and forth with Nvidia.
+So under Apple, Cook grew revenue 4X
+from 108 billion in 2011,
+which was incredible back in 2011,
+to over $400 billion a year annually.
+Net income surged dramatically,
+turning Apple into one of the most profitable companies
+ever generating over $100 billion a year in annual profit.
+Why did Warren Buffett love Apple so much in Charlie Munger?
+It gushed profits like no other, right?
+iPhone alone, the iPhone alone became a $200 billion
+a year annual business in terms of the stock price.
+And a lot of us own Apple either indirectly or directly.
+And I've owned it for a long time.
+Apple's market cap grew from $350 billion
+to $4 trillion.
+That's a 10X increase.
+Stock price rose roughly 1,700% to 1,900%,
+depending on when you track that time frame.
+And he led Apple to become the first company
+to hit $1 trillion in market cap,
+$2 trillion in market cap, $3 trillion, and $4 trillion.
+And he got them all the way to that $4 trillion valuation.
+And he oversaw $700 billion in stock buybacks.
+Buffett doesn't like stock buybacks,
+but Apple has been very aggressive buying back at stock.
+largest buybacks of any company in the history of the world, in the history of corporate
+America.
+Global expansion.
+Yeah.
+Tim Cook has been all over that over the last couple of 15 years or so.
+He expanded Apple to two and a half billion daily active devices globally, two and a
+half billion devices out there with Apple's logo and probably more coming.
+He grew Apple's retail footprint.
+The Apple Store didn't exist before Tim Cook.
+Five hundred and forty Apple stores worldwide.
+of the most profitable retail centers you've ever set foot in, in terms of how much they
+sell to customers per customer.
+He deepened Apple's presence in China and in international markets and he built one
+of the most powerful global consumer ecosystems in technology ever.
+He also launched Apple into new categories like the Apple Watch, wearables was not
+a thing until Tim Cook and his team came along, AirPods, that wasn't a thing that
+became a category defining product.
+buys those every year or every couple of years. Wearables alone is now a $30 billion year
+business and he also oversaw Apple's transition to Apple Silicon chips, the M1 and beyond.
+For years, Apple was reliant on chip makers like Intel and that cost them a lot of money
+and some margin. Now they're making their own chips, the M1 and they brought all of
+that in house. Again, undercooked all this happened. He built Apple services into a hundred
+billion dollar a year business. That's iCloud, Apple Music, Apple Pay, Apple TV, Apple
+TV plus and he turned Apple from a hardware company which made phones and max and other
+devices into a complete integrated company software vertically integrated to a recurring
+revenue ecosystem. And that takes a special type of management to optimize Apple supply
+chain into a global benchmark. He increased the average selling price of all of Apple's
+products. Now it's not just him, but at the helm of this company, these are some pretty
+incredible managerial feeds. And he also positioned Apple to withstand cycles like the pandemic,
+like the supply shocks, like geopolitics. Apple has just sort of steadily been there all along.
+And he also, believe it or not, expanded Apple's environmental initiatives and renewable energy
+efforts. He also has been navigating Apple's labor situation in China for years, not to mention
+this administration. So after 15 years, you can understand that he might be ready to step down
+this fall, which is exactly what he says he is going to do. The thing is, for those of us that
+have been Apple shareholders for a long time, this stock has been underperforming the Mag 7,
+then kind of underperforming a lot of the big names in tech for a very long time. And so
+investors have been wondering, yeah, the dividend is nice. And Apple has been a steady
+deliver of profits and returns over the years. But look at that chart. That's the Mag 7,
+Roundhill Mag 7 ETF up there in orange. And that's Apple down there in purple. And that's
+That's almost a 3X outperformance
+by some of those other stocks.
+So investors may be a little impatient
+and it's time for this company to show us
+what the AI future looks like.
+Big shoes for John Turnis, you betcha.
+And a lot of shareholders wanna know
+how he's gonna harness AI to do it.
+So that's what his task is.
+John Turnis will be the new CEO of Apple.
+I don't know if we have Gene yet,
+but we'll get to him in a minute.
+But just remember this,
+big companies don't always do the same thing forever.
+And Apple has been a hardware company for years.
+That is exactly how Steve Jobs created it.
+That is exactly what this company was,
+but companies changed.
+But what is the future of Apple
+and what is John Ternus's mission?
+Let's bring in one of the most foremost experts in Apple
+and all the big tech I've been following his work
+for years.
+He's Gene Munster, the managing partner
+of Deepwater Asset Management.
+And he joins us now on the drop-in.
+Hey, Gene, good to have you on the Express.
+Thanks for being with us.
+Thank you, Caleb.
+I know it's early from where you're at
+and I just got to give a nod to your kind of summation
+of Tim Cook's, the breadth of his work as CEO.
+I've spent a lot of time thinking about this company.
+I think you captured it better than anyone has,
+I mean, from end to end there.
+So you come with, in my book, with a lot of credibility
+when it comes to the Apple story.
+Thank you, I appreciate that.
+And I've been following your work for years
+and you know it's not an easy company to run.
+It was not easy to work for Steve Jobs.
+Tim Cook did that for a long time.
+He kind of apprenticed under him,
+but he brought a whole new gentler kinder touch to Apple
+while making it this massive profit gusher.
+So a lot of people don't know the human side.
+This is a decent human being who is running
+in one of the most powerful companies in the world, right?
+Yeah, I think that detail does get lost in the conversation.
+A good person that essentially runs a country,
+not a company.
+And also when you run a country,
+this concept of reinvented
+and you're kind of set up here
+when you're talking about Cook and what he did,
+you mentioned about kind of this reinvention
+and it's been an inspiration for me watching Apple
+over the decades and how they have always
+reinvented themselves.
+And my conversations with Apple executives over the years,
+they have this clock where they see themselves
+wanting to reinvent themselves about every decade.
+It actually was part of the inspiration.
+I was a sales side analyst for a long time
+and I knew I needed to push myself.
+And a decade ago was one of the founding partners
+of Deepwater, which is an investment firm.
+So we're investing in tech
+versus just doing the analyst, the sell side research on it.
+And so like my point there is that this concept
+of wanting to reinvent themselves is one of the core pieces
+of what makes Apple who it is.
+I think it's largely under appreciated
+by the investing community
+and really sets up this handoff from Tim to John.
+Yeah, so if you're John and his staff,
+what's your first 100 days look like?
+And really you only have a couple of days
+because you got Apple reporting results this week.
+He probably won't be front and center,
+but you got to expect he will talk to analysts
+and investors and the press, right?
+What is the first few days
+and the next 100 days look like?
+First few days is just getting through the Q and A
+and they do like such an incredible job
+prepping for that you really, really learn anything. And so the setup on these is typically
+a recorded part of the conversation when you hear these earnings calls, and then they'll
+go to actually live so they pre record the prepared remarks. So there's not much there
+just kind of how he handles the the QA. But again, he's been studying this for a long
+time and be preparing for this role based on my conversations with one former high level
+Apple exec, he's been preparing for this for the past three years. And so I think
+that the first thing is just about that earnings
+call this week.
+But more importantly, the real first thing on his agenda
+is WWDC.
+And of course, that sets up for what's
+going to happen with the new Siri.
+And they have a year ago, they did something
+that was unprecedented for Apple,
+which is say that they're going to be late on something.
+The last time they did something to that degree,
+it's back just before the iPhone came out
+when Steve Jobs said that they're
+going to delay the new Mac operating system in lieu
+of making sure that iOS, the first version of iOS,
+was gonna be ready.
+And he had a comment, he said,
+life is full of trade-offs, life is full of trade-offs.
+And so I think that what we're seeing here
+is Apple a year ago did something similar.
+They said that this is gonna be,
+they're gonna do a trade-off again here
+and say that the new Siri is gonna be delayed.
+But that's gonna be the first thing Caleb,
+on his kind of focus,
+is just what ultimately is this new,
+you know, this new Siri gonna look like.
+And one last piece to this,
+when your listeners hear the new Siri,
+I want you to think about the new AI.
+This is not about specifically a chat bot
+that becomes more interactive, it clearly will do that.
+But what people, when they talk about the new Siri,
+what we're actually talking about is AI competence.
+and the ability for it to understand a conversation,
+but more importantly over time
+to access personalized data.
+So back to your question,
+like what's his first 100 days like?
+WWDC is about really showing that they've got competence
+within Siri more broadly,
+but the specifics around what they can do in AI.
+And that's all eyes are on that.
+Last piece related to his first 100 days
+is that this period,
+We should not grade it entirely on what is released
+two weeks after WWDC or maybe released
+and the new iPhone comes out in September
+related to the new Siri.
+It's been pretty clear that this is gonna be
+a staged rollout.
+And so what that means is you will hear
+about the new features and then likely
+the first meaningful updates gonna be September.
+And then you will start to see these point upgrades
+through the next six months.
+So collectively, his first 100 days are about setting up the first year effectively.
+That's what's going on.
+And that's what's, I'm sure, top of mind for John, making sure that they land a 10 out
+of 10.
+Anything less than that's going to be a failure on the new Siri.
+Just the fact that they would delay any product or any launch and actually admit to it, that
+just shows you the impact of the cultural change.
+Not a lot of companies would do that.
+They would fear shareholder revolt or they would fear competitive pressure.
+But that is not the company that Tim Cook has set up and handed off to John Turner.
+So for a lot of us that use the iPhone and use Siri on a regular basis, just give us
+what you think is going to be how we interact with it in a couple of years.
+What will be like a normal way that I might use Siri and AI, call it a genteck generative
+or personality driven AI in my life.
+You just said both of those.
+I'll just kind of bring them together here is that the way that Apple's products will
+evolve is think of this as a personal assistant.
+Sometimes referred to as a genteck assistance
+or an AI assistance at Deepwater.
+We've owned Apple for a long time.
+We've recently bought more Apple
+because we think that this stock
+has the biggest opportunity amongst
+the large tech companies to have a narrative change on it.
+That's what happened to Google a year ago,
+narrative change, search is going away to,
+they've got a good search model.
+that is the opportunity in front of us.
+And so specifically, what do the products look like
+around that?
+What can you actually do with the products?
+It would be that you talk to your phone
+and then your phone will basically work as an agent for you
+and it can do different tasks on your behalf.
+For example, you could ask Siri to compare the prices
+for a Lyft versus an Uber.
+Very common when people do a ride share,
+a price check, Lyft and Uber, compare Lyft and Uber for my ride to the airport and book
+a ride that can get here in less than 10 minutes, something to that effect.
+And so what effectively is going on is that it's using some of your personal data with
+your location.
+It is also going and working with third party apps, that would be in this case Uber and
+Lyft, and being able to have them work with them agentically.
+So that's one example.
+I mean, the examples around that are just imagine any app that you have on your phone,
+you could with voice or text, start to allow that app to work on your behalf.
+The other piece is this whole idea of personalized AI.
+And a year ago, this is what they really held up was the reason for the delay was they
+wanted to make sure that there was security and privacy.
+Obviously, those are kind of core values of Apple around what they were doing with
+personalized AI.
+Personalized AI, of course, is that there are small language
+models that will train on your personal data.
+And what that means is imagine any context of anything
+that you have, everything from text to emails, photos, videos,
+that you can just talk or text with your phone,
+and it could bring that to life.
+You could say, I was a few years ago,
+I had this plumber out, and I'm trying to find a receipt.
+Don't remember much about it.
+and it would be able to go through.
+Apple has failed miserably over the last decade
+in terms of finding personal information.
+We all know how difficult it is
+to find a text message and email,
+but that is the concept of personalized data
+to bring all that context together.
+So those are some just subtle examples
+around how the iPhone can be more AI power,
+but of course they will start to come out
+with new AI first devices
+that will compliment all the other devices that they have.
+Is this going to be big enough because shareholders have been waiting for a while for the next
+big thing from Apple.
+Do you think this is going to be big enough in terms of how much profit it can generate,
+what that margins will look like in Apple's next leg to call it a decade of growth?
+The simple answer is yes.
+And just a little bit of kind of, I guess, a hack in terms of reading investors, whether
+they're retail investors, professional investors, I don't know what the real distinction is anymore.
+But in terms of reading investors, in terms of how they think about a company and your
+your question, is this going to be big enough?
+I mentioned earlier that we've recently added
+to our position of Apple.
+And I think that kind of speaks to how we feel,
+but I just want to do that as in the side here.
+Like that's an example of kind of a quick way.
+Do you own this company?
+Do you not own this company?
+You want to get a sense about how investors feel
+about a different company.
+To answer your question, can it be big enough?
+Yes.
+And from, there's two pieces.
+When I say big enough, I mean for, to reward investors.
+There's two pieces to this.
+One is what it does to the business, how big can that be?
+And then second, what it can do to the stock.
+In terms of the business,
+there's opportunities for them to make money
+on the app store, to have these apps basically continue
+to increase the amount that you're spending
+with these agentic apps.
+They have opportunities to increase the value
+of the devices with AI, this personalized AI.
+People will want to pay more for the devices.
+They can add additional devices.
+When you put it together,
+you get this sense that Apple as a company,
+It's been revenue over the past five years has been up just fractionally.
+It really hasn't been much of a growth story.
+You can get back to kind of a five to 10% growth story.
+This is not Nvidia growing at 70%.
+If everything works, this is not Nvidia growing at 70%.
+But the kicker for us is what this potentially can do, of course, to the multiple.
+And I mentioned earlier that this concept of shifting the narrative,
+that is really powerful when it comes to capturing kind of the,
+the juiciest part of investor returns.
+That's the opportunity that Apple has
+more than any other big tech company.
+In the case of Tim, you mentioned his setup.
+He went from a $100 billion business
+to just over $400 billion business over, call it, 15 years.
+The multiple that investors are willing to pay
+for that business went from a 4X revenue multiple
+to nine times today, from four to nine.
+And that is really the juice here,
+is that investors see that the company is competent in AI.
+They see that this company can grow sustainably
+for five to 10% for as long as they can see.
+And you see instead of a nine times revenue multiple,
+12 or 14 times multiple.
+Yeah, well, that's why so many people
+have owned it over the years,
+but what you're pointing,
+what you're sort of laying the case for could be huge.
+And I also ask investors that all the time,
+they say, should I sell it?
+I was like, do you think Apple is gonna be here
+in 10 years and still be making great products.
+You think any of these big companies,
+the invidious of what they're gonna be here in 10 years,
+if you do, then of course,
+you should make it a part of your portfolio.
+Let's get to big tech in general and the AI spend.
+And I've heard your outlook for the year is terrific.
+Folks, go to GeneMundra.com,
+we'll link to it in the show notes,
+but also the research you're putting out
+through your team at Deepwater is great as well.
+What inning are we in in terms of this AI build out
+and the super spend?
+Because the last couple of years,
+have been about super spending and super scaling
+as a lot of these companies are really in a sort of
+a winner take all type of race.
+What do you think where we are and what is the next
+two to three years of spend look like
+as these companies continue to build out?
+So there's different ways to look at the,
+and I don't want to give you a nuanced answer to this.
+I want to give you how I best, how I think about it.
+But I think when we think about like the AI build out
+more broadly and that's the infrastructure build out,
+we're probably in like the fourth inning,
+something like that.
+If I think about where we are in terms of the opportunity
+to create investor value,
+and that also impacts how applications are used
+and utilities created and new businesses are formed,
+new business lines are formed from existing companies,
+I think we're probably in the second inning.
+And so I think if you kind of put those two,
+this is some kind of funny math here,
+but I think if you probably waited those two,
+we're still in the second inning.
+I think it's, so I'm gonna talk just briefly
+about the infrastructure piece,
+because that, as you mentioned, has been a big focus.
+Like what is the spending from these CAPEX,
+the big hyperscalers on CAPEX?
+And I wanna just give the lay of the land,
+like this week is gonna be a big week
+where that's gonna be a focus.
+And we're not gonna hear much about 2027 spend.
+And that's where the focus is gonna be.
+We have the updates on 2026,
+And in total, the hyperscalers are gonna be increasing
+their CAPEX close to 70% this year.
+Now, if we rewind a year ago,
+if we were talking a year ago,
+the expectation was that they were gonna increase CAPEX
+in calendar 26 by about 15 to 20%.
+So that gives you a sense about the expectations
+were that 2025 was the big year,
+we're gonna see the slowdown in 2026.
+We saw this massive jump ahead of it.
+Now, as we sit today going into this week's earnings,
+next year, the street's looking for 15%,
+actually a little bit less than that,
+closer to 10% CapEx growth for the hyperscalers.
+Well, that's important because that's a pulse
+in terms of how investors think about where we are in AI.
+My sense, a year ago, I thought we were way under.
+I thought the growth rate was gonna be closer to 50%.
+I ended up at 70.
+As we sit here today,
+I think that the real growth rate is probably 25%.
+It's at 10.
+We're not gonna have another 70% year,
+but still an incredible off of these huge numbers.
+So to answer your question is that where are we?
+We are still very early.
+I was reading in the journal this morning,
+they were breaking down how much impact AI has had
+on the workforce.
+And that's a barometer for how AI is becoming more useful,
+whether, I mean, it can have a dramatically negative impact
+on your life, it can have a dramatically positive impact.
+But that's one way to measure it,
+is to look at how many jobs are being replaced by it.
+And right now, it's still 1% of jobs,
+a kind of small amount, more broadly.
+Now, the tech industry has 40% more,
+not 40% of jobs, 40% more than the average
+has been replaced by AI.
+And why I mention that is that this is still largely,
+in terms of the utility of AI,
+it's still largely within the tech world.
+But as it starts to expand outside into every company,
+that's why I believe that we're still so early.
+So it seems contrarian, I think we're in the second inning,
+but when you kind of piece all this together,
+it becomes more clear that we're just still
+at the beginning.
+Right, and industries have been disrupted around tech,
+all depending on where you look, software, one of them,
+and you just look at some of the big software stocks,
+and they're the ones that have been suffering the most
+that drawdown. Let's do real quick. I want to get you out of here as close on time as possible.
+We talked about Apple, two other companies you've been following for a long time, Tesla and
+Microsoft. Let's just futurecast quickly. What do those companies look like five years from now,
+Microsoft and Tesla in terms of how they operate and what their focus is going to be and how
+should investors perceive them? So Microsoft, I think that they're going to be in a tough spot
+and they really need to have, they're also a company that has an opportunity to change
+their narrative. The narrative on Microsoft right now is that software is going to be under pressure
+number one and number two is that they don't have good AI products and I think that's a fair
+narrative. So they got to find a way at the most basic level to make cold pilot useful. Right now
+there's a lot of people who have it, very few people actually use it. And so I think that's
+kind of the starting point. I do believe that you said five years from now, I think five years
+we're going to see unfortunately a pretty high unemployment rate amongst knowledge workers,
+especially within tech. And so those companies often are Microsoft customers. And so I think
+that the seat growth piece is going to be something that's going to weigh on it. So if
+you're going to think of like a stock perspective, there's a contrarian side of me that says
+you got to own Microsoft here because there's a lot of people saying the same thing I'm
+saying. So naturally, it's going to do the opposite. But I think that in this case,
+the software we're not out of the woods, we get some reversion to the mean here,
+force is likely going to have a good quarter because of Benny Osterich's comments in the
+journal. But I think the takeaway is we still have years for this software thing. Specifically,
+what happens when there's less knowledge workers? How do software companies who sell
+seats to those workers get paid? So that's Microsoft.
+Tesla, I mean, this is going to be one of the more entertaining stories over the next
+five years. And specifically, you know, they're a physical AI company and fit really
+well within what SpaceX is doing. We have a view that SpaceX is not a space company.
+It's a sovereign AI company. That's what Elon's highest order is AI. He has everything from
+power generation to chips to distribution through satellites. The one piece that SpaceX
+does not have is, of course, what's going on with physical AI. And that's the piece
+that Tesla can plug.
+Yeah, fascinating to watch. Folks, you can follow Gene's research at genemunster.com.
+So check out the portfolio of companies that you're investing in at Deepwater Asset Management.
+You're putting your money where your mouth is.
+Some fascinating companies there throughout the small and sort of mid-cap space that are
+building really interesting products.
+I've been following your research for years.
+So good to have you on the expression.
+Pleasure to be here.
+Enjoy.
+Thank you.
+Thanks so much.
+Bye-bye.
+Bye-bye.
+All right.
+Gene Muncer, folks.
+Follow him.
+GeneMuncer.com.
+We'll put the link again in the show notes.
+But if you want to know where tech is and where tech is headed, he is one of the
+foremost experts out there.
+again, had him on my program is back at Bloomberg back in the day for years and just someone
+I learned a lot from and you will too. Let's get to a little money in motion. Well, Jim
+was talking about the big spend that's going to continue in big tech, but talk about money
+in motion. Let's talk about the money that has been in motion for investors over the
+past week as we have rallied to new record highs over the course of the last couple
+weeks since the first news of that ceasefire came out from the president. The biggest
+change in equity positioning, the biggest outflow of cash on record in just one week.
+Investors couldn't wait to get back into stocks.
+We've been gauging this through the Investopedia sentiment survey, and you folks have
+been pretty much bullish, cautiously optimistic.
+Even things were going to get better.
+You've been through a few of these cycles before.
+But this flow right here, this is institutional money and retail money, biggest outflow of
+cash in history in one week in two stocks and some of those stocks, the big tech stocks
+that Gene and I were just talking about and a lot of those stocks, some of your favorite
+stocks in your portfolio and a lot of people asking us at Investopedia, hey, should we
+be buying stocks and should we be buying into the stock market at record highs?
+Well, history has shown that even if you buy in at record highs, returns are generally
+positive down the line, five, 10 years.
+So if you're going to be a long-term investor, get ready for the marathon.
+Don't worry if it's at record highs or if it's down 5% or up 5% from where you wanted
+to buy it.
+Start investing.
+You'll be happy you did two years out, five years out, 10 years out.
+That is real money in motion.
+All right, let's take a quick break and hear a word from our sponsors at Augusta Precious
+Metals.
+A lot of us have a number in mind when it comes to retirement.
+we think will be enough. But the cost of getting there and the cost of living there once you do
+just gets higher every year. Everyday expenses keep rising whether it's energy, insurance,
+or just day-to-day costs. It naturally raises a bigger more important question. Will what you have
+saved still support the retirement you plan for? Will that math work out? That's why more people
+are starting to look beyond traditional approaches and think more carefully about diversification
+and long-term purchasing power.
+Augusta Precious Metals is a company
+that helps people understand how
+assets like gold and silver can fit
+into that broader retirement strategy,
+especially within retirement accounts.
+They take an education-first approach,
+offering a simple, no-pressure way
+to walk through how it all works so you can decide
+if it makes sense for you.
+If you want to explore that, just go to www.yourgoldiranow.com
+or text GUIDE to 35052 to learn more.
+Shout out to Augusta Precious Metals,
+definitely check them out if that is your thing.
+We got a huge busy week in front of us,
+right downstairs for me
+at the Venetian Hotel in Las Vegas,
+Bitcoin 2026 kicking off here in about 25 minutes.
+I'll be down there on the floor.
+We'll be bringing you content from there
+throughout the week, but it is earnings, earnings, earnings,
+and that's where the focus is this week,
+plus a little Fed meeting.
+Let's get to what's coming on down the tracks this week.
+I mentioned Bitcoin 2026,
+that's happening here in Las Vegas,
+plenty of other conferences and gatherings here
+in Las Vegas as usual,
+but we got earnings today from Verizon,
+but that just kicks off a massively busy week of earnings.
+The FOMC meeting beginning on Tuesday,
+the Fed meeting on interest rates,
+that begins Tuesday goes to Wednesday
+till we get the announcement at 2 p.m. on Wednesday,
+but earnings on Tuesday from Verizon,
+Coca-Cola and Starbucks, just to name a few.
+We definitely want to hear the impact of tariffs.
+We definitely want to hear the impact
+of these higher oil prices on these companies.
+And then on Wednesday, Fed decision,
+Fed Chair Powell's last decision
+as chair of the Federal Reserve
+that Department of Justice case dropped last week.
+So they are no longer looking into Fed Chair Powell
+and the Fed for that mismanagement.
+But this is, could be Fed Chair Powell's last meeting
+as chair and it looks like,
+if you're reading the tea leaves, right,
+that Kevin Warsh will be confirmed as the next Fed chair,
+but we have earnings, huge day of earnings on Wednesdays,
+well, Google, Microsoft, Meta, Qualcomm, Ford,
+just to name a few,
+hundreds of companies reporting this week.
+That's gonna be a huge day.
+And then on Thursday, more earnings coming your way.
+How about it?
+Apple, we were just talking about that with Gene Munster,
+Eli Lilly reports results, Merck reports results,
+MasterCard reports results, huge earnings calendar.
+We have it on Investopedia,
+and our partners have that as well on Tradingview.
+Check it out.
+And then on Friday, Big Oil will report results.
+We got ExxonMobil and Chevron reporting results.
+On Friday, they've enjoyed these higher oil prices for sure.
+We've seen the profits in those companies gushing.
+And then Saturday, my sister's birthday,
+but also the Berkshire Hathaway annual meeting
+in Omaha, Nebraska, the first one
+without Warren Buffett sitting up on stage.
+It'll be Greg Abel's turn to do it,
+but Warren's step down.
+He is the executive chairman of Berkshire Hathaway.
+I'm sure he's going to be in the crowd drinking cherry cokes and eating seized candies and
+yucking it up, but he will not be leading the conversation.
+That'll be Greg Abel's job.
+It is Greg Abel's company now, Berkshire Hathaway.
+First meeting without Warren Buffett since there was a Berkshire Hathaway.
+And sadly, I will not be there, but I will be following it very closely with my news team
+at Investopedia.
+So massive week, and this will be a very interesting one for Berkshire Hathaway shareholders.
+We'll see how busy Omaha is this weekend,
+because this is the time of year where everybody flocks
+to the heartland to Omaha to hear Warren Buffet's
+words of wisdom.
+All right, let's get to the indicator of the week.
+I got one and a half for you right now.
+May is coming up, May Day, just a couple of days away,
+again, May 2nd, my sister's birthday,
+but the beginning of May.
+And we used to have this expression around Wall Street,
+sell in May and go away.
+And you're gonna hear that a bunch,
+just because it's one of those popular axioms
+from investors in Wall Street.
+And the theory being that there was not a lot of action
+in the stock market over the course of the summer
+in the early part of the 20th century.
+The wealthy vest wearing pocket watch carrying
+stoggy smoking investors would take off
+for the Catskills or for Long Island
+or down the shore with their families
+and sort of leave their stock portfolios alone.
+And there wasn't a lot of activity, not a lot of volume.
+That's not the case anymore.
+Don't listen to that.
+Stock market trades year round,
+almost pretty much trades 24-7 now,
+basically does if you're trading after hours
+or you're trading options.
+So you're gonna hear sell in May and go away.
+And that is a terrible advice
+because as our good friends at Carson Research point out,
+May has been a really good time to own stocks.
+Not a good time to sell stocks at all,
+especially over the last few years.
+So it has been a very poor decision to sell in May
+and go away and don't make any decisions
+on the calendar month, make decisions
+based on what's actually happening
+in the market and the economy.
+Don't listen to selling mango away.
+Stay invested, especially when you get the stock market
+near record highs.
+One more to grow on here.
+Tomato prices, yeah.
+If you think inflation is high,
+you're mad about gas prices.
+Well, come with me to Lotta Burger next time.
+I was in Santa Fe over the weekend
+visiting my folks and my friends
+in the great city of Santa Fe, New Mexico.
+And you gotta get a Lotta Burger.
+You gotta get a breakfast burrito,
+a Lotta Burger when you go to Blake's.
+Or a Blake's Burger with chili and cheese on it.
+on it and no tomatoes there on the sign as I was going to pick up my breakfast
+burrito tomato of for availability update they will not be serving tomatoes
+at Blake's Lauterburger and they're not the only one you think you think tariffs
+have had an impact on food prices just look at the tomato bin as of April 2026
+tomato prices in the US have reached an eight year high with the average
+retail retail price for field-grown tomatoes jumping to approximately two
+$2.26 a pound. This reflects a significant 15% surge in March alone and a 22.6% increase
+compared to the previous year. Import tariffs have a lot to do with it. 17% tariff on Mexican
+tomatoes, which account for roughly two-thirds of U.S. consumption. That has been the primary
+driver of these inflated costs, but you can't forget energy prices, too. You need these
+on the farm, you need these to grow tomatoes. You need energy. Rising political tensions,
+obviously, the war on Iran, have pushed diesel fuel prices towards record highs, increasing
+the transportation costs for tomatoes and all produce in general. But tomatoes are super
+sensitive to this because of the tariffs on Mexico. And you also had a major freeze in
+Florida in early 2026. I don't know if you remember that down in the 30s in Florida,
+that damaged crops, heavy rains and disease impacting the Mexican crop this year. And
+has contributed to product losses of up to 80%. So if you think gas prices are high,
+check out tomato prices. We're feeling the pressure everywhere when it comes to food.
+But again, not stopping retail investors, not stopping consumers from purchasing. We're
+just dealing with these high prices and we're going to see how long it lasts. Well, thanks
+to all of you for joining us here on a Monday morning, the Investopedia Express live and
+direct. Thanks to Gene Monster with Deepwater Asset Management for dropping in and giving us his perspective on Apple.
+And I thought that was fascinating. And if he's right, Apple is going to be a very fascinating company to watch, not just over
+the next few weeks and not just when John Turner's takes over, but the transformation of this very valuable, very important
+company will be something to watch indeed. Thanks again. The Investopedia Express live and direct every Monday, bringing
+some special treats from Bitcoin 2026 all week. Shout out to Alvester Precious Metals also for
+partnering with us on this episode. And thanks to all of you. Stay smart this week, and we'll talk
+again a little further on down the line.

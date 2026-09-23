@@ -1,0 +1,248 @@
+Welcome to the Investopedia Express conversation series.
+This is our space to talk to some of the most influential investors,
+strategists, advisors, academics, policymakers,
+journalists, and entrepreneurs in the world of finance, economics, and investing.
+Nowhere is the difference between what we do and what we say more apparent than in our portfolios.
+Individual investors are notorious for saying we're afraid,
+but continuing to take risks to buy the dips,
+to try to catch falling knives.
+We saw it in the bear markets 2022 in the spring of 2021, 2017, 2008, and 1999.
+And that unhinged part of our animal spirits is alive and kicking these days following the
+swift sell-off in the stock market following the tariff announcements at the Rose Garden on April
+2nd. Data from Van De Trac showed record dip buying flows from retail investors the week
+following April 2nd, the day the White House called Liberation Day, including $3 billion
+and net purchases on April 3rd, the largest daily total since VandaTrack began collecting data in
+2014. And the buying continues. According to Investopedia's latest survey of our readers,
+over 30% have indicated they've been buying their favorite stocks and ETFs on the dip
+amid the turbulence. Let's get into this crisscrossing of our emotions and our actions
+with Marco Yacchini, the senior vice president of research for Band2Research. Thanks for being here.
+A lot to be here.
+I love looking at your data because it actually shows what people are doing,
+people like individual investors like us, not the big institutions, but that difference between
+what we say, how we feel, and what we're actually doing in our portfolios, I find fascinating. Now,
+we know it's not all investors who are buying the dip or who are chasing their favorite stocks,
+but a good chunk of them, even though we've had this deep sell-off and a lot of uncertainty,
+what are you seeing inside the data from April 3rd all the way until today? We're talking
+on Wednesday the 16th. Of course. Well, thanks for having me, first of all, and thanks for the
+the questions. It's a topic that is dear to my heart having followed very closely retail investor
+flows over the last three years, three and a half years here at Vanda. First of all, maybe some
+clarifications. What we look at or what our data set looks at specifically is self-directed retail
+flows. Now here we're talking about mom and pop traders going back home and putting trades on
+their brokerage accounts, taxable brokerage accounts. We're not talking about pension funds,
+we're not talking about investing through an RIA or ultra high net worth investors trading with
+with their private bankers.
+We're talking about everyday people putting on trades in their accounts, which in our
+view is the most reflective of animal spirits, true retail animal spirits.
+We've seen this in the data in the soft stuff.
+You're tracking this through the retail brokerage platforms like the Fidelity Schwabs of the
+world, right?
+Yeah, exactly.
+We're able to get a pretty good estimate of flows into these big guys, big traders,
+big trading platforms.
+That's where our data tracks and that's what we can see through our data.
+To the question though, what we're seeing, we're seeing after Liberation Day, as you mentioned,
+on Thursday following the announcement, there was a record daily inflow in aggregate purchases
+of US stocks and US listed stocks and ETFs.
+And that has continued when you look at weekly flows for the week ending on the 9th of
+April.
+We saw almost 11 billion of net inflows going into stocks and ETFs, which is a record on
+platform. Clearly, dip buying sentiment has been strong and despite those worries about potentially
+going into a reset, potentially seeing things deteriorating from now, that hasn't stopped
+retail investors from taking advantage of this dip. Again, we know it's not all retail investors,
+but it's those that are a little bit more promiscuous or a little bit more comfortable
+with risk, even though fear indicators and you and I look at a lot of the same ones, we're looking at
+the AAII sentiment indicator index. We're looking at Investopedia's own sentiment surveys that we do
+every couple of months. We're looking at the fear and greed index. Everywhere you look,
+volatility, the VIX, everywhere you look, you're seeing this very high degree of anxiety and
+concern, but the retail activity has remained pretty strong, which is not something, as I say,
+you see all the time, but we have seen it over the last few cycles. And is this change in
+mentality, something that you guys have been watching at Vanda to say, you know what,
+investors may be getting used to the fact that these dips don't last very long, or maybe they
+have gotten used to the fact that they thought they don't last very long. And this one might be very
+different or might be very much the same. Yeah, and absolutely, I agree. There's an element of
+decades of buying the dip working, and especially even in a unique recession like the COVID one,
+which was if you blinged your eyes, you could have missed the dip and the rebound, right?
+So that has pretty much reinforced that buying the dip mentality.
+And what happens though, when you break it down, so first of all, as I said, it's a mentality that
+is built over a decade plus. And so it's first of all, hard to shake. So we really have to go.
+And when these moments arrive where markets wobble, you almost certainly expect retail
+investors to buy the dip. And that's why with our hardflow data, we try and focus on
+flows into their favorite names, flows into single stocks versus ETFs, flows into options,
+for example, as a way to gauge whether we are crossing some sort of threshold that goes from,
+okay, those sentiment surveys are indicating concerns, but the flows haven't shift yet.
+And then you need these nuances to tell you whether you're shifting or getting close to a
+bit of a panic sell moment. We're not quite there yet. What I can say is that over the past few
+days and weeks, buying has concentrated into their favorite names, which tend to be large
+cap tech names.
+You see the usual suspects, Nvidia, Amazon, Tesla.
+On the ETF side, it will be the QQQs as well as the lever, QQQs, SPY.
+What was interesting over the past week or so is that as markets continue to sell off,
+in the top 10 of our leaderboard, I started seeing a name that's usually associated more
+with long-term investing, more like dollar cost averaging investing.
+That's the VOO ETF, which is the Vanguard S&P 500 tracker.
+Now, that was interesting to me because obviously, they always like to buy that name,
+but it's rarely in the top 10. To me, that tells me that the dash for safety or the flight towards
+the safe havens in this case is the large cap tech names that they like, as well as
+these broad-based ETFs. Normally, what you see when you get close to that panic stage,
+really setting in in the heart flow data, not just in the sentiment, you usually tend to see
+flows into single stocks start to reverse and more concentration, a bigger share of flows going
+into ETFs. Then eventually, if you reach a panic moment, then you see outright selling across
+single stocks and ETFs. That hasn't happened yet. It's not what we're seeing. We're seeing a slightly
+increase in buying of ETFs relative to stocks, but we're still fairly far from a capitulation,
+from what I see from the flows. Right. You call that retail capitulations and you actually have
+a retail capitulation index that looks at a comprehensive indicator that looks at various
+metrics to assess that. So you mentioned that some of the elements that go into that, are we
+Are we going from single stocks taking a higher risk on an individual name into broader based
+ETFs?
+And then the next step in that I assume is just a broad based selling of everything.
+That's just saying I'm stepping away from the table.
+I don't want to own a single stock or an ETF or any more of it and the dip in buying mentality
+sort of ceases.
+We're not there as you mentioned, you can tell that from the flows.
+You can also kind of tell it from the sentiment indicators that we look at, which is what
+are people looking at on Investopedia?
+Some people are definitely looking at bear markets and what happens in a recession to
+my portfolio or how do I protect my portfolio.
+But then just like always in any type of a market crisis situation, you get people way
+out there on the edge looking to take inverse risk.
+You get people way out there on the edge looking to short stocks.
+What are you seeing in terms of the extreme edge of risk out there, whether that's buying
+leveraged products, shorting the market options, etc.
+Yeah, no, that's a great point and a very valid point, I would say.
+It's those incremental flows that really tip you over or not the edge.
+There's a few elements here.
+So if I focus on the option flows,
+we did see what could potentially look like a moment of panic last Tuesday
+or on the option side, and specifically here we aggregate the money,
+the premium spent in out of the money calls minus out of the money posts.
+So in a way, it gives us a sense if there's more of a bias for its bullish calls or bear sentiment puts.
+And for one day last week on Tuesday, there was a shift towards puts.
+So a bit of a moment of panic.
+Now, usually those tend to be indicators of some panic setting in.
+But again, it's not it's only one element of the whole picture.
+When it comes to purchases of gold, for example, or gold ETFs, which tend to be products that retail investors like whenever things get a little bit hairy.
+We have started to see an increase of purchases there,
+but we're not at the levels of, let's say,
+the bear market of 2022.
+So we're maybe halfway there in terms of the quantum
+or the size of those flows.
+And the same actually is, the same goes for inverse ETFs.
+So there's a, probably the most popular product here
+is the SQQQ ETFs, so short NASDAQ.
+That as well has seen about a 40 to 50% flow move
+relative to what we saw in the bear market of 2022.
+So when you take these cash equity flows,
+you take the option flows,
+you take some other metrics that we look at,
+sentiment and the market regime,
+we heard about what you would call about maybe 40 to 50%
+of a broad-based bear market type of capitulations.
+Though there are some signs that,
+in some parts of this world, the retail world,
+some panic is starting to surface.
+Absolutely. And then you look at other things, not just the flows. You look at the sentiment
+indicators as we discussed, but then what is the health of the individual investor today? Anyway,
+looking at balance sheet health, like looking at how people are feeling with their own personal
+finances, how the labor market is right now, people's concerns about rising inflation.
+We know consumer expectations for inflation are at a 40-year plus high. We know the consumer
+sentiment is at a two or three-year low. That has a lot to do with flows as well. And you kind of
+push all you put all those things together to also look at a broad-based field. Give us a sense of
+what you're seeing today. Yeah, those are what we would call more fundamental metrics, slightly less
+market related, but obviously they drive what is potentially the propensity to invest. So those
+are very key variables that we have to take into account. When you look at the health of the
+balance sheet, a lot of people talk about the personal savings rate as a percentage of disposable
+income. We all know that that took off, blew up during COVID and then has reversed. And has
+reversed towards long-term means. And if anything has dipped slightly below those long-term means,
+what does that tell you? That tells you that there was this influx of savings or excess
+savings, which also we know central banks like the San Francisco Federal Reserve Bank, I should
+say, keep track of. And bodies like the San Francisco Fed tells us that those excess savings
+have depleted. And now we're basically back to using regular savings and day-to-day salaries,
+payrolls, to fund these discretionary spending into the market. So when you look at that,
+then you have to focus on the picture from the labor market. And one of our favorite indicators
+is the aggregate payrolls number, which comes out on Friday, the first Friday of every month
+with the labor data, which is an aggregate measure, which combines hours worked, wages,
+and number of jobs. Knowing that the US economy is 70% consumption driven, more or less, as long as
+that indicator points to some form of resiliency and strength, you know that most more likely than
+not retail investors will continue to have cash to put into the market. And that's what we're
+seeing right now. So even though there are concerns about the direction of the economy,
+the effect from tariffs hasn't probably fed into the day to day lives of every investor out there.
+We know that the labor market is still doing okay. We saw consumption numbers still do okay. Today's
+retail sales, Wednesday, the retail sales data also showed that consumption among consumers in
+the US was pretty resilient. So that tells you that there is still some dry powder that they can
+deploy. Yeah, they may be scared. They may be hearing the headlines, hearing the drumbeat about
+a recession, hearing people like me on the news talking about it, but they are not at the point
+yet where it is maybe personally affected them unless they're in one of those jobs that
+has already been eliminated. Finally, let's get to seasonality because we can't ignore
+it. Even though we know this big sell off and the volatility was prompted by these bold
+tariff moves and this restructuring of the US economy and potentially the global economy,
+that's big, that's seismic, that's enough to get your attention. You can't ignore the
+fact that it's April, right? It's spring and we kind of get sell offs, mini corrections,
+fakes in the spring almost every single year happens to be the first year of a new administration.
+Definitely a lot of changes, but you can't ignore the fact that spring is spring, April is April,
+and April it's not crazy to see volatility in a little bit of a sell-off potential
+capitulation in some cases. Tell us what you've learned through your research.
+Of course, I think there's two angles to that question or to that statement. One is the price
+action, seasonality from price action, which I think is more what you're referring to. From a
+A retail investor flows seasonality.
+We tend to see usually April being one of the weaker months
+of the first half of the year,
+and that's because of tax season.
+Now in this situation,
+hasn't really quite played out that way
+because the dip was so sizable
+that retail investors wanted to take advantage of it.
+But normally having to pay those tax liabilities
+or potential tax liabilities,
+having to focus on that
+has usually been a drag of retail investor flows in April.
+They usually tend to rebound in the second half of the second quarter.
+Maybe we get to see a bit of a slowdown in purchases and then we'll reassess and they'll
+probably get back into the market.
+And then finally, this is more for the rest of the year, it's usually Q4 when spending
+into the market, it's usually the weakest.
+Part of it is because markets tend to focus on the Santa Rally and we know retail investors
+are usually contrarian, they like to fade rallies and buy dips.
+And so that's a period where markets typically do well, and that's why they scale back their
+purchases, but also probably the holidays and wanting to spend some of that discretionary
+cash on gifts and travel rather than putting it all into the market at all times.
+Yeah, good points.
+And you can't ignore them.
+They do exist and they do play a factor.
+All right, let's go out on this.
+What are two or three indicators that you are watching over at Vanda to tell us whether
+or not we are going into capitulation mode,
+or we are actually warming up again,
+getting closer and closer to the fire.
+There's been so much headline risk
+that it's kind of hard to tell which way
+the sentiment is flowing.
+One day it's good, the other day it's negative.
+But what are you watching for
+to tell you which direction we're headed in?
+Yeah, for sure.
+Specifically, given the strength of the size of flows,
+one of the things I'm looking at is the breadth.
+things like the number of stocks or ETFs being bought versus sold.
+So in a way, it's a measure of breadth.
+That should give me an early signal that even though maybe there are large flows
+going into one or two or few names in the aggregate, the breadth of the retail
+buying is a bit weaker, weakening at least.
+So that's one, definitely one indicator also flows into their top favorite names.
+So Tesla, Nvidia, QQQ and triple QQQs
+will give us an early warning sign
+if things were to turn further south
+and then flows in opposite of that
+or the contrasting picture of that
+is flows into things like gold and inverse ETFs.
+Those three are definitely top of mind right now
+because that's where I think there's a big delta for
+or potential for increases
+if we do get closer to a capitulation.
+Great stuff.
+We will be watching that as well.
+We cite you all the time on the Investopedia Express because you really have your finger
+on the pulse of what people are actually doing and we like to match that up with how people
+are actually feeling.
+Marco Yacchini, the Senior Vice President of Research for Vanda Research, thanks so much
+for joining us.
+Thank you for having me.

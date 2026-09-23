@@ -1,0 +1,329 @@
+Our fickle friend, the summer wind has come and gone and it has taken the steam out of
+technology stocks with it. Volatility has come roaring back after a long summer break
+and it looks like it wants to stick around for a while. What the options market is telling
+us about the future and the US dollar keeps going lower while the Euro keeps rising.
+We'll explain the diversions in global currencies. You are on the Investopedia Express and I'm
+your host, Caleb Silver.
+Welcome to the podcast friends. You're on the launch pad with us for our debut into
+the big bold world of audio journalism. The Express sets you up with what we think are
+the most important stories facing individual investors this week and how to think about
+those stories as an educated investor. We look at the what, the why, and what's next
+in the stories, trends, and developments that are moving markets to help you get a
+better understanding of what's really going on. We'll talk to some smart people, we'll
+learn some new things, and we will get ready for the week together on the Investopedia
+Express.
+Thanks for joining us today on the podcast, some notable news, three trends we're watching,
+and a few good minutes with business journalist and cable news anchor, Ali Velshi of MSNBC.
+Plus terminology, what word will you need to know this week just to make you a little
+bit smarter?
+Let's do some headlines for Tuesday morning, September the 8th.
+The S&P 500 index has some new players at the table and Tesla is not one of them.
+Late last Friday, test equipment maker Terradine, pharmaceutical company Catalint, and e-commerce
+site Etsy were welcomed into the index by the S&P 500 Index Committee, but not Tesla,
+which many thought was a guarantee.
+The company recently split its shares five to one last month.
+It issued $5 billion in new shares effective this morning.
+It's basically flooding the market with supply just as demand appears to have disappeared.
+The stocks fall in 15% from its recent highs.
+That's a correction, but it's up nearly 400% in 2020.
+So perspective is everything when it comes to Tesla.
+The recent run-up in Tesla stock post split, which is kind of unusual, may have driven
+a lot of index fund investors and people who follow Tesla to assume it was a shoe-in
+to be included in the benchmark index.
+And that may have forced it to hold the stock as well.
+That's not happening this year and the stock is selling off.
+General Motors announced this morning it is taking a 10% stake in electric truck
+maker Nikola.
+Nikola, also named after Nikola Tesla, but not connected to Elon Musk Tesla, has been
+one of the hot unicorn stocks of 2020.
+It's introduced the Badger pickup truck, but it has yet to sell one vehicle.
+Shares are up 30% Tuesday morning on news of the GM investment.
+And nine US and European drug makers working on coronavirus vaccines pledged to uphold
+the scientific standards that their experimental immunizations will be held against.
+This comes as global governments are trying to speed up the deployment of vaccines before
+they might be ready for safe public use.
+In a joint statement, drug makers including Pfizer, AstraZeneca, and GlaxoSmithKline,
+among others, issued, quote, a historic pledge to uphold the integrity of the scientific
+process as we work towards potential global regulatory filings and approvals of the first
+COVID-19 vaccines.
+The US Centers for Disease Control recently told states to prepare for a November 1 deployment
+of the vaccine or vaccines.
+The problem is we don't have a proven one yet.
+It's time for Trend Watching, where we identify a few trends to focus on this week to help
+give you some perspective on the economy and the markets.
+Joining me for some trend watching is Investopedia's very own James Chen, our head of investing
+in trading education who also happens to be a chartered market technician.
+He knows charts and he knows trends.
+James, welcome to the Express.
+Thanks so much, Caleb.
+Great to be here.
+Let's talk about volatility.
+Okay, first of all, volatility was on a big summer vacation.
+It's back now.
+all kinds of noise in the technology sector. Now volatility is measured by the VIX, which is also
+known as the volatility index, also known as the fear index. This measures the amount of expected
+volatility in the next 30 days, right James? Yes, absolutely. And for the past several days,
+we've seen a big spike in the VIX where it's been coming down for the past several weeks and months.
+So volatility is back. So if we see like a widespread in the options markets,
+Looking out to the next month, that means that there's a lot of bets, right?
+Either direction that the market's going to rise or fall.
+That means the VIX rises, which is usually a sign for Rocky roads for the markets, right?
+That's absolutely correct.
+And what we're seeing most of the time when you see this elevated pricing in the options market,
+you're looking at people buying puts.
+And that's really a reflection of the fear that's going on in the markets.
+And for now, we just hit all-time highs and new all-time highs in the S&P 500 and NASDAQ.
+NASDAQ and now we're seeing some profit taking but also the elevation and fear.
+So puts are bets that the market will fall, right?
+Those are put options versus call options which are bets that the markets will rise.
+So puts means lots of bets to the downside.
+Not just bets to the downside but also people, investors trying to protect their positions
+in the markets by buying put.
+So a lot of those are protective puts.
+That's where the fear comes in.
+Got you.
+hedging they may have had seen some very big gains in their portfolio and are buying puts
+potentially in case the markets fall so they have a little hedge back going.
+Absolutely.
+That's usually the way it works.
+Okay, so as we get a little bit closer to the election which is coming up on the calendar
+very fast, lots going on in the global economy right now obviously with the pandemic, the
+elections coming up, we have Brexit issues, basically 100 different issues that are causing
+some fear in the markets.
+Should we expect more volatility or less looking out the next couple months?
+I would think so. I've been looking at the markets for the past several months since the big March
+drop. Really, we've seen a lot of upside momentum, really, really sharp moves. Some would say those
+moves are not really warranted. At this point, it's been due for quite some time that we have
+another spike in volatility, another drop in the market. I think for now though, it looks like
+it's just a profit-taking move, but it could be significantly more than that.
+Great. Let's move on to our next trend, which is related.
+Right. Tech stocks may have flown too close to the sun.
+Valuations have gotten extremely high, very hot.
+Several of them have fallen into a correction last week, which is funny
+because they're all up 200, 300% and they fell 10% or more just in the last week.
+But after rising 70% off of its lows in March, as you mentioned,
+the NASDAQ fell about 6% between last week and this week.
+Technical analysis like you, James, look for things called support and resistance when
+markets go to extremes.
+What are those and what are we looking at right now?
+Well, support and resistance are basically lines in the sand in the market.
+So when you look at any chart of any market, whether it be the NASDAQ or an individual
+stock or what have you, we're essentially looking for levels, price levels, where price
+may turn.
+So for example, if you have a big drop, like we're sort of seeing right now in the NASDAQ
+and in the S&P 500, then technical analysts will be looking for sort of the price levels,
+lines where there might be a turn, where there might be demand in terms of support.
+You can think of resistance sort of like a ceiling and support being a floor.
+Now these are not completely infallible.
+Of course, you have floors that break down and then you have floors underneath that.
+But generally speaking, these are guidelines for technical analysts and traders to use.
+Right.
+So the NASDAQ, which had been on an absolute tear, it crossed 12,000, I think sometime
+last week, probably hit that resistance level, probably blew right through it a couple of
+times.
+But on the way back down here, looking down around 3% on a Tuesday as we're taping this,
+what is the support level look for a NASDAQ?
+And I see here on the NASDAQ, we have a support level around $10,800 on the NASDAQ composite.
+Now that could very well have been blown through to the downside.
+So we do have support levels further to the downside that we're looking at that price
+may reach.
+And let me make this clear.
+If price does come back down all the way to these support levels, we're looking at a
+pretty significant drop or dip or correction or retracement or really
+whatever you want to call it. But the next one lower below the 10,800 level I
+would say is around the 10,200 level for the NASDAQ. These are pretty significant
+drops but as we mentioned NASDAQ has been on an absolute tear since those
+lows in late March and a lot of new investors James have come into this
+market they've never seen this type of volatility or even this type of a
+correction. They may have no idea that stock markets and stocks fall 10%, 20% or more sometimes.
+Exactly. And we've seen throughout this recovery from the March lows that there's been a lot of
+new participation from retail traders. And yeah, you're right. To have this kind of a drop occur
+right after you start trading can be unnerving. But I think overall, we still are in what we
+call an uptrend. Right. The trend is your friend, as they say in our business.
+And what I love about technical analysis, it takes the emotions out of it.
+It takes the stories out of it.
+It's all about price and market technicians like yourself.
+You just look at the price and forget everything else.
+And when you do that, you see things a little bit differently.
+Last trend we're watching this week, the dollar's been on a steady decline just the
+way a lot of politicians like it.
+Meanwhile, the euro has been rising pretty aggressively, very different behaviors by
+two of the major currencies as we come through this recovery.
+What does the dollar decline tell you about where we're headed and where might it go from
+here, not in price level, but in terms of further downside or is it going to strengthen
+and the euro strengthening as that economy tries to recover, James?
+When you look at the two biggest currencies, the two most traded currencies, the US dollar
+and the euro, they're going to be at odds.
+For example, when you trade the Forex market, you trade currencies in Paris.
+For example, the euro against the US dollar is the most traded, most liquid currency pair
+there is.
+So generally speaking, when you see the dollar go down, you see the euro go up and vice versa.
+Now when you take a look at what's been happening with the dollar, you could take a look at
+the dollar index.
+We've seen a big drop, a big and sustained drop pretty much since the height of the
+pandemic in March.
+Now there's a lot of reasons for that, one of which is we have a lot of accommodation,
+what we call an accommodative stance from Fed.
+So we're looking at lower rates, lower rates for longer, et cetera.
+And then so from the ECB or the European Central Bank, we don't see nearly as much of that.
+So that's one of the reasons that the dollar has been dropping pretty steadily.
+We've seen a pop most recently, but generally speaking, I would say that the dollar has
+further downside to go.
+If that occurs, then we're going to see more upside for gold, for silver, for the commodities,
+and perhaps even for equities.
+Right, because that lowers costs for those exporters out of the US, which is good for
+their bottom lines, and their bottom lines in large part have been suffering.
+James Chen, Investopedia's Director of Trading and Investing Education.
+Thanks for joining the Express.
+Always good to have your perspective, my friend.
+You too.
+Thanks so much, Caleb.
+Every week we'll be spending a few good minutes with a special guest from the world of business,
+investing, economics, or related industries to share what's on their mind about the most
+important issues around you and your money.
+I'm delighted to launch these conversations with my good friend Ali Velshi.
+He's the anchor of his own weekend news program on MSNBC.
+He's the former top business correspondent at CNN, where we worked together for several
+years.
+He's a philanthropist, an educator, and an all-around solid citizen of the planet.
+Let's get into it with a few good minutes with Ali Belchi.
+So Ali, you and I worked together through the last financial crisis.
+We saw how income inequality really blew up.
+It was already headed down that path.
+We're right in the middle of this crisis.
+We see a lot of similarities this time and some notable differences, but what's surprising
+you about the recovery about where we are right now and also what's not surprising you,
+which is just seems like the same old coming back to haunt us.
+The thing that surprises me, and by the way, it surprised me last time around in a different
+way and that last time was all about a credit freeze, right?
+We had never seen such a thing where it wasn't just regular people who couldn't get
+loans.
+It was companies.
+Governments wouldn't lend to each other.
+So we were all about unfreezing this credit so that the world could carry on.
+What we realized in the last recession was that credit is the oil that lubricates the
+engine of the economy.
+What we weren't paying attention to in the moment then was the degree to which the actions
+that we can take exacerbate the inequality, right?
+We just needed to save everybody.
+We needed to get credit going.
+We needed to save the world.
+Now I think we are substantially clearer on how when we do certain things like the
+Fed does what it's doing in guaranteeing that banks have all the money necessary to be
+able to continue to loan people, loan companies money so that there's no credit freeze. Well,
+that then sets apart companies and people with great credit and access to credit from
+those who don't have jobs, who might be losing their homes, who've been laid off. So we're
+watching the inequality grow in front of us and it's much more mainstream. We all understand
+that better than we did before. So that's the part that I think we've learned and
+that's different from last time. What surprises me is the degree to which we've still got
+the same tropes. We've still got the same thing about there's going to be too much debt, so
+we've got to stop with the relief programs. We don't seem to have problems with something
+that looks like an endless money tree when it comes to putting money into the credit
+system, which is great, right? We should actually be saying to the banks, keep loaning
+companies money as long as they're credit worthy, we'll make sure as the Fed and the
+government that you've got enough money. That's actually a really good policy. And
+in that, you don't have to go to the government. You don't have to go through a political
+process. But when it comes to regular people, it still becomes this idea that government
+money is free money that people are going to exploit. We haven't quite registered that
+when people don't have an income and you give them a dollar of government assistance,
+the return is greater than that dollar because people without an income or with a low income
+spend all of that money and they spend it all hyper locally, which means jobs are created
+in the environment. So we haven't switched our way of thinking about how we're supposed
+to deal with these things. I think we're a little bit better off than we were last time
+in understanding the degree to which inequality is being exacerbated by these policies, but
+we haven't quite figured out what to do about it.
+Right. The relief seems to be going to the capital markets, to the financial institutions
+to keep the systems going. We saw that in 2009, 2010. Worked out great for stock investors.
+Didn't work out great for people trapped in a minimum wage job or working less in
+full time. So it seems like the money, the stimulus is not really hitting the right
+people who really needed the most, which is that lower income group that is frontline workers.
+We've talked about this on your program. These are the people that are actually the ones
+who are being held down while the capital markets and the haves and those with good
+credit and cash make off.
+So if you have good credit right now, even if you're not an absolute have, you'll refinance
+your mortgage for under 3% for a 30-year mortgage. So you actually come out of this thing.
+If you didn't lose your job and you have good credit, better off than you did. That's
+it was in the last recession. That's how it is now. But the one thing we are realizing about
+these minimum wage frontline workers or low income people is the degree to which they are
+crucial to our society. They were invisible people. Now, thankfully, they're not.
+Listen, you're a card carrying capitalist. You say it all the time. You're not afraid to talk about
+it. But the kind of capitalism that you're talking about and imagine when I hear you and
+read, read what you write is not the capitalism that we're living in right now. You have a
+vision for a more conscious form of capitalism for lack of a better word.
+What would it feel like if it was done right and actually helping people and not creating
+the separation that is so rampant?
+The problem I think with capitalism right now is distribution, right?
+It's like plumbing.
+The plumbing's working, but if it's not getting to all the taps, it's just not working.
+And that's what our system has.
+I don't have an issue with wealth creation and the way it's created and the incentives
+behind wealth creation, but for some reason, it doesn't spread itself out well.
+And people call that redistribution, except when we build roads and when we have hospitals
+and we have traffic lights, these are shared costs.
+Well, why don't we extend that to education?
+Why don't we extend that to healthcare?
+It's just a way of distributing your wealth in a method that gives you a better return
+on your investment.
+That's the whole point, is that if we are getting more out to more people, they will
+then invest it, and in fact, we'll do better.
+In theory, debt will be lower.
+More people will be participants.
+people will be taxpayers. People have a very black and white view of these things. It's
+either capitalism or socialism. It's either you're incentivizing people or you're paying
+them to stay home. It's just not like that. We have a system that fundamentally is probably
+better than most other systems in the world. It's also fundamentally flawed and we get
+to see those flaws. We can fix that and it is in the hands of capitalists, people
+who believe in the system and people who benefit from it to say, this is not fair.
+It's not a bad system, but it definitely is not working fairly.
+We have to fix it so that it is fair, it is equitable, and the spoils of our capitalist
+system are distributed more fairly and more evenly.
+You hear it a little bit with the Business Roundtable and the Blackrocks, the $7 trillion
+asset firms, and the biggest companies in the world saying we have to get to a stakeholder
+capitalism for lack of a better word.
+Just adding an extra stakeholder.
+We know shareholders are there.
+We know customers are there.
+A lot of companies now treat their employees as key stakeholders and those become the best
+companies to work at.
+We have to think about the earth and the climate, and we have to think about society.
+So just add a few more stakeholders.
+It's not going to make it worse.
+It's the German system of companies and employment, right?
+They've got a few more people at the table, so their decisions tend to be more sound.
+That's all I'm saying.
+Add a few more people to the table, come up with better decisions.
+I bet you the pot's not going to shrink.
+It's going to grow.
+All right.
+Since we are an investopedia, we were built with financial terms and concepts and
+definitions. What's yours, Allevia? So your very favorite financial term or concept that
+you just like, that just makes sense to me.
+Inverted yield curve. Because I love it. I just I love saying it. I say it a lot. It
+is conceptually something that's really interesting if you can explain it to people, which by
+the way is hard to do and I often go to Investopedia to do it. It makes people understand a concept
+about wow, the way people think about risk and the cost of money over time. My friend,
+worldwide journalist, author, humanitarian, professor, all around good guy Ali Vashli.
+Thanks for joining us on The Express.
+It is a delight to have had you here.
+I'm going to see you on my show soon.
+It's terminology time, the part of the show where we introduce and explain a key financial
+investing term that may be important in the week ahead.
+This week's term, the put to call ratio.
+The put to call ratio is an indicator ratio that provides information about relative
+trading volumes of an underlying securities put options to its call options.
+Remember, put options are bets that a security will fall in the future. Call options are bets
+that the security will rise. The put-to-call ratio has long been viewed as an indicator of
+investor sentiment in the markets, where a large proportion of puts-to-calls indicate bearish
+sentiment and vice versa. Technical traders use the put-to-call ratio as an indicator of
+performance and a barometer of overall market sentiment. Now, for some perspective, the put-to-call
+ratio was nearing multi-year lows at the end of August as the stock market made record
+highs day after day.
+That's a contrarian sign that the markets and investors are too optimistic and it proved
+true once again.
+Volatility spiked as more puts or bearish bets on the market were made last week, sending
+U.S. markets to their first weekly loss in five.
+Keep an eye on the put-to-call ratio this week and stay safe out there.
+Hey, thanks for joining us for the launch of the Investopedia Express.
+We'll be with you at the beginning of every week to help you get ready for what's ahead.
+I'm your host Caleb Silver, the editor-in-chief of Investopedia, and as Warren Buffett likes
+to say, invest like a champion out there.

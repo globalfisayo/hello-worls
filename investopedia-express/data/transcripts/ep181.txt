@@ -1,0 +1,661 @@
+It's not personal, Sonny.
+It's strictly business.
+It was a clear black night, a clear white moon, the Express is on the tracks, trying to consume all these market dynamics.
+What's making stocks swoon? Why investors are piling in when the rally left the room?
+What's making yields pop and semis drop? Why the S&P looks shaky up here at the top? Why oil prices are rising?
+There's no supply shock. Why inflation's still sticky watching the Fed like a hawk. Be a predator not a prey.
+Let's get it on like Marvin Gaye. Sectors are rotating, changing sets like a plague.
+Fundamentals are essential every night and every day. No shortcuts here got to play the right way.
+Know your limits, know your lines. Set yourself up for success.
+Punch your ticket, let's get wicked on the Investopedia Express.
+Welcome back and welcome aboard. And you may want to grab a handrail as sector rotation is underway.
+The major U.S. equity averages topped yet another record high last Tuesday,
+but closed slightly lower, but still lower for the second straight week.
+Another drop in tech stocks led the slide as inflation worries sent investors skurring for safety.
+Treasury yields popped over 20 basis points or 0.2% with the 10-year yield climbing back
+above 4.5%.
+Friday's sell-off was slightly scary as it was one of those quarterly triple-witching
+days when stock options, market index options, and market index futures expire simultaneously,
+which is always good for a little volatility and some price pressure.
+We know there's been a lot of bullish options activity lately, so a little pressure drop
+was not out of line.
+And with the CPI and the PPI coming in a little hotter than expected, telling us that
+inflation ain't over yet. All eyes are back on the Fed this week when it meets on interest rates and
+monetary policy Tuesday and Wednesday. No rate cuts are expected, as we all know by now,
+but has the Fed's tone shifted since the last meeting, given how stubborn this last leg of
+inflation has been? Right now, according to the CME's FedWatch tool, the probabilities of a rate cut
+don't get serious until the June 12th Fed meeting, where there is now a 55% chance the Fed will cut
+rates by a quarter of a percent. With the S&P 500 and the NASDAQ still dancing around record highs,
+There's a lot of people wondering if equity investors are a little too optimistic and
+enthusiastic about the prospect for lower rates.
+Or maybe, just maybe, those investors don't really care too much about the Fed's next
+move given the strength of corporate profits lately.
+As Morgan Stanley's Mike Wilson points out, the difference between the price-to-earnings
+multiple for the S&P 500 and the Fed fund futures, which represents investors' expectations
+for our decline in interest rates, that just keeps getting wider.
+They know the Fed's going to eventually lower rates, Jerome Powell has said as much,
+And we can see it right there on the dot plot.
+And since the market is around record highs and the economy seems to be stabilizing, albeit
+this sticky last leg of inflation, there's not a lot of anxiety about Fed rates as there
+was over the past four years.
+And that leads us directly into our big three for the week.
+Number one, it's easy to get lost in this purple haze of record highs for stocks and
+Bitcoin and miss some of the shifts happening intramarket.
+Thanks Jimmy.
+seems to be taking inflation a little more seriously than other asset classes.
+Tips, those inflation protected treasury securities, have been rising a lot faster
+than nominal treasury yields, which tells us that bond investors think higher prices are going to
+stick around for a while, and commodity traders feel the same way. As our buddy JC Perretz points
+out, the CRB Commodities Index is at its highest level since October. Inside the stock market,
+the leadership has shifted from high-flying AI and chip stocks to energy and mining stocks.
+If those commodity prices are going higher and the futures market tells us that they are,
+inflation is not going anywhere. There's a reason that oil stocks have outperformed the
+Nasdaq 100 so far this year, even with Nvidia and META. Still, investors keep rushing into stocks.
+According to EPFR, U.S. equity funds took in $56 billion in the week through March 13th,
+with $6.8 billion of that going into tech. And options traders, especially small options
+traders, are feeling pretty frisky. Last week, they spent 46% of their total volume on buying
+call options to open. That's tied for the second highest amount in the past two years.
+Who's going to be wrong here? Number two, is 2024 starting to look a lot like 1995? Adam
+Turnquist, the chief technical strategist at LPL Financial points out in a recent note that a lot
+of conditions are similar. For those of you not around in 1995 or those of you who need a little
+refresher, Michael Jordan came out of retirement wearing the 4.5. DVDs were invented, Netscape,
+The OG web browser went public and was the gateway to the internet for most of us and
+Coolio's gangstas paradise was the song of the year, R.I.P.
+Coolio.
+As Turnquist writes, after stumbling into the start of the year from drastic Federal Reserve
+rate hikes in 1994, the S&P 500 quickly regained its footing and rallied consistently higher
+throughout 1995, amassing 77 record highs along the way.
+That was the most all-time highs for the market in history.
+And if you're a math person, 77 all-time highs in a trading year breaks down to
+a new all-time high every 3.3 trading days, euphoria and no volatility. The maximum drawdown
+that year was only 2.5%, also a record. Roll back the tape to 1994 and the Fed had doubled
+interest rates from 3% to 6% to battle an inflation wildfire. The bond market spiraled
+into losses and stocks faded into the end of the year. The drumbeat around a recession
+was deafening, but then it stopped.
+Inflation stabilized and the economic expansion resumed. By the summer of 1995, the Fed
+cut rates in the stock market sprinted to a 34% gain by the end of the year. To be sure,
+2024 is very different from 1996 in innumerable and innumerable ways. But just to keep some
+perspective, the S&P 500 is up just under 8% so far this year, and the market has made 18 record
+highs so far. Since 1950, the maximum drawdown for the S&P 500 during years with a record high
+averaged a drop of 11% compared to the average drawdown of 17% during years without a new high.
+Furthermore, annual S&P 500 price returns during years with a record high have averaged 13.7%.
+We're over halfway there. This compares to an average return of only 3% during years without
+a record high. Stocks may seem overbought right now, but as turnquist reminds us,
+overbought conditions can persist for longer than most people expect, especially in strong bull
+markets. And number three, it's been almost exactly four years since the World Health
+Organization proclaimed the coronavirus a global pandemic and life as we knew it changed on a
+dime. We were locked down in our homes. People we knew were getting sick, some fatally. Our kids
+stopped going to school and lived their lives exclusively through their screens. Some of us
+were washing our groceries. It was not fun. And we watched the stock market and the economy fall
+off a cliff. On March 16, 2020, the S&P 500 fell 7% shortly after the open. Circuit breakers kicked
+into the exchange and halted trading for 15 minutes. It was the third circuit breaker halt
+that week. The Dow Industrials dropped 12.9%. The second biggest percentage lost post-World War II
+after 1997's 22.6% drop. The S&P 500 fell 12%, its third biggest percentage loss,
+and the NASDAQ fell 12.3%, its largest percentage loss ever. Remember, just one
+month before, in February of 2020, the stock market was at another all-time
+high. The market would not bottom until March 23rd, and from the highs of February
+19th 2020 to the bottom of March 23rd, the market fell about 34%. And then we
+know what happened. The Fed forward interest rates, the government rained
+money on households and businesses, and by August the S&P 500 was back to its old highs.
+If you need another lesson in why we stay invested, here's where we are today, exactly 4 years
+since our lives were turned upside down.
+The S&P 500 is up 88%, better than a 20% annual return.
+The Dow Industrials are up 67% and the NASDAQ is up 103%.
+Let's get set up for the week ahead and all eyes will be on the Fed.
+Take that all ears.
+A Fed decision and Powell's press conference aren't that much fun to watch, but we're
+going to be listening closely for any change in tone from last meeting, especially given
+the latest inflation news.
+Has the timetable changed for a Fed cut?
+Has the number of cuts gone from 3 to 2 or 3 to 4?
+Does the Fed expect unemployment to climb higher than 4% anytime soon?
+Details matter, and we're going to be listening closely for them.
+We'll also be paying attention to the housing sector, which is still not feeling the spring
+vibes.
+Your fixed mortgage rate is hovering around 6.8%.
+So the icicles are starting to melt, but we're going to get the NAHB Housing Market Index
+report for March and look back at February housing starts, permits, and existing home
+sales.
+The mortgage industry was rattled last week when the National Association of Realtors agreed
+to a landmark $418 million settlement with home buyers on commissions.
+The settlement, if approved by a federal court, would eliminate the automatic 5-6% sales commissions
+for listing and sales.
+It will allow buyers to negotiate commissions with brokers.
+It will strip brokerage commissions from MLS listings.
+It will lower closing costs for home buyers and it will offer them more choice.
+Some analysts estimate that the real estate industry could lose half of the brokers and
+listing agents working today.
+We're going to stare down another potential government shutdown this week as Friday is
+the deadline for a passage of several government spending bills, also called Continuing Resolutions.
+Here we go again.
+get the last wave of corporate earnings reports this week with results coming from widely held
+companies including Micron Technology, General Mills, FedEx, and Nike, among others. Just do it.
+And on Monday, Nvidia will have its GTC, its Global Processing Unit Technology Conference,
+for artificial intelligence, and that will kick off with a keynote address by founder and CEO,
+Jensen Huang. He is having a moment. In 2022, total taxable sales for both legal
+and medical cannabis totaled a little over $15 billion.
+The 2023 figure is still being tallied, but the growth of this cash crop, which is still
+a Schedule I narcotic according to the DEA, is undoubtedly slowing.
+23 states and Washington, DC have fully legalized cannabis, with an additional 21 states either
+fully or partially legalizing medical marijuana.
+California, one of the first states to legalize cannabis for both medical and recreational
+use, has seen this slowdown firsthand.
+prices for cannabis flower crashed 32% last year as overproduction and an overabundance
+of dispensaries has far outpaced demand.
+But California, one of the most popular tourist destinations on the planet, is trying to
+reignite the industry and many cities and counties are turning to cannabis tourism to
+do so.
+Think Wellness Spa is offering medical cannabis treatments and tours of cannabis farms and
+production facilities, not hanging out with Chichen Cháng and their van by the beach.
+I was recently invited to host a conversation at Visit California's annual gathering in
+Palm Springs, California that addressed this economic opportunity, the good, the bad, and
+the unknown.
+Visit California is a big nonprofit organization that supports and advocates for the tourism
+industry of the Golden State and that supports what are known as DMOs, or Destination Marketing
+Organizations around the state like Santa Ana, Oakland, and Bakersfield.
+The big question, how does California, which has a $149 billion tourism industry, market
+cannabis tourism alongside family fun attractions like Disneyland, Universal Studios and the
+Great Beaches up and down its coast?
+It was a fascinating conversation about a controversial industry at a crossroads and here are a few
+minutes from that panel.
+I got a great panel here.
+We have Peter Guymas, the president and CEO of Visit Oakland, Wendy Hasey Roberts, the
+president and CEO of Travel Santa Ana and Brian Applegarth, the integration specialist
+from Destination Cannabis and the president
+of his own consulting firm.
+I'm really excited to get into this with you guys.
+I wanna start with you two just to level set
+what's happening in your area in Oakland.
+Where are you from a marketing cannabis perspective,
+cannabis tourism set the stage for us?
+Where we're at with cannabis travel for Oakland
+is we're now going into our third year of this adventure.
+And what I mean by adventure is
+it was an adventure in the beginning.
+It was a risk.
+We didn't know how it was gonna be well received
+And it's been received overwhelmingly by the community
+and by travelers.
+So we're excited about it.
+We're excited to talk about it today.
+I do wanna thank Brian Applegarth,
+who really was our main advisor on introducing this concept
+of cannabis travel to Oakland.
+But we organically started with Oakland
+because it was a very easy destination
+for cannabis travel to exist.
+So hopefully we're gonna be able
+to explore that later on today.
+Great, Wendy, what about Santa Ana?
+For Travel Santa Ana, we're a brand new destination marketing organization.
+We were just formed in January of 2021.
+When I joined the organization and saw the city and learned that we were the first city
+in Orange County to allow dispensaries, I saw that there was an opportunity to differentiate
+ourselves from other Orange County cities and sought the assistance of Brian to build
+a tourism program.
+in the initial stages, we have an age-gated website page that lists several of the dispensaries.
+Not all.
+We have 31, approximately, but we're not looking to be business listings.
+We're looking to have the listings be about the experiences that visitors will have once
+they're at the dispensary.
+It's carefully written content that's displayed.
+I want to get into what that actually looks like and reads like, well, there's a common
+denominator here, not just cannabis, right?
+Working with both of these DMOs and helping cities around California, probably around
+the country, think about how to implement this, use data, tell us about your business.
+What is it that you're trying to help solve?
+Yeah, so, Applegarth Consultative Services or Applegarth Strategies, we specialize in
+the cannabis travel audience, which has been profiled and measured since 2019.
+That's something that we did when we teamed up with MMGY Travel Intelligence.
+We did a national survey.
+As of July last year, that audience is about 72 million Americans, about 37% of the active
+leisure travel audience, and that doesn't really account for the medical opportunity.
+So what Apple Earth Strategies does is we have a great team, and we work with DMOs
+destination organizations to really understand what's the destination brand, what are the
+strengths.
+We help connect with the cannabis stakeholders.
+We're a resource.
+As we develop 12-month programs, we really try to make it fit and become a liaison to
+the cannabis community, bringing data every step of the way and measuring that.
+And also looking at the nuance of the cannabis travel audience, there's different archetypes
+from the Cana Curius to the Cana Wellness to the Cana Bisconta Sore.
+this ceremonial traveler that's really, I believe, pioneering a new vertical in travel,
+which comes down to wellness and well-being and balance and in theogenic travel.
+Let's just level set on where we are from an economic perspective. The cannabis industry
+in 2023 in California from taxable revenue perspective, about $5.1 billion, not nothing,
+but down about 4.7% year over year. Retail prices down about, what did I read, 32% just
+by the measured cannabis flower.
+Those prices are falling year after year in this state.
+When you look at the overall state though, tourism revenue, $149 billion.
+Wine is about, what, 55 billion.
+So this is a $5 billion industry trying to hold on here inside our mega tourism industry.
+So fascinating to get into that.
+Let's talk about what's happening in Oakland.
+You have the Emerald Cup.
+You're working with the hotel industries.
+How are you making this partnership kind of B2B in a lot of ways for an event that's
+people are already coming to.
+Well, for those of you that aren't familiar with the Emerald Cup, how many have you heard
+of the Emerald Cup or is it familiar with?
+It's kind of like the World Series of cannabis.
+It's like we're so blessed that it's coming to Oakland.
+We're going to have up to 25,000 consumers descending to downtown Oakland and everything
+about the cannabis world is going to be explored there.
+How we were so fortunate that they selected Oakland, well, one of the reasons why is
+Our simple cannabis trail that we started three years ago,
+thanks with the work with Brian,
+we showed that we were a community
+that was welcoming these travelers.
+We wanted these travelers to come to our town.
+What I love about it is a hotel,
+and it was a past hotel year,
+and met room nights, especially during a time
+that we need as many room nights as possible
+throughout the entire state.
+This was a group of people that just signed an agreement
+for five years to come to Oakland,
+and a hotel community that is more than welcoming to bring in these new consumers to show off our
+town. And I just want to add to that. The Emerald Cup is a great marker for Oakland,
+but it's our trail that's, it really should be a trail that's not only used for April 20th for
+Port 20 Day. It's a trail that's year round that our marketing department is constantly adding
+content and we're bringing influencers and making our story a 365-day story
+that will hopefully bring in more Emerald Cups into the city of Oakland.
+Yeah, fascinating. So, Oakland starting to do it right. Santa Ana is starting to do it right
+here. Brian, give us some other examples of either DMOs or areas outside of California that
+are doing this right. Cannabis tourism, marketing it right, selling it right, and having that
+success. Yeah, I do think, I think Visit Oakland and Travel Santa Ana really are like leading in a
+lot of ways and visit Mendocino County. That legacy producing region of Mendocino and Humboldt
+is an incredible asset for the state of California specifically. There's also like the Kootenai
+Rocky region I did a body of work for up in Canada. That was really education heavy,
+did a similar body of work for Hello Burlington. I believe that first step of getting your
+your destination organization team educated on what this is and starting to get the information
+so you could have internal discussions about what that next step is, is a really important
+phase one.
+That's often followed by know before you go information, providing visitors with what
+the laws are, letting them know where the best dispensaries are that are on brand that
+create experiences above and beyond a transaction.
+That's all kind of the phase one content.
+And there's a handful of DMOs that are starting to wake up to that and do that in a really
+effective way.
+And then there's the more mature, right?
+There's the destinations like Travel Santa Ana, Visit Oakland, Visit Mendocino County
+that are really embracing this, creating trails, creating storytelling platforms, becoming
+a resource and engaging their cannabis stakeholders in really powerful ways.
+And it's a great time to be doing this in destinations like California, because the
+The cannabis experience economy for the modern day, for the California way, the 3.0, Amsterdam
+was 2.0.
+California is really about to crack open a whole new level of innovation in the cannabis
+experience economy of California.
+Cannabis today is seen as a travel trend in wellness, well-being and balance with one
+foot in medical, one foot in leisure.
+It's got a hell of an audience.
+It's going to continue exponentially growing.
+This plant reaches into, we have cannabis spas in California where it's topical applications,
+cannabis beverage bars, infused culinary dinners.
+Santa Ana has some cannabis sampling rooms that are about to come on board, which is
+the cannabis version of a wine tasting room.
+And yes, you have cannabis lounges that are inhalation as well.
+But when it comes to destinations in California, these two are leading it.
+San Francisco has some great content up as well.
+of Greater Palm Springs, took some steps forward.
+There's some great content stories coming out of West Hollywood.
+So really, yes, those are some of the destinations that are kind of leading the way.
+Great.
+So Wendy, San Ana is relatively newer, but kind of gaining some traction here.
+How do you think of it from a marketing perspective, or what kind of sort of rules of the road,
+whether those are hard rules or soft rules, are you encouraging for the industry and for
+the area?
+I feel like we're in probably phase one and a half, leaning into two.
+Our city is looking at allowing a cannabis event, not to the scale of the Emerald Cup,
+but that would be this fall.
+And so we're working with Brian, we had a seat at the table with economic development
+to discuss the RFPs that came in for the event to make sure it was a two day event that
+would draw potential overnight visitors that it fit within a brand, that it had a Santa
+Ana name and not a general Orange County name.
+So we vetted those RFPs.
+Now it has to go before city council.
+Even though our city is allowed 31 approximately dispensaries, the idea of an event is still
+a little scary for some, especially the city council because they're not the same city
+council that allowed and voted for the dispensaries to begin with and with election coming up.
+So it's getting educating.
+It's all about education.
+So once we know when it's going to go to city councils for approval, we will be at the ready
+to provide them with data about the travelers, about the economic impact, how we're going
+to market it.
+Because we look at as three tiers, the city taking the resident marketing and educating
+them about the benefits.
+Cannabis dispensaries brought in $12 million into Santa Ana, one and a half million more
+than our hotels in taxes.
+So educating the community about those general funds that go to youth programs, arts and
+culture.
+And so educating the residents about the importance of the cannabis tax.
+Then the event organizer has the marketing and experience of marketing to their audience.
+And then us marketing to draw overnight visitors to our hotels.
+I think the hardest so far, and I'm anxiously awaiting for Emerald Cup to happen so that
+I can glean some best practices from Peter and visit Oakland because so far, our hotels,
+we have all brand name hotels.
+So far, there's been resistance because you have brands, you have owners, and you have
+management companies.
+No one wants to be that first.
+We have decided, initially, we were going to have this whole thing about hotels that are
+cannabis friendly.
+I think it's too soon.
+just letting the hotels, if this event gets approved, which we all are very hopeful that
+it will, our next step for our hotels is to educate them about what to expect.
+Here's what your front desk needs to do.
+Here's what your housekeeping needs to do.
+The hoteliers from a brand need to be addressed on this because Marriott, Hilton, all of those,
+they need to have a lesson in cannabis and what it's doing and how it's impacting the
+economic vitality of local communities that allow this so that they're not so scared.
+But it can't be a general manager trying to fight with an owner, trying to fight with
+a management company going up to an owner.
+Many are owned by private equity firms.
+If you show them the money, they might be interested.
+What is actually legal to market?
+What isn't legal?
+And also, how do you get around the stigma if you're marketing this?
+This is not reefer madness, getting higher in your hotel room, although plenty of
+people are doing that.
+How do you broaden the message?
+Let's do the legal first and then we'll get into the...
+Like what's legal, what's not.
+So when it comes to cannabis,
+especially on the leisure travel side, 21 and up, right?
+So you got to look at audiences 21 and up,
+it's got to be about 70%, kind of meet that criteria.
+When it comes to travel experiences, I really look at it.
+I look at kind of the hate Ashbury in San Francisco
+as the jump off point.
+It's been an attraction.
+That story has been a cultural story
+in California for decades.
+So what is the extension of that story?
+Because cannabis has played an incredible role
+in our state, you know,
+starting with the development of the missions
+and still having hemp artifacts and things like this.
+So the 21 and up, you gotta be,
+basically when you do create content,
+let's just imagine that all the know before you go content,
+all the risk mitigation, public safety,
+hospitality, industry safety,
+content is created on your website.
+That next suite of content is really about experience,
+on brand for the destination of course,
+and talking about culture, right?
+So being able to speak from a cultural lens.
+Oakland has an amazing story to tell with DEI,
+and equity.
+They were the first licensed equity cannabis shop
+in the world.
+And that's a story that ties back into cannabis activism
+and human rights.
+And we're able to tell that kind of cultural ethos story
+through the cannabis trail
+and through the story of cannabis.
+Visit Mendocino County, very similar.
+Decades old, the brain trust of cannabis
+and the cannabis plants up there is incredible.
+It's also one of the deepest genetics banks in the world.
+And when you start looking at cannabis
+as each seed has a different chemical composition
+and cannabis was part of the US pharmacopeia from 1850
+to 1941, it was on pharmacy shelves up until 1937
+before prohibition, you start understanding that,
+wow, when you look at the Emerald Triangle,
+Humboldt County, Mendocino County, Trinity County,
+they have one of the deepest faults of genetics
+from around the world with cannabis.
+What does that mean from a leisure travel point of view?
+Absolutely, but what about medical travel?
+And what kind of opportunities are there
+as the California cannabis Appalachians
+start coming on board,
+which have been in development for four years
+and are supposed to flip live this year,
+just like wine AVAs in the state.
+Yeah, I wanna get into that too,
+because that could be a potential game changer
+when you get an Appalachian like you do
+for the gray wines up in Napa and Santa Barbara and beyond.
+You mentioned data, data is everything these days,
+and it's especially important in sort of a new type
+industry where you're trying to make these proving points.
+I know you're super passionate about it.
+I know you've done a lot of data collection.
+You just mentioned an example.
+But what data should DMOs be looking at,
+and what data should these folks look at,
+and where can they find it if they're interested
+in following along?
+Because that is gonna be probably the goldmine
+for proving that this might be worthwhile.
+Yeah, I mean, for me, it starts with
+the cannabis travel audience, right?
+Understanding the audience size, who they are,
+what are the archetypes, and what does that mean
+against your DMO brand?
+and then really understanding what your assets are
+in your market against all that information, right?
+How many cannabis shops or lounges or spas
+or sampling spots do you have that's part
+of the visitor economy or the tourist track?
+Are there any that are even located in tourist centers, right?
+And starting to circle these
+from a geographic strategic point of view.
+That being said, there are, in cannabis sometimes,
+destinations have developed it
+in kind of a marginalized way
+where they put you in the industrial zone.
+And there are some destinations that you can make,
+it is travel worthy to go out to those.
+So there are outliers,
+but understanding what experiences exist
+in the tourist track and starting to analyze
+and assess that and then reach out to those stakeholders
+and start developing relationships.
+So you can create a program around it
+and be a guide to teach them what it means
+to not just be a transactional retailer,
+but to go above and beyond
+and consider yourself an experience creator
+for the visitor spend, for the visitor experience,
+above and beyond a resident spend.
+So the cannabis travel audience in relationship
+to your destination brand
+and your cannabis stakeholder assets
+and kind of where they lie.
+The second data set would really be kind of what,
+like Zardico's done this,
+Tourism Economics has dove into this as well,
+is understanding and geofencing kind of the human movement.
+Who's going to the dispensaries or the cannabis shops
+or the lounges?
+How are they moving about?
+What time of day?
+What time of year?
+What season?
+Is it peaking during 4.20?
+How do you make it an evergreen platform
+where you're leaning into pre-existing programs
+and narratives?
+Like a great example of this is restaurant week, right?
+Everyone can relate to, like the munchies
+are one of the most well-known things
+when it comes to cannabis.
+So how can you maybe position the lounges
+as an aperitif or a pre-dinner experience
+to stimulate your appetite, accentuate your palate
+and take that restaurant week to the next level
+while you try those local signature dishes?
+Is there a way to integrate a cannabis narrative
+into a preexisting thing
+so it becomes part of your destination story
+in a brand aligned way?
+And that's the benefit of reaching out
+to the cannabis stakeholders
+and starting to work with them and guide them.
+Oakland did this great too.
+We are doing this great with the Emerald Cup, right?
+This is an economic impact between 17 and $20 million
+that happened in Santa Rosa.
+Now that event is home to Oakland
+and the Emerald Cup team is ecstatic
+because Visit Oakland has wrapped their arms around it
+with hotel partners and marketing support
+and media strategy.
+And all of a sudden you have this kind of synergistic
+relationship unfolding.
+So the cannabis travel audience,
+what does it mean for your destination?
+How do you want to architect out your strategy and program?
+Is it straight marketing content driven
+or do you want to do stakeholder outreach
+and kind of become a data driven
+community alignment vehicle?
+We talk a lot in DI about that.
+And then later on that human movement.
+I think the third pillar is how is this
+specifically lounges and cannabis consumption spaces.
+What is that next step?
+Because some of the data is showing,
+the last portion of the American Traveler Study
+we did in July, 2023,
+we saw a really compelling data point
+that's connecting cannabis as a precursor
+to a food experience,
+like we just touched on with Restaurant Week,
+but also cannabis as a precursor to arts and culture, right?
+Because there are certain types of cannabis varietals
+where it enhances shapes and colors
+and it makes things more thought-provoking.
+It brings you into the present moment.
+How is that translating to economic impact
+throughout the destination where the cannabis traveler
+is dropping money, not just in a lounge and a shop,
+but they're being sent on a curated experience
+throughout the ecosystem
+and they're dropping money elsewhere.
+Of course, heads and beds, right?
+One thing I learned, I've been in 10 years now
+kind of learning the travel industry
+and learned that obviously heads and beds
+overnight stays is incredibly important.
+So both of these destinations
+and also visit Mendocino County,
+one place that we're at in the programs
+is identifying kind of the cannabis friendly hotels
+and starting to geofence those
+to really see where's that resting cell phone spot
+and how many heads and beds are being translated
+from the cannabis travel audience
+and the program that we've created.
+And then how do you support
+with unlocking incremental revenue?
+So in the winery world, the question is,
+or the statement,
+the owner of the winemaker is often the face of the brand,
+story is often the story of the winery
+and it helps the storytelling front.
+Is there an equivalent in the cannabis industry
+there probably is, I know there is,
+but I'm sure you have an example you can share
+that you can point to for the crab ride.
+Yeah, I mean, we're actually upon that era.
+If what I'm hearing is accurate,
+you know, for four years they've been developing
+the Cannabis Appalachian Program of California,
+the California Department of Food and Agriculture
+has been working on this.
+They've looked at Bordeaux,
+they've looked at Champagne France,
+they've also looked at Manuka Honey
+because of the medicinal properties of that
+and what they did in New Zealand around that.
+So there's been a lot of interesting case studies
+around how do we develop this Appalachian of origin program
+when it comes to cannabis in California.
+So you're gonna start seeing these Appalachians roll out.
+I think that obviously this is an immense opportunity
+for California.
+And for me, it transcends cannabis.
+It really is an opportunity for us to highlight
+the agricultural positioning of our state,
+whether it's grapes, whether it's artichokes,
+we have an amazing state when it comes to growing food
+and growing medicine.
+Cannabis happens to have this friction
+that gets amazing earned media.
+And if we tell our story, right,
+and continually kind of coaching the cannabis industry
+of California on how to dovetail in to the California brand,
+as well as the local DMO brands here,
+where we can all be singing off the same song sheet,
+it's an amazing opportunity.
+We need to understand that cannabis is a travel trend today
+that's grounded in wellness and wellbeing and balance.
+And it transcends inhalation and getting high.
+It's a whole new ball game.
+So getting spun up and understanding the cards in your deck
+and how you can play these strategically,
+it's a great time to be proactive with that.
+Great.
+Congratulations to us for not dropping too many puns
+into this conversation.
+We had a $20 penalty, but we made it.
+Special thanks to Peter Gamez from Visit Oakland,
+Wendy Hazy-Roberts from Santa Ana,
+and to Brian Applegarth.
+And thank you for being here.
+Thanks to Visit California.
+Thanks for having us.
+Get home safe.
+It's terminology time, time for us to get smart
+with the investing in finance term we need to know
+this week.
+And this week's term comes to us from President Biden,
+no less, and that term is CIFUS.
+It's an acronym, I know.
+And it stands for the Committee on Foreign Investment
+in the United States,
+which is part of the US Treasury Department.
+The president said last week that he opposes the sale of US steel to Nippon Steel, a Japanese
+conglomerate, although he did not specifically mention that he would try to block the $14.9
+billion deal.
+He said through an email statement, quote, it is important that we maintain strong American
+steel companies powered by American steel workers.
+US Steel has been an iconic American steel company for more than a century, and it
+is vital for it to remain an American steel company that is domestically owned and operated.
+In opposing the sale, Biden sided with the United Steelworkers Union, which has been
+no fan of the deal since it was announced.
+While Napun Steel said it would honor existing contracts, the union is not convinced.
+It's an election year as we know, and President Biden has called his White House, quote, the
+most pro-union administration in American history, end quote.
+Remember, he did side with the United Auto Workers last summer.
+It's very rare and very difficult for a president to block a deal between publicly traded companies.
+It's only happened six times since 2008.
+But if the president does want to block this, he'll do it through CIFUS, the Committee on
+Foreign Investment in the United States, our term of the week, and we'll be watching this
+deal very closely.
+We're going to let Professor Milton Friedman take us out this week.
+The Nobel Prize-winning economist who was an expert on monetary history and theory
+had a unique gift for finding just the right metaphor to describe economic paradigms.
+Here's the professor in a clip from the Free to Choose Network with his explanation
+of inflation.
+pretty timely given the Fed meeting this week and the sticky state of interest rates.
+Inflation is just like alcoholism. In both cases, when you start drinking or when you
+start printing too much money, the good effects come first. The bad effects only come later.
+That's why in both cases there's a strong temptation to overdo it, to drink too much
+and to print too much money. When it comes to the cure, it's the other way around.
+When you stop drinking or when you stop printing money, the bad effects come first and the
+good effects only come later.
+That's why it's so hard to persist with the cure.
+We may just be dealing with an inflation hangover and it may be lasting much longer than we
+expect it.
+Thanks for joining us this week.
+As always, a special thanks to Visit California for allowing me to host that fascinating
+conversation and share it with you.
+We'll link to Visit California's site in the show notes to find the whole conversation
+and all the reports we cited on this week's episode.
+Find those show notes wherever you ride the express
+and we'll talk again a little further on down the line.

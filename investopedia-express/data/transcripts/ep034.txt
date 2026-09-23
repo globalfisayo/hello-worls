@@ -1,0 +1,714 @@
+So you really want to learn how to trade know when to double and when to fade learn the candlestick charts
+Master the pattern recognition arts identify the cup and the handles decipher the messages of the candles
+Can you see a bearish evening star or know when you've taken risks too far?
+Have you ever traded into a double top or watch the value of your call options drop?
+Have you tried to navigate a descending triangle while you watched your precious profits dangle?
+Can you spot resistance and discover support?
+Because day trading is no little league sport.
+It takes patience, a plan, risk management, and finesse.
+We're about to get into it on the Investopedia Express.
+You asked and we answered your questions about trading and you had hundreds.
+Kenny Hit the Big Glick joins the show later to help tackle your trading questions as we
+roll on with Financial Literacy Month.
+But first, here's what's on the tracks.
+US equity markets are coming off of a choppy week and the first negative week in four.
+Volatility blew in with the spring showers and the Biden administration leaked a plan
+to drop a bill that would more than double capital gains taxes for American taxpayers
+earning more than $1 million a year from their profits on their asset sales, including stocks.
+That blew an icy wind through the stock market Thursday, but the sun came shining back in
+on Friday when investors realized that, A, raising taxes by that much is a real long
+shot for the Biden administration, and B, even if it does, only 0.3% of U.S. taxpayers
+will be impacted by this.
+They are a very wealthy 0.3% with a lot of influence, a lot of market cap in their portfolios,
+and a lot of access to the top lobbyists in Washington.
+We'll hear more about the president's plan to raise capital gains taxes and possibly
+other taxes on the wealthy this Wednesday when he presents his American Families Plan
+to Congress.
+He may also outline a plan to close the carried interest loophole cherished by investment banks
+and private equity firms.
+Carried interest is that compensation fund managers and private equity firms earn on
+the fund's profits.
+It's taxed at the capital gains rate and it has been a gravy train for the investment
+industry for years.
+Country clubs throughout Florida, Westchester, Silicon Valley, and Greenwich, Connecticut
+are freaking out about this right now.
+As for those capital gains taxes, they haven't been above 25% since 2003.
+The S&P 500 is up 275% in those 18 years and a lot of long-term investors have done
+very well over that time frame.
+If they smell higher taxes, they may just take some of those profits out of the stock
+market and sit on them. But where else are they going to find returns? Is there any historical
+precedent for us to look and see how higher capital gains taxes impacted the stock market
+in the past 50 years?
+Oh, you betcha. Yeah.
+Well, let's take it back to 2012 when it became clear that higher capital gains taxes
+were coming. The S&P 500 traded sideways for the first few months of the year, closing
+roughly where it had been in March when those taxes were announced. Then 2013 turned
+out to be a great year for stocks that started in the beginning of January and rallied all
+the way until 2018.
+In fact, according to our pal Ryan Dietrich at LPL Financial, the S&P 500 has rallied
+two out of the past four times since capital gains tax were raised going all the way back
+to 1969.
+1969 and 1976 were the years that didn't happen because the economy was in really
+bad shape during those periods.
+But in 1987 and 2013, the next six months for stocks were huge.
+Speaking of numbers, let's get into some number soup to catch up on where things stand more
+than a quarter of the way through the year.
+Men lie, women lie, numbers don't.
+No they don't Jay-Z, no they don't.
+Well, there have been a billion COVID-19 vaccines administered worldwide as of last Friday.
+Three million people have died from the virus.
+Fourteen million US jobs have been added since May of 2020.
+Twenty-two million jobs were lost in total during the pandemic.
+There's been $30 trillion in global policy stimulus in 2020 and 2021.
+There have been 201 central bank interest rate cuts since February of 2020.
+There have been 989 since the great financial crisis.
+Central banks have purchased $1 billion of financial assets every hour since February
+2020 and $21 trillion worth since 2009.
+That's pretty darn accommodative.
+There's been $4.5 trillion in issuance of US Treasuries in 2021 alone.
+That's on pace to easily exceed the GDP of Germany this year.
+Who says you can't spend your way out of a crisis?
+Since the lows of last March, there's been $51 trillion in global equity market cap
+gains that is the fastest and the largest rally for global stocks of all time.
+$602 billion has flowed into the US equity markets in the past five months, an all-time
+record and that's more than the prior 12 years combined. Speaking of combined, the combined
+market caps of Apple, Microsoft, Amazon, Google, and Facebook total $8.2 trillion. That's more
+than the market caps of all emerging market equity indexes combined, all of them. And for
+all the noise that Bitcoin has made, and it's made a lot, the combined market cap of Bitcoin
+and all the other cryptocurrencies totals $2.3 trillion today. That is only roughly 1%
+1% of the $112 trillion equity market and the $118 trillion bond market.
+But it's climbing.
+Feeling bubbly?
+Let's check in on the US stock market valuation.
+The S&P 500 currently trades at a price to earnings ratio of around 26.
+The Cape Ratio, or the Shiller PE as it's called, which looks at the past 10 years
+of earnings and adjusts for inflation, registers an even higher rating of 37.6.
+That's a two decade high.
+It peaked in December 1999 at 44.2.
+We're up there, but not all the way.
+But there are dozens of stocks in the S&P 500 that trade above the index's PE ratio,
+and you know them well.
+Tesla trades at more than 1,000 times trailing earnings, and Nvidia trades at 86 times trailing
+earnings.
+But there are so many more.
+Still, investors' appetites seem to be insatiable.
+Some $98 billion was added to U.S. mutual funds and ETFs alone in March, the most
+in a month ever.
+That said, there are signs of exhaustion in some parts of the market.
+SPACs, those special purpose acquisition companies which were the darlings of 2020, seem to have
+hit a wall.
+The SPAC and new issue ETF is down more than 10% from its recent highs and SPAC issuance
+has ground to a halt.
+In the first quarter alone, nearly 300 SPAC mergers were filed.
+But in April, only 10 deals have been announced so far.
+A 90% drop from March.
+The drumbeat of tighter regulation is growing louder and that could scare investors away.
+Last week, the Securities and Exchange Commission issued accounting guidance that would classify
+SPAC warrants as liabilities instead of equity. Similar to call options, warrants give investors
+a right to buy a company's shares in the future at a specified price. When share prices
+are rising, investors can profit quickly by exercising their warrants. It's one of the
+things that makes SPAC so attractive. While that doesn't impact a SPAC's business operations,
+if it becomes law, some SPACs will have to go back and restate their financial results
+to properly account for warrants, which could slow down their IPO process.
+Translation, financial results are going to look terrible for a lot of these SPACs that
+took pre-profit companies to market, and that's not going to sit right for some investors.
+But hey, that's not stopping our man, Cassius Cuvee.
+He's taking the sell-off in SPACs and Stride, and he dropped a new video from Hawaii last
+week.
+Just chilling.
+He is SPACs and just chilling.
+Check out the just chilling.
+Check it.
+Cassius is back.
+If you thought last week was busy, tighten your helmet and put in your mouthpiece because
+it's game on this week.
+Earning season is at full tilt with 30% of the S&P 500 reporting results just this week.
+We'll get results from Tesla, Amazon, Alphabet, Apple, and Ford just to name a few of the
+headliners.
+Earnings are coming in much better than expected and expectations were already pretty high.
+But it's the future outlooks that we care about more when these companies present their
+report cards.
+Tesla reports on Monday and while the electric vehicle maker is expected to show a doubling
+of sales to $10.48 billion, up from $6 billion a year ago.
+The company is under regulatory scrutiny for two recent fatal crashes involving the use
+of its autopilot feature.
+CEO Elon Musk has defended the feature and safety of Tesla's vehicles, but investors
+will want more details.
+Tesla also has a very long position in Bitcoin, having added $1.5 billion worth of the cryptocurrency
+to its treasury last quarter.
+While Bitcoin's price is in a tailspin, it could have a material effect on its books.
+Apple won't be able to live up to last quarter's high bar when it posted over $100 billion
+in sales, but look for something between $75 to $80 billion.
+We want to see what iPad and Mac demand was last quarter, especially given Apple's rollout
+last week of models and designs for those products, along with its new chipset.
+Apple's also expected to increase its dividend payout and boost its buyback allowance, and
+investors, especially Warren Buffett, whose Berkshire Hathaway owns 10% of the shares
+outstanding, love that.
+Also, there's a new iPhone 13 coming later this year.
+the company projecting in terms of sales. Look for those earnings previews and previews
+for all the most widely held stocks on Investopedia. We've got them for you.
+The Federal Open Market Committee of the Federal Reserve meets this Tuesday and Wednesday on
+interest rates and monetary policy. We should not expect the Fed to make any changes to
+the federal funds rate because it keeps telling us that that's a 2023 thing. Still,
+more members of the FOMC have tightened their timelines about when that should happen
+given the strength of the economic recovery. Inflation is still lower than where the
+The Fed would like it, even though almost everything we buy is more expensive today than it was
+six months ago.
+Investors want to hear that the Fed will keep buying up to $120 billion a government bond
+purchases every month, which has laid a nice safety net under the capital markets.
+On Friday, we'll get reports on U.S. personal income and spending.
+Retail sales spiked last month as the first round of stimulus checks hit bank accounts.
+Another wave went out in the past two weeks.
+Are consumers putting that money back into the economy?
+Or are we really not ready to spend again like it's 2019?
+We'll find out on Friday.
+You asked and we're here to answer your trading questions as part of our Ask Me Anything series
+for Financial Literacy Month.
+We focus this week on trading and we literally got hundreds of smart questions from you and
+from our social media followers.
+Now I'm no trader, I'm terrible at it, but I do know a few really good ones and folks
+who have been doing this for quite a while.
+And Kenny, Hit the Big Glick is one of them and he's a good friend of Investopedia.
+Welcome Kenny.
+Thanks for having me on.
+Good to see you my friend.
+backstory. How did you get into trading and when? What got you into this?
+Wow, let's go back. Well, I was doing stand-up comedy.
+Liz is going back, back. This is Broker Days.
+So a guy came up to me after one of my shows and he's wearing a suit.
+I'm all excited thinking he's an agent.
+He turned out to be just a stockbroker right out of Long Island.
+You saw the movie Boiler Room.
+That was where I was.
+He's like, hey, you're a funny guy.
+Why don't you come out to Long Island?
+We'll teach you how to sell stocks.
+You make a little bit of money.
+There I was going into Long Island, just confused about what was going on.
+I heard people scream an IPO IPO IPO.
+I didn't even know what that was fast forward.
+A couple of years, we jumped from firm to firm to firm.
+Obviously you've seen the movies and I was ready to leave the industry.
+And that's when day trading basically was born.
+The so is bandits, Harvey Halkin and one of my fraternity brothers.
+I met him at a, at a program concert and I was telling him the plight of
+my, uh, venture into finance.
+And I was just like, this isn't for me.
+I'm not, I don't want to be a sales guy.
+And he's like, Hey, listen, we're starting to trade
+on accounts, there's new technology, you could probably do what you want to do.
+And I thought that was just the most amazing coincidence.
+I went in there next thing you know, learning how to trade on the SO system, select net,
+some of these things don't even exist anymore.
+You know, back in the day when we traded eights and quarters of a point and I had a
+knack for it, you know, the learning curve for me did not happen.
+I got right into it, taught myself how to play the fades and you know, the opening
+gap reversion trades. And I just got really, really good really, really quickly. Then I got a little
+cocky market crashed. I started trying to pick bottoms that got blown up like everybody else does,
+you know, you blow you got to blow up so three or four times in a career. And then fast forward,
+you know, I'll just jump ahead light years. I took everything all the hard knocks that I learned.
+And I start using VWAP. And here I am now. And it's basically all I do. I have this one
+beautiful setup that I look for every single day. It keeps me occupied. And now all I do is teach
+people about what I've learned and try to steer people away from everything I've learned that
+doesn't work. Well, obviously it's changed so much trading with the technology, but also the way
+things are priced. We don't price in eighths or quarters anymore, but there's also a lot more
+market participants in the game right now. And you've got the high speed traders, you've got the,
+you know, the algorithms powered by the smartest computers in the world. But how does an
+individual trader like you try to make their living on a day in day out basis?
+That's a great question because as the market got more volume, there's more participants,
+and of course more algorithms, what I started to watch is the VWAP. VWAP was around for as long
+as I was a trader. What does VWAP stand for? VWAP, you talk about it all the time.
+Yeah, volume weighted average price. So when you're talking about the big guys, the money,
+You want to piggyback the big guys. We're insignificant fleas, day traders. We're just
+trying to get a little piece of the action and just piggyback on where that money's going.
+Volume-weighted average price is giving you the indication that you're on the right side of the
+trade, you're traveling with the big boys, and then I've used something called multiple
+timeframe VWAPs. It's, again, Brian Shannon, he calls it anchor VWAP. It's been a godsend to
+me because it's really helping you define the trade. Here's where you want to get in.
+Here's your risk and there's your reward. Staring at you right on the trade and it really comes down to,
+you probably heard this word a million times, discipline. I could show you a trade that works
+95% of the time. People will still figure out how to lose money. Right. So many people often do that
+because they lose discipline, they lose the focus and they break their own rules.
+What's your daily trading routine? Are you in and out of trades every minute? Are you in
+out of trades every hour, every day? Do you have multiple timeframes you mentioned? But what is
+What is that kind of daily rhythm for you?
+Most of the time, I have gone back to the origins of day trading.
+I try to trade for the day, live for the day, live forever.
+At the end of the day, I want to be flat.
+I want to conquer the day and then go on to a new battle tomorrow.
+I do something which is the right way of doing it.
+A lot of people become a swing trader because their day trade didn't go well.
+Well, I ain't going to sell it here.
+I guess I'll hold it for a day and then they're waiting for it next thing you know, it's
+three weeks later, they're an investor. For me, it's I'm right or I'm wrong.
+This is where I'm going to cut the trade off. So I am, you know, I've gone back.
+I like people call me the grandfather of day trading because I've been doing
+this since pretty much day one. And here I am 23 years later,
+pretty much doing the same thing.
+And it's taken me 20 something years to really find that niche. And for me,
+it's VWAP day trading and just sticking with the reversion trades and just
+Being on the right side of the VWAP is just it's where you want to be.
+You keep a journal, you keep a trading journal that or I did you in the early part of your
+career where you were like, I know when I did this, that didn't work.
+When I did this, that work.
+How do you sort of stay on top of what you learn and add to that education as you grow
+as a trader?
+It's amazing.
+It's a great question.
+You know why?
+Because I tell people to keep a journal themselves.
+Now it's a little easier.
+I used to use, I think, but I have it nearby.
+I used to use a composition book for like the kids have in school and I would just
+make my scribbles and say, all right, here's what I did, what I was thinking.
+That was a big part. Why did I get into this trade? And then why did it go wrong? What was I thinking?
+And then that know what I do now is I don't do it as much because I'm getting older now. I don't need
+to keep the journal. I take this step. What I find is to be great is now you could just take a
+screenshot. You know, we didn't have screenshots back in the day where I'm an old guy. You had
+to write stuff down on pieces of paper. Now you can take a screenshot and just draw your
+notes on the chart and save that,
+make that your trading journal,
+go back and learn from your mistakes.
+That's what this whole thing is about.
+Finding what works as much as it sounds kind of silly,
+finding what works, it's avoiding all the other things
+that don't work and making sure
+you don't stray from the path.
+I believe in my VWAP, I believe in these reversion trades,
+I love gaps that fade and come back around the VWAP,
+and that's what I do and I'm content.
+Right, good with what you know
+and really good at what you do.
+So let's hit some of these questions we got
+about trading from our listeners and followers this week.
+Are you ready to hit the bit?
+Yeah, man.
+The very first one come from Taziki996,
+who asked very simply, what is trading?
+And we get this question all the time.
+What's the difference between investing and trading?
+Well, what is trading?
+Let's ask a trader, Kenny Glick,
+what is trading to you?
+Wow, first thing is I use this saying a lot,
+trading is not investing, okay?
+I don't know what these companies do.
+Let's take, for instance, these NFT stocks
+that came out of nowhere.
+I don't wanna know about what these are.
+To me, this is like the craziest move.
+I mean, this market's in a bubble and a bubble and a bubble.
+But again, going back to my point is that
+I just trade the letters and the price.
+The price action is where it's all at.
+But as far as what is trading, what is trading?
+We are trying to get in while the motion is happening
+intraday, as far as trading is concerned, is what I'm talking about is I'm looking for a specific
+move during the day. And I'm talking about between the 830 and 1130. That little window of time is
+all I need to make a living doing this. So what's the difference between trading and investing?
+Investing, by definition, is you are researching the company. You are getting to know what this
+company does, and you are buying into that company because you believe. You have Apple
+products all around your house, you buy stock, you're an investor. For me, I'm looking to see
+what Apple does in the next 20 minutes, get in, get out, make some money, and move on. That's the
+biggest difference. I'm nimble and I'm ready to rock and roll. Not emotionally connected to the
+stocks that you're trading, not really caring too much about the fundamentals about how Apple's
+event went when it rolled out some products. And then investing is that long-term marathon running
+where you're building a long-term portfolio to grow money over time.
+Traders are in and out on the daily.
+And that's so important for people because they get that confused all the time.
+And you know what?
+The financial media often confuses that all the time too.
+Traders did this, traders did that.
+Traders do a lot of inner work during the course of the day.
+They move the markets around,
+but then there's investors who are in it through their retirement plans
+or just their own brokerage accounts that are in it for the long-term.
+Key difference there and a good question there.
+Great question here with someone with a great handle.
+Beard is my uniform, Kenny,
+who asks what ratios or methods are best for finding a good entry point to buy a stock.
+Oh, all right. I don't know exactly what you mean by ratio, but the way I do it,
+I'm a volume weighted average price trade. VWAP is my life. So I look for stocks that are going
+to have more volume on the day and when you're going to have more volume, news. When is the
+biggest news? Earning season. So right now, as we're talking, this is my candy land. We've got
+companies reporting earnings, we're going to always have motion when they report because
+they're going to be good, they're going to be bad, you're going to have your analysts coming out,
+upgrades, downgrades. VWAP and earnings season go hand in hand. So all I'm looking for are stocks
+that are gapped up on good news because generally you get a reversion, you get some selling or
+stocks that maybe are getting hammered on the earnings report, you'll find some short covering
+and some dollar cost averaging guys and you'll get a reversion to the VWAP. So as long as
+Because there's a gap, I'm looking to play it and I'm looking obviously around my VWAP
+and my multiple timeframe VWAPs.
+And when you do, you're looking at obviously your charts, you got your watch list with
+the stocks that you're following, but you're also watching those ticks minute by minute
+looking at where the last trades were, right?
+Right, exactly.
+The one minute VWAP is your standard in the industry.
+So what I do is I just plot the price.
+I like to take a look at what goes on in the pre-market, what goes on in the after
+market because what happens in the pre-market a lot of times, you'll get those whipsaws.
+Then the next session, you want to test those levels. So the V-Web's giving you what side of
+the market to be on and then you look at the go test those levels from the prior day, which is
+maybe the aftermarket or even that pre-market. Another question here from Kristi Victori who
+asks, what are the most important things to look for when reading and analyzing charts,
+Kenny? What are you looking at? I look at a combination of the long-term chart,
+let's say a yearly, sometimes even like two or three years, just to get a feel for where that
+stop's been doing. Something's been hammered down, coming off really, really high levels.
+That's when I'll start looking at the one or two day chart to see if that long-term chart is going
+to give me an indication of maybe where that bottom's found. If you're looking at a two-year
+chart and you found a two-year low, then fast forward to where you're looking at on a daily chart
+or like a one day. And then if those levels hold, then you know, you're ready to rock and get
+involved. A lot of technical analysts and technical traders and day traders are also looking at that
+support and resistance right for individual stocks. Did it bounce off a low? Is it hitting resistance
+at the top? Do you ever look at those? Absolutely. I kind of call the exhaustion situation formation,
+ESF. When I find a stock and I love stocks that have gotten beat down because obviously in the
+days of the GameStop and everybody knows about a short squeeze now, the definition of a short squeeze,
+classic on the GameStop. I love stocks like GameStop. I can pat myself on the back,
+not that I held that thing to $300, but we were in it before the whole thing got started because
+of the long-term chart. There's a point where the exhausted sellers just don't want to sell
+anymore, and then you're just waiting for it to come off that floor. So like I was saying
+before, if you can isolate that chart in a long-term perspective, then focus on what
+you're doing on a daily and it's a great combination.
+Question here, Kenny from WBlanc23 who asks, what should be the main thing to consider
+when swing trading?
+And if you wouldn't mind, just define what you think swing trading means.
+Oh, man, I love these questions.
+A lot of people ask me, can I use VWAP with swing trading?
+But before I answer that, let me talk about what swing trading is to a lot of people.
+It's a day trade that's gone bad.
+You're in a stock, you want it to work right now, and it's going against you.
+And next thing you know, you say, well, I guess I'll hang on to it for the next couple
+of days.
+Next thing you know, you're a swing trader.
+The better swing trader starts off by looking at it on the day.
+You're looking at the long-term chart.
+You're looking at the chart that's happening right now.
+If your day trade goes well, why not parlay that into the swing trade?
+the time when I'm looking at a swing trade, I'm not getting into this thinking,
+hey, let me get into this for the next three days. I've isolated it, coming off a longer term chart,
+the day trade has gone well. So if I'm in a stock, let's say 17 bucks, and now it's at 17.50,
+I'm selling into it. Next thing you know, it's three o'clock. This thing's at 17.75.
+Now I'm thinking, hey, maybe I hang on to the last couple of lots. I'm profitable. If it goes
+wrong tomorrow, at least I'm not losing money, but now I've taken a profitable day trade
+and I've morphed it into the swing trade. So swing trading to me still is born out of the
+good day trade. Right. So when you, if you're doing it, what are the main things you should
+consider when you're doing? Well, the main thing you should consider is the longer term chart,
+obviously, you know, you're not looking at minute to minute generally. For me, swing trades are
+always, I'm looking for bottoms. Okay. I don't like shorting swing trades because then you're
+exposed to unlimited risk. Obviously, you know about shorting, stock could go up forever. Most
+of the time, my swing trades are going to be longs. So I'm looking for stocks that have been
+on a downtrend that have made their pivot. I don't want to get too technical, but what's
+called an engulfing candle. So if you see a stock that's been, let's say, chopping around for
+three or four days, in that fifth day, that one candle engulfs those prior four or five candles,
+That's your bullish moment. That's when you can react to that and make that a swing trade because
+usually that's a massively bullish indicator that you've just engulfed all of that weakness.
+Now you're ready to make a little bit of a move higher.
+Don't be afraid to go near engulfing candles. We love engulfing candles at Investipedia.
+We got a whole seller full of wax. Question here, Kenny, from Abhishek,
+who asked us to explain open interest. I'm going to do the Investipedia definition of
+open interest, but I actually want to know from you as a trader, how you think about it. So
+Investopedia defines open interest as the total number of outstanding derivative contracts,
+such as options or futures that have not been settled for an asset. That's the technical
+definition for us. For you as a trader, how do you think about it? That's the classic definition,
+because that's what it is. The way I look at it is if you're an options trader,
+and then the jairians are always talking about this, just big bond, just following the money.
+So open interest, when I'm looking at it, is if I see a lot of contracts being traded and the open
+interest, let's say, is 300, the next thing you see, 2,000 contracts traded on something that only
+has open interest of 200 contracts, that gives me an idea that I better follow the money or at least
+keep an eye on that stock to see if those guys who are buying those massive amounts of contracts
+know something because that's the idea. The big money just made a big bet. Let's join in and
+follow the money. A little chum in the water when you know that there's that much activity going
+around a certain equity or a stock or an option, you know there's going to be some sort of move.
+So I get how you would follow a great answer. There's also a little bit of a follow-up on
+open interest. Some people use it as the penny. Come options exploration, a lot of times the
+trade, do the algorithms gravitate towards where the open interest is and that's where the option
+kind of dies. It's kind of like where could we screw the most people and that's where the
+contract lands and all the people with their open interest expire to zero. It's called pinning. It's
+a real thing. It's something to know that goes on during options expiration. That's why the half
+numbers and the whole numbers are really, really key on Fridays. Right. And especially
+around those triple witching and quadruple witching days, which are always so popular
+and investipity because everyone's looking up those terms. Question here, Kenny, from
+Christos DeMos Pathares, who asks, when I read that 90% of traders lose their money,
+do I have any luck to earn any money as a trader? Good question. You're a veteran trader. Everyone
+loses money when they're trading, but it doesn't mean you have to forever. Oh, yeah. I mean,
+I was one of the lucky ones. I mean, my learning curve came after. It's because I got
+a little bit overconfident and I started getting a little cocky and arrogant. That's when I got
+a couple of smack downs in my career. But it's true. Most people are not disciplined. And again,
+that's what I teach. The VWAP and the Reversion trade, it's so mechanical, so mathematical. Not
+that you need math, there'll be no math on this quiz because the chart's doing it for you. But
+But because the discipline is instilled in you
+as a VWAP trader, it's really about you.
+If you slip, you're gonna lose.
+But if you stay disciplined, use the VWAP,
+know your levels, you're gonna be the guy
+that does succeed just, again, you beat the word,
+discipline and money management.
+Never want again, money management and discipline
+go hand in hand because you're being disciplined
+about your money management.
+So you got the setup, you just gotta be disciplined about it.
+And of course, when you're wrong, just don't stay wrong.
+Because like I said, you could have something that works
+99% of the time, that 1% will get you.
+Because if that's a terrible trade,
+it's gonna blow you out of the water.
+So the way to get over that learning curve
+and the way to be the 10% or however the percentage
+of successful guys is find what works with you.
+I love to make everybody a VWAP trader.
+Some people it doesn't gel with.
+I don't know why, but if you find what works,
+do that over and over again.
+Let making money be redundant and monotonous.
+Good question here from Ms. Leslie Witt,
+who asked, what is the best book or resource
+for novices who want to get into trading?
+You learned a long time ago,
+but if you were introducing somebody to it today, Kenny,
+where would you guide them?
+I like Jeff Hirsch, the stock traders almanac.
+just gives you a feel of the day by day
+and the seasonality of the market.
+There's also a great book,
+Reminiscence of the Stock Operator,
+which is always a great book.
+One of my favorite books,
+I don't even know if it's still out there,
+but it's a book about mistakes.
+It's the 20 common mistakes every day trader makes.
+When you read this book,
+I think it's maybe a 60 page,
+kind of like a pamphlet.
+If you go on Amazon, I think it's $4.
+It's the best $4 you'll ever spend in this industry by far.
+Because it highlights every mistake
+that you'll ever make as a trader.
+And when you read it, you'll say,
+oh, did that, did that, did that.
+And like we've been saying, there's the discipline.
+Those are the mistakes.
+Avoid what's in that book and stick with to what works.
+So if you, I don't have the title for you right now.
+If you Google it, it's something, I think it's called
+the 20 common mistakes of a trader.
+the best book you'll ever read.
+Good question here from Chelly CP who asks,
+what are inverse ETFs?
+What are they good for?
+What are the pros and cons?
+What do you think, Kenny?
+Ooh, inverse ETFs.
+Well, basically you're going the opposite way
+that you know most people when you think of the market,
+it's fine, right?
+Buy low, sell high.
+The inverse ETF tries to package a reason to go short.
+So for instance, you've got the QQQ,
+which hardly ever goes down
+It's been a bull market since the most popular technology sort of ETF with all the big players Amazon Microsoft Apple
+The biggest one by Invesco, right?
+So if you want a short it you got to come up with you know
+$337 to short some qqq and again that might be above your budget
+But if you want to short the qqq you could also buy s qqq short
+QQQ and it's only, what is it now, $11.
+So obviously you know it's not gonna move a lot,
+but that's the way to play the market short
+by just buying a stock.
+So at least you're not risking,
+you don't have unlimited risk
+because again, every time you short a stock,
+in theory you have unlimited risk.
+Here you could buy an inverse ETF like an SQQ
+or if you wanted to bet against,
+let's say the financial industry, you got FAZ.
+It's a great way to play the short side
+because you're limiting your risk obviously,
+and it's the index all wrapped up into one ETF.
+And again, it's easier to buy something than the short.
+Sometimes you just can't short it
+depending on your circumstance, margin and all that.
+Right, and the key thing about inverse anything
+is it's the opposite trend
+of whatever else you were looking at.
+So you mentioned QQQ is if you wanted
+to bet against technology stocks,
+You buy an inverse ETF that bets against the technology sector.
+Great question.
+Great answer.
+Thank you, Kenny.
+Thanks.
+What's the best time of day for day traders to trade the market?
+I know you like the early part of the day, Kenny, but what is generally the best time?
+Oh, there's no question.
+It's 830 to 1130.
+That is my window.
+That is my time to shine.
+That's where most of the money is being put to use.
+The middle of the day, you can trade the middle of the day, but you got to remember
+it's gonna be more of the sideways action.
+You're consolidating the move that happened
+in the first couple of hours.
+So you're gonna get that shot.
+You gotta be really, really patient.
+But then if you wanna come back in the afternoon,
+you're basically three o'clock to four o'clock.
+You'll have stocks will go back into the trend.
+But for me, and as far as I'm concerned,
+and this is going on forever,
+that 830, you know, a little pre-market action
+just to get a feel.
+And then the open till about 1130,
+that is by far the best time to trade.
+And then a nice lunch and perhaps a siesta.
+And if you want to come back in the afternoon
+and get back into it, you can do it towards the close.
+Exactly. Usually it's your choice.
+That's the best part to be, you know,
+if you can make your days pay at the beginning of the day
+and then it's your choice.
+And again, there comes that discipline again.
+You choose whether or not you trade.
+If you have a trade that comes along
+that meets your criteria at three o'clock,
+then do it.
+For me, I know where my go-to trades are
+and most of them happen in the morning.
+So at the end of the day, yeah, I'll dip in a little bit,
+but most of the time my day's over.
+What you said is so important
+because nobody ever lost money not making a trade.
+Nobody's forcing you to do anything here,
+but if you see the opportunity, you can go for it.
+But like you said, if you do nothing, you're fine too.
+Make your money early, get out,
+and don't take it overnight with you.
+Oh yeah, you know, I come in every day,
+I'm like, I have no intentions of trading
+unless I find one of my trades.
+Like every day I quit, every day I'm done.
+I'm retired every day unless I find one of my trades.
+Oh, and I just happen to find three or four every day.
+Yeah, so I am not anxious to trade.
+I am a professional non trader and that's a hard trade.
+Sitting in front of this computer
+with all my beautiful screens
+and all this stuff going on, I wanna push the button.
+But there are times where you just don't wanna push the
+button and not trading is a trading, is trading.
+It's called being flat.
+You're that professional, you're that skilled
+that you realize there's nothing worth putting your money in
+And that's professional trading, I'm flat.
+I don't see anything.
+That's great advice, and I think a lot of people
+need to adhere to that because they feel the pressure
+to do something all the time, whether it's make a trade,
+follow other people into a trade,
+do something that they're not comfortable with,
+and that's usually when you lose money,
+especially when you're chasing the herd
+on some of these mania stocks.
+Right, absolutely.
+You're a trader, but you're also an educator.
+You have people who come into your forums all the time.
+You put a lot of good content out there
+on social media and through your channels.
+How do people find you?
+How do our listeners find you if they want to learn more
+or just follow what you're doing?
+Well, I do a couple of YouTube videos.
+I got a couple of thousand YouTube videos.
+I've been doing them since YouTube started.
+Basically the grandfather of day trading,
+almost the grandfather of content on YouTube.
+It was me and three other guys
+talking about the stocks on YouTube.
+Now there's about 10,000 guys that are all geniuses.
+Everyone's a genius now.
+And that's the thing about the bull market.
+When you go up for nine straight months,
+everyone's a genius.
+But then you get some volatility.
+It separates the good traders
+from the guys that were getting lucky.
+My website's hitthebid.com, hit the bid radio on YouTube.
+But if you just Google me, Kenny Glick,
+you will find a wonderful world of obscure videos.
+Some of them are a little bit off-color, I'm a comedian.
+But yeah, if you Google Kenny Glick,
+you will enter my world and you may never escape.
+So much fun and you got great taste in music
+and you're a great educator.
+So you fit right into the Investopedia family.
+Kenny Glick, thanks so much for joining us this week
+on The Express.
+Thanks for having me on, my man.
+It's terminology time,
+time for educated investors like us to get smart
+with the investing term we need to know this week.
+This week's term comes us from Brent Anderson
+out of Fort Bragg, California,
+beautiful up there in NorCal
+and Brent will be sporting
+the devilishly handsome Investopedia socks
+on his afternoon walks.
+Brent suggests warrant shares
+and given what we were talking about earlier with SPACs
+and how the SEC may vote to classify SPAC warrants
+as liabilities instead of equity,
+Brent's suggestion is timely.
+Warrants, according to Investopedia,
+are a derivative that give the right,
+but not the obligation, to buy or sell a security,
+most commonly in equity,
+at a certain price before expiration.
+The price at which the underlying security
+can be bought or sold is referred to
+as the exercise price or strike price.
+An American warrant can be exercised
+at any time on or before the expiration date,
+while European warrants can only be exercised
+on the expiration date.
+Warrants that give the right to buy a security
+are known as call warrants.
+Those that give the right to sell security,
+they're known as put warrants.
+Good suggestion, Brent, enjoy your socks.
+We'll let the legendary Jack Schwager
+take us out this week.
+Jack is revered among traders
+and he penned the book Market Wizards, among others.
+He's been studying and trading markets
+his whole adult life.
+And about six years ago,
+he came into our offices at Investopedia
+for a video interview.
+And to be honest, I really didn't know who he was.
+I do now, and I realize that we were in the presence
+of a Hall of Famer in the world of stock trading.
+Here's Jack preaching the gospel about risk management.
+Good traders will understand that the key to surviving
+and let alone flourishing as a trader
+is paying more attention to risk management,
+preservation of capital than it is necessarily
+to the trading technique or your way of picking trades.
+If you can't make sure you don't lose too much money
+on any particular trade, sooner or later you will fail.
+So that's probably comes even before the methodology.
+That's great advice from one of the original
+day traders out there.
+Stay humble, stay within your own risk parameters,
+and stay smart as always.
+Thanks for riding with us this week
+on the Investopedia Express.
+Follow us on the daily with our newsletters,
+our social feeds, including Instagram,
+where I'll be hosting a live special Q&A session
+later this week.
+Find us there or right here,
+or a little further on Down the Line.
+We travelin', damn it Jim, this thesis is unravelin'
+Spacks are a-navigant, do it look like I'm panikin'
+Some of guys shook and froze up like a mannequin
+But me, I ain't abandonin' them, I been had a plan for them
+This is what I'm doin'

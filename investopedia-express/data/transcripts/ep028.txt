@@ -1,0 +1,389 @@
+Stimulus bill signed? Check. Stock markets at record highs? Check, check.
+Rising treasury yields? Check, check, check. Worries about inflation? Checkity check, check, check.
+Potential bubbles bubbling in digital currencies and tokens? Check, please.
+Hey, I'm kind of in a hurry. I don't need this stress.
+Just fire up a fresh episode of the Investopedia Express.
+We are in the one-year anniversary zone of the beginning of the pandemic,
+but we're also in the early innings of a broad-based economic recovery and the reopening of most economies around the world and the country.
+In the U.S., we've passed a key milestone where the number of people vaccinated exceeds the number of people infected.
+Vaccinations are climbing every day as new vaccines are coming to the market and age limits and eligibility for getting vaccinated come down.
+Worldwide, more than 359 million doses have been administered so far.
+President Biden said last week that the country may return to normal by July 4th,
+but if you look around the country, a lot of people are acting like it already is.
+That's pretty dicey, considering the new variants of the virus
+and the high level of daily cases in some cities.
+Over in Europe, Italy is considering a return to lockdown as infections rise,
+and in Hong Kong, hundreds of people were sent into quarantine after an outbreak hit banks and gyms.
+Stimulus checks or direct deposits are in the mail
+are coming into millions of U.S. bank accounts, although about 8 million people were left
+out of those payments in the final passage of the bill as the income eligibility was
+capped. Still, an eligible family of four may receive up to $10,000 in direct payments
+and child care tax credits, and that's all tax-free. Will American consumers put that
+money back into the economy with discretionary spending on travel, restaurants, new clothes,
+and more home improvement toys? Or will they save it like so many did in 2020 as the
+personal savings rate hit an all-time high? Or will they invest in the stock market like
+so many did last year too? Do they still believe we'll see more gains ahead for stocks after
+2020's stunning rebound? Well, according to Investopedia's recent survey of our million
+and a half daily newsletter readers, you do. You're as bullish as you bet in the past
+year with 43% of you describing yourself that way. More than 40% of you expect to put
+more money back into the stock market. More than 70% of you are expecting positive gains
+this year with 20% of that group expecting 10% or more out of the stock market. Well,
+three months into 2021 and we're on pace for those kinds of gains. The biggest bubble in your opinion,
+Bitcoin. More than 60% of you feel that way, but more than 20% of you have added it to your
+portfolios in the last year. That's risky business, but hey, I added some too. We'll get into what's
+driving Bitcoin and its cousins and the future of the digital economy with futurist Lex Sokolin
+a little later in the show. But let's get set up for the week ahead.
+And it's all about interest rates and yield curve control. The Federal Open Market Committee meets on
+interest rates this Tuesday and Wednesday here in the US and the Fed's funds rate isn't going
+anywhere. We know that's not moving until 2023 because the Fed keeps telling us that.
+But will the Fed promise to increase its government bond purchases every month
+to take some pressure off the sell-off in government bonds that's driving yields higher?
+Will it return to Operation Twist and buy more long-term bonds while selling short-term bonds?
+Unlike quantitative easing, which is what the Fed is doing now by buying those $120 billion
+in bonds every month, Operation Twist doesn't expand the Fed's balance sheet,
+which makes it a less aggressive form of easing. If you hadn't noticed, the Fed's balance sheet
+is pretty swollen. Well, what about inflation? Well, it's everywhere you look, although it
+was kind of hiding in February. Don't worry, it's here, and you're going to feel it every
+time you buy groceries and gas and it's climbing higher.
+The Bank of England also meets this week on interest rates and those rates also aren't
+going anywhere.
+The bank is in the middle of an 895 billion pound bond buying program itself which is
+due to be fully used up later this year.
+The BOE may signal that it will continue or save its firepower until May when it will
+announce some new economic forecasts.
+The UK is three months into Brexit so any commentary on how that's going will be of
+great interest.
+season is coming to an end, but not before we hear from FedEx and Nike. While their businesses
+couldn't be any different, both will offer a pretty good window into the global economic
+recovery and the appetite for more spending.
+Way underneath all the noise about the rocketing price of Bitcoin, Ethereum, Dogecoin, and
+all the rest is a fundamental transformation of the digital economy. The way we spend,
+how we pay, what we consider to be money, and how commerce will be conducted, it's
+moving faster than you can cut your next check. We're going to explain what checks
+are later in the show. But there is no question that digital ledgers and the blockchain technology
+will underlie most of the way we interact with money in the future. It's already happening.
+And Lex Sohklin has been in the middle of it all along and he joins us now on the express. Welcome,
+my friend. Thanks so much for having me. You're the Global FinTech Co-Head at ConsenSys now,
+which is a blockchain software company. Tell us what the company does and what you do for them.
+Absolutely. So ConsenSys is at the heart of the Ethereum ecosystem. It was founded by
+Joe Lubin, who is a co-founder of the Ethereum project.
+And so we build on top of the primary programmable blockchain out there.
+We've got a couple of household names as projects.
+So for users, we power the Wallet MetaMask now at about 2.5 million monthly average users.
+For developers, we build protocols.
+We provide APIs through companies like Infura and Quorum.
+And so if you're thinking about how does the JP Morgan settlement coin work, we run that protocol for them
+And then we also spend a lot of time on financial enablement and getting FinTech software
+to run on this next-gen architecture
+And so I also spent a lot of time thinking about what is the future of finance really look like?
+We're gonna get into that
+So when you're talking about a theorem some people know a theorem as the token which has been
+rising in price along with Bitcoin and all the rest. Then there's the software part of it. That's the
+part you're most involved with, but there is some intersection there. Explain the actual core
+difference for folks that may not be familiar. This is the major innovation of blockchains.
+So you start out with Bitcoin, and Bitcoin is both the network, the history of the network,
+of all the transactions, and then a native coin, a native token that is moved around on the Bitcoin
+and blockchain. And so there, the core innovation is having the scarce digital thing that somebody
+can give to another person and then no longer have it.
+Like, it's really hard to send somebody a digital object and then not have a copy of
+it. Just try to do that with music or with a Word document. And so the next step after
+this idea of digital scarcity is what if instead of just having a Bitcoin that you
+could send back and forth, you actually had an entire computing platform that can run software
+and software can really do anything. And you can run software on this network and apply the
+concept of digital scarcity to whatever is inside of the software. And so the Ethereum network is
+a world computer. It can execute software like a calculator or like an exchange or like a much
+more complicated lender or insurer.
+And then within those structures, you can have different financial instruments, which
+are the tokens of those particular protocols.
+And then separate and apart from that, you've got to have some sort of fuel for this world
+computer.
+You got to price how it does its computation.
+You need to rent space in its computation.
+And that's what the Ether token is for.
+So if you see Ether becoming more expensive, in part, that's because a lot more people
+are actually using the software that is running on the Ethereum network.
+Now getting ready to accept Bitcoin.
+That's the oldest bank in the United States, started by Alexander Hamilton.
+So what's the real reason from your point of view that Bitcoin really took off in the
+past year?
+It's a fantastic play, by the way, Hamilton.
+Really enjoy it.
+It was written by a high school alumnus of mine.
+So I feel a lot of connection to Hamilton and to Bank of New York as well for other reasons.
+Regardless, Bitcoin is the oldest crypto asset that people are familiar with.
+It's now been in production, meaning it's live and running for over a decade, and it's worked.
+Now the Visa network and the PayPal rails and all sorts of financial systems, including
+the Federal Reserve's Fed wire, tend to break, and Bitcoin has continued to work.
+And as it gathers more security through more mining and as it gathers more adoption and
+holders and people's confidence and as it continues to exist, it is de-risked for investors and
+for institutions.
+There's a couple of reasons why large companies are now engaging with it.
+One is just a matter of time.
+So they might have started the project three years ago and finally launched it now.
+So you're seeing kind of the echo of adoption over time.
+Second is from a regulatory perspective, it's not that there's no risk and no clarity,
+But it's much more that the whole asset class is more understood.
+It's less wild.
+And I think people are much more comfortable holding the asset over time and the infrastructure
+around it.
+So things like custody and exchange and liquidity, the stuff that you get out of institutional
+capital markets, that is now in place as well.
+And then the third thing to kind of highlight is the macroeconomic environment.
+It's been a fantastically terrible year in 2020, truly biblical levels of destruction
+and challenge that people have gone through.
+And one of the consequences, of course, is the need to generate more money supply to
+help people get through the difficult times.
+And so there's lots of economic disagreement about what the impact is of this money supply,
+But the fact is we've now, from the Federal Reserve's point of view, printed about $5
+trillion of assets, if you include the $1.9 trillion from the Biden stimulus.
+That's coming right up.
+Yeah.
+Which is great.
+You need it for people to live their lives.
+But it is a 60% or so print of money supply on top of prior figures, which would sort
+of imply a 60% dilution in the value of the dollar, which would sort of imply a appreciation
+in the price of commodities like Bitcoin.
+And so many people like Elon Musk and others who have a technological leaning started to
+use Bitcoin to store their own or their company's assets.
+And that institutional adoption has really massively spiked the price.
+But when we see it have these days where it sells off 10% or goes up 10%, is that just
+a simple function of market supply and demand characteristics or more people buying or
+more people selling?
+Because unlike things like gold or even stocks where there could be some fundamental reason,
+Bitcoin doesn't seem to behave by those characteristics for those of us on the outside who aren't
+trading it every day.
+There is both a lot of Bitcoin and not a lot of Bitcoin.
+So there's a lot of actual, I guess, enterprise value or the stock of all Bitcoin is worth
+quite a bit.
+You can start to compare it to gold in a meaningful way.
+It's maybe one eighth the value of all gold, which is quite large.
+At the same time, people don't really want to sell their Bitcoin, and so they're holding
+onto it for a long time because they believe in it or because selling would trigger price
+decreases or because they're tax sensitive, I'll put it that way.
+People are holding to Bitcoin in a way that they might not hold other assets.
+The amount of Bitcoin that there is to trade is actually not particularly high.
+You can imagine any large trade from an institutional party, whether it's a treasury or an investor,
+have an outsize impact on sort of that marginal amount that there is available for trading,
+which then re-prices the whole stock of the asset.
+And you could see it happening basically in real time.
+That's the thing about Bitcoin and the ledger there.
+Five years from now, am I more likely to pay for groceries with a credit card or a cryptocurrency
+like Bitcoin?
+So who's going to be using it in five years?
+And for what?
+I know you can buy some things with it today and you can exchange with others, but what
+about for normal consumers?
+I think that nearly everybody will own Bitcoin as an investment asset.
+And if you look at the Coinbase numbers today, for example, they have 43 million users.
+There's only 330 million Americans and maybe 200 million of them have bank accounts and
+assets.
+And so that's a pretty high penetration rate.
+Somewhere between 10% and 40% of Americans have touched crypto assets.
+And so I think Bitcoin will remain an investment asset and it belongs in a portfolio.
+It has correlation benefits.
+It has interesting exposure.
+There's macroeconomic arguments you can make.
+In terms of the underlying payment systems, I don't see Bitcoin being the payment mechanism.
+Because of the qualities of its network, it's much more likely that the USD, the USD will
+be used as the unit of account, will continue to be used as the unit of account.
+And so we're now seeing tokenized versions of the US dollar, about 55 billion, I believe,
+of US dollars are now on Ethereum, where they're called stablecoins.
+And then there's the question of, will you pay for your groceries with a tokenized dollar,
+or will you pay for it with something that travels on the card networks?
+And I think that's a question of adoption.
+And then if you look at the tokenized dollar, the question is, will you pay for things using
+a tokenized dollar that's a private money?
+So think of like using a money market fund to buy a sandwich, or will you use a central
+bank digital currency, which is what is happening in China now already maybe five months ago
+when they've launched a virtual currency that is already in the mobile wallets of Chinese
+nationals.
+And we know that there's the Federal Reserve is actually looking at this.
+They just hired somebody who used to work at TDA, very smart person to run how they're
+going to look at digital currency going forward.
+You're a real expert in the payments where they do a lot of work in that.
+So that payments world has exploded in the last five years.
+You have companies like Square, PayPal that are ubiquitous now, multi-billion dollar institutions,
+very hot stocks, people are into them, but they're also the visas and the Mastercards
+and they are enormous and have only gotten bigger.
+So who's going to rule the roost in payments for the next decade?
+Is it going to be a visa, a Mastercard, or is it going to be like a Walmart or even
+an online investing platform, like a Robinhood that suddenly becomes a full service institution?
+I think the FinTech payments companies are really well positioned.
+So you've got to separate out the card networks like Visa and MasterCard, which everybody
+plugs into.
+And this is why Visa's worth $500 billion and Deutsche Bank is worth $20 billion because
+banks are banks, whereas a network is a platform that everyone connects into and essentially
+Visa gets to tax the entire economy as the payment rails.
+So there is some question of will there be a different Western payment rail.
+In China, we'd be talking about and financial as a payment rail that connects to the central
+bank and you can see that power gave a little too much gusto to Jack Ma last year and is
+now being checked because it is a huge power to run the economy on your rails.
+And I think in the West, especially in the US, we are addicted to credit cards because
+of the cash back and sort of like the whole system is set up in a way that's really,
+really sticky.
+Then there is the layer of companies, and by the way Visa and MasterCard are all working
+on incorporating crypto networks as part of their strategy.
+If you look one layer up the stack, you start to get into processors and the stuff that
+actually sits on top of the rails, that is your interface for payment.
+And so if you go into a store and there's a physical object where you swipe your card,
+or you might be on a website and there's a little PayPal box where you put in your
+information, or there might be another company that does a QR code, or there might be the
+MetaMask crypto wallet.
+These things process payments and integrate into merchant experiences.
+MetaMask doesn't, but other companies like Coin Payments might.
+And so Square and Stripe are in really powerful positions in that they have services for developers
+to build into large commerce platforms.
+And they're kind of in a pole position to benefit from increasing digital commerce and
+increasing volumes of people using stuff online.
+So I don't see Walmart getting in there.
+I don't think that the Robinhoods can really go into payments.
+Now Squares Cash App, which is a payments app,
+can go up the stack into banking and trading,
+but I don't see the trading and the banking startups
+like Chime or Robinhood or Betterment
+having that much success with payments
+because it's just a very different mindset.
+You wrote recently in your terrific sub-stack,
+which is called The Long Take.
+I recommend that to folks, it's called the FinTech Blueprint, I should say.
+I recommend that to folks who are interested in following you about Square and why it bought
+Tidal, which was Jay-Z's streaming service, which for folks like me seem completely out
+of nowhere, but for you, seemed very strategic and important.
+Why would a Square, a payment processor like Square, want to own a streaming music service
+like a Tidal?
+I have three reasons.
+And that's not to say the transaction's right or I'm bullish on it, but I have three reasons.
+And so the first is there's multiple businesses inside of Square and Cash App is one of them.
+ARK Invest has the thesis that Cash App on its own is massively valuable and kind of
+invisible to people how valuable it really is.
+Cash App is more used than Venmo.
+And that's hard beating Venmo.
+I would not have wanted to do that fight.
+And the way that Square did it is through influencers.
+And so its marketing customer acquisition strategy was to partner with hip-hop artists and influencers.
+is to do money giveaways through social media.
+And the way that you would have a celebrity
+give you this handout basically,
+is by linking them to your cash app wallet,
+which is genius,
+because otherwise you would just spend it on Google ads
+and Google would crunch that into the fire pit
+that is their advertising revenue.
+And so they're super connected to the community
+through artists and in buying title,
+they're basically buying their core distribution channel,
+their audience generation.
+Number two is artists are small businesses
+and Square is a small business bank.
+They want to provide bank accounts and payment services
+and treasury management to probably everybody
+that is streaming on title.
+And then number three, which kind of gets us back
+to crypto-sci-fi utopia land is it's no secret
+that Jack Dorsey is a fan of crypto assets and Bitcoin
+and that their teams both at Twitter and Square
+that are focused on crypto.
+And one of the recent hot trends is non-fungible tokens,
+which is a token that is unique.
+It's not like a Bitcoin and another Bitcoin are the same.
+They're fungible.
+A non-fungible token is like,
+here's the digital Mona Lisa, it's the only one.
+It's not a currency.
+It was our term of the week
+on the Investipede Express podcast last week, folks.
+You don't remember that.
+And I'm so glad you brought it up.
+So continue on with why that's important
+in this transaction.
+So if NFTs give some power back to the artist,
+some economic, some capitalist power back to the artists
+to own their music and to collect royalties
+and to publish directly to their fans
+and benefit directly from the interaction
+between the fan and the creative object,
+then you can start seeing how plugging in
+that payments infrastructure into a,
+essentially like a music label,
+but on the blockchain with embedded payment rails
+and financial attributes is a really interesting
+option value play.
+It's like, it's a black swan outcome.
+It could be really good or it could be a zero,
+but it is, I think, embedded in owning
+a streaming service like Tidal.
+What's the sleeper brand we should all be watching out for
+in the next few years that will change the way we live
+or the way we work and doesn't necessarily
+have to be a client, but what's the brand out there
+where you're like, you don't even know
+what this is about to be, but it's about to be big.
+Who's got your eye?
+Uh-oh.
+In some sense, I'm gonna be talking my book
+in that I really think everyone should spend the time
+to be curious about things like Compound or MakerDAO
+or one of my favorite projects is called Yarn, Y-E-A-R-N.
+And these projects are literally rebuilding
+what it means to lend and what it means to collateralize
+and borrow and what an asset manager even is.
+So I'm really a big fan of these companies
+that are doing the plumbing.
+I think in the traditional world, it's the same thing.
+I'm kind of bored of FinTech distribution.
+So even though I do like M1, M1 Finance,
+I think that they're doing a pretty nice job
+of FinTech distribution.
+On the manufacturing side,
+you've got lots of banking as a service players
+embedded finance players that will continue to grow. And so the bank orb, green dots,
+or even companies that things like Shopify for me are really interesting because they're
+using frontier technology or they're powering the stuff that is right at the frontier.
+They're not trying to just watch their quarterly margins and hit estimates. They're really
+sort of powering the next generation of user adoption.
+Alex Oklan, our friend from the past with his eye on the future, so good to speak with you
+and thank you for joining the Express and for being such a good friend to Investopedia.
+Very kind of you to have me. Thank you so much.
+It's terminology time. Time for us to get smart with the investing term the educated investor
+needs to know this week. This week's term comes to us from Neil from the great city of Dallas,
+Texas. Neil suggests price discovery this week and that caught our eye because that's kind of
+a challenge for investors, especially these days when asset prices are mostly rising.
+Well, according to Investopedia, price discovery is the overall process of setting the spot
+price or the proper price of an asset, security, commodity or currency.
+The process of price discovery looks at a number of tangible and intangible factors,
+including supply and demand, investor risk attitudes and the overall economic and geopolitical
+environment.
+Simply put, it's where a buyer and a seller agree on a price and a transaction occurs.
+Well, you remember those non-fungible tokens we were talking about on last week's episodes?
+And do you remember the digital artist named Beeple who was selling non-fungible tokens
+of his work for millions of dollars?
+Well, last week, his piece called Every Days, the first 5,000 days, which consists of 5,000
+different digital works he's made every day since 2007, that sold for $69 million at
+Christie's Auction House.
+That is to say that the non-fungible token sold for that amount.
+buyer who goes by the handle, MetaCoven, is the chief financer behind MetaPurse, a crypto-based
+fund that acquires NFTs and other virtual properties. It claims to be the largest NFT fund in the world.
+Well, back to price discovery, MetaCoven discovered that the right price for a non-fungible token
+connected to a piece of original artwork was worth $69 million. He can't hang the piece,
+but he does own the token. This, my friends, is 2021.
+Well, as we celebrate Women's History Month, we'll let Indra Nui, the former CEO and
+Chairwoman of PepsiCo, take us out this week. Nui transformed PepsiCo from a sugar water
+and salty snack selling global number two to Coca-Cola into a multi-billion dollar global
+juggernaut by changing the company's approach and fundamental relationship with its customers
+by focusing on healthy foods, drinks, and snacks.
+Behind all of that was her commitment to performance with purpose. Nui was one of
+the original stakeholder capitalists.
+Here's Nuyi describing what that means in an interview
+from 2010 with BCG Consulting.
+It's critically important we understand
+that we have a profound role to play in society.
+And whatever we do has got to be done
+with the view to the long term, with the view to making sure
+that we are constructive members of society.
+So when I articulated performance with purpose,
+I wanted the notion to be that we
+would be a company that is doing better by doing better.
+May you put purpose behind everything you do this week, and always.
+We're grateful to you for joining us this week, and you can always find us on all the
+social media platforms, including our new TikTok channel, and through our daily newsletters.
+Beware bubbles, and we'll see you a little further on Down the Line.

@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="/favicon.ico" sizes="any">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" >
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width" />
+
+    <!-- That's temp until resolving googlebot not utilizing cached JS bundles -->
+    <meta name="google-site-verification" content="xgBlG2zcOT228Q0zpIzK1wBpHKt70RhNBJYtOS_rWOo" />
+
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="Podcast transcriptions, advertisers, and listener metrics - Podscribe" />
+    <link rel="canonical" href="https://app.podscribe.com" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&display=swap" rel="stylesheet">
+    <!--
+      manifest.json provides metadata used when your web app is added to the
+      homescreen on Android. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="/manifest.json" />
+
+    <style>
+      html, body {
+        overscroll-behavior: none;
+      }
+      html.dark {
+        background-color: oklch(18.5% 0.01 258);
+      }
+      html {
+        font-size: 16px;
+      }
+    </style>
+
+    <script>
+      (function () {
+        try {
+          // TEMP: mirror DARK_MODE_FEATURE_TOGGLE (highestEnvironment: 'staging').
+          // ThemeProvider/ModeToggle ignore stored dark/system when the toggle is off, but this
+          // script runs first â without this gate, prod/preprod flash dark UI from localStorage
+          // before React resets <html>. Remove when dark mode ships to prod (raise/remove toggle).
+            var viteEnv = 'prod';
+          if (viteEnv === 'prod' || viteEnv === 'preprod') return;
+
+          // Keep in sync with NON_THEMED_PREFIXES in ThemeProvider
+          var nonThemedPrefixes = [
+            '/embed',
+            '/team-access',
+            '/render',
+            '/pixel-code',
+            '/partner',
+            '/signup',
+          ];
+          var path = window.location.pathname;
+          for (var i = 0; i < nonThemedPrefixes.length; i++) {
+            var prefix = nonThemedPrefixes[i];
+            if (path === prefix || path.indexOf(prefix + '/') === 0) return;
+          }
+          var theme = localStorage.getItem('podscribe-ui-theme') || 'light';
+          if (theme === 'dark' || (theme === 'system' && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.classList.add('dark');
+          }
+        } catch (e) {}
+      })();
+    </script>
+
+    <script>
+      // Function to check and log the loading status of JS files in googlebot
+      function trackJSDownloads() {
+          if (!window.performance || !performance.getEntriesByType) {
+              console.warn('Performance API not supported.');
+              return;
+          }
+
+          var resources = performance.getEntriesByType('resource');
+
+          // Filter for JavaScript files
+          var jsFiles = resources.filter((entry) => entry.initiatorType === 'script');
+          var data = jsFiles.map((js) => {
+              var loadedFromCache = js.transferSize === 0 && (js.encodedBodySize || 0) > 0;
+              return { name: js.name, status: loadedFromCache ? 'cached' : 'downloaded' };
+          });
+
+          // fetch('/api/send-logs-to-aws', {
+          //     body: JSON.stringify({ data: data.map(log => log.name + ": " + log.status) }),
+          //     headers: { 'Content-Type': 'application/json' },
+          //     method: "POST",
+          // })
+      }
+
+
+      // Run the function after the page is fully loaded
+      window.addEventListener('load', () => {
+        var botPattern = "(googlebot\/|bot|Googlebot-Mobile|Googlebot-Image|Google favicon|Mediapartners-Google)";
+        var botRegex = new RegExp(botPattern, 'i');
+        var userAgent = navigator.userAgent;
+        if (botRegex.test(userAgent)) {
+          console.log('Tracking JavaScript downloads for googlebot:');
+          trackJSDownloads();
+        }
+      });
+    </script>
+
+
+    <!-- Google Tag Manager -->
+    <script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        if (f) {
+          f.parentNode.insertBefore(j, f);
+        }
+      })(window, document, 'script', 'dataLayer', 'GTM-TL6PS4QR');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <script>
+      (function () {
+        var w = window;
+        var ic = w.Intercom;
+        if (typeof ic === 'function') {
+          ic('reattach_activator');
+          ic('update', w.intercomSettings);
+        } else {
+          var d = document;
+          var i = function () {
+            i.c(arguments);
+          };
+          i.q = [];
+          i.c = function (args) {
+            i.q.push(args);
+          };
+          w.Intercom = i;
+          var l = function () {
+            var s = d.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = 'https://widget.intercom.io/widget/s0wdxf80';
+            var x = d.getElementsByTagName('script')[0];
+            if (x) {
+              x.parentNode.insertBefore(s, x);
+            }
+          };
+          if (document.readyState === 'complete') {
+            l();
+          } else if (w.attachEvent) {
+            w.attachEvent('onload', l);
+          } else {
+            w.addEventListener('load', l, false);
+          }
+        }
+      })();
+    </script>
+
+    <title>Podscribe</title>
+    <script type="module" crossorigin src="/assets/index-CDNsTwZ2.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/rolldown-runtime-BanR5Kyy.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-jl5NM6Vf.js">
+    <link rel="modulepreload" crossorigin href="/assets/Link-DQRypp7A.js">
+    <link rel="modulepreload" crossorigin href="/assets/spinner-DH5ZqWYb.js">
+    <link rel="modulepreload" crossorigin href="/assets/reachComputeBy-CxS8I5Gw.js">
+    <link rel="modulepreload" crossorigin href="/assets/tabs-DTc4tU4B.js">
+    <link rel="modulepreload" crossorigin href="/assets/slider-CP9g7xo0.js">
+    <link rel="modulepreload" crossorigin href="/assets/zodUtils-DZxemFAK.js">
+    <link rel="modulepreload" crossorigin href="/assets/constants-vkiJe7T6.js">
+    <link rel="modulepreload" crossorigin href="/assets/label-jlDGqZUc.js">
+    <link rel="modulepreload" crossorigin href="/assets/avatar-gILUThaO.js">
+    <link rel="modulepreload" crossorigin href="/assets/platform-BYR9qmoj.js">
+    <link rel="modulepreload" crossorigin href="/assets/utils-Bk8Hceui.js">
+    <link rel="modulepreload" crossorigin href="/assets/api-CNZNzC2C.js">
+    <link rel="modulepreload" crossorigin href="/assets/api-CuvgmBXA.js">
+    <link rel="modulepreload" crossorigin href="/assets/reacher.store-CQP__yj-.js">
+    <link rel="modulepreload" crossorigin href="/assets/math-DegxYk4u.js">
+    <link rel="modulepreload" crossorigin href="/assets/radio-group-BCkecwmI.js">
+    <link rel="modulepreload" crossorigin href="/assets/FiltersGroup-D1rKQ0LI.js">
+    <link rel="modulepreload" crossorigin href="/assets/api-SbyBLrPW.js">
+    <link rel="modulepreload" crossorigin href="/assets/impressions-BrM_KesH.js">
+    <link rel="modulepreload" crossorigin href="/assets/constants-D7t7HTn7.js">
+    <link rel="modulepreload" crossorigin href="/assets/reach-BJRMx_d4.js">
+    <link rel="modulepreload" crossorigin href="/assets/queries-CWvoknkc.js">
+    <link rel="modulepreload" crossorigin href="/assets/useDebouncedQuery-oqZpDODV.js">
+    <link rel="modulepreload" crossorigin href="/assets/DialogContentNonModal-DZrpXbFS.js">
+    <link rel="modulepreload" crossorigin href="/assets/aiChatEvents.store-Ldz1Z9Ib.js">
+    <link rel="modulepreload" crossorigin href="/assets/chatWidgetState.store-4f4Mgo4K.js">
+    <link rel="modulepreload" crossorigin href="/assets/TypographyInlineCode-BF6y7adH.js">
+    <link rel="modulepreload" crossorigin href="/assets/incrementality_helpers-BGfvWwdK.js">
+    <link rel="modulepreload" crossorigin href="/assets/demoAdvertiser-uPabgcsF.js">
+    <link rel="modulepreload" crossorigin href="/assets/uiConstants-UldsHBg9.js">
+    <link rel="modulepreload" crossorigin href="/assets/ScrollControls-yn2om2qe.js">
+    <link rel="modulepreload" crossorigin href="/assets/indexHelpers-D0X5yALe.js">
+    <link rel="modulepreload" crossorigin href="/assets/alert-DqglLmw6.js">
+    <link rel="modulepreload" crossorigin href="/assets/ConfirmationOptionsV2-CZW2Oih0.js">
+    <link rel="modulepreload" crossorigin href="/assets/EnhancedCombobox-_kuCDm2p.js">
+    <link rel="modulepreload" crossorigin href="/assets/AdvertiserAvatar-D3l_-orZ.js">
+    <link rel="modulepreload" crossorigin href="/assets/countries-AwA2ehwF.js">
+    <link rel="modulepreload" crossorigin href="/assets/geo-DVLCVBvJ.js">
+    <link rel="modulepreload" crossorigin href="/assets/isEnabled-DxKKL-2D.js">
+    <link rel="modulepreload" crossorigin href="/assets/pagination-C3XjTDwC.js">
+    <link rel="modulepreload" crossorigin href="/assets/api-CzPcr_Zb.js">
+    <link rel="modulepreload" crossorigin href="/assets/MediaTypeIcon-CUFnPVxz.js">
+    <link rel="modulepreload" crossorigin href="/assets/params-BDINtLZg.js">
+    <link rel="modulepreload" crossorigin href="/assets/useInjectableSharedQueryParams-CQeyJzCK.js">
+    <link rel="modulepreload" crossorigin href="/assets/typings-BeBQki_x.js">
+    <link rel="modulepreload" crossorigin href="/assets/CopyButton-DDh62t0B.js">
+    <link rel="modulepreload" crossorigin href="/assets/csv-Bjqb2koH.js">
+    <link rel="modulepreload" crossorigin href="/assets/AttributionSettingsDropdown-DbJvqc6C.js">
+    <link rel="modulepreload" crossorigin href="/assets/attributionSettings.vm-QMJKsjaB.js">
+    <link rel="modulepreload" crossorigin href="/assets/validateAnyURL-H-VHmZ31.js">
+    <link rel="modulepreload" crossorigin href="/assets/extractTagData-B7bl6k_h.js">
+    <link rel="modulepreload" crossorigin href="/assets/Validators-CEKrunI0.js">
+    <link rel="modulepreload" crossorigin href="/assets/field-RC6aBxTA.js">
+    <link rel="modulepreload" crossorigin href="/assets/useDelayedNavigate-DOXcnFxX.js">
+    <link rel="modulepreload" crossorigin href="/assets/logo-seNRRy_9.js">
+    <link rel="modulepreload" crossorigin href="/assets/api-DAf5E2UH.js">
+    <link rel="modulepreload" crossorigin href="/assets/queries-BZLXatSY.js">
+    <link rel="modulepreload" crossorigin href="/assets/ColumnFilterSelectButton-FrsnQY_Z.js">
+    <link rel="modulepreload" crossorigin href="/assets/unique-DLmkpkjC.js">
+    <link rel="modulepreload" crossorigin href="/assets/constants-BfWtRShh.js">
+    <link rel="modulepreload" crossorigin href="/assets/constant-BYjdcvLh.js">
+    <link rel="modulepreload" crossorigin href="/assets/throttle-ChuOr1bL.js">
+    <link rel="modulepreload" crossorigin href="/assets/auth-BBmtEMy1.js">
+    <link rel="modulepreload" crossorigin href="/assets/LoginPrompt-DARX2Q4x.js">
+    <link rel="modulepreload" crossorigin href="/assets/DownloadButton-BVWd_aBc.js">
+    <link rel="modulepreload" crossorigin href="/assets/Container-M2Kjn0Aw.js">
+    <link rel="modulepreload" crossorigin href="/assets/useOverflowTooltip-B1_VOYmL.js">
+    <link rel="modulepreload" crossorigin href="/assets/statusUtils-Dau1DBKY.js">
+    <link rel="modulepreload" crossorigin href="/assets/assertNever-CnywY-im.js">
+    <link rel="modulepreload" crossorigin href="/assets/filtersUtils-CV-4Rzmz.js">
+    <link rel="modulepreload" crossorigin href="/assets/api-Dbn92eaX.js">
+    <link rel="modulepreload" crossorigin href="/assets/constants-BI3EOr57.js">
+    <link rel="modulepreload" crossorigin href="/assets/AudienceFilter-Dw0zTMTd.js">
+    <link rel="modulepreload" crossorigin href="/assets/date-picker-BPuKqcoX.js">
+    <link rel="modulepreload" crossorigin href="/assets/button-group-0wbDS0BX.js">
+    <link rel="modulepreload" crossorigin href="/assets/ExpandableUrlField-XAEdrpZs.js">
+    <link rel="modulepreload" crossorigin href="/assets/api-DpmMZppJ.js">
+    <link rel="modulepreload" crossorigin href="/assets/useCampaignsFiltersV2-h0BWJoPP.js">
+    <link rel="modulepreload" crossorigin href="/assets/table-DIoggujU.js">
+    <link rel="modulepreload" crossorigin href="/assets/confidence-z5xDyoOT.js">
+    <link rel="modulepreload" crossorigin href="/assets/DefaultBadgeV2-CMdg_B5R.js">
+    <link rel="modulepreload" crossorigin href="/assets/SmartServeChangelogV2-BfRe7ZFX.js">
+    <link rel="modulepreload" crossorigin href="/assets/ReacherSetupModalV2-DWXpzUqc.js">
+    <link rel="modulepreload" crossorigin href="/assets/TableEmptyCell-CgE8lxcR.js">
+    <link rel="modulepreload" crossorigin href="/assets/constants-DCkCf3rP.js">
+    <link rel="modulepreload" crossorigin href="/assets/DataTable-qW3WTwEc.js">
+    <link rel="modulepreload" crossorigin href="/assets/FormattedCurrency-CVn9npLs.js">
+    <link rel="modulepreload" crossorigin href="/assets/formatters-DUoHoDbI.js">
+    <link rel="modulepreload" crossorigin href="/assets/rangeCalculations-BijwYOLk.js">
+    <link rel="modulepreload" crossorigin href="/assets/TableActions-BzqEeWkl.js">
+    <link rel="modulepreload" crossorigin href="/assets/forms-BjUxxjPC.js">
+    <link rel="modulepreload" crossorigin href="/assets/CardTabs-OW8GGZ8B.js">
+    <link rel="modulepreload" crossorigin href="/assets/FeatureToggle-Q-waCHJA.js">
+    <link rel="modulepreload" crossorigin href="/assets/buildPath-cXdV7uKZ.js">
+    <link rel="modulepreload" crossorigin href="/assets/time-CUCfE0UV.js">
+    <link rel="modulepreload" crossorigin href="/assets/QuickFilter-6f6xNMgH.js">
+    <link rel="modulepreload" crossorigin href="/assets/progress-DdHj30mP.js">
+    <link rel="modulepreload" crossorigin href="/assets/math-CqTtz0Xs.js">
+    <link rel="modulepreload" crossorigin href="/assets/Bar-CrqM3Sx1.js">
+    <link rel="modulepreload" crossorigin href="/assets/youtubeNotTracked-D_TlnTxn.js">
+    <link rel="modulepreload" crossorigin href="/assets/ChatViewModeHandle-Cim11u5o.js">
+    <link rel="modulepreload" crossorigin href="/assets/PageChatEmptyState-BzuF484B.js">
+    <link rel="modulepreload" crossorigin href="/assets/FilterSelectMinMaxContent-Bi8PYbIL.js">
+    <link rel="modulepreload" crossorigin href="/assets/api-sVUTmSlH.js">
+    <link rel="modulepreload" crossorigin href="/assets/queries-CKtfe7fM.js">
+    <link rel="modulepreload" crossorigin href="/assets/getUrl-ssewFOPF.js">
+    <link rel="modulepreload" crossorigin href="/assets/useMfa-CDXDL1JM.js">
+    <link rel="modulepreload" crossorigin href="/assets/CountryFlag-DWdyYzwM.js">
+    <link rel="modulepreload" crossorigin href="/assets/useAdvertisersByLookupNames-__MfJVa0.js">
+    <link rel="modulepreload" crossorigin href="/assets/isFilterEmpty-CfuZZL-p.js">
+    <link rel="modulepreload" crossorigin href="/assets/SeriesTableFilters-DHJczVfD.js">
+    <link rel="modulepreload" crossorigin href="/assets/WatchlistActionV2-llBRPnGW.js">
+    <link rel="modulepreload" crossorigin href="/assets/EngagementPercentileLegendTooltipV2-DcmVzG4F.js">
+    <link rel="modulepreload" crossorigin href="/assets/RankerHistoryDatePicker-GV9wBSnq.js">
+    <link rel="modulepreload" crossorigin href="/assets/PageLoader-BKnnGUtw.js">
+    <link rel="modulepreload" crossorigin href="/assets/columns-P0YOLuZ5.js">
+    <link rel="modulepreload" crossorigin href="/assets/NeedProUser-CUkXgkS_.js">
+    <link rel="modulepreload" crossorigin href="/assets/audienceMeta.query-SqSbLiyQ.js">
+    <link rel="modulepreload" crossorigin href="/assets/pageTitles-CyA2rKdD.js">
+    <link rel="modulepreload" crossorigin href="/assets/AvatarLink-nF2W48ES.js">
+    <link rel="modulepreload" crossorigin href="/assets/constants-DYJLlwH-.js">
+    <link rel="modulepreload" crossorigin href="/assets/ManageAdvertiserListsActionV2-Dtl7BKzC.js">
+    <link rel="modulepreload" crossorigin href="/assets/getCorrectSocialAccountLink-BfnGJpYe.js">
+    <link rel="modulepreload" crossorigin href="/assets/useActiveAdvertisers-CxwZ628F.js">
+    <link rel="modulepreload" crossorigin href="/assets/useCanonicalUrl-D8VhUFGK.js">
+    <link rel="modulepreload" crossorigin href="/assets/SeriesHead-DP_Do-zk.js">
+    <link rel="modulepreload" crossorigin href="/assets/constants-BH-fC4wA.js">
+    <link rel="modulepreload" crossorigin href="/assets/layout-Ci2sNpRt.js">
+    <link rel="modulepreload" crossorigin href="/assets/SurveySelectField-CRbhWIAo.js">
+    <link rel="modulepreload" crossorigin href="/assets/ChatContextHandle-DHBKNfEx.js">
+    <link rel="modulepreload" crossorigin href="/assets/stripeService-gQ-IVzr6.js">
+    <link rel="modulepreload" crossorigin href="/assets/useBeforeUnload-CtnWzgwA.js">
+    <link rel="modulepreload" crossorigin href="/assets/getActiveGeneralBillingSettings-X63_TdKI.js">
+    <link rel="modulepreload" crossorigin href="/assets/PartnerSignUpPaymentPage.vm-DEr625_0.js">
+    <link rel="modulepreload" crossorigin href="/assets/pricingView-Cd_Q6M6g.js">
+    <link rel="modulepreload" crossorigin href="/assets/RankerSettings-u9eInHCT.js">
+    <link rel="modulepreload" crossorigin href="/assets/TargetingProfileManageDrawer-DoVybZz-.js">
+    <link rel="modulepreload" crossorigin href="/assets/utils-Cu-AquE8.js">
+    <link rel="stylesheet" crossorigin href="/assets/vendor-DY_JXSDU.css">
+    <link rel="stylesheet" crossorigin href="/assets/Link-s7-iTj0Z.css">
+    <link rel="stylesheet" crossorigin href="/assets/PageChatEmptyState-CDuvd-aX.css">
+    <link rel="stylesheet" crossorigin href="/assets/index-BpoB-tVc.css">
+  </head>
+
+  <body>
+    <noscript> You need to enable JavaScript to run this app. </noscript>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript
+      ><iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-TL6PS4QR"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe
+    ></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div id="root"></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+  </body>
+</html>

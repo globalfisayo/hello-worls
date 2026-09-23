@@ -10,3 +10,8 @@ New Section of code
 
 * Goat
 
+
+## Projects in this repo
+
+- `coffeechat/` – CoffeeChat competitive strategy platform
+- `investopedia-express/` – **Express Tracker**: every public company mentioned on The Investopedia Express podcast, plotted against its stock price with an annotation on each episode date. See `investopedia-express/README.md`.
